@@ -1752,7 +1752,7 @@
       <fw type="N" place="top-left">n<g ref="#middot"/> I<g ref="#middot"/></fw>
       <addSpan/>
       <p>
-        <label n="29" type="edition_page"/>
+        <label n="29"/>
         <lb n="1" xml:id="ST_lb_01r_01"/>
         <space dim="horizontal" extent="3char"/><choice>
           <orig><w><supplied>I</supplied>nnomine</w></orig>
@@ -2135,7 +2135,7 @@
           <w>te</w>
           <w>d<damage extent="1char">u</damage>lci<g ref="#slong"/><g ref="#slong"/>ime</w>
           <w>filii</w><pc><g ref="#middot"/></pc>
-          <label n="30" type="edition_page"/>
+          <label n="30"/>
           <w>ut</w>
           <w><choice>
               <abbr>fili<am><g ref="#atilde"/></am></abbr>
@@ -2932,7 +2932,7 @@
             <abbr>por<am><g ref="#qbardes"/></am></abbr>
             <expan>q<ex>ui</ex></expan>
           </choice>na</w><pc><g ref="#middot"/></pc>
-        <label n="31" type="edition_page"/>
+        <label n="31"/>
         <w>et</w>
         <w><choice>
             <abbr>i<am><g ref="#ptilde"/></am>am</abbr>
@@ -3622,7 +3622,7 @@
           </choice></w>
         <w>pulcram</w>
         <w>farinam</w>
-        <label n="32" type="edition_page"/>
+        <label n="32"/>
         <w><choice>
             <abbr><am><g ref="#et"/></am></abbr>
             <expan><ex>et</ex></expan>
@@ -4364,7 +4364,7 @@
           <orig><abbr><am><g ref="#pbardes"/></am>confu<g ref="#slong"/>ione</abbr></orig>
           <reg><w><expan>p<ex>re</ex></expan></w><w>confusione</w></reg>
         </choice>
-        <label n="33" type="edition_page"/>
+        <label n="33"/>
         <w>que</w>
         <lb n="11" xml:id="ST_lb_03r_11"/>
         <w>in</w>
@@ -5129,7 +5129,7 @@
             <expan>paup<ex>er</ex>um</expan>
           </choice></w><pc><g ref="#middot"/></pc>
         <w>edifficavit</w>
-        <label n="34" type="edition_page"/>
+        <label n="34"/>
         <w><choice>
             <abbr>ec<am>cͣ</am>m</abbr>
             <expan>eccl<ex>esia</ex>m</expan>
@@ -5482,7 +5482,7 @@
         <w><g ref="#slong"/>ancti</w>
         <w><choice><orig>theba<unclear extent="3char">udi</unclear></orig><reg>Theba<unclear extent="3">udi</unclear></reg></choice></w>
         </persName>
-        <label n="35" type="edition_page"/>
+        <label n="35"/>
         <w><unclear extent="1char">a</unclear>ttendens</w>
         <w>in</w>
         <lb n="19"/>
@@ -5867,7 +5867,7 @@
         <w><choice><abbr>a<g ref="#slong"/>cend<am><g ref="#etilde"/></am></abbr><expan>ascende<ex>r</ex>e</expan></choice></w>
         <w>nec</w>
         <w><choice><abbr>descend<am><g ref="#etilde"/></am></abbr><expan>descende<ex>r</ex>e</expan></choice></w>
-        <label n="36" type="edition_page"/>
+        <label n="36"/>
         <w>valens</w><pc><g ref="#middot"/></pc>
         <w>nigre<g ref="#slong"/>cebat</w>
         <w>faties</w>
@@ -6335,7 +6335,7 @@
         <w><choice><orig>martini</orig><reg>Martini</reg></choice></w>
         </persName>
         
-        <label n="37" type="edition_page"/> [<w>Pergamena</w>
+        <label n="37"/> [<w>Pergamena</w>
         <w>VI</w>] 
         
         <w>proxime</w>
@@ -6716,7 +6716,7 @@
         <w>et</w>
         <w>eum</w>
         <w><choice><abbr>duc<am><g ref="#etilde"/></am>t</abbr><expan>duce<ex>re</ex>t</expan></choice></w>
-        <label n="38" type="edition_page"/>
+        <label n="38"/>
         <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
         <w><g ref="#slong"/>e</w>
         <w><choice><abbr>i<am><g ref="#ptilde"/></am>m</abbr><expan>ip<ex>sa</ex>m</expan></choice></w>
@@ -7080,7 +7080,7 @@
         <w><choice><abbr>i<am><g ref="#ptilde"/></am>i<am><g ref="#usmod"/></am></abbr><expan>ip<ex>s</ex>i<ex>us</ex></expan></choice></w>
         <w><g ref="#slong"/>an<lb n="23"/>ctitas</w>
         <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
-        <label n="39" type="edition_page"/>
+        <label n="39"/>
         <w>univer<g ref="#slong"/>um</w>
         <w><choice><abbr>m<am><g ref="#utilde"/></am>dum</abbr><expan>mu<ex>n</ex>dum</expan></choice></w>
         <w><choice><abbr><am><g ref="#itilde"/></am></abbr><expan>i<ex>n</ex></expan></choice></w>
@@ -7434,7 +7434,7 @@
         <w><g ref="#slong"/>ic</w>
         <w>eva<g ref="#slong"/>i<g ref="#slong"/><g ref="#slong"/>e</w><pc>.</pc>
          </p> 
-        <label n="40" type="edition_page"/>
+        <label n="40"/>
         <space extent="2lines" dim="vertical"/>
           <lb n="18"/>
           <lb n="19"/>
@@ -7825,7 +7825,7 @@
         <w><choice><abbr><am><g ref="#itilde"/></am></abbr><expan>i<ex>n</ex></expan></choice></w>
         <w>dicta</w>
         <w>petia</w>
-        <label n="41" type="edition_page"/>
+        <label n="41"/>
         <w>terre</w>
         <w><choice><abbr>in<am><g ref="#condes"/></am>tinenti</abbr><expan>in<ex>con</ex>tinenti</expan></choice></w>
         <w>ela<lb n="3"/>p<g n="#slong"/>o</w>
@@ -8312,7 +8312,7 @@
         </name>
         <w>evangelia</w>
         <w><choice><abbr><g ref="#slong"/><am><g ref="#cinodotsup"/></am>pturis</abbr><expan>sc<ex>r</ex>ipturis</expan></choice></w>
-        <label n="42" type="edition_page"/> [<w>Pergamena</w>
+        <label n="42"/> [<w>Pergamena</w>
         <w>X</w>]
         
         
@@ -8649,7 +8649,7 @@
         <w>eius</w>
         <w><choice><abbr><am><g ref="#ptildevert"/></am>dicatio</abbr><expan>p<ex>re</ex>dicatio</expan></choice></w>
         <w><choice><abbr><am><g ref="#condes"/></am>te<lb n="5"/>pnatur</abbr><expan><ex>con</ex>te<lb n="5"/>pnatur</expan></choice></w><pc><g ref="#middot"/></pc>
-        <label n="43" type="edition_page"/>
+        <label n="43"/>
         <w>de</w>
         <w>hoc</w>
         <w><choice><abbr>habem<am><g ref="#usmod"/></am></abbr><expan>habem<ex>us</ex></expan></choice></w>
@@ -9059,7 +9059,7 @@
         <w><choice><orig>seculi</orig><reg>seculum</reg></choice></w>
         <w><choice><abbr><am><g ref="#pbardes"/></am>e<am><g ref="#ginodotsup"/></am>nation<am><g ref="#etilde"/></am></abbr><expan>p<ex>er</ex>eg<ex>ri</ex>natione<ex>m</ex></expan></choice></w><pc>.</pc>
         </p>
-          <label n="44" type="edition_page"/>
+          <label n="44"/>
       <p>  
       <w><choice><abbr>Se<am><g ref="#condes"/></am>do</abbr><expan>Se<ex>cun</ex>do</expan></choice></w>
         <w>de</w>
@@ -9468,7 +9468,7 @@
 
 
         <pb n="13" xml:id="ST_fol_13r"/>
-        <label n="45" type="edition_page"/> [<w>Pergamena</w>
+        <label n="45"/> [<w>Pergamena</w>
         <w>XIII</w>] 
         
         <w><choice><abbr>mort<am><g ref="#etilde"/></am></abbr><expan>morte<ex>m</ex></expan></choice></w>
@@ -9912,7 +9912,7 @@
 
         <pb n="14" xml:id="ST_fol_014r"/>
         
-        <label n="46" type="edition_page"/> [<w>Pergamena</w>
+        <label n="46"/> [<w>Pergamena</w>
         <w>XIV</w>] 
         <lb n="1"/>
         <w><choice><abbr><am><g ref="#slongbarslash"/></am>viebat</abbr><expan>s<ex>er</ex>viebat</expan></choice></w>
@@ -10277,7 +10277,7 @@
 
           
         <pb n="15" xml:id="ST_fol_15r"/>
-          <label n="47" type="edition_page"/> [<w>Pergamena</w>
+          <label n="47"/> [<w>Pergamena</w>
         <w>XV</w>]
         <add place="top"><fw><w>pag</w><g ref="#middot"/>15<g ref="#middot"/></fw></add>
          <lb n="1"/> 
@@ -10705,7 +10705,7 @@
         
         <p>
         <w><hi rend="double"><g ref="#esh"/></hi>cien<g ref="#esh"/></w>  
-        <label n="48" type="edition_page"/> [<w>Pergamena</w>
+        <label n="48"/> [<w>Pergamena</w>
         <w>XVI</w>] 
         <w><hi rend="cap1.1">S</hi>ciens</w>
         
@@ -11076,7 +11076,7 @@
         <w><choice><abbr><g ref="#slong"/><am><g ref="#utilde"/></am>t</abbr><expan>su<ex>n</ex>t</expan></choice></w>
         <w><choice><abbr>vl<am><g ref="#combhook"/></am></abbr><expan>v<ex>e</ex>l</expan></choice></w>
         <w><g ref="#slong"/>int</w>
-        <label n="49" type="edition_page"/>
+        <label n="49"/>
         <w>te<g ref="#slong"/>tudine<g ref="#esh"/></w>
         <lb n="21"/>
         <placeName ref="#chiesaSanLorenzo">
@@ -11441,7 +11441,7 @@
         <w>ut</w>
         <w><choice><abbr><g ref="#slong"/>u<am><g ref="#ptilde"/></am></abbr><expan>sup<ex>ra</ex></expan></choice></w><pc><g ref="#middot"/></pc>
         </p>
-          <label n="50" type="edition_page"/>
+          <label n="50"/>
         <p>  
         <lb n="16"/>
         <w><choice><abbr><damage type="N" extent="6char">Undeci</damage>m<am><g ref="#utilde"/></am></abbr><expan>Undecimu<ex>m</ex></expan></choice></w>
@@ -11793,7 +11793,7 @@
         </placeName>
         <w>civium</w>
         <w>apud</w>
-        <label n="51" type="edition_page"/>
+        <label n="51"/>
         <w>quos</w>
         <w>jacet</w>
         <w>oblitus</w>
@@ -11960,7 +11960,7 @@
          <w><choice><orig>thoma</orig><reg>Thoma</reg></choice></w>
          <w><choice><orig>rembaudo</orig><reg>Rembaudo</reg></choice></w> 
         </persName>
-        <label n="52" type="edition_page"/>
+        <label n="52"/>
         <w><choice><abbr><am><g ref="N"/></am></abbr><expan>et<ex>iam</ex></expan></choice></w>
         <w><choice><abbr>fr<am><g ref="#emacr"/></am></abbr><expan>fr<ex>atr</ex>e</expan></choice></w>
         <w><choice><abbr>ip<am><g ref="#itilde"/></am>u<g ref="N"/></abbr><expan>ip<ex>s</ex>ius</expan></choice></w>
@@ -12172,7 +12172,7 @@
         <w>Amen</w>.
         <lb n="25"/>
         <lb n="26"/>
-        <label n="53" type="edition_page"/>
+        <label n="53"/>
         <lb n="27"/>
         <w><hi rend="cap1.0">D</hi>e</w>
         <w>miraculo</w>
@@ -12568,7 +12568,7 @@
         <w><choice><abbr><am><g ref="N"/></am></abbr><expan>s<ex>upra</ex></expan></choice></w>
         <w>eveni<g ref="#slong"/><g ref="#slong"/>e</w>
         <w>Juravit</w>.
-        <label n="54" type="edition_page"/>
+        <label n="54"/>
         <w>In</w>
         <lb n="41"/>
         <w><choice><abbr>mani<damage type="N" extent="2char">b<am><g ref="#usbase"/></am></damage></abbr><expan>manib<ex>us</ex></expan></choice></w>
@@ -12985,7 +12985,7 @@
         <w>peperit</w>
         <w><choice><abbr>un<am><g ref="#atilde"/></am></abbr><expan>una<ex>m</ex></expan></choice></w>
         <w><choice><abbr>fili<am><g ref="#atilde"/></am></abbr><expan>filia<ex>m</ex></expan></choice></w>
-        <label n="55" type="edition_page"/>
+        <label n="55"/>
         <w>et</w>
         <w>ut</w>
         <w><choice><orig>a<g ref="#slong"/>eruit</orig><reg>asseruit</reg></choice></w>
@@ -13432,7 +13432,7 @@
         <lb n="70"/>  
         <unclear reason="N" extent="2char"/>
           <supplied resp="N"><w>ad</w></supplied>
-        <label n="56" type="edition_page"/>
+        <label n="56"/>
         <w><choice><abbr>loc<am><g ref="#utilde"/></am></abbr><expan>locu<ex>m</ex></expan></choice></w>
         <w>ubi</w>
         <w>puer</w>
@@ -13856,7 +13856,7 @@
         <w><choice><abbr><g ref="#slong"/>epulcr<am><g ref="#utilde"/></am></abbr><expan>sepulcru<ex>m</ex></expan></choice></w>
         <damage type="N" extent="3char"><w>ubi</w></damage>
         <w><choice><abbr>tu<am><g ref="#utilde"/></am></abbr><expan>tuu<ex>m</ex></expan></choice></w>
-        <label n="57" type="edition_page"/>
+        <label n="57"/>
         <damage type="N" extent="12char">
           <w>quie<g ref="#slong"/>cit</w>
         <w><choice><abbr>corp<am><g ref="#usmod"/></am></abbr><expan>corp<ex>us</ex></expan></choice></w>
