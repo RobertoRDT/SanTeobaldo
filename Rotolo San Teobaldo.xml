@@ -12361,8 +12361,9 @@
         <w>undecimo</w><pc>.</pc>
         </p> 
 
-<!--        
+       
       <pb n="18" xml:id="ST_fol_18r"/>
+      <div n="5" type="section">
       <p>
         <add place="top">
           <fw><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></fw>
@@ -14878,7 +14879,8 @@
         <w><choice><abbr>form<am><g ref="#atilde"/></am></abbr><expan>forma<ex>m</ex></expan></choice></w>
         <w>reddigi</w>.
       </p>
-      -->
+      </div>
+     
     </body>
 
 
