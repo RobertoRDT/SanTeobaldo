@@ -1760,9 +1760,11 @@
   
   <text xml:id="SanTeobaldo" type="prose">
 
-    <!-- ############  NOTE VARIE  #############  -->
-    <!-- * i <del> devono avere @rend, non @type  -->
-    <!-- * aggiungere un @place per ogni <add>    -->
+    <!-- ############  NOTE VARIE  #############   -->
+    <!-- - i <del> devono avere @rend, non @type   -->
+    <!-- - aggiungere un @place per ogni <add>     -->
+    <!-- - inserire @place per <fw> o per <add>?   -->
+    <!-- - controllare e uniformare tutti i @place -->
 
     <body>
       
@@ -5184,7 +5186,7 @@
         <w>intelligi</w>
         <w>civitatis</w>
         <w>cu<pb n="4" xml:id="ST_fol_04r"/><lb xml:id="ST_lb_04r_01" n="1"/>sto<g ref="#esh"/></w>
-        <add place="top-left"><fw type="fol">pagina 4</fw></add>
+        <fw place="top-left" type="fol"><add>pagina 4</add></fw><!-- CHECK add e fw, @place -->
         <w>cum</w>
         <w><choice>
             <abbr>ip<am><g ref="#atilde"/></am>m</abbr>
@@ -5205,9 +5207,9 @@
         <w>fatiendis</w>
         <w>intelligitur</w>
         <lb xml:id="ST_lb_04r_02" n="2"/>
-        <add>
-          <fw place="margin-left" type="N"><w>n°I</w><pc><g ref="#middot"/></pc></fw>
-        </add>
+
+          <fw place="margin-left" type="N"><add><w>n°I</w><pc><g ref="#middot"/></pc></add></fw>
+        
         <w>civitati</w>
         <w>con<g ref="#slong"/>ulere</w><pc><g ref="#middot"/></pc>
         <w>et</w>
@@ -5361,9 +5363,9 @@
         <w>et</w>
         <del type="N"><gap/></del>
         <lb n="7" xml:id="ST_lb_04r_07"/>
-        <add>
-          <fw place="margin-left" type="N"><w>n</w><g ref="#middot"/>2</fw>
-        </add>
+
+          <fw place="margin-left" type="N"><add><w>n</w><g ref="#middot"/>2</add></fw>
+        
         <w><damage extent="2char">ca</damage>rceri</w>
         <w>ob<g ref="#slong"/>curi<g ref="#slong"/><g ref="#slong"/>imo</w>
         <w>mancipatus</w><pc>.</pc>
