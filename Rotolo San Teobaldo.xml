@@ -4122,7 +4122,7 @@
           </choice>na</w><pc>.</pc>
       </p>
 
-      <p>
+      <p> <!-- DOVE CHIUDE LA P? -->
         <lb n="46" xml:id="ST_lb_02r_46"/>
         <w>Cum</w>
         <w><choice>
