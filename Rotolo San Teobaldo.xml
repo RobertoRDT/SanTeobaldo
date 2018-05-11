@@ -1394,6 +1394,13 @@
           <mapping type="diplomatic">ꝫ</mapping>
         </char>
         
+        <char xml:id="rrotsup">
+          <charName>COMBINING LATIN SMALL LETTER R ROTUNDA</charName>
+          <mapping type="codepoint">U+1DE3</mapping>
+          <mapping type="diplomatic">ᷣ</mapping>      
+        </char>
+        
+        
         <char xml:id="rum">
           <charName>LATIN SMALL LETTER RUM ROTUNDA</charName>
           <mapping type="codepoint">U+A75D</mapping>
@@ -1657,6 +1664,12 @@
           <mapping type="codepoint">U+2227</mapping>
           <mapping type="diplomatic">∧</mapping>
         </char>
+        
+        <char xml:id="combovl">
+         <charName>COMBINING OVERLINE</charName>
+          <mapping type="diplomatic">̅</mapping>
+        </char>
+        
         
         
       </charDecl>
@@ -4371,7 +4384,7 @@
         <w>civitate</w>
         <w>erat</w>
         <w><choice>
-            <abbr>cuc<am>ᷣ</am>rit</abbr>
+            <abbr>cuc<am>u<g ref="rrotsup"/></am>rit</abbr>
             <expan>cu<ex>n</ex>cu<ex>r</ex>rit</expan>
           </choice></w>
         <w>ad</w>
@@ -5779,7 +5792,7 @@
         <w>facti</w>
         <w>sibi</w>
         <w><choice>
-            <abbr>n<am>a&#7651;</am>ravit</abbr>
+            <abbr>n<am>a<g ref="rrotsup"/></am>ravit</abbr>
             <expan>na<ex>r</ex>ravit</expan>
           </choice></w><pc>.</pc>
         <w><choice>
@@ -5959,7 +5972,7 @@
         <w>de</w>
         <placeName ref="#Borgogna">
           <w><choice>
-              <orig><abbr>b<am>u&#7651;</am>gundia</abbr></orig>
+              <orig><abbr>b<am>u<g ref="rrotsup"/></am>gundia</abbr></orig>
               <reg><expan>Bu<ex>r</ex>gundia</expan></reg>
             </choice></w>
         </placeName>
@@ -6372,7 +6385,7 @@
               </choice></w></add>
           <w><g ref="#slong"/>ecum</w>
           <w><choice>
-              <abbr>p<am>o&#7651;</am><add place="above">ta</add>vit</abbr>
+              <abbr>p<am>o<g ref="rrotsup"/></am><add place="above">ta</add>vit</abbr>
               <expan>po<ex>r</ex><add place="above">ta</add>vit</expan>
             </choice></w>
           <w><choice>
@@ -6558,7 +6571,7 @@
               </choice></w>
           </persName><pc><g ref="#middot"/></pc>
           <w><choice>
-              <abbr><g ref="#slong"/>uc<am>u&#7651;</am>re</abbr>
+              <abbr><g ref="#slong"/>uc<am>u<g ref="rrotsup"/></am>re</abbr>
               <expan>suc<ex>c</ex>u<ex>r</ex>re</expan>
             </choice></w>
           <lb xml:id="ST_lb_05r_09" n="9"/>
@@ -7029,9 +7042,9 @@
         <w><g ref="#slong"/>ubter</w>
         <w><choice><abbr><am><g ref="#itilde"/></am>volvit</abbr><expan>i<ex>n</ex>volvit</expan></choice></w><g ref="#middot"/>
         <lb n="33"/>
-        <w><choice><abbr>cuc<am>u&#7651;</am>rer<am><g ref="#utilde"/></am>t</abbr><expan>cucu<ex>r</ex>reru<ex>n</ex>t</expan></choice></w>
+          <w><choice><abbr>cuc<am>u<g ref="rrotsup"/></am>rer<am><g ref="#utilde"/></am>t</abbr><expan>cucu<ex>r</ex>reru<ex>n</ex>t</expan></choice></w>
         <w>multi</w><pc><g ref="#middot"/></pc>
-        <w><corr><abbr>cuc<am>u&#7651;</am>rit</abbr><expan>cucu<ex>r</ex>rit</expan></corr></w>
+          <w><corr><abbr>cuc<am>u<g ref="rrotsup"/></am>rit</abbr><expan>cucu<ex>r</ex>rit</expan></corr></w>
         <w><choice><abbr>ma<am><g ref="#ttildevert"/></am></abbr><expan>mat<ex>er</ex></expan></choice></w>
         <w>puelle</w>
         <w>audito</w>
@@ -7162,7 +7175,7 @@
         
         <w>proxime</w>
         <w><choice><abbr><am><g ref="#ptilde"/></am>teriti</abbr><expan>p<ex>re</ex>teriti</expan></choice></w>
-        <w><choice><abbr><am>g&#771;</am>vi<g ref="#slong"/><g ref="#slong"/>ime</abbr><expan>g<ex>ra</ex>vissime</expan></choice></w>
+        <w><choice><abbr><am>g<g ref="#combovl"/></am>vi<g ref="#slong"/><g ref="#slong"/>ime</abbr><expan>g<ex>ra</ex>vissime</expan></choice></w>
         <w>patiebatur</w>
         <choice><orig><w>indextro</w></orig><reg><w>in</w><w>dextro</w></reg></choice>
         <w>brachio</w><pc><g ref="#middot"/></pc>
@@ -7259,7 +7272,7 @@
         <w><g ref="#slong"/>ua</w><pc><g ref="#hidot"/></pc>
         <w>ac</w>
         <w><choice><abbr><am><g ref="#ptilde"/></am>dc<am><g ref="#atilde"/></am></abbr><expan>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a</expan></choice></w>
-        <w><choice><abbr>n<am>a&#7651;</am>ra<am>uͭ</am></abbr><expan>na<ex>r</ex>rav<ex>i</ex>t</expan></choice></w><pc>.</pc> 
+        <w><choice><abbr>n<am>a<g ref="rrotsup"/></am>ra<am>uͭ</am></abbr><expan>na<ex>r</ex>rav<ex>i</ex>t</expan></choice></w><pc>.</pc> 
         <lb n="10"/>
         <w>Nam</w>
         <w>hoc</w>
@@ -8034,7 +8047,7 @@
         <w><choice><abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>entib<am><g ref="#usmod"/></am></abbr><expan>p<ex>re</ex>sentib<ex>us</ex></expan></choice></w>
         <w><choice><abbr>d<am><g ref="#ntilde"/></am>o</abbr><expan>d<ex>omi</ex>n<ex>o</ex></expan></choice></w>
         <persName ref="#MartinoGassa">
-          <choice><orig><w><abbr>m<am>aᷣ</am><lb n="3"/>tino</abbr></w></orig><reg><expan>Ma<ex>r</ex><lb n="3"/>tino</expan></reg></choice>  
+          <choice><orig><w><abbr>m<am>a<g ref="rrotsup"/></am><lb n="3"/>tino</abbr></w></orig><reg><expan>Ma<ex>r</ex><lb n="3"/>tino</expan></reg></choice>  
         <w><choice><orig>ga<g ref="#slong"/><g ref="#slong"/>a</orig><reg>Gassa</reg></choice></w>
         </persName>  
           <w><choice><abbr>pb<am><g ref="#combhook"/></am>ro</abbr><expan>p<ex>res</ex>b<ex>ite</ex>ro</expan></choice></w>
@@ -9120,7 +9133,7 @@
         <w>de</w>
         <lb n="35"/>
         <placeName ref="#Morra">
-          <w><choice><orig><abbr>m<am>uᷣ</am>a</abbr><expan>mur<ex>r</ex>a</expan></orig><reg>Murra</reg></choice></w> 
+          <w><choice><orig><abbr>m<am>u<g ref="rrotsup"/></am>a</abbr><expan>mur<ex>r</ex>a</expan></orig><reg>Murra</reg></choice></w> 
         </placeName>
         <w>dixit</w>
         <w>et</w>
@@ -9243,7 +9256,7 @@
         <w>ad</w>
         <w>locum</w>
         <placeName ref="#Morra">
-          <w><choice><orig><abbr>m<am>uᷣ</am><lb n="6"/>rre</abbr></orig><reg>Mu<lb n="6"/>rre</reg></choice></w>  
+          <w><choice><orig><abbr>m<am>u<g ref="rrotsup"/></am><lb n="6"/>rre</abbr></orig><reg>Mu<lb n="6"/>rre</reg></choice></w>  
         </placeName><pc>.</pc> 
         <w><choice><abbr>J<am><g ref="#ptilde"/></am>eq<am><g ref="#etfin"/></am></abbr><expan>Jp<ex>s</ex>eq<ex>ue</ex></expan></choice></w>
         <persName ref="#PietroRenaco">
@@ -9359,7 +9372,7 @@
         <w><choice><abbr>i<am><g ref="#ptilde"/></am>o</abbr><expan>ip<ex>s</ex>o</expan></choice></w>
         <w><g ref="#slong"/>udore</w>
         <w>existens</w>
-        <w><choice><abbr>obd<am>oᷣ</am>mit</abbr><expan>obd<ex>or</ex>mi<ex>vi</ex>t</expan></choice></w>
+        <w><choice><abbr>obd<am>o<g ref="rrotsup"/></am>mit</abbr><expan>obd<ex>or</ex>mi<ex>vi</ex>t</expan></choice></w>
         <w>et</w>
         <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
         <w><g ref="#slong"/>ur<lb n="13"/>rexit</w>
@@ -9885,7 +9898,7 @@
       <p>  
       <w><choice><abbr>Se<am><g ref="#condes"/></am>do</abbr><expan>Se<ex>cun</ex>do</expan></choice></w>
         <w>de</w>
-          <w><choice><abbr>pro<am>gᷣ</am><g ref="#slong"/><g ref="#slong"/>u</abbr><expan>prog<ex>r</ex>essu</expan></choice></w>
+          <w><choice><abbr>pro<am>g<g ref="rrotsup"/></am><g ref="#slong"/><g ref="#slong"/>u</abbr><expan>prog<ex>r</ex>essu</expan></choice></w>
         <w>ad</w>
         <w><g ref="#slong"/>anctitatis</w>
         <w><choice><abbr><am><g ref="#pbardes"/></am>fection<am><g ref="#etilde"/></am></abbr><expan>p<ex>er</ex>fectione<ex>m</ex></expan></choice></w><pc>.</pc>
@@ -9895,7 +9908,7 @@
         <w>Tertio</w>
         <w>de</w>
         <lb n="3"/>
-        <w><choice><abbr>e<am>gᷣ</am><g ref="#slong"/><g ref="#slong"/>u</abbr><expan>eg<ex>r</ex>essu</expan></choice></w>
+        <w><choice><abbr>e<am>g<g ref="rrotsup"/></am><g ref="#slong"/><g ref="#slong"/>u</abbr><expan>eg<ex>r</ex>essu</expan></choice></w>
         <w>ad</w>
         <persName ref="#Dio">
         <w><choice><orig>dei</orig><reg>Dei</reg></choice></w>  
@@ -10364,7 +10377,7 @@
         <w><choice><abbr>d<am><g ref="#ntilde"/></am>s</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice></w>
         <w><choice><abbr><am><g ref="#et"/></am></abbr><expan><ex>et</ex></expan></choice></w>
         <w><choice><abbr>pa<am><g ref="#ttildevert"/></am></abbr><expan>pat<ex>er</ex></expan></choice></w>
-        <w><choice><abbr><am><g ref="N"/></am></abbr><expan><ex>et</ex></expan></choice></w>
+        <w><choice><abbr><am><g ref="#et"/></am></abbr><expan><ex>et</ex></expan></choice></w>
         <w>filio</w>
         <w><g ref="#slong"/>is</w>
         <w><choice><abbr>pa<am><g ref="#ttildevert"/></am><expan>pat<ex>er</ex></expan></abbr></choice></w>
@@ -11000,7 +11013,7 @@
         <w>ter<lb n="15"/>renis</w>
         <w>cele<g ref="#slong"/>tia</w>
         <w>pro</w>
-        <w><choice><abbr>tp<am><g ref="N"/></am>lib<am><g ref="#etfin"/></am></abbr><expan>t<ex>em</ex>p<ex>o</ex>ralib<ex>us</ex></expan></choice></w>
+          <w><choice><abbr>tp<am>r˜</am>lib<am><g ref="#etfin"/></am></abbr><expan>t<ex>em</ex>p<ex>o</ex>ralib<ex>us</ex></expan></choice></w>
         <w><choice><abbr><g ref="#slong"/>empi<am><g ref="#ttildevert"/></am>na</abbr><expan>sempit<ex>er</ex>na</expan></choice></w>
         <w><g ref="#slong"/>ibi</w>
         <w><choice><abbr>mi<am><g ref="#slongbarslash"/></am>icordi<am><g ref="#ttildevert"/></am></abbr><expan>mis<ex>er</ex>icordit<ex>er</ex></expan></choice></w>
@@ -11376,7 +11389,7 @@
         <w><choice><abbr>tu<am><g ref="#atilde"/></am></abbr><expan>tua<ex>m</ex></expan></choice></w>
         <w>tuis</w>
         <w>auxiliis</w>
-        <w><choice><abbr>ali<am><g ref="N"/></am>ndo</abbr><expan>aliq<ex>ua</ex>ndo</expan></choice></w>
+        <w><choice><abbr>ali<am>q</am>ndo</abbr><expan>aliq<ex>ua</ex>ndo</expan></choice></w>
         <w><g ref="#slong"/>ublevares</w>
         </q> 
         <w><choice><orig>cui</orig><reg>Cui</reg></choice></w>
@@ -11857,7 +11870,7 @@
         <lb n="18"/>
         <w><choice><abbr>lateq<am><g ref="#etfin"/></am></abbr><expan>lateq<ex>ue</ex></expan></choice></w>
         <w>diffu<g ref="#etfin"/>is</w>
-        <w><choice><abbr>c<am>uᷣ</am>runt</abbr><expan>cu<ex>r</ex>runt</expan></choice></w>
+        <w><choice><abbr>c<am>u<g ref="rrotsup"/></am>runt</abbr><expan>cu<ex>r</ex>runt</expan></choice></w>
         <w><choice><abbr><am><g ref="#itilde"/></am>numerabile<damage type="N" extent="1char">s</damage></abbr><expan>i<ex>n</ex>numerabiles</expan></choice></w>
         <w><choice><abbr>u<am><g ref="#tinodotsup"/></am>u<g ref="#slong"/>q<am><g ref="#etfin"/></am></abbr><expan>ut<ex>r</ex>iusq<ex>ue</ex></expan></choice></w>
         <w><g ref="#slong"/>exus</w>
@@ -11908,7 +11921,7 @@
         </placeName>
         <w><choice><abbr>ho<g ref="#slong"/>pitl<am><g ref="#combhook"/></am>e</abbr><expan>hospit<ex>a</ex>le</expan></choice>hospitale</w>
         <placeName ref="#Borghetto">
-          <choice><orig><w><abbr><am><g ref="#itilde"/></am>b<am><g ref="N"/></am>geto</abbr></w></orig><reg><w><expan>i<ex>n</ex></expan></w> <placeName ref="N">Bu<ex>r</ex>geto</placeName></reg></choice>
+          <choice><orig><w><abbr><am><g ref="#itilde"/></am>b<am>u<g ref="rrotsup"/></am>geto</abbr></w></orig><reg><w><expan>i<ex>n</ex></expan></w> <placeName ref="N">Bu<ex>r</ex>geto</placeName></reg></choice>
         </placeName>
           <placeName ref="#chiesaSanLorenzo">
         <w><choice><abbr>C<am><g ref="#atilde"/></am>panile</abbr><expan>Ca<ex>m</ex>panile</expan></choice></w>
@@ -11970,7 +11983,7 @@
          <w><choice><orig>pa<g ref="#slong"/>ca</orig><reg>Pasca</reg></choice></w> 
         </name>
         <w><choice><abbr><am>.etꝣ</am></abbr><expan>etc<ex>aetera</ex></expan></choice></w><damage type="N" extent="1char"><g ref="#middot"/></damage> 
-        <w>qui<add place="below"><g ref="N"/></add><add place="above">a</add></w>
+        <w>qui<add place="below"><g ref="#logand"/></add><add place="above">a</add></w>
         <w>i<g ref="#slong"/>tud</w>
         <w><choice><abbr>miracul<am><g ref="#utilde"/></am></abbr><expan>miraculu<ex>m</ex></expan></choice></w>
         <w><choice><abbr><g ref="#slong"/><am><g ref="#cinodotsup"/></am>pt<am><g ref="#utilde"/></am></abbr><expan>sc<ex>r</ex>iptu<ex>m</ex></expan></choice></w>
@@ -12065,19 +12078,19 @@
         <p>
         <lb n="7"/>
         <w><choice><abbr><am>S</am>cm</abbr><expan>S<ex>e</ex>c<ex>undu</ex>m</expan></choice></w>
-            <w><choice><abbr>mirac<damage type="N" extent="3char"><am>u&#773;l&#773;u&#773;</am></damage></abbr><expan>miraculu<ex>m</ex></expan></choice></w>
+            <w><choice><abbr>mirac<damage type="N" extent="3char"><am>u<g ref="combovl"/>l<g ref="combovl"/>u<g ref="combovl"/></am></damage></abbr><expan>miraculu<ex>m</ex></expan></choice></w>
         <w><unclear reason="N" extent="7char"/><supplied>incipit</supplied></w><g ref="#middot"/>
         <w>Alio</w>
         <w><choice><abbr><am><g ref="#qbardes"/></am>dam</abbr><expan>quo<ex>dam</ex></expan></choice></w>
-        <w><choice><abbr>t<am>p&#773;r&#773;e&#773;</am></abbr><expan>t<ex>em</ex>p<ex>o</ex>re</expan></choice></w>
+        <w><choice><abbr>t<am>p<g ref="combovl"/>r<g ref="combovl"/>e<g ref="combovl"/></am></abbr><expan>t<ex>em</ex>p<ex>o</ex>re</expan></choice></w>
         <w>accidit</w>
-        <w><choice><abbr><am>q&#773;d&#773;</am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
+        <w><choice><abbr><am>q<g ref="combovl"/>d<g ref="combovl"/></am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
         <w><choice><abbr><am><g ref="#qbardes"/></am>dam</abbr><expan>q<ex>ui</ex>dam</expan></choice></w>
         <w>cu<g ref="#slong"/>tos</w>
         <placeName ref="#chiesaSanLorenzo">
         <w><choice><abbr><g ref="#Eunc"/>cc<am><g ref="#slongbarslash"/></am>ie</abbr><expan>eccl<ex>es</ex>ie</expan></choice></w>  
         <w><choice><abbr><am><g ref="#middot"/><g ref="#slong"/><g ref="#middot"/></am></abbr><expan>sancti</expan></choice></w>
-        <w><choice><orig><abbr>l<am><g ref="N"/></am></abbr></orig><reg><expan>Laur<ex>entii</ex></expan></reg></choice></w>
+        <w><choice><orig><abbr>l<am>aur</am></abbr></orig><reg><expan>Laur<ex>entii</ex></expan></reg></choice></w>
         </placeName>
         <w>et</w>
         <w>e<g ref="#slong"/>t</w>
@@ -12095,16 +12108,16 @@
         <w><g ref="#muncdes"/>iraculum</w>
         <w>Incipit</w><pc><g ref="#middot"/></pc>
         <w>Alio</w>
-        <w><choice><abbr><am>t&#773;p&#773;r&#773;</am></abbr><expan>t<ex>em</ex>p<ex>o</ex>r<ex>e</ex></expan></choice></w>
+        <w><choice><abbr><am>t<g ref="combovl"/>p<g ref="combovl"/>r<g ref="combovl"/></am></abbr><expan>t<ex>em</ex>p<ex>o</ex>r<ex>e</ex></expan></choice></w>
         <w>acci<damage type="N" extent="3char">dit</damage></w>
-        <w><choice><abbr><am>q&#773;d&#773;</am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
+        <w><choice><abbr><am>q<g ref="combovl"/>d<g ref="combovl"/></am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
         <w>In</w>
         <placeName ref="#Besançon">
         <w><choice><orig>be<del type="N">n</del><g ref="#slong"/>en<damage type="N" extent="2char">ço</damage>no</orig><reg>Besençono</reg></choice></w>  
         </placeName>
         <w>de</w>
         <placeName ref="#Borgogna">
-          <w><choice><orig><abbr>b<am>u&#7651;</am>gundia</abbr></orig><reg><expan>Bu<ex>r</ex>gundia</expan></reg></choice></w>  
+          <w><choice><orig><abbr>b<am>u<g ref="rrotsup"/></am>gundia</abbr></orig><reg><expan>Bu<ex>r</ex>gundia</expan></reg></choice></w>  
         </placeName>
         <w>et</w>
         <w>e<g ref="#slong"/>t</w>
@@ -12117,7 +12130,7 @@
         
         <p>
         <lb n="9"/>
-        <w><choice><abbr>Qu<am>a&#7651;</am>tum</abbr><expan>Qua<ex>r</ex>tum</expan></choice></w>
+          <w><choice><abbr>Qu<am>a<g ref="rrotsup"/></am>tum</abbr><expan>Qua<ex>r</ex>tum</expan></choice></w>
         <damage type="N" extent="9char"><w>miraculum</w></damage>
         <w>Incipit</w>
         <w>Item</w>
@@ -12126,8 +12139,8 @@
          <w>Rodello</w> 
         </placeName>
         <w><damage type="N" extent="5char">accid</damage>it</w>
-        <w><choice><abbr><am>q&#773;d&#773;</am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
-        <damage type="N" extent="5char"><w><choice><abbr>qu<am>e&#773;d&#773;a&#773;</am></abbr><expan>queda<ex>m</ex></expan></choice></w></damage>
+        <w><choice><abbr><am>q<g ref="combovl"/>d<g ref="combovl"/></am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
+        <damage type="N" extent="5char"><w><choice><abbr>qu<am>e<g ref="combovl"/>d<g ref="combovl"/>a<g ref="combovl"/></am></abbr><expan>queda<ex>m</ex></expan></choice></w></damage>
         <w>baiula</w><pc>.</pc>
         <damage type="N" extent="2char"><w>et</w></damage>
         <w><damage type="N" extent="1char">e</damage><g ref="#slong"/>t</w>
@@ -12183,13 +12196,13 @@
         <w><g ref="#muncdes"/>iraculum</w><pc><g ref="#middot"/></pc>
         <w>Incipit</w><pc><g ref="#middot"/></pc>
         <w>Alio</w>
-        <w><choice><abbr>t<am>p&#773;r&#773;</am></abbr><expan>t<ex>em</ex>p<ex>o</ex>re</expan></choice></w>
+        <w><choice><abbr>t<am>p<g ref="combovl"/>r<g ref="combovl"/></am></abbr><expan>t<ex>em</ex>p<ex>o</ex>re</expan></choice></w>
         <damage type="N" extent="7char"><w>accidit</w></damage>
         <w><choice><abbr><am><g ref="#qslstrok"/></am></abbr><expan>q<ex>uod</ex></expan></choice></w>
         <w><choice><abbr><damage type="N" extent="1char"><am><g ref="#qbardes"/></am>dam</damage></abbr><expan>q<ex>ui</ex>dam</expan></choice></w>
-        <w><choice><abbr>n<am>o&#773;i&#773;e&#773;</am></abbr><expan>no<ex>m</ex>i<ex>n</ex>e</expan></choice></w>
+        <w><choice><abbr>n<am>o<g ref="combovl"/>i<g ref="combovl"/>e<g ref="combovl"/></am></abbr><expan>no<ex>m</ex>i<ex>n</ex>e</expan></choice></w>
         <persName ref="#EnricoTagliarino">
-        <w><choice><abbr>H<am>e&#773;n&#773;r&#773;</am></abbr><expan>Henr<ex>icus</ex></expan></choice></w>  
+        <w><choice><abbr>H<am>e<g ref="combovl"/>n<g ref="combovl"/>r<g ref="combovl"/></am></abbr><expan>Henr<ex>icus</ex></expan></choice></w>  
         <w><choice><orig>taglarinus</orig><expan>Taglarinus</expan></choice></w>
         </persName>
         <w>et</w>
@@ -12207,7 +12220,7 @@
         <w><g ref="#muncdes"/>iraculum</w><pc>.</pc> 
         <w>Incipit</w>
         <persName ref="#GuglielminoGiusiberto">
-         <w><choice><abbr>G<am>u&#773;i&#773;<g ref="#lbar"/><g ref="#lbar"/></am>m<am><g ref="#usmod"/></am></abbr><expan>Guill<ex>el</ex>m<ex>us</ex></expan></choice></w> 
+         <w><choice><abbr>G<am>u<g ref="combovl"/>i<g ref="combovl"/><g ref="#lbar"/><g ref="#lbar"/></am>m<am><g ref="#usmod"/></am></abbr><expan>Guill<ex>el</ex>m<ex>us</ex></expan></choice></w> 
         <w><choice><abbr>Ju<g ref="#slong"/><g ref="#slong"/>i<am><g ref="#bstrok"/></am>tus</abbr><expan>Jussib<ex>er</ex>tus</expan></choice></w>
         </persName>
         <w>et</w>
@@ -12226,10 +12239,10 @@
         <w>Incipit</w><pc><g ref="#middot"/></pc>
         <w>Anno</w>
         <persName ref="#Dio">
-         <w><choice><orig><abbr>d<am>n&#773;i&#773;</am></abbr></orig><reg><expan>D<ex>omi</ex>ni</expan></reg></choice></w> 
+         <w><choice><orig><abbr>d<am>n<g ref="combovl"/>i<g ref="combovl"/></am></abbr></orig><reg><expan>D<ex>omi</ex>ni</expan></reg></choice></w> 
         </persName>
          <date when="1331"> 
-        <w><choice><abbr><g ref="#muncdes"/><am>i&#773;<g ref="#lbar"/><g ref="#lbar"/>o&#773;</am></abbr><expan>mill<ex>esim</ex>o</expan></choice></w>
+        <w><choice><abbr><g ref="#muncdes"/><am>i<g ref="combovl"/><g ref="#lbar"/><g ref="#lbar"/>o<g ref="combovl"/></am></abbr><expan>mill<ex>esim</ex>o</expan></choice></w>
         <w>cccͦ</w><g ref="#middot"/>
         <w>xxxjͦ</w><g ref="#middot"/>
         </date>
@@ -12249,9 +12262,9 @@
         <w><choice><abbr>Inci<am><g ref="#ptsup"/></am></abbr><expan>Incip<ex>i</ex>t</expan></choice></w><pc><g ref="#middot"/></pc>
         <w>Quidam</w>
         <persName ref="#GuglielmoVitrola">
-          <w><choice><abbr>G<am>u&#773;i&#773;<g ref="#lbar"/><g ref="#lbar"/></am>m<am><g ref="#usmod"/></am></abbr><expan>Guill<ex>el</ex>m<ex>us</ex></expan></choice></w> 
+          <w><choice><abbr>G<am>u<g ref="combovl"/>i<g ref="combovl"/><g ref="#lbar"/><g ref="#lbar"/></am>m<am><g ref="#usmod"/></am></abbr><expan>Guill<ex>el</ex>m<ex>us</ex></expan></choice></w> 
         </persName>
-        <w><choice><abbr>n<am>o&#773;i&#773;e&#773;</am></abbr><expan>no<ex>m</ex>i<ex>n</ex>e</expan></choice></w>
+        <w><choice><abbr>n<am>o<g ref="combovl"/>i<g ref="combovl"/>e<g ref="combovl"/></am></abbr><expan>no<ex>m</ex>i<ex>n</ex>e</expan></choice></w>
         <w>de</w>
         <placeName ref="#Vitrolles">
         <w><choice><orig>vitrola</orig><reg>Vitrola</reg></choice></w>  
@@ -12274,7 +12287,7 @@
         <w><choice><orig><abbr>d<am><g ref="#ntilde"/><g ref="#itilde"/></am></abbr></orig><reg><expan>D<ex>omi</ex>ni</expan></reg></choice></w>  
         </persName>
         <date when="1336">  
-        <w><choice><abbr><g ref="#muncdes"/><am>i&#773;<g ref="#lbar"/><g ref="#lbar"/>o&#773;</am></abbr><expan>mill<ex>esim</ex>o</expan></choice></w>
+        <w><choice><abbr><g ref="#muncdes"/><am>i<g ref="combovl"/><g ref="#lbar"/><g ref="#lbar"/>o<g ref="combovl"/></am></abbr><expan>mill<ex>esim</ex>o</expan></choice></w>
         <w>ccc</w>
           <w>xxxvjͦ</w>
         </date>
@@ -12291,14 +12304,14 @@
         <w><choice><abbr><damage type="N" extent="4char">Duod</damage>ecim<am><g ref="#utilde"/></am></abbr><expan>Duodecimu<ex>m</ex></expan></choice></w>
         <w>miraculu<g ref="#muncdes"/></w>
         <w><choice><abbr>inci<am><g ref="#ptsup"/></am></abbr><expan>Incip<ex>i</ex>t</expan></choice></w><g ref="#middot"/>
-        <choice><orig><abbr>Inn<am>o&#773;i&#773;e&#773;</am></abbr></orig><reg><w>In</w> <w><expan>no<ex>m</ex>i<ex>n</ex>e</expan></w></reg></choice>
+        <choice><orig><abbr>Inn<am>o<g ref="combovl"/>i<g ref="combovl"/>e<g ref="combovl"/></am></abbr></orig><reg><w>In</w> <w><expan>no<ex>m</ex>i<ex>n</ex>e</expan></w></reg></choice>
        <persName ref="#Dio">
-        <w><choice><orig><abbr>d<am>n&#773;j&#773;</am></abbr></orig><reg><expan>Do<ex>mi</ex></expan></reg></choice></w>
+        <w><choice><orig><abbr>d<am>n<g ref="combovl"/>j<g ref="combovl"/></am></abbr></orig><reg><expan>Do<ex>mi</ex></expan></reg></choice></w>
         </persName> 
         <w><choice><abbr>no<g ref="#slong"/><am><g ref="#tinodotsup"/></am></abbr><expan>nost<ex>r</ex>i</expan></choice>nostri</w>
         <persName ref="#Gesù">
-         <w><choice><orig><abbr><am>i&#773;h&#773;u&#773;</am></abbr></orig><reg><expan>Ih<ex>es</ex>u</expan></reg></choice></w> 
-        <w><choice><orig><abbr><am>x&#773;p&#773;i&#773;</am></abbr><expan><ex>Christ</ex>i</expan></orig></choice></w>
+         <w><choice><orig><abbr><am>i<g ref="combovl"/>h<g ref="combovl"/>u<g ref="combovl"/></am></abbr></orig><reg><expan>Ih<ex>es</ex>u</expan></reg></choice></w> 
+        <w><choice><orig><abbr><am>x<g ref="combovl"/>p<g ref="combovl"/>i<g ref="combovl"/></am></abbr><expan><ex>Christ</ex>i</expan></orig></choice></w>
         </persName><pc><g ref="#middot"/></pc>
         <w>et</w>
         <w>e<g ref="#slong"/>t</w>
@@ -12316,7 +12329,7 @@
         <w>Incipit</w><pc><g ref="#middot"/></pc>
         <w>Anno</w>
         <persName ref="#Dio">
-        <w><choice><orig><abbr>d<am>n&#773;j&#773;</am></abbr></orig><reg><expan>D<ex>omi</ex>ni</expan></reg></choice></w>  
+        <w><choice><orig><abbr>d<am>n<g ref="combovl"/>j<g ref="combovl"/></am></abbr></orig><reg><expan>D<ex>omi</ex>ni</expan></reg></choice></w>  
         </persName>
          <date when="1354">  
         <w><choice><abbr><am><g ref="#muncosup"/></am></abbr><expan>m<ex>illesimo</ex></expan></choice></w>
@@ -12607,7 +12620,7 @@
         <w>extitit</w>
         <w>a</w>
         <w>mente</w>
-        <w><choice><abbr><g ref="#hunc"/>o<am>i&#773;u&#773;<g ref="#etfin"/></am></abbr><expan>ho<ex>m</ex>i<ex>n</ex>u<ex>m</ex></expan></choice></w>
+        <w><choice><abbr><g ref="#hunc"/>o<am>i<g ref="combovl"/>u<g ref="combovl"/><g ref="#etfin"/></am></abbr><expan>ho<ex>m</ex>i<ex>n</ex>u<ex>m</ex></expan></choice></w>
         <w>et</w>
         <w>maxime</w>
         <placeName ref="#Alba">
@@ -12680,7 +12693,7 @@
         <w><choice><abbr><am>d</am></abbr><expan>d<ex>ominus</ex></expan></choice></w>
         <g ref="#middot"/>
         <w><choice><abbr><am>d</am></abbr><expan>d<ex>ominus</ex></expan></choice></w>
-        <w><choice><abbr><g ref="#Eunc"/><am>p&#773;s&#773;</am></abbr><expan>ep<ex>iscopu</ex>s</expan></choice></w>
+        <w><choice><abbr><g ref="#Eunc"/><am>p<g ref="combovl"/>s<g ref="combovl"/></am></abbr><expan>ep<ex>iscopu</ex>s</expan></choice></w>
         <w>de</w>
         <w><choice><orig>Inpo<g ref="#slong"/><g ref="#slong"/>itione</orig><reg>inpossitione</reg></choice></w>
         <w><choice><abbr>n<am><g ref="#otilde"/></am></abbr><expan>no<ex>n</ex></expan></choice></w>
@@ -12713,7 +12726,7 @@
         <w>die</w>
         <w><choice><orig>die</orig><reg>lune</reg></choice></w>
         <w><choice><abbr><am>pͦ</am></abbr><expan>p<ex>rimo</ex>o</expan></choice>primo</w>
-        <w><choice><abbr>februa<am>i&#773;j&#773;</am></abbr><expan>februa<ex>r</ex>ii</expan></choice></w><pc><g ref="#middot"/></pc>
+        <w><choice><abbr>februa<am>i<g ref="combovl"/>j<g ref="combovl"/></am></abbr><expan>februa<ex>r</ex>ii</expan></choice></w><pc><g ref="#middot"/></pc>
         <w><choice><abbr>P<am><g ref="#ntilde"/></am>ti<am>b<g ref="#usbase"/></am></abbr><expan>P<ex>rese</ex>ntib<ex>us</ex></expan></choice></w>
         <w>venerabili</w>
         <persName ref="N">
