@@ -4151,7 +4151,7 @@
                   <expan>Teob<ex>aldo</ex></expan>
                 </choice></w></persName></fw>
         </add>
-        <lb n="1"/>
+        <lb n="1" xml:id="ST_lb_03r_01"/>
         <w>Anima</w>
         <w><g ref="#slong"/>ua</w>
         <w>migravit</w>
@@ -4165,7 +4165,7 @@
         <w>et</w>
         <w>paratam</w>
         <w><g ref="#slong"/>ibi</w>
-        <w><g ref="#slong"/>an<lb n="2"/>ctis</w>
+        <w><g ref="#slong"/>an<lb n="2" xml:id="ST_lb_03r_02"/>ctis</w>
         <w>obtinuit</w>
         <w>man<g ref="#slong"/>io<choice>
             <abbr>mansio<am><g ref="#etilde"/><g ref="#etfin"/></am></abbr>
@@ -4187,504 +4187,958 @@
             <abbr><am>L</am></abbr>
             <expan><ex>quinquagesimo</ex></expan>
           </choice></w>. </p>
-        <lb n="3"/>
-        <lb n="4"/>
+
       <p>
+        <lb n="3" xml:id="ST_lb_03r_03"/>
+        <lb n="4" xml:id="ST_lb_03r_04"/>
         <add place="margin-left">c</add>
-      
-        <space extent="4char" dim="horizontal"/>
+        <space dim="horizontal" extent="4char"/>
         <w><sic><g ref="#Eunc"/>cidit</sic><corr>Cecidit</corr></w>
-        <w><choice><abbr>itaq<am><g ref="#etfin"/></am></abbr><expan>itaq<ex>ue</ex></expan></choice></w>
+        <w><choice>
+            <abbr>itaq<am><g ref="#etfin"/></am></abbr>
+            <expan>itaq<ex>ue</ex></expan>
+          </choice></w>
         <w>cadaver</w>
-        <w><choice><abbr><am>v<g ref="#lstrok"/></am></abbr><expan>v<ex>e</ex>l</expan></choice></w>
+        <w><choice>
+            <abbr><am>v<g ref="#lstrok"/></am></abbr>
+            <expan>v<ex>e</ex>l</expan>
+          </choice></w>
         <w>corpus</w>
-        <w><choice><abbr><g ref="#slong"/>anct<am><g ref="#utilde"/></am></abbr><expan>sanctu<ex>m</ex></expan></choice></w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr><expan>sup<ex>er</ex></expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>anct<am><g ref="#utilde"/></am></abbr>
+            <expan>sanctu<ex>m</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
+            <expan>sup<ex>er</ex></expan>
+          </choice></w>
         <w>a<g ref="#slong"/><g ref="#slong"/>erem</w>
-        <w><choice><abbr>vl<am><g ref="#usmod"/></am></abbr><expan>v<ex>e</ex>l</expan></choice></w>
-        <w><choice><abbr>po<g ref="#slong"/>t<g ref="#etilde"/></abbr><expan>poste<ex>m</ex></expan></choice></w>
-        <w><choice><abbr>illa<am><g ref="#etfin"/></am></abbr><expan>illa<ex>m</ex></expan></choice></w>
-        <lb n="5"/>
-        <space extent="4char" dim="horizontal"/>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr><expan>sup<ex>ra</ex></expan></choice></w>
-        <w><choice><abbr>qua<am><g ref="#atilde"/></am></abbr><expan>qua<ex>m</ex></expan></choice>quam</w>
+        <w><choice>
+            <abbr>vl<am><g ref="#usmod"/></am></abbr>
+            <expan>v<ex>e</ex>l</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>po<g ref="#slong"/>t<g ref="#etilde"/></abbr>
+            <expan>poste<ex>m</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>illa<am><g ref="#etfin"/></am></abbr>
+            <expan>illa<ex>m</ex></expan>
+          </choice></w>
+        <lb n="5" xml:id="ST_lb_03r_05"/>
+        <space dim="horizontal" extent="4char"/>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
+            <expan>sup<ex>ra</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>qua<am><g ref="#atilde"/></am></abbr>
+            <expan>qua<ex>m</ex></expan>
+          </choice>quam</w>
         <w><g ref="#slong"/>ibi</w>
-        <w><choice><abbr>p<am><g ref="#ptilde"/></am>arat<am><g ref="#utilde"/></am></abbr><expan>p<ex>re</ex>paratu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>p<am><g ref="#ptilde"/></am>arat<am><g ref="#utilde"/></am></abbr>
+            <expan>p<ex>re</ex>paratu<ex>m</ex></expan>
+          </choice></w>
         <w>fuerat</w>
         <w>ad</w>
         <w>edendum</w><pc><g ref="#hidot"/></pc><g ref="#middot"/>
         <w>et</w>
-        <w><choice><abbr><am><g ref="#condes"/></am>tinuo</abbr><expan><ex>con</ex>tinuo</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#condes"/></am>tinuo</abbr>
+            <expan><ex>con</ex>tinuo</expan>
+          </choice></w>
         <w>nuptu</w>
         <w>et</w>
-        <w>volun<lb n="6"/>tate</w>
+        <w>volun<lb n="6" xml:id="ST_lb_03r_06"/>tate</w>
         <add>
-          <fw type="N" place="top-left"><w>n°</w><g ref="#middot"/>2</fw>
+          <fw place="top-left" type="N"><w>n°</w><g ref="#middot"/>2</fw>
         </add>
         <w>divina</w><pc><g ref="#middot"/></pc>
-        <w><choice><abbr>inceper<am><g ref="#utilde"/></am>t</abbr><expan>inceperu<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr>inceper<am><g ref="#utilde"/></am>t</abbr>
+            <expan>inceperu<ex>n</ex>t</expan>
+          </choice></w>
         <w>campane</w>
         <w>civitatis</w>
-        <w>pulsari</w><pc><g ref="#hidot"/></pc> 
+        <w>pulsari</w><pc><g ref="#hidot"/></pc>
         <w>nemine</w>
-        <w><choice><abbr>ip<am><g ref="#atilde"/></am>s</abbr><expan>ip<ex>s</ex>as</expan></choice></w>
-        <w>tan<lb n="7"/>gente</w><pc><g ref="#middot"/></pc>
+        <w><choice>
+            <abbr>ip<am><g ref="#atilde"/></am>s</abbr>
+            <expan>ip<ex>s</ex>as</expan>
+          </choice></w>
+        <w>tan<lb n="7" xml:id="ST_lb_03r_07"/>gente</w><pc><g ref="#middot"/></pc>
         <w>ac</w>
         <w><g ref="#slong"/>i</w>
-        <w><choice><abbr>e<g ref="#slong"/><g ref="#slong"/><am><g ref="#etfin"/></am></abbr><expan>ess<expan>et</expan></expan></choice></w>
-        <w><choice><abbr><am>t</am></abbr><expan>t<ex>unc</ex></expan></choice></w> <!-- CHECK: mi pare sia una espunzione! -->
+        <w><choice>
+            <abbr>e<g ref="#slong"/><g ref="#slong"/><am><g ref="#etfin"/></am></abbr>
+            <expan>ess<expan>et</expan></expan>
+          </choice></w>
+        <w><choice>
+            <abbr><am>t</am></abbr>
+            <expan>t<ex>unc</ex></expan>
+          </choice></w>
+        <!-- CHECK: mi pare sia una espunzione! -->
         <w>natale</w>
         <persName ref="#Gesù">
-        <w><choice><orig><abbr>d<am><g ref="#ntilde"/></am>i</abbr></orig><reg><expan>D<ex>omin</ex>i</expan></reg></choice></w>
+          <w><choice>
+              <orig><abbr>d<am><g ref="#ntilde"/></am>i</abbr></orig>
+              <reg><expan>D<ex>omin</ex>i</expan></reg>
+            </choice></w>
         </persName>
-          <w><choice><abbr>celebrand<am><g ref="#utilde"/></am></abbr><expan>celebrandu<ex>m</ex></expan></choice></w><pc>.</pc> 
+        <w><choice>
+            <abbr>celebrand<am><g ref="#utilde"/></am></abbr>
+            <expan>celebrandu<ex>m</ex></expan>
+          </choice></w><pc>.</pc>
         <w>Nuntiabant</w>
-        <w><choice><abbr>miracul<am><g ref="#utilde"/></am></abbr><expan>miraculu<ex>m</ex></expan></choice></w>
-        <w>cam<lb n="8"/>pane</w><pc><g ref="#middot"/></pc>
+        <w><choice>
+            <abbr>miracul<am><g ref="#utilde"/></am></abbr>
+            <expan>miraculu<ex>m</ex></expan>
+          </choice></w>
+        <w>cam<lb n="8" xml:id="ST_lb_03r_08"/>pane</w><pc><g ref="#middot"/></pc>
         <w>et</w>
-        <w><choice><abbr><am><g ref="#ppflourlig"/><g ref="#ttildevert"/></am></abbr><expan>p<ex>ro</ex>pt<ex>er</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#ppflourlig"/><g ref="#ttildevert"/></am></abbr>
+            <expan>p<ex>ro</ex>pt<ex>er</ex></expan>
+          </choice></w>
         <w>hoc</w>
         <w>gentes</w>
-        <w><choice><abbr>inceper<am><g ref="#utilde"/></am>t</abbr><expan>inceperu<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr>inceper<am><g ref="#utilde"/></am>t</abbr>
+            <expan>inceperu<ex>n</ex>t</expan>
+          </choice></w>
         <w>mirari</w><pc><g ref="#hidot"/></pc>
         <w>et</w>
         <w>factus</w>
         <w><g ref="#slong"/>st</w>
         <w>tumultus</w>
-        <w><choice><abbr><am><g ref="#itilde"/></am></abbr><expan>i<ex>n</ex></expan></choice></w>
-        <w>po<lb n="9"/>pulo</w>
+        <w><choice>
+            <abbr><am><g ref="#itilde"/></am></abbr>
+            <expan>i<ex>n</ex></expan>
+          </choice></w>
+        <w>po<lb n="9" xml:id="ST_lb_03r_09"/>pulo</w>
         <w>univer<g ref="#slong"/>o</w><pc><g ref="#middot"/></pc>
         <w>et</w>
-        <w><choice><abbr>arituin<am><g ref="#atilde"/></am>tes</abbr><expan>arituina<ex>n</ex>tes</expan></choice></w>
-        <w><choice><abbr>in<am><g ref="#ttildevert"/></am></abbr><expan>int<ex>er</ex></expan></choice></w>
+        <w><choice>
+            <abbr>arituin<am><g ref="#atilde"/></am>tes</abbr>
+            <expan>arituina<ex>n</ex>tes</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>in<am><g ref="#ttildevert"/></am></abbr>
+            <expan>int<ex>er</ex></expan>
+          </choice></w>
         <w>se</w>
         <w>dicebant</w><pc><g ref="#middot"/></pc>
         <q><!-- CHECK @who -->
-         <w>vere</w>
-        <w><choice><abbr><damage extent="1char">m</damage>agn<am><g ref="#utilde"/></am><expan>magnu<ex>m</ex></expan></abbr></choice></w>
-        <w><damage extent="2char">e<g ref="#slong"/></damage>t</w>
-        <w><choice><abbr>qd<am><g ref="#combhook"/></am><expan>q<ex>uo</ex>d</expan></abbr></choice></w>
-        <w>ap<lb n="10"/>paruit</w>
-        <w><choice><abbr>in<am><g ref="#ttildevert"/></am></abbr><expan>int<ex>er</ex></expan></choice></w>
-        <w>nos</w>
-         <pc>.</pc></q>
-          <w><g ref="#Eunc"/>t</w>
-        <w><choice><abbr>exte<am><g ref="#itilde"/>ta</am></abbr><expan>exte<ex>rr</ex>ita</expan></choice></w>
+          <w>vere</w>
+          <w><choice>
+              <abbr><damage extent="1char">m</damage>agn<am><g ref="#utilde"/></am><expan>magnu<ex>m</ex></expan></abbr>
+            </choice></w>
+          <w><damage extent="2char">e<g ref="#slong"/></damage>t</w>
+          <w><choice>
+              <abbr>qd<am><g ref="#combhook"/></am><expan>q<ex>uo</ex>d</expan></abbr>
+            </choice></w>
+          <w>ap<lb n="10" xml:id="ST_lb_03r_10"/>paruit</w>
+          <w><choice>
+              <abbr>in<am><g ref="#ttildevert"/></am></abbr>
+              <expan>int<ex>er</ex></expan>
+            </choice></w>
+          <w>nos</w>
+          <pc>.</pc></q>
+        <w><g ref="#Eunc"/>t</w>
+        <w><choice>
+            <abbr>exte<am><g ref="#itilde"/>ta</am></abbr>
+            <expan>exte<ex>rr</ex>ita</expan>
+          </choice></w>
         <w>muliere</w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#pbardes"/>ius</am></abbr><expan>sup<ex>er</ex>ius</expan></choice></w>
-        <w><choice><abbr>no<am><g ref="#itilde"/></am>ata</abbr><expan>no<ex>min</ex>ata</expan></choice></w><pc><g ref="#middot"/></pc> 
-        <choice><orig><abbr><am><g ref="#pbardes"/></am>confu<g ref="#slong"/>ione</abbr></orig><reg><w><expan>p<ex>re</ex></expan></w><w>confusione</w></reg></choice>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/>ius</am></abbr>
+            <expan>sup<ex>er</ex>ius</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>no<am><g ref="#itilde"/></am>ata</abbr>
+            <expan>no<ex>min</ex>ata</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
+        <choice>
+          <orig><abbr><am><g ref="#pbardes"/></am>confu<g ref="#slong"/>ione</abbr></orig>
+          <reg><w><expan>p<ex>re</ex></expan></w><w>confusione</w></reg>
+        </choice>
         <label n="33" type="edition_page"/>
         <w>que</w>
-        <lb n="11"/>
+        <lb n="11" xml:id="ST_lb_03r_11"/>
         <w>in</w>
         <w>civitate</w>
         <w>erat</w>
-        <w><choice><abbr>cuc<am>ᷣ</am>rit</abbr><expan>cu<ex>n</ex>cu<ex>r</ex>rit</expan></choice></w>
+        <w><choice>
+            <abbr>cuc<am>ᷣ</am>rit</abbr>
+            <expan>cu<ex>n</ex>cu<ex>r</ex>rit</expan>
+          </choice></w>
         <w>ad</w>
         <w>locum</w>
         <w>ubi</w>
-        <w><choice><abbr>p<am><g ref="#ptilde"/></am>araverat</abbr><expan>p<ex>re</ex>paraverat</expan></choice></w>
+        <w><choice>
+            <abbr>p<am><g ref="#ptilde"/></am>araverat</abbr>
+            <expan>p<ex>re</ex>paraverat</expan>
+          </choice></w>
         <damage extent="4char"><w>viro</w></damage>
         <w><g ref="#slong"/>ancto</w><pc><g ref="#middot"/></pc>
         <w>et</w>
-        <lb n="12"/>
-        <w><choice><abbr><damage extent="1char"><am><g ref="#itilde"/></am></damage>venit</abbr><expan>i<ex>n</ex>venit</expan></choice></w>
+        <lb n="12" xml:id="ST_lb_03r_12"/>
+        <w><choice>
+            <abbr><damage extent="1char"><am><g ref="#itilde"/></am></damage>venit</abbr>
+            <expan>i<ex>n</ex>venit</expan>
+          </choice></w>
         <w>corpus</w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#utilde"/></am></abbr><expan>suu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#utilde"/></am></abbr>
+            <expan>suu<ex>m</ex></expan>
+          </choice></w>
         <w>iacens</w>
-        <w><choice><abbr>su<am><g ref="#ptilde"/></am></abbr><expan>sup<ex>ra</ex></expan></choice></w>
+        <w><choice>
+            <abbr>su<am><g ref="#ptilde"/></am></abbr>
+            <expan>sup<ex>ra</ex></expan>
+          </choice></w>
         <w>po<g ref="#slong"/>tem</w>
         <w>ab</w>
-        <w><choice><abbr>a<am><g ref="#itilde"/></am>a</abbr><expan>a<ex>nim</ex>a</expan></choice></w>
-        <w><choice><abbr>di<g ref="#slong"/><g ref="#slong"/>olut<am><g ref="#utilde"/></am></abbr><expan>dissolutu<ex>m</ex></expan></choice></w>.
-        <w><g ref="#Eunc"/>t</w>
-        <w>expave<lb n="13"/><g ref="#slong"/>cens</w>
+        <w><choice>
+            <abbr>a<am><g ref="#itilde"/></am>a</abbr>
+            <expan>a<ex>nim</ex>a</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>di<g ref="#slong"/><g ref="#slong"/>olut<am><g ref="#utilde"/></am></abbr>
+            <expan>dissolutu<ex>m</ex></expan>
+          </choice></w>. <w><g ref="#Eunc"/>t</w>
+        <w>expave<lb n="13" xml:id="ST_lb_03r_13"/><g ref="#slong"/>cens</w>
         <w>mulier</w><pc>.</pc>
         <w>exivit</w><pc>.</pc>
         <w>et</w>
         <w>nuntiavit</w>
-        <w><choice><abbr>ep<am><g ref="#otilde"/></am></abbr><expan>ep<ex>iscop</ex>o</expan></choice></w>
+        <w><choice>
+            <abbr>ep<am><g ref="#otilde"/></am></abbr>
+            <expan>ep<ex>iscop</ex>o</expan>
+          </choice></w>
         <w>et</w>
         <w>toti</w>
-        <w>clero</w><pc>.</pc> 
+        <w>clero</w><pc>.</pc>
         <w>illud</w>
-        <w><choice><abbr>qd<am><g ref="#combhook"/></am></abbr><expan>q<ex>uo</ex>d</expan></choice></w>
-        <w>appa<lb n="14"/>ruerat</w>
-        <w><g ref="#slong"/>ibi</w>. 
-        <w>Tunc</w>
-        <w><choice><abbr>e<am><g ref="#ptilde"/>s</am></abbr><expan>ep<ex>iscopu</ex>s</expan></choice></w>
+        <w><choice>
+            <abbr>qd<am><g ref="#combhook"/></am></abbr>
+            <expan>q<ex>uo</ex>d</expan>
+          </choice></w>
+        <w>appa<lb n="14" xml:id="ST_lb_03r_14"/>ruerat</w>
+        <w><g ref="#slong"/>ibi</w>. <w>Tunc</w>
+        <w><choice>
+            <abbr>e<am><g ref="#ptilde"/>s</am></abbr>
+            <expan>ep<ex>iscopu</ex>s</expan>
+          </choice></w>
         <w>audiens</w>
         <w>hec</w><pc><g ref="#middot"/></pc>
         <w>exivit</w>
-        <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>c<am><g ref="#utilde"/></am></abbr>
+            <expan>cu<ex>m</ex></expan>
+          </choice></w>
         <w>t<damage extent="3char">oto</damage></w>
         <w>clero</w>
         <w>et</w>
-        <w>pro<lb n="15"/>ce<g ref="#slong"/><g ref="#slong"/>ione</w>
+        <w>pro<lb n="15" xml:id="ST_lb_03r_15"/>ce<g ref="#slong"/><g ref="#slong"/>ione</w>
         <w>magna</w><pc><g ref="#middot"/></pc>
         <w>et</w>
-        <w><choice><abbr><am><g ref="#pbardes"/></am>re<g ref="#slong"/>it</abbr><expan>p<ex>er</ex>resit</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#pbardes"/></am>re<g ref="#slong"/>it</abbr>
+            <expan>p<ex>er</ex>resit</expan>
+          </choice></w>
         <w>ad</w>
-        <w><choice><abbr>loc<am><g ref="#utilde"/></am></abbr><expan>locu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>loc<am><g ref="#utilde"/></am></abbr>
+            <expan>locu<ex>m</ex></expan>
+          </choice></w>
         <w>ubi</w>
         <w>erat</w>
-        <w>corpus</w><g ref="#middot"/> 
+        <w>corpus</w><g ref="#middot"/>
         <w>crucifixo</w>
         <persName ref="#Gesù">
-        <w><choice><orig>domini</orig><reg>Domini</reg></choice></w>
-         </persName> 
-        <lb n="16"/>
-        <w><choice><abbr><am><g ref="#ptilde"/></am>cedente</abbr><expan>p<ex>re</ex>cedente</expan></choice></w><pc>.</pc>
+          <w><choice>
+              <orig>domini</orig>
+              <reg>Domini</reg>
+            </choice></w>
+        </persName>
+        <lb n="16" xml:id="ST_lb_03r_16"/>
+        <w><choice>
+            <abbr><am><g ref="#ptilde"/></am>cedente</abbr>
+            <expan>p<ex>re</ex>cedente</expan>
+          </choice></w><pc>.</pc>
         <w><g ref="#Eunc"/>t</w>
-        <w><choice><abbr>ap<am><g ref="#ptilde"/></am>hendens</abbr><expan>app<ex>re</ex>hendens</expan></choice></w>
+        <w><choice>
+            <abbr>ap<am><g ref="#ptilde"/></am>hendens</abbr>
+            <expan>app<ex>re</ex>hendens</expan>
+          </choice></w>
         <w>corupus</w>
-        <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>c<am><g ref="#utilde"/></am></abbr>
+            <expan>cu<ex>m</ex></expan>
+          </choice></w>
         <w>po<g ref="#slong"/>te</w>
         <w>ad</w>
         <placeName ref="#chiesaSanLorenzo">
-          <w><choice><abbr>e<am>cͣ</am>cm</abbr><expan>ecc<ex>lesia</ex>m</expan></choice></w>
-        <w>beati</w>
-        <w><orig><abbr>la<am><g ref="#utilde"/></am>r</abbr><expan>laur<ex>entii</ex></expan></orig><reg>Laurentii</reg></w>
+          <w><choice>
+              <abbr>e<am>cͣ</am>cm</abbr>
+              <expan>ecc<ex>lesia</ex>m</expan>
+            </choice></w>
+          <w>beati</w>
+          <w><orig><abbr>la<am><g ref="#utilde"
+              /></am>r</abbr><expan>laur<ex>entii</ex></expan></orig><reg>Laurentii</reg></w>
         </placeName>
-          <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<expan>m</expan></expan></choice></w>
-        <w>ma<lb n="17"/>gnis</w>
-        <w><choice><abbr>solepnitatib<am><g ref="#usmod"/></am></abbr><expan>solepnitatibu<ex>s</ex></expan></choice></w>
-        <w><choice><abbr>portaver<am><g ref="#utilde"/></am>t</abbr><expan>portaveru<ex>n</ex>t</expan></choice></w><pc><g ref="#middot"/></pc> 
+        <w><choice>
+            <abbr>c<am><g ref="#utilde"/></am></abbr>
+            <expan>cu<expan>m</expan></expan>
+          </choice></w>
+        <w>ma<lb n="17" xml:id="ST_lb_03r_17"/>gnis</w>
+        <w><choice>
+            <abbr>solepnitatib<am><g ref="#usmod"/></am></abbr>
+            <expan>solepnitatibu<ex>s</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>portaver<am><g ref="#utilde"/></am>t</abbr>
+            <expan>portaveru<ex>n</ex>t</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
         <w>Deposito</w>
-        <w><choice><abbr>itaq<am><g ref="#etfin"/></am></abbr><expan>itaq<ex>ue</ex></expan></choice></w>
-        <w><choice><abbr>cor<am><g ref="#pbardes"/></am>e</abbr><expan>corp<ex>or</ex>e</expan></choice></w>
-        <w><choice><abbr>ceper<am><g ref="#utilde"/></am>t</abbr><expan>ceperu<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr>itaq<am><g ref="#etfin"/></am></abbr>
+            <expan>itaq<ex>ue</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>cor<am><g ref="#pbardes"/></am>e</abbr>
+            <expan>corp<ex>or</ex>e</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>ceper<am><g ref="#utilde"/></am>t</abbr>
+            <expan>ceperu<ex>n</ex>t</expan>
+          </choice></w>
         <w><g ref="#slong"/>olepne</w>
-        <lb n="18"/>
+        <lb n="18" xml:id="ST_lb_03r_18"/>
         <damage extent="7">
-        <w><choice><abbr>offiti<am><g ref="#utilde"/></am></abbr><expan>offitiu<ex>m</ex></expan></choice></w>
-        </damage>  
+          <w><choice>
+              <abbr>offiti<am><g ref="#utilde"/></am></abbr>
+              <expan>offitiu<ex>m</ex></expan>
+            </choice></w>
+        </damage>
         <w>celebrare</w><pc><g ref="#middot"/></pc>
         <w>et</w>
         <persName ref="#Dio">
-        <w><choice><orig><abbr>d<am><g ref="#ntilde"/></am>o</abbr></orig><reg><expan>D<ex>omin</ex>o</expan></reg></choice></w>
-        <w><orig>deo</orig><reg>Deo</reg></w>
-          </persName>
+          <w><choice>
+              <orig><abbr>d<am><g ref="#ntilde"/></am>o</abbr></orig>
+              <reg><expan>D<ex>omin</ex>o</expan></reg>
+            </choice></w>
+          <w><orig>deo</orig><reg>Deo</reg></w>
+        </persName>
         <w>pro</w>
-        <w><choice><abbr><g ref="#slong"/>c<am><g ref="#otilde"/></am></abbr><expan>s<ex>an</ex>c<ex>t</ex>o</expan></choice></w><pc><g ref="#middot"/></pc> 
-        <w><choice><abbr><g ref="#slong"/>a<am><g ref="#cinodotsup"/></am>fiti<am><g ref="#utilde"/></am></abbr><expan>sa<ex>cri</ex>fitiu<ex>m</ex></expan></choice></w>
-        <w><choice><abbr>obtuler<am><g ref="#utilde"/></am>t</abbr><expan>obtuleru<ex>n</ex>t</expan></choice></w><pc><g ref="#middot"/></pc> 
+        <w><choice>
+            <abbr><g ref="#slong"/>c<am><g ref="#otilde"/></am></abbr>
+            <expan>s<ex>an</ex>c<ex>t</ex>o</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
+        <w><choice>
+            <abbr><g ref="#slong"/>a<am><g ref="#cinodotsup"/></am>fiti<am><g ref="#utilde"/></am></abbr>
+            <expan>sa<ex>cri</ex>fitiu<ex>m</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>obtuler<am><g ref="#utilde"/></am>t</abbr>
+            <expan>obtuleru<ex>n</ex>t</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
         <w>et</w>
         <w>volentes</w>
-        <w><orig><g ref="#slong"/>e<lb n="19"/><damage extent="5">pelli</damage>re</orig><reg>se<lb n="19"/>pelire</reg></w>
+        <w><orig><g ref="#slong"/>e<lb n="19" xml:id="ST_lb_03r_19_orig"/><damage extent="5"
+              >pelli</damage>re</orig><reg>se<lb n="19" xml:id="ST_lb_03r_19_reg"/>pelire</reg></w>
         <w>corpus</w><pc>.</pc>
-        <w><choice><abbr>n<am><g ref="#otilde"/></am></abbr><expan>no<ex>n</ex></expan></choice></w>
-        <w><choice><abbr>potuer<am><g ref="#utilde"/></am>t</abbr><expan>potueru<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr>n<am><g ref="#otilde"/></am></abbr>
+            <expan>no<ex>n</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>potuer<am><g ref="#utilde"/></am>t</abbr>
+            <expan>potueru<ex>n</ex>t</expan>
+          </choice></w>
         <w>alicubi</w>
-        <w><choice><abbr>fod<am><g ref="#etilde"/></am></abbr><expan>fode<ex>re</ex></expan></choice></w><pc><g ref="#middot"/></pc>
+        <w><choice>
+            <abbr>fod<am><g ref="#etilde"/></am></abbr>
+            <expan>fode<ex>re</ex></expan>
+          </choice></w><pc><g ref="#middot"/></pc>
         <w>nec</w>
-        <w><choice><abbr>us<am><g ref="#qtilde"/><g ref="#etfin"/></am></abbr><expan>usq<ex>ue</ex></expan></choice></w>
+        <w><choice>
+            <abbr>us<am><g ref="#qtilde"/><g ref="#etfin"/></am></abbr>
+            <expan>usq<ex>ue</ex></expan>
+          </choice></w>
         <w>corpus</w>
-        <w>deferre</w><pc>.</pc> 
-        <w><choice><abbr><hi rend="N">I</hi>ta<am><g ref="#q3app"/></am></abbr><expan><hi rend="N">Itaq<ex>ue</ex></hi></expan></choice></w>
-        <lb n="20"/>
-        <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
-        <w><choice><abbr>miraren<am><g ref="#ttilde"/></am></abbr><expan>mirarent<ex>ur</ex></expan></choice></w>
-        <w>univer<g ref="#slong"/>i</w><pc><g ref="#middot"/></pc> 
+        <w>deferre</w><pc>.</pc>
+        <w><choice>
+            <abbr><hi rend="N">I</hi>ta<am><g ref="#q3app"/></am></abbr>
+            <expan><hi rend="N">Itaq<ex>ue</ex></hi></expan>
+          </choice></w>
+        <lb n="20" xml:id="ST_lb_03r_20"/>
+        <w><choice>
+            <abbr>c<am><g ref="#utilde"/></am></abbr>
+            <expan>cu<ex>m</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>miraren<am><g ref="#ttilde"/></am></abbr>
+            <expan>mirarent<ex>ur</ex></expan>
+          </choice></w>
+        <w>univer<g ref="#slong"/>i</w><pc><g ref="#middot"/></pc>
         <w>acce<g ref="#slong"/><g ref="#slong"/>it</w>
-        <w><choice><abbr><am><g ref="#qinodotsup"/></am>dam</abbr><expan>q<ex>ui</ex>dam</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#qinodotsup"/></am>dam</abbr>
+            <expan>q<ex>ui</ex>dam</expan>
+          </choice></w>
         <w>provintialis</w>
         <w>mendicus</w><pc><g ref="#middot"/></pc>
-        <w><choice><abbr><am><g ref="#qinodotsup"/></am></abbr><expan>q<ex>ui</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#qinodotsup"/></am></abbr>
+            <expan>q<ex>ui</ex></expan>
+          </choice></w>
         <w>dixit</w>
         <w>ei<g ref="#esh"/></w>
-        <lb n="21"/>
+        <lb n="21" xml:id="ST_lb_03r_21"/>
         <q>
-        <w>audivi</w>
-        <w>ab</w>
-        <w>homine</w>
-        <w>i<g ref="#slong"/>to</w>
-        <w>adhuc</w>
-        <w><choice><abbr>i<am><g ref="#ptilde"/></am>o</abbr><expan>ip<ex>s</ex>o</expan></choice></w>
-        <w>vivente</w><g ref="#middot"/><pc><g ref="#middot"/></pc>
-        <w><choice><abbr><am><g ref="#qslstrok"/></am></abbr><expan>q<ex>uod</ex></expan></choice></w>
-        <w>rubus</w>
-        <w>i<g ref="#slong"/>te</w><pc><g ref="#middot"/></pc> 
-        <w><g ref="#slong"/>ive</w>
-        <w>le<g ref="#slong"/>ca</w>
-        <w>ad<lb n="22"/>huc</w> 
-        <w><choice><abbr>fac<am><g ref="#etilde"/></am>t</abbr><expan>fac<ex>i</ex>et</expan></choice></w>
-        <w>virtutes</w>
-         </q><pc><g ref="#middot"/></pc>
+          <w>audivi</w>
+          <w>ab</w>
+          <w>homine</w>
+          <w>i<g ref="#slong"/>to</w>
+          <w>adhuc</w>
+          <w><choice>
+              <abbr>i<am><g ref="#ptilde"/></am>o</abbr>
+              <expan>ip<ex>s</ex>o</expan>
+            </choice></w>
+          <w>vivente</w><g ref="#middot"/><pc><g ref="#middot"/></pc>
+          <w><choice>
+              <abbr><am><g ref="#qslstrok"/></am></abbr>
+              <expan>q<ex>uod</ex></expan>
+            </choice></w>
+          <w>rubus</w>
+          <w>i<g ref="#slong"/>te</w><pc><g ref="#middot"/></pc>
+          <w><g ref="#slong"/>ive</w>
+          <w>le<g ref="#slong"/>ca</w>
+          <w>ad<lb n="22" xml:id="ST_lb_03r_22"/>huc</w>
+          <w><choice>
+              <abbr>fac<am><g ref="#etilde"/></am>t</abbr>
+              <expan>fac<ex>i</ex>et</expan>
+            </choice></w>
+          <w>virtutes</w>
+        </q><pc><g ref="#middot"/></pc>
         <w><g ref="#Eunc"/>rat</w>
-        <w><choice><abbr><am>a<g ref="#utilde"/>t</am></abbr><expan>aut<ex>em</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am>a<g ref="#utilde"/>t</am></abbr>
+            <expan>aut<ex>em</ex></expan>
+          </choice></w>
         <w>locus</w>
         <w>i<g ref="#slong"/>te</w>
         <w>in</w>
         <w>medio</w>
-        <w><choice><abbr>duar<am><g ref="#rum"/></am></abbr><expan>duar<ex>um</ex></expan></choice></w>
-        <w><choice><abbr>eccl<am><g ref="#usmod"/></am>a<am><g ref="#rum"/></am></abbr><expan>eccl<ex>esi</ex>ar<ex>um</ex></expan></choice></w><pc>.</pc> 
+        <w><choice>
+            <abbr>duar<am><g ref="#rum"/></am></abbr>
+            <expan>duar<ex>um</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>eccl<am><g ref="#usmod"/></am>a<am><g ref="#rum"/></am></abbr>
+            <expan>eccl<ex>esi</ex>ar<ex>um</ex></expan>
+          </choice></w><pc>.</pc>
         <placeName ref="#chiesaSanLorenzo">
-        <w><choice><orig><abbr><am><g ref="#slong"/>c<g ref="#itilde"/></am></abbr></orig><reg><expan>S<ex>an</ex>c<ex>t</ex>i</expan></reg></choice></w>
-        <w><choice><orig><abbr>la<am><g ref="#utilde"/></am>r</abbr><expan>laur<ex>entii</ex></expan></orig><reg>Laurentii</reg></choice></w>
+          <w><choice>
+              <orig><abbr><am><g ref="#slong"/>c<g ref="#itilde"/></am></abbr></orig>
+              <reg><expan>S<ex>an</ex>c<ex>t</ex>i</expan></reg>
+            </choice></w>
+          <w><choice>
+              <orig><abbr>la<am><g ref="#utilde"/></am>r</abbr><expan>laur<ex>entii</ex></expan></orig>
+              <reg>Laurentii</reg>
+            </choice></w>
         </placeName>
-          <w>videlicet</w><pc><g ref="#middot"/></pc>
+        <w>videlicet</w><pc><g ref="#middot"/></pc>
         <w>et</w>
         <placeName ref="#chiesaSanSilvestro">
-        <w><choice><orig><g ref="#slong"/>ancti</orig><reg>Sancti</reg></choice></w>
-        <lb n="23"/>
-        <w><choice><orig><abbr><g ref="#slong"/>ilves<am><g ref="#tinodotsup"/></am></abbr><expan>silvest<ex>ri</ex></expan></orig></choice></w><pc><g ref="#middot"/></pc>
+          <w><choice>
+              <orig><g ref="#slong"/>ancti</orig>
+              <reg>Sancti</reg>
+            </choice></w>
+          <lb n="23" xml:id="ST_lb_03r_23"/>
+          <w><choice>
+              <orig><abbr><g ref="#slong"/>ilves<am><g ref="#tinodotsup"
+                /></am></abbr><expan>silvest<ex>ri</ex></expan></orig>
+            </choice></w><pc><g ref="#middot"/></pc>
         </placeName>
-          <w>et</w> 
+        <w>et</w>
         <w>erat</w>
         <w>di<g ref="#slong"/>tantia</w>
         <w><g ref="#slong"/>atis</w>
         <w>magna</w><pc><g ref="#middot"/></pc>
         <w><g ref="#Eunc"/>t</w>
         <del type="N">i</del>
-        <lb n="24"/>
-        <w><choice><abbr><am><g ref="#condes"/></am>ver<g ref="#slong"/>i</abbr><expan><ex>con</ex>versi</expan></choice></w>
-        <choice><orig><w>adlocum</w></orig><reg><w>ad</w><w>locum</w></reg></choice><pc><g ref="#middot"/></pc>
-        <w><choice><abbr>vider<am><g ref="#utilde"/></am>t</abbr><expan>videru<ex>n</ex>t</expan></choice></w>
+        <lb n="24" xml:id="ST_lb_03r_24"/>
+        <w><choice>
+            <abbr><am><g ref="#condes"/></am>ver<g ref="#slong"/>i</abbr>
+            <expan><ex>con</ex>versi</expan>
+          </choice></w>
+        <choice>
+          <orig><w>adlocum</w></orig>
+          <reg><w>ad</w><w>locum</w></reg>
+        </choice><pc><g ref="#middot"/></pc>
+        <w><choice>
+            <abbr>vider<am><g ref="#utilde"/></am>t</abbr>
+            <expan>videru<ex>n</ex>t</expan>
+          </choice></w>
         <w>duo</w>
         <w>candelabra</w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr><expan>sup<ex>ra</ex></expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
+            <expan>sup<ex>ra</ex></expan>
+          </choice></w>
         <w>que</w>
         <w>erant</w>
         <w>duo</w>
-        <w>ce<lb n="25"/>rey</w>
+        <w>ce<lb n="25" xml:id="ST_lb_03r_25"/>rey</w>
         <w>accen<g ref="#slong"/>i</w><pc><g ref="#hidot"/></pc>
         <w>et</w>
-        <w><choice><abbr><am><g ref="#itilde"/></am></abbr><expan>i<ex>n</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#itilde"/></am></abbr>
+            <expan>i<ex>n</ex></expan>
+          </choice></w>
         <w>medio</w>
         <w>erat</w>
-        <w><choice><abbr>monum<am><g ref="#etilde"/>tu</am><am><g ref="#etfin"/></am></abbr><expan>monume<ex>n</ex>tu<ex>m</ex></expan></choice></w>
-        <w><choice><abbr>pulcru<am><g ref="#etfin"/></am></abbr><expan>pulcru<ex>m</ex></expan></choice></w><g ref="#middot"/> 
+        <w><choice>
+            <abbr>monum<am><g ref="#etilde"/>tu</am><am><g ref="#etfin"/></am></abbr>
+            <expan>monume<ex>n</ex>tu<ex>m</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>pulcru<am><g ref="#etfin"/></am></abbr>
+            <expan>pulcru<ex>m</ex></expan>
+          </choice></w><g ref="#middot"/>
         <w>in</w>
         <w>quo</w>
         <w>pro</w>
         <w>ut</w>
-        <w>vide<lb n="26"/>batur</w>
-        <damage extent="5char"><w><choice><abbr>null<am><g ref="#utilde"/></am></abbr><expan>nullu<ex>m</ex></expan></choice></w></damage>
+        <w>vide<lb n="26" xml:id="ST_lb_03r_26"/>batur</w>
+        <damage extent="5char"><w><choice>
+              <abbr>null<am><g ref="#utilde"/></am></abbr>
+              <expan>nullu<ex>m</ex></expan>
+            </choice></w></damage>
         <w>corpus</w>
         <w>fuerat</w>
-        <w>po<g ref="#slong"/><g ref="#slong"/>itum</w><pc><g ref="#middot"/></pc> 
+        <w>po<g ref="#slong"/><g ref="#slong"/>itum</w><pc><g ref="#middot"/></pc>
         <w>Igitur</w>
         <w><sic>accepto</sic><corr>accepto</corr></w>
-        <w><choice><abbr>cor<am><g ref="#pbardes"/></am>e</abbr><expan>corp<ex>or</ex>e</expan></choice></w>
-        <w><choice><abbr>d<am><g ref="#combhook"/></am>tulerunt</abbr><expan>d<ex>e</ex>tulerunt</expan></choice></w>
-        <lb n="27"/>
+        <w><choice>
+            <abbr>cor<am><g ref="#pbardes"/></am>e</abbr>
+            <expan>corp<ex>or</ex>e</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>d<am><g ref="#combhook"/></am>tulerunt</abbr>
+            <expan>d<ex>e</ex>tulerunt</expan>
+          </choice></w>
+        <lb n="27" xml:id="ST_lb_03r_27"/>
         <w>ad</w>
-        <w><choice><abbr>monu<damage extent="2char">m<am><g ref="#etilde"/></am></damage>tum</abbr><expan>monume<ex>n</ex>tum</expan></choice></w>
+        <w><choice>
+            <abbr>monu<damage extent="2char">m<am><g ref="#etilde"/></am></damage>tum</abbr>
+            <expan>monume<ex>n</ex>tum</expan>
+          </choice></w>
         <w>et</w>
         <w>ibi</w>
-        <w><choice><abbr><g ref="#slong"/>epelier<am><g ref="#utilde"/></am>t</abbr><expan>spelieru<ex>n</ex>t</expan></choice></w>
-        <w><choice><abbr>i<am><g ref="#ptilde"/></am>m</abbr><expan>ip<ex>su</ex>m</expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>epelier<am><g ref="#utilde"/></am>t</abbr>
+            <expan>spelieru<ex>n</ex>t</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>i<am><g ref="#ptilde"/></am>m</abbr>
+            <expan>ip<ex>su</ex>m</expan>
+          </choice></w>
         <w>laudantes</w>
-        <w><choice><abbr><am><g ref="#et"/></am></abbr><expan><ex>et</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#et"/></am></abbr>
+            <expan><ex>et</ex></expan>
+          </choice></w>
         <w>glorificantes</w>
         <persName ref="#Dio">
-        <w><choice><orig><abbr><am>dn<g ref="#mtilde"/></am></abbr></orig><reg><expan>D<ex>omi</ex>n<ex>u</ex>m</expan></reg></choice></w>
+          <w><choice>
+              <orig><abbr><am>dn<g ref="#mtilde"/></am></abbr></orig>
+              <reg><expan>D<ex>omi</ex>n<ex>u</ex>m</expan></reg>
+            </choice></w>
         </persName>
-          <w><g ref="#Eunc"/>t</w>
-        <lb n="28"/>
-        <w><choice><abbr>cum<am><g ref="#q3app"/></am></abbr><expan>cumq<ex>ue</ex></expan></choice></w>
+        <w><g ref="#Eunc"/>t</w>
+        <lb n="28" xml:id="ST_lb_03r_28"/>
+        <w><choice>
+            <abbr>cum<am><g ref="#q3app"/></am></abbr>
+            <expan>cumq<ex>ue</ex></expan>
+          </choice></w>
         <w>hoc</w>
         <w>feci<g ref="#slong"/><g ref="#slong"/>ent</w>
         <w>campane</w>
         <w>illico</w>
         <g ref="#logand"/>
         <add place="above">
-        <w>pul<g ref="#slong"/>are</w>
-          </add>
+          <w>pul<g ref="#slong"/>are</w>
+        </add>
         <w>cessaverunt</w><pc>.</pc>
-        </p>
-        <lb n="29"/>
-        <lb n="30"/>
-      <p>
-      <add>
-        <fw type="N" place="margin-left">n<g ref="#middot"/>3</fw>
-        <fw type="N" place="margin-left">f</fw>
-      </add>
       </p>
-        <p>  
-      <space extent="4char" dim="horizontal"/>
-        <w><choice><orig>Actum</orig><reg>Factum</reg></choice></w>
+
+      <p>
+        <lb n="29" xml:id="ST_lb_03r_29"/>
+        <lb n="30" xml:id="ST_lb_03r_30"/>
+        <add>
+          <fw place="margin-left" type="N">n<g ref="#middot"/>3</fw>
+          <fw place="margin-left" type="N">f</fw>
+        </add>
+      </p>
+
+      <p>
+        <space dim="horizontal" extent="4char"/>
+        <w><choice>
+            <orig>Actum</orig>
+            <reg>Factum</reg>
+          </choice></w>
         <w>es<g ref="#slong"/>t</w>
-        <w><choice><abbr>a<am><g ref="#utilde"/></am>t</abbr><expan>aut<ex>em</ex></expan></choice></w>
-        <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>a<am><g ref="#utilde"/></am>t</abbr>
+            <expan>aut<ex>em</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>c<am><g ref="#utilde"/></am></abbr>
+            <expan>cu<ex>m</ex></expan>
+          </choice></w>
         <w>e<g ref="#slong"/><g ref="#slong"/>ent</w>
         <w>sancti</w>
         <persName ref="#Dio"><w><orig>dei</orig><reg>Dei</reg></w></persName>
         <w>exequie</w>
         <w>celebrare</w><pc><g ref="#middot"/></pc>
         <w>ut</w>
-        <damage type="N" extent="3char"><persName ref="#Dio"><w><choice><orig><abbr>d<am><g ref="#ntilde"/></am>s</abbr></orig><reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg></choice></w></persName></damage>
-        <lb n="31"/>
-        <space extent="4char" dim="horizontal"/>
-        <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
-        <w><choice><abbr>i<am><g ref="#ptilde"/></am>m</abbr><expan>ip<ex>su</ex>m</expan></choice></w>
-        <w><choice><sic><abbr>o<g ref="#slong"/>tendend<am><g ref="#etilde"/></am>t</abbr><expan>ostendende<ex>re</ex>t</expan></sic><corr>ostenderet</corr></choice></w>
+        <damage extent="3char" type="N"><persName ref="#Dio"><w><choice>
+                <orig><abbr>d<am><g ref="#ntilde"/></am>s</abbr></orig>
+                <reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg>
+              </choice></w></persName></damage>
+        <lb n="31" xml:id="ST_lb_03r_31"/>
+        <space dim="horizontal" extent="4char"/>
+        <w><choice>
+            <abbr><am><g ref="#pbardes"/></am></abbr>
+            <expan>p<ex>er</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>i<am><g ref="#ptilde"/></am>m</abbr>
+            <expan>ip<ex>su</ex>m</expan>
+          </choice></w>
+        <w><choice>
+            <sic><abbr>o<g ref="#slong"/>tendend<am><g ref="#etilde"
+              /></am>t</abbr><expan>ostendende<ex>re</ex>t</expan></sic>
+            <corr>ostenderet</corr>
+          </choice></w>
         <w>prodigia</w>
         <w>et</w>
         <w><g ref="#slong"/>igna</w>
         <w>magna</w>
-        <choice><orig><abbr><am><g ref="#itilde"/></am>populo</abbr></orig><reg><w><expan>i<ex>n</ex></expan></w><w>populo</w></reg></choice><pc>.</pc>
+        <choice>
+          <orig><abbr><am><g ref="#itilde"/></am>populo</abbr></orig>
+          <reg><w><expan>i<ex>n</ex></expan></w><w>populo</w></reg>
+        </choice><pc>.</pc>
         <w>fecit</w>
-        <w><choice><abbr>ita<am><g ref="#q3app"/></am></abbr><expan>itaq<ex>ue</ex></expan></choice></w>
-        <lb n="32"/>
+        <w><choice>
+            <abbr>ita<am><g ref="#q3app"/></am></abbr>
+            <expan>itaq<ex>ue</ex></expan>
+          </choice></w>
+        <lb n="32" xml:id="ST_lb_03r_32"/>
         <w>benedictus</w>
-        <w><choice><abbr><g ref="#slong"/>anct<am><g ref="#usmod"/></am></abbr><expan>sanctu<ex>s</ex></expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>anct<am><g ref="#usmod"/></am></abbr>
+            <expan>sanctu<ex>s</ex></expan>
+          </choice></w>
         <w>po<g ref="#slong"/>t</w>
         <w>mortem</w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#atilde"/></am></abbr><expan>sua<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>u<am><g ref="#atilde"/></am></abbr>
+            <expan>sua<ex>m</ex></expan>
+          </choice></w>
         <w>tot</w>
-        <w>mir<damage type="N" extent="2char">ac</damage>ula</w><pc><g ref="#middot"/></pc>
-        <damage type="N" extent="1char"><choice><abbr><am><g ref="#qslstrok"/></am></abbr><expan>q<ex>ue</ex></expan></choice></damage>
-        <w><choice><abbr>n<am><g ref="#otilde"/></am></abbr><expan>no<ex>n</ex></expan></choice></w>
+        <w>mir<damage extent="2char" type="N">ac</damage>ula</w><pc><g ref="#middot"/></pc>
+        <damage extent="1char" type="N"><choice>
+            <abbr><am><g ref="#qslstrok"/></am></abbr>
+            <expan>q<ex>ue</ex></expan>
+          </choice></damage>
+        <w><choice>
+            <abbr>n<am><g ref="#otilde"/></am></abbr>
+            <expan>no<ex>n</ex></expan>
+          </choice></w>
         <w>po<g ref="#slong"/><g ref="#slong"/>unt</w>
-        <lb n="33"/>
-        <w><choice><abbr><am><g ref="#ptilde"/></am></abbr><expan>p<ex>re</ex></expan></choice></w>
+        <lb n="33" xml:id="ST_lb_03r_33"/>
+        <w><choice>
+            <abbr><am><g ref="#ptilde"/></am></abbr>
+            <expan>p<ex>re</ex></expan>
+          </choice></w>
         <w>multitudine</w>
-        <w>numerari</w><pc><g ref="#hidot"/></pc> 
-        <w><choice><abbr>S<am><g ref="#etfin"/></am></abbr><expan>Se<ex>t</ex></expan></choice></w>
+        <w>numerari</w><pc><g ref="#hidot"/></pc>
+        <w><choice>
+            <abbr>S<am><g ref="#etfin"/></am></abbr>
+            <expan>Se<ex>t</ex></expan>
+          </choice></w>
         <w>que</w>
-        <w><choice><abbr><damage extent="1char"><g ref="#slong"/></damage>u<am><g ref="#ttilde"/></am></abbr><expan>su<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr><damage extent="1char"><g ref="#slong"/></damage>u<am><g ref="#ttilde"/></am></abbr>
+            <expan>su<ex>n</ex>t</expan>
+          </choice></w>
         <w>nota</w>
-        <w><choice><abbr><am><g ref="#et"/></am></abbr><expan><ex>et</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#et"/></am></abbr>
+            <expan><ex>et</ex></expan>
+          </choice></w>
         <w>apta</w><pc><g ref="#middot"/></pc>
         <w>et</w>
-        <w><choice><orig>celure</orig><reg>secure</reg></choice></w>
-        <w>memo<lb n="34"/>rie</w>
-        <w><choice><abbr>c<am><g ref="#otilde"/></am>mendata</abbr><expan>co<ex>m</ex>mendata</expan></choice>commendata</w><pc><g ref="#hidot"/></pc>
-        <w><choice><abbr><g ref="#slong"/>eriat<am><g ref="#itilde"/></am></abbr><expan>seriati<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <orig>celure</orig>
+            <reg>secure</reg>
+          </choice></w>
+        <w>memo<lb n="34" xml:id="ST_lb_03r_34"/>rie</w>
+        <w><choice>
+            <abbr>c<am><g ref="#otilde"/></am>mendata</abbr>
+            <expan>co<ex>m</ex>mendata</expan>
+          </choice>commendata</w><pc><g ref="#hidot"/></pc>
+        <w><choice>
+            <abbr><g ref="#slong"/>eriat<am><g ref="#itilde"/></am></abbr>
+            <expan>seriati<ex>m</ex></expan>
+          </choice></w>
         <w>inferius</w>
         <w>denotantur</w><pc>.</pc>
         <w><g ref="#Eunc"/>t</w>
         <w>revellata</w>
-        <w><choice><abbr><g ref="#slong"/><am><g ref="#utilde"/></am>t</abbr><expan>su<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/><am><g ref="#utilde"/></am>t</abbr>
+            <expan>su<ex>n</ex>t</expan>
+          </choice></w>
         <w>ea</w>
-        <lb n="35"/>
+        <lb n="35" xml:id="ST_lb_03r_35"/>
         <w>que</w>
         <w>fiebant</w>
-        <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#pbardes"/></am></abbr>
+            <expan>p<ex>er</ex></expan>
+          </choice></w>
         <persName ref="#sanTeobaldo">
-          <w><choice><abbr><g ref="#slong"/>c<am><g ref="#mtilde"/></am></abbr><expan>s<ex>an</ex>c<ex>tu</ex>m</expan></choice></w>
-        <w><choice><orig><abbr>thebaud<am><g ref="#utilde"/></am></abbr></orig><reg><expan>Thebaudu<ex>m</ex></expan></reg></choice></w>
+          <w><choice>
+              <abbr><g ref="#slong"/>c<am><g ref="#mtilde"/></am></abbr>
+              <expan>s<ex>an</ex>c<ex>tu</ex>m</expan>
+            </choice></w>
+          <w><choice>
+              <orig><abbr>thebaud<am><g ref="#utilde"/></am></abbr></orig>
+              <reg><expan>Thebaudu<ex>m</ex></expan></reg>
+            </choice></w>
         </persName>
         <w>per</w>
         <w>totam</w>
         <placeName ref="#Lombardia">
-          <choice><orig><abbr>lombardi<am><g ref="#atilde"/></am></abbr></orig><reg><expan>Lombardia<ex>m</ex></expan></reg></choice>
+          <choice>
+            <orig><abbr>lombardi<am><g ref="#atilde"/></am></abbr></orig>
+            <reg><expan>Lombardia<ex>m</ex></expan></reg>
+          </choice>
         </placeName><pc><g ref="#hidot"/></pc>
         <w>et</w>
-        <w><choice><abbr>om<am><g ref="#etilde"/></am>s</abbr><expan>om<ex>ne</ex>s</expan></choice></w>
+        <w><choice>
+            <abbr>om<am><g ref="#etilde"/></am>s</abbr>
+            <expan>om<ex>ne</ex>s</expan>
+          </choice></w>
         <w>alias</w>
-        <w><choice><abbr><am><g ref="#pflour"/></am><lb n="36"/>vintias</abbr><expan>p<ex>ro</ex><lb n="36"/>vintias</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#pflour"/></am><lb n="36" xml:id="ST_lb_03r_36_abbr"/>vintias</abbr>
+            <expan>p<ex>ro</ex><lb n="36" xml:id="ST_lb_03r_36_expan"/>vintias</expan>
+          </choice></w>
         <w>illi</w>
-        <w>cir<damage type="N" extent="1char">c</damage>un<g ref="#slong"/>tantes</w><pc>.</pc>
+        <w>cir<damage extent="1char" type="N">c</damage>un<g ref="#slong"/>tantes</w><pc>.</pc>
         <w><g ref="#Eunc"/>t</w>
-        <w><choice><abbr>fact<am><g ref="#utilde"/></am></abbr><expan>factu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>fact<am><g ref="#utilde"/></am></abbr>
+            <expan>factu<ex>m</ex></expan>
+          </choice></w>
         <w>e<g ref="#slong"/>t</w>
         <w>ut</w>
-        <w><choice><abbr>undi<am><g ref="#q3app"/></am></abbr><expan>undiq<ex>ue</ex></expan></choice></w>
-        <w><choice><abbr><am><g ref="#condes"/></am>current</abbr><expan><ex>con</ex>current</expan></choice></w>
+        <w><choice>
+            <abbr>undi<am><g ref="#q3app"/></am></abbr>
+            <expan>undiq<ex>ue</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr><am><g ref="#condes"/></am>current</abbr>
+            <expan><ex>con</ex>current</expan>
+          </choice></w>
         <w>gente<g ref="#esh"/></w>
-        <lb n="37"/>
-        <w><choice><abbr><am><g ref="#ptilde"/></am><expan>p<ex>re</ex></expan></abbr></choice></w>
-        <w>multitud<damage type="N" extent="3char">ine</damage></w>
-        <w><choice><abbr>miraculo<am><g ref="#rum"/></am></abbr><expan>miraculo<ex>rum</ex></expan></choice></w>
+        <lb n="37" xml:id="ST_lb_03r_37"/>
+        <w><choice>
+            <abbr><am><g ref="#ptilde"/></am><expan>p<ex>re</ex></expan></abbr>
+          </choice></w>
+        <w>multitud<damage extent="3char" type="N">ine</damage></w>
+        <w><choice>
+            <abbr>miraculo<am><g ref="#rum"/></am></abbr>
+            <expan>miraculo<ex>rum</ex></expan>
+          </choice></w>
         <w>que</w>
         <persName ref="#Dio">
-          <w><choice><orig><abbr><am>d<g ref="#ntilde"/></am>s</abbr></orig><reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg></choice></w>
+          <w><choice>
+              <orig><abbr><am>d<g ref="#ntilde"/></am>s</abbr></orig>
+              <reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg>
+            </choice></w>
         </persName>
         <w>o<g ref="#slong"/>tendebat</w>
-        <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
-        <w><choice><abbr>ip<am><g ref="#mtilde"/></am></abbr><expan>ip<ex>su</ex>m</expan></choice></w>
-        <w><choice><abbr>us<am><g ref="#q3app"/></am></abbr><expan>usq<ex>ue</ex></expan></choice></w>
-          <choice>
-            <orig><w><abbr><am><g ref="#itilde"/></am>hodiern<am><g ref="#etfin"/></am></abbr></w></orig>
-            <reg><w><expan>i<ex>n</ex></expan></w><w><expan>hodiernu<ex>m</ex></expan></w></reg>
-          </choice>
-        <lb n="38"/>
-        <w>diem</w> 
+        <w><choice>
+            <abbr><am><g ref="#pbardes"/></am></abbr>
+            <expan>p<ex>er</ex></expan>
+          </choice></w>
+        <w><choice>
+            <abbr>ip<am><g ref="#mtilde"/></am></abbr>
+            <expan>ip<ex>su</ex>m</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>us<am><g ref="#q3app"/></am></abbr>
+            <expan>usq<ex>ue</ex></expan>
+          </choice></w>
+        <choice>
+          <orig><w><abbr><am><g ref="#itilde"/></am>hodiern<am><g ref="#etfin"/></am></abbr></w></orig>
+          <reg><w><expan>i<ex>n</ex></expan></w><w><expan>hodiernu<ex>m</ex></expan></w></reg>
+        </choice>
+        <lb n="38" xml:id="ST_lb_03r_38"/>
+        <w>diem</w>
         <w><g ref="#Eunc"/>t</w>
-        <w><choice><abbr>implet<am><g ref="#utilde"/></am></abbr><expan>impletu<ex>m</ex></expan></choice></w>
+        <w><choice>
+            <abbr>implet<am><g ref="#utilde"/></am></abbr>
+            <expan>impletu<ex>m</ex></expan>
+          </choice></w>
         <w>e<g ref="#slong"/>t</w>
         <w>verbum</w>
-        <w><choice><abbr><am><g ref="#ppflourlig"/></am>h<am><g ref="#usmod"/></am>e</abbr><expan>p<ex>ro</ex>ph<ex>et</ex>e</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#ppflourlig"/></am>h<am><g ref="#usmod"/></am>e</abbr>
+            <expan>p<ex>ro</ex>ph<ex>et</ex>e</expan>
+          </choice></w>
         <w>dicentis</w>
-         <quote> 
-        <w>Intonuit</w>
-        <w>de</w>
-        <w>celo</w>
-        <persName ref="#Dio">
-          <w><choice><orig><abbr>d<am><g ref="#ntilde"/></am>s</abbr></orig><reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg></choice></w></persName>
-        <w>et</w>
-        <lb n="39"/>
-         <persName ref="#Dio">  
-        <w><choice><orig>alt<g ref="#slong"/><g ref="#slong"/>imus</orig><reg>Altissimus</reg></choice></w>
-           </persName>
-        <w>dedit</w>
-        <w>vocem</w>
-        <w><g ref="#slong"/>uam</w>
+        <quote>
+          <w>Intonuit</w>
+          <w>de</w>
+          <w>celo</w>
+          <persName ref="#Dio">
+            <w><choice>
+                <orig><abbr>d<am><g ref="#ntilde"/></am>s</abbr></orig>
+                <reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg>
+              </choice></w></persName>
+          <w>et</w>
+          <lb n="39" xml:id="ST_lb_03r_39"/>
+          <persName ref="#Dio">
+            <w><choice>
+                <orig>alt<g ref="#slong"/><g ref="#slong"/>imus</orig>
+                <reg>Altissimus</reg>
+              </choice></w>
+          </persName>
+          <w>dedit</w>
+          <w>vocem</w>
+          <w><g ref="#slong"/>uam</w>
         </quote><pc>.</pc>
         <w><g ref="#Eunc"/>t</w>
-        <w><choice><abbr><damage extent="1char">i</damage><am><g ref="#ttildevert"/></am>um</abbr><expan>it<ex>er</ex>um</expan></choice></w><pc><g ref="#middot"/></pc> 
+        <w><choice>
+            <abbr><damage extent="1char">i</damage><am><g ref="#ttildevert"/></am>um</abbr>
+            <expan>it<ex>er</ex>um</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
         <quote>
           <w>In</w>
-        <w><choice><abbr>oe<am><g ref="#mtilde"/></am></abbr><expan>o<expan>mn</expan>em</expan></choice></w>
-        <w><choice><abbr>t<damage extent="4char">erra<am><g ref="#atilde"/></am></damage></abbr><expan>t<damage type="N" extent="4">erra<ex>m</ex></damage></expan></choice></w>
-        <w><damage type="N" extent="2char"><g ref="#slong"/>o</damage>nus</w>
-        <w>eiu<g ref="#esh"/></w>
-        <lb n="40"/>
-        <w>exivit</w>
-         </quote><pc>.</pc>
-        <w>I<damage type="N" extent="5">gitur</damage></w>
-        <choice><orig><w><abbr>exoblationib<am><g ref="#etfin"/></am></abbr></w></orig><reg><w>ex</w><w><expan>oblationib<ex>us</ex></expan></w></reg></choice>
+          <w><choice>
+              <abbr>oe<am><g ref="#mtilde"/></am></abbr>
+              <expan>o<expan>mn</expan>em</expan>
+            </choice></w>
+          <w><choice>
+              <abbr>t<damage extent="4char">erra<am><g ref="#atilde"/></am></damage></abbr>
+              <expan>t<damage extent="4" type="N">erra<ex>m</ex></damage></expan>
+            </choice></w>
+          <w><damage extent="2char" type="N"><g ref="#slong"/>o</damage>nus</w>
+          <w>eiu<g ref="#esh"/></w>
+          <lb n="40" xml:id="ST_lb_03r_40"/>
+          <w>exivit</w>
+        </quote><pc>.</pc>
+        <w>I<damage extent="5" type="N">gitur</damage></w>
+        <choice>
+          <orig><w><abbr>exoblationib<am><g ref="#etfin"/></am></abbr></w></orig>
+          <reg><w>ex</w><w><expan>oblationib<ex>us</ex></expan></w></reg>
+        </choice>
         <g ref="#logand"/>
         <add place="margin">
-        <g ref="#logand"/>  
-        <w><choice><abbr><am><g ref="#pbardes"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
-        <w><abbr><g ref="#ppflourlig"/><am><g ref="#ltailstrok"/></am>o<g ref="#esh"/></abbr><expan>p<ex>o</ex>p<ex>u</ex>los</expan></w>
-        <w><choice><abbr><am><g ref="#condes"/></am>cur<am><g ref="#etilde"/></am>tes</abbr><expan><ex>con</ex>cur<ex>ren</ex>tes</expan></choice></w>
-        <w><choice><abbr>exibit<am><g ref="#usmod"/></am></abbr><expan>exibit<ex>as</ex></expan></choice></w>
-        <w><choice><abbr><am><g ref="#pflour"/></am></abbr><expan>p<ex>er</ex></expan></choice></w>
-        <w><choice><sic><abbr>h<am><g ref="#usmod"/></am>re</abbr><expan>ho<ex>no</ex>re</expan></sic><corr>honorem</corr></choice></w>
-        </add>
-          <persName ref="#sanTeobaldo">
-        <w><g ref="#slong"/>an<damage extent="2char">ct</damage>i</w>
-        <w>glorio<g ref="#slong"/><g ref="#slong"/>i</w><pc>.</pc>
           <g ref="#logand"/>
-        <add place="above"><choice><orig>tebaudi</orig><reg>Tebaudi</reg></choice></add>
+          <w><choice>
+              <abbr><am><g ref="#pbardes"/></am></abbr>
+              <expan>p<ex>er</ex></expan>
+            </choice></w>
+          <w><abbr><g ref="#ppflourlig"/><am><g ref="#ltailstrok"/></am>o<g ref="#esh"
+                /></abbr><expan>p<ex>o</ex>p<ex>u</ex>los</expan></w>
+          <w><choice>
+              <abbr><am><g ref="#condes"/></am>cur<am><g ref="#etilde"/></am>tes</abbr>
+              <expan><ex>con</ex>cur<ex>ren</ex>tes</expan>
+            </choice></w>
+          <w><choice>
+              <abbr>exibit<am><g ref="#usmod"/></am></abbr>
+              <expan>exibit<ex>as</ex></expan>
+            </choice></w>
+          <w><choice>
+              <abbr><am><g ref="#pflour"/></am></abbr>
+              <expan>p<ex>er</ex></expan>
+            </choice></w>
+          <w><choice>
+              <sic><abbr>h<am><g ref="#usmod"/></am>re</abbr><expan>ho<ex>no</ex>re</expan></sic>
+              <corr>honorem</corr>
+            </choice></w>
+        </add>
+        <persName ref="#sanTeobaldo">
+          <w><g ref="#slong"/>an<damage extent="2char">ct</damage>i</w>
+          <w>glorio<g ref="#slong"/><g ref="#slong"/>i</w><pc>.</pc>
+          <g ref="#logand"/>
+          <add place="above"><choice>
+              <orig>tebaudi</orig>
+              <reg>Tebaudi</reg>
+            </choice></add>
         </persName>
         <w>nutu</w>
-        <w><choice><abbr><am><g ref="#et"/></am><expan><ex>et</ex></expan></abbr></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#et"/></am><expan><ex>et</ex></expan></abbr>
+          </choice></w>
         <w>voluntate</w>
         <persName><w><orig>dei</orig><reg>Dei</reg></w></persName>
-        <lb n="41"/>
+        <lb n="41" xml:id="ST_lb_03r_41"/>
         <w>facta</w>
-        <w><choice><abbr><g ref="#slong"/><am><g ref="#utilde"/>t</am></abbr><expan>su<ex>n</ex>t</expan></choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/><am><g ref="#utilde"/>t</am></abbr>
+            <expan>su<ex>n</ex>t</expan>
+          </choice></w>
         <w>in</w>
         <w>civitale</w>
         <w>quatuor</w>
         <w><g ref="#slong"/>ublimia</w>
-        <w>opera</w><pc><g ref="#middot"/></pc> 
+        <w>opera</w><pc><g ref="#middot"/></pc>
         <w>vi<unclear extent="3">del</unclear>icet</w>
-        <w><choice><abbr>ecc<am><g ref="#ltailstrok"/></am>a</abbr><expan>eccl<ex>esi</ex>a</expan></choice></w>
-        <lb n="42"/>
+        <w><choice>
+            <abbr>ecc<am><g ref="#ltailstrok"/></am>a</abbr>
+            <expan>eccl<ex>esi</ex>a</expan>
+          </choice></w>
+        <lb n="42" xml:id="ST_lb_03r_42"/>
         <add place="margin-left"><w>campanile</w></add>
-        <w><choice><orig>Campanile</orig><reg>campanile</reg></choice></w>
+        <w><choice>
+            <orig>Campanile</orig>
+            <reg>campanile</reg>
+          </choice></w>
         <w>revolutiones</w><pc><g ref="#middot"/></pc>
         <add place="above">
-        <w><g ref="#slong"/>ive</w>
-        <w>volte</w>
+          <w><g ref="#slong"/>ive</w>
+          <w>volte</w>
         </add><pc><g ref="#middot"/></pc>
         <w>et</w>
         <w>ho<g ref="#slong"/>pitale</w>
-        <w><choice><abbr>pau<am><g ref="#pbardes"/></am>um</abbr><expan>paup<ex>er</ex>um</expan></choice></w><pc><g ref="#middot"/></pc> 
+        <w><choice>
+            <abbr>pau<am><g ref="#pbardes"/></am>um</abbr>
+            <expan>paup<ex>er</ex>um</expan>
+          </choice></w><pc><g ref="#middot"/></pc>
         <w>edifficavit</w>
         <label n="34" type="edition_page"/>
-          <w><choice><abbr>ec<am>cͣ</am>m</abbr><expan>eccl<ex>esia</ex>m</expan></choice></w>
-        <lb n="43"/>
+        <w><choice>
+            <abbr>ec<am>cͣ</am>m</abbr>
+            <expan>eccl<ex>esia</ex>m</expan>
+          </choice></w>
+        <lb n="43" xml:id="ST_lb_03r_43"/>
         <w>que</w>
-        <w><choice><abbr><am><g ref="#condes"/></am>iunxit</abbr><expan><ex>con</ex>iunxit</expan></choice></w>
+        <w><choice>
+            <abbr><am><g ref="#condes"/></am>iunxit</abbr>
+            <expan><ex>con</ex>iunxit</expan>
+          </choice></w>
         <w>alias</w>
         <w>duas</w>
         <w><g ref="#slong"/>imul</w>
@@ -4694,57 +5148,99 @@
         <w>unitatis</w>
         <w>et</w>
         <w>pacis</w>
-        <w><choice><abbr>copl<am><g ref="#usmod"/></am>a</abbr><expan>cop<ex>u</ex>la<ex>m</ex></expan></choice></w>
-        <lb n="44"/>
+        <w><choice>
+            <abbr>copl<am><g ref="#usmod"/></am>a</abbr>
+            <expan>cop<ex>u</ex>la<ex>m</ex></expan>
+          </choice></w>
+        <lb n="44" xml:id="ST_lb_03r_44"/>
         <w>demonstraret</w>
-        <choice><orig><w>infactione</w></orig><reg><w>in</w><w>factione</w></reg></choice>
+        <choice>
+          <orig><w>infactione</w></orig>
+          <reg><w>in</w><w>factione</w></reg>
+        </choice>
         <w>campanilis</w>
-        <w><choice><abbr>p<am><g ref="#otilde"/></am>t</abbr><expan>pot<ex>est</ex></expan></choice></w>
+        <w><choice>
+            <abbr>p<am><g ref="#otilde"/></am>t</abbr>
+            <expan>pot<ex>est</ex></expan>
+          </choice></w>
         <w>intelligi</w>
         <w>civitatis</w>
-        <w>cu
-        <pb n="4" xml:id="ST_fol_04r"/>
-          <lb n="1"/>sto<g ref="#esh"/></w> 
+        <w>cu <pb n="4" xml:id="ST_fol_04r"/>
+          <lb n="1"/>sto<g ref="#esh"/></w>
         <add place="top-left"><fw type="fol">pagina 4</fw></add>
         <w>cum</w>
-        <w><choice><abbr>ip<am><g ref="#atilde"/></am>m</abbr><expan>ip<ex>s</ex>am</expan></choice></w>
-        <w><choice><abbr><g ref="#slong"/>em<am><g ref="#pbardes"/></am></abbr><expan>semp<ex>er</ex></expan></choice></w>
+        <w><choice>
+            <abbr>ip<am><g ref="#atilde"/></am>m</abbr>
+            <expan>ip<ex>s</ex>am</expan>
+          </choice></w>
+        <w><choice>
+            <abbr><g ref="#slong"/>em<am><g ref="#pbardes"/></am></abbr>
+            <expan>semp<ex>er</ex></expan>
+          </choice></w>
         <w>protegat</w>
         <w>et</w>
-        <w>deffendat</w><pc>.</pc> 
+        <w>deffendat</w><pc>.</pc>
         <w>In</w>
-        <w><choice><abbr>revolutionib<am><g ref="#etfin"/></am></abbr><expan>revolutionib<ex>us</ex></expan></choice></w>
+        <w><choice>
+            <abbr>revolutionib<am><g ref="#etfin"/></am></abbr>
+            <expan>revolutionib<ex>us</ex></expan>
+          </choice></w>
         <w>fatiendis</w>
         <w>intelligitur</w>
         <lb n="2"/>
         <add>
-          <fw type="N" place="margin-left"><w>n°I</w><pc><g ref="#middot"/></pc></fw>
+          <fw place="margin-left" type="N"><w>n°I</w><pc><g ref="#middot"/></pc></fw>
         </add>
-          <w>civitati</w>
-        <w>con<g ref="#slong"/>ulere</w><pc><g ref="#middot"/></pc> 
+        <w>civitati</w>
+        <w>con<g ref="#slong"/>ulere</w><pc><g ref="#middot"/></pc>
         <w>et</w>
         <w>bonis</w>
-        <w><choice><abbr>i<am><g ref="#ptilde"/></am>ius</abbr><expan>ip<ex>s</ex>ius</expan></choice></w>
-        <w><choice><abbr><am><g ref="#condes"/></am><g ref="#slong"/>iliis</abbr><expan><ex>con</ex>siliis</expan></choice></w>
-        <w><choice><abbr>in<am><g ref="#ttildevert"/></am>e<g ref="#slong"/><g ref="#slong"/>e</abbr><expan>int<ex>er</ex>esse</expan></choice></w><pc>.</pc> 
+        <w><choice>
+            <abbr>i<am><g ref="#ptilde"/></am>ius</abbr>
+            <expan>ip<ex>s</ex>ius</expan>
+          </choice></w>
+        <w><choice>
+            <abbr><am><g ref="#condes"/></am><g ref="#slong"/>iliis</abbr>
+            <expan><ex>con</ex>siliis</expan>
+          </choice></w>
+        <w><choice>
+            <abbr>in<am><g ref="#ttildevert"/></am>e<g ref="#slong"/><g ref="#slong"/>e</abbr>
+            <expan>int<ex>er</ex>esse</expan>
+          </choice></w><pc>.</pc>
         <w>In</w>
         <w>ordinatione</w>
         <w>ho<g ref="#slong"/>pital<unclear extent="1char">i</unclear>s</w>
         <w><g ref="#slong"/>e</w>
         <w>e<g ref="#slong"/><g ref="#slong"/>e</w>
         <w>procu<lb n="3"/>ratorem</w>
-        <w><choice><abbr>pau<am><g ref="#pbardes"/></am>um</abbr><expan>paup<ex>er</ex>um</expan></choice></w>
-        <w>demonstravit</w><pc><g ref="#middot"/></pc> 
+        <w><choice>
+            <abbr>pau<am><g ref="#pbardes"/></am>um</abbr>
+            <expan>paup<ex>er</ex>um</expan>
+          </choice></w>
+        <w>demonstravit</w><pc><g ref="#middot"/></pc>
         <w>et</w>
         <damage extent="18char">
-        <w><choice><abbr>i<am><g ref="#ptilde"/></am>os</abbr><expan>ip<ex>s</ex>os</expan></choice></w>
-        <w><choice><abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr><expan>sup<ex>er</ex></expan></choice></w>
-        <w>totam</w>
-        <w><choice><abbr>pos<am><g ref="#slongbarslash"/><g ref="#otilde"/></am>m</abbr><expan>poss<ex>essi</ex>o<ex>n</ex>em</expan></choice></w>
-        </damage>  
+          <w><choice>
+              <abbr>i<am><g ref="#ptilde"/></am>os</abbr>
+              <expan>ip<ex>s</ex>os</expan>
+            </choice></w>
+          <w><choice>
+              <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
+              <expan>sup<ex>er</ex></expan>
+            </choice></w>
+          <w>totam</w>
+          <w><choice>
+              <abbr>pos<am><g ref="#slongbarslash"/><g ref="#otilde"/></am>m</abbr>
+              <expan>poss<ex>essi</ex>o<ex>n</ex>em</expan>
+            </choice></w>
+        </damage>
         <unclear extent="7"><w><g ref="#slong"/>u<g ref="#slong"/>tituit</w></unclear>
-          <damage extent="7char"><choice><orig><w>in<abbr>h<am><g ref="#usmod"/></am>des</abbr></w></orig><reg><w>in</w> <w><expan>h<ex>e</ex>e<ex>e</ex>des</expan></w></reg></choice><pc>.</pc></damage>
-        </p>  
+        <damage extent="7char"><choice>
+            <orig><w>in<abbr>h<am><g ref="#usmod"/></am>des</abbr></w></orig>
+            <reg><w>in</w>
+              <w><expan>h<ex>e</ex>e<ex>e</ex>des</expan></w></reg>
+          </choice><pc>.</pc></damage>
+      </p>  
           <p>[<w>Pergamena</w><w>IV</w>]</p>
         <p><del type="N" extent="N"><gap/></del></p>
         <lb n="4"/>
