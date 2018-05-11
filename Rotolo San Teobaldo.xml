@@ -1099,6 +1099,10 @@
       
       <charDecl>
         
+        <!-- ######################################################################## -->
+        <!-- NB: è INDISPENSABILE usare il font Junicode per visualizzare i caratteri -->
+        <!-- ######################################################################## -->
+
         <char xml:id="xxx">
           <charName></charName>
           <mapping type="codepoint" subtype="MUFI-PUA">U+</mapping>
@@ -1444,7 +1448,7 @@
         <char xml:id="ptilde">
           <charName>LATIN SMALL LETTER P WITH TILDE</charName>
           <mapping type="codepoint" subtype="composed">U+0070 + U+0303</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">p̃</mapping>
           <mapping type="normalized">p</mapping>
         </char>
         
@@ -1517,14 +1521,14 @@
         <char xml:id="muncdes">
           <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGH DESCENDER</charName>
           <mapping type="codepoint" subtype="MUFI-PUA">U+F223D</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">&#991805;</mapping>
           <mapping type="normalized">m</mapping>
         </char>
         
         <char xml:id="Muncdesosup">
           <charName>LATIN MEDIUSCULE LETTER M UNCIAL FORM WITH RIGH DESCENDER AND RING ABOVE</charName>
           <mapping type="codepoint" subtype="composed">U+F224 + U+02DA</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">˚</mapping>
           <mapping type="normalized">M</mapping>
         </char>
         
@@ -1538,7 +1542,7 @@
         <char xml:id="nrdes">
           <charName>LATIN SMALL LETTER N WITH RIGHT DESCENDER</charName>
           <mapping type="codepoint" subtype="MUFI-PUA">U+F228</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic"></mapping><!-- non sembra ma c'è -->
           <mapping type="normalized">n</mapping>
         </char>
         
@@ -1546,59 +1550,56 @@
         <char xml:id="cinodotsup">
           <charName>LATIN SMALL LETTER C WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0063 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">c</mapping>
           <mapping type="normalized">c</mapping>
         </char>
         
         <char xml:id="ninodotsup">
           <charName>LATIN SMALL LETTER N WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+006E + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">n</mapping>
           <mapping type="normalized">n</mapping>
         </char>
         
         <char xml:id="minodotsup">
           <charName>LATIN SMALL LETTER M WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+006D + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
-          <mapping type="normalized">n</mapping>
+          <mapping type="diplomatic">m</mapping>
+          <mapping type="normalized">m</mapping>
         </char>
         
         <char xml:id="pinodotsup">
           <charName>LATIN SMALL LETTER P WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0070 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">p</mapping>
           <mapping type="normalized">p</mapping>
         </char>
         
         <char xml:id="sinodotsup">
           <charName>LATIN SMALL LETTER S WITH VERTICAL DOTLESS I</charName>   
           <mapping type="codepoint" subtype="composed">U+0073 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
-          <mapping type="normalized">p</mapping>
-        </char>
-        
-        
-        <char xml:id="ptsup">
-          <charName>LATIN SMALL LETTER P WITH LATIN SMALL LETTER T ABOVE</charName>
-          <mapping type="codepoint" subtype="composed">U+0069 + U+036D</mapping>
-          <mapping type="diplomatic">pͭ</mapping>
+          <mapping type="diplomatic">s</mapping>
+          <mapping type="normalized">s</mapping>
         </char>
         
         <char xml:id="qinodotsup">
           <charName>LATIN SMALL LETTER Q WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0071 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
-          <mapping type="normalized">p</mapping>
+          <mapping type="diplomatic">q</mapping>
+          <mapping type="normalized">q</mapping>
         </char>
-        
-       
        
         <char xml:id="tinodotsup">
           <charName>LATIN SMALL LETTER T WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0074 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">t</mapping>
           <mapping type="normalized">t</mapping>
+        </char>
+        
+        <char xml:id="ptsup">
+          <charName>LATIN SMALL LETTER P WITH LATIN SMALL LETTER T ABOVE</charName>
+          <mapping type="codepoint" subtype="composed">U+0069 + U+036D</mapping>
+          <mapping type="diplomatic">pͭ</mapping>
         </char>
         
         <char xml:id="ttildevert">
@@ -1611,7 +1612,7 @@
         <char xml:id="uinodotsup">
           <charName>LATIN SMALL LETTER U WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0075 + U+F02F</mapping>
-          <mapping type="diplomatic"></mapping>
+          <mapping type="diplomatic">u</mapping>
           <mapping type="normalized">u</mapping>
         </char>
         
@@ -1773,7 +1774,7 @@
         <w>no<g ref="#slong"/>t<gap extent="2char"/><supplied>er</supplied></w>
         <persName ref="#Gesù">
           <w><choice>
-              <orig><abbr>i<am><g ref="#hercurl"/></am>s</abbr></orig>
+              <orig><abbr>ih<am><g ref="#combhook"/></am>s</abbr></orig>
               <reg><expan>J<ex>esu</ex>s</expan></reg>
             </choice></w>
           <w><choice>
@@ -2238,7 +2239,7 @@
           <w>pro</w>
           <w>eo</w>
           <w><choice>
-              <abbr>q<am><g ref="#drotercurl"/></am></abbr>
+              <abbr>qd<am><g ref="#combhook"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w>dicitis</w><pc><g ref="#middot"/></pc>
@@ -2252,7 +2253,7 @@
           <lb n="18" xml:id="ST_lb_01r_18"/>
           <w>et</w>
           <w><choice>
-              <abbr>vo<am><g ref="#bercurl"/></am></abbr>
+            <abbr>vob<am><g ref="#combhook"/></am></abbr>
               <expan>vob<ex>is</ex></expan>
             </choice></w>
           <w>reffero</w>
@@ -2332,7 +2333,7 @@
             </choice></w>
         </persName><pc><g ref="#middot"/></pc>
         <w><choice>
-            <orig><am><g ref="#bercurl"/></am>ndixit</orig>
+          <orig>b<am><g ref="#combhook"/></am>ndixit</orig>
             <reg>b<ex>e</ex>n<ex>e</ex>dixit</reg>
           </choice></w>
         <w>illi</w>
@@ -3053,7 +3054,7 @@
           </choice></w>
         <w>per</w>
         <w><choice>
-            <abbr><am><g ref="#ppflourlig"/><g ref="#hercurl"/></am>am</abbr>
+          <abbr><am><g ref="#ppflourlig"/>h<g ref="#combhook"/></am>am</abbr>
             <expan>p<ex>ro</ex>ph<ex>et</ex>am</expan>
           </choice></w>
         <w><choice>
@@ -3074,7 +3075,7 @@
           <w>ei</w><pc><g ref="#middot"/></pc>
           <w>noluit</w>
           <w><choice>
-              <sic><abbr><am><g ref="#bercurl"/></am>nditionem</abbr><expan>b<ex>e</ex>n<ex>e</ex>ditionem</expan></sic>
+            <sic><abbr>b<am><g ref="#combhook"/></am>nditionem</abbr><expan>b<ex>e</ex>n<ex>e</ex>ditionem</expan></sic>
               <corr>benedictionem</corr>
             </choice></w><pc><g ref="#middot"/></pc>
           <w>et</w>
@@ -3586,7 +3587,7 @@
             <expan>castru<ex>m</ex></expan>
           </choice></w>
         <w><choice>
-            <abbr><am>q<g ref="#drotercurl"/></am></abbr>
+          <abbr><am>qd<g ref="#combhook"/></am></abbr>
             <expan>q<ex>uo</ex>d</expan>
           </choice></w>
         <w><choice>
@@ -3610,7 +3611,7 @@
           </choice></w>. <w>et</w>
         <w>exponens</w>
         <w><choice>
-            <abbr>q<am><g ref="#drotercurl"/></am></abbr>
+          <abbr>qd<am><g ref="#combhook"/></am></abbr>
             <expan>q<ex>uo</ex>d</expan>
           </choice></w>
         <w>intus</w>
@@ -3687,7 +3688,7 @@
           </choice></w>
         <lb n="28" xml:id="ST_lb_02r_28"/>
         <w><g ref="#slong"/>ciret</w>. <w><choice>
-            <abbr>q<am><g ref="#drotercurl"/></am></abbr>
+          <abbr>qd<am><g ref="#combhook"/></am></abbr>
             <expan>q<ex>uo</ex>d</expan>
           </choice></w>
         <w><choice>
@@ -3852,7 +3853,7 @@
           </choice></w>
         <w><g ref="#slong"/>ibi</w><pc><g ref="#hidot"/></pc>
         <w><choice>
-            <abbr>q<am><g ref="#drotercurl"/></am></abbr>
+          <abbr>qd<am><g ref="#combhook"/></am></abbr>
             <expan>q<ex>uo</ex>d</expan>
           </choice></w>
         <w><choice>
@@ -4057,7 +4058,7 @@
           </choice></w>
         <w>panis</w><pc><g ref="#hidot"/></pc>
         <w><choice>
-            <abbr>q<am><g ref="#drotercurl"/></am></abbr>
+          <abbr>qd<am><g ref="#combhook"/></am></abbr>
             <expan>q<ex>uo</ex>d</expan>
           </choice></w>
         <lb n="44" xml:id="ST_lb_02r_44"/>
@@ -6562,7 +6563,7 @@
         <w><choice><abbr>d<am><g ref="#ntilde"/></am>o<am><g ref="#rum"/></am></abbr><expan>d<ex>omi</ex>no<ex>rum</ex></expan></choice></w>
         <persName ref="#GiobArcipresbitero">
           <w>Job</w>
-        <w><choice><abbr>Archipb<am><g ref="#bercurl"/></am>ri</abbr><expan>archip<ex>res</ex>b<ex>ite</ex>ri</expan></choice></w>
+          <w><choice><abbr>Archipb<am><g ref="#combhook"/></am>ri</abbr><expan>archip<ex>res</ex>b<ex>ite</ex>ri</expan></choice></w>
         </persName>
           <w>et</w>
         <persName ref="#FrancescoRagio">
@@ -6613,7 +6614,7 @@
         <w><choice><abbr>alb<am><g ref="#combhook"/></am>en</abbr><expan>alben<ex>sis</ex></expan></choice></w>.
         <w><choice><abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>entibus</abbr><expan>p<ex>re</ex>sentibus</expan></choice></w>
         <w><choice><abbr>d<am><g ref="#ntilde"/></am>o</abbr><expan>d<ex>omi</ex>no</expan></choice></w>
-        <w><choice><abbr>archip<am><g ref="#bercurl"/></am>ro</abbr><expan>archip<ex>res</ex>b<ex>ite</ex>ro</expan></choice></w>
+          <w><choice><abbr>archipb<am><g ref="#combhook"/></am>ro</abbr><expan>archip<ex>res</ex>b<ex>ite</ex>ro</expan></choice></w>
         <w><choice><abbr>ipi<am><g ref="#utilde"/></am>s</abbr><expan>ip<ex>s</ex>ius</expan></choice></w>
         <w><choice><abbr>eccl<am><g ref="#usmod"/></am>ie</abbr><expan>eccl<ex>es</ex>ie</expan></choice></w>
         <persName ref="#TebaudoZoco"><w><choice><orig>the<lb n="24"/>baudo</orig><reg>The<lb n="24"/>baudo</reg></choice></w>
@@ -7165,7 +7166,7 @@
         <w>ad</w>
          <persName ref="#sanTeobaldo"> 
         <w><g ref="#slong"/>ancti</w>
-        <w><choice><orig>the<am><g ref="#bercurl"/></am>adi</orig><reg>Theba<ex>u</ex>di</reg></choice></w>
+           <w><choice><orig>theb<am><g ref="#combhook"/></am>adi</orig><reg>Theba<ex>u</ex>di</reg></choice></w>
        </persName>
         <w>perpetuam</w>
         <w>laudem</w><pc><g ref="#colmidcomposit"/></pc>
@@ -7200,7 +7201,7 @@
           <space extent="2char" dim="horizontal"/>
         <unclear extent="3char"><w>die</w></unclear>
         <num value="18">XVIII</num><pc><g ref="#middot"/></pc>
-        <w><choice><abbr><g ref="#slong"/>ept<am><g ref="#bercurl"/></am>ris</abbr><expan>sept<ex>em</ex>bris</expan></choice></w>
+          <w><choice><abbr><g ref="#slong"/>eptb<am><g ref="#combhook"/></am>ris</abbr><expan>sept<ex>em</ex>bris</expan></choice></w>
         <placeName ref="#Alba"><w><choice><orig>albe</orig><reg>Albe</reg></choice></w></placeName>
         <w>in</w>
         <placeName ref="#chiostroSanLorenzo">
@@ -7214,7 +7215,7 @@
           <choice><orig><w><abbr>m<am>aᷣ</am><lb n="3"/>tino</abbr></w></orig><reg><expan>Ma<ex>r</ex><lb n="3"/>tino</expan></reg></choice>  
         <w><choice><orig>ga<g ref="#slong"/><g ref="#slong"/>a</orig><reg>Gassa</reg></choice></w>
         </persName>  
-        <w><choice><abbr>p<am><g ref="#bercurl"/></am>ro</abbr><expan>p<ex>res</ex>b<ex>ite</ex>ro</expan></choice></w>
+          <w><choice><abbr>pb<am><g ref="#combhook"/></am>ro</abbr><expan>p<ex>res</ex>b<ex>ite</ex>ro</expan></choice></w>
         <placeName ref="#chiesaSanLorenzo"><w><choice><orig><g ref="#slong"/>ancti</orig><reg>Sancti</reg></choice></w>
         <w><choice><orig>laurentij</orig><reg>Laurentii</reg></choice></w></placeName>.
         <persName ref="#ObertoBovolo"><w><choice><orig><w>oberto</w></orig><reg>Oberto</reg></choice></w>
@@ -7227,7 +7228,7 @@
          </persName> 
         <w><choice><abbr>te<g ref="#slong"/>tib<g ref="#usmod"/></abbr><expan>testib<ex>us</ex></expan></choice></w><pc>.</pc>
         <persName ref="#GiovanniCerruto">
-          <w><choice><abbr>Jo<am><g ref="#hercurl"/></am>es</abbr><expan>Joh<ex>ann</ex>es</expan></choice></w> 
+          <w><choice><abbr>Joh<am><g ref="#combhook"/></am>es</abbr><expan>Joh<ex>ann</ex>es</expan></choice></w> 
           <w><choice><orig>cerrutus</orig><reg>Cerrutus</reg></choice></w>
         </persName>
         <w><unclear extent="1char">f</unclear>ilius</w>
@@ -7334,7 +7335,7 @@
         <w>tenuit</w>
         <w><choice><abbr>ip<am><g ref="#mtilde"/></am></abbr><expan>ip<ex>su</ex>m</expan></choice></w>
         <persName ref="#GiovanniCerruto">
-          <w><choice><abbr>Jo<am><g ref="#hercurl"/></am>em</abbr><expan>Joh<ex>ann</ex>em</expan>
+          <w><choice><abbr>Joh<am><g ref="#combhook"/></am>em</abbr><expan>Joh<ex>ann</ex>em</expan>
           </choice></w></persName>
         <w>et</w>
         <w><choice><abbr>i<am><g ref="#ptilde"/></am>m</abbr><expan>ip<ex>su</ex>m</expan></choice></w>
@@ -8541,7 +8542,7 @@
         <w><choice><abbr>c<am><g ref="#utilde"/></am></abbr><expan>cu<ex>m</ex></expan></choice></w>
         <w><g ref="#slong"/>ur<lb n="13"/>rexit</w>
         <choice><orig><w>ador</w> <w>mitione</w></orig><reg><w>a</w> <w>dormitione</w></reg></choice>
-        <w><choice><abbr>li<am><g ref="#bercurl"/></am>atus</abbr><expan>lib<ex>er</ex>atus</expan></choice></w>
+        <w><choice><abbr>lib<am><g ref="#combhook"/></am>atus</abbr><expan>lib<ex>er</ex>atus</expan></choice></w>
         <w>e<g ref="#slong"/>t</w>
         <w>virtute</w>
         <persName ref="#Dio">
@@ -9708,7 +9709,7 @@
         <placeName ref="#altareSanGiacomo">
           <w>altare</w>
         <persName ref="#sanGiacomo">
-        <w><choice><abbr><am><g ref="#bercurl"/></am>ti</abbr><expan>b<ex>ea</ex>ti</expan></choice></w>
+          <w><choice><abbr>b<am><g ref="#combhook"/></am>ti</abbr><expan>b<ex>ea</ex>ti</expan></choice></w>
          <w>Jacobi</w> 
         </persName>
         </placeName>
@@ -9894,7 +9895,7 @@
         <w>que</w>
         <w><choice><abbr>revelabi<am><g ref="#ttilde"/></am></abbr><expan>revelabit<ex>ur</ex></expan></choice></w>
         <w><choice><abbr><am><g ref="#itilde"/></am></abbr><expan>i<ex>n</ex></expan></choice></w>
-        <w><choice><abbr>no<am><g ref="#bercurl"/></am></abbr><expan>nob<ex>is</ex></expan></choice></w><pc>.</pc>
+          <w><choice><abbr>nob<am><g ref="#combhook"/></am></abbr><expan>nob<ex>is</ex></expan></choice></w><pc>.</pc>
         </p>  
         
         <p>
@@ -10601,7 +10602,7 @@
         <w>ad</w>
         <w><choice><abbr>molendin<am><g ref="#utilde"/></am></abbr><expan>molendinu<ex>m</ex></expan></choice></w>
         </q>
-        <w><choice><orig><abbr>q<am><g ref="#drotercurl"/></am></abbr></orig><reg><expan>q<ex>uod</ex></expan></reg></choice></w>
+          <w><choice><orig><abbr>qd<am><g ref="#combhook"/></am></abbr></orig><reg><expan>q<ex>uod</ex></expan></reg></choice></w>
         <w><choice><abbr>hu<am><g ref="#itilde"/></am>li<am><g ref="#ttildevert"/></am></abbr><expan>hu<ex>m</ex>ilit<ex>er</ex></expan></choice></w>
         <w>recipiens</w>
         <w>fecit</w>
