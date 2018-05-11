@@ -1759,16 +1759,20 @@
   </facsimile>
   
   <text xml:id="SanTeobaldo" type="prose">
-    
-    <!-- NB i <del> devono avere @rend, non @type  -->
+
+    <!-- ############  NOTE VARIE  #############  -->
+    <!-- * i <del> devono avere @rend, non @type  -->
+    <!-- * aggiungere un @place per ogni <add>    -->
 
     <body>
       
+      <div>
+      
       <pb n="1" xml:id="ST_fol_01r"/>
-      <addSpan/><!-- ??? -->
-      <fw type="N" place="top-left">Pagina I<g ref="#middot"/></fw>
-      <fw type="N" place="top-left">n<g ref="#middot"/> I<g ref="#middot"/></fw>
-      <addSpan/>
+      
+      <fw type="N" place="top-left"><add>Pagina I<g ref="#middot"/></add></fw>
+      <fw type="N" place="top-left"><add>n<g ref="#middot"/>I<g ref="#middot"/></add></fw>
+      
       <p>
         <label n="29"/>
         <lb n="1" xml:id="ST_lb_01r_01"/>
@@ -3044,12 +3048,8 @@
 
       <pb n="2" xml:id="ST_fol_02r"/>
 
-      <p>
-        <add>
-          <fw place="above">Pag<g ref="#middot"/>2</fw>
-          <fw place="above">n<g ref="#middot"/>1<g ref="#middot"/></fw>
-        </add>
-      </p> 
+          <fw place="above"><add>Pag<g ref="#middot"/>2</add></fw>
+          <fw place="above"><add>n<g ref="#middot"/>1<g ref="#middot"/></add></fw>
 
       <p>
         <lb n="1" xml:id="ST_lb_02r_01"/>
@@ -3460,10 +3460,8 @@
             </choice></w>. </quote><pc>.</pc>
       </p>
       
-      <p>
-        <fw place="margin-left" type="N">p</fw>
-        <fw place="margin-left" type="N">n.2</fw>
-      </p>
+        <fw place="margin-left" type="N"><add>p</add></fw>
+        <fw place="margin-left" type="N"><add>n.2</add></fw>
 
       <p>
         <lb n="18" xml:id="ST_lb_02r_18"/>
@@ -4158,18 +4156,21 @@
         
         
         <pb n="3" xml:id="ST_fol_03r"/>
-        <add>
-          <fw place="top-left" type="N">pag<g ref="#middot"/>3</fw>
-          <fw place="top-left" type="N">n<g ref="#middot"/>1</fw>
-          <fw place="top-left" type="N"><w>morte</w>
+
+        <fw place="top-left" type="N"><add>pag<g ref="#middot"/>3</add></fw>
+        <fw place="top-left" type="N"><add>n<g ref="#middot"/>1</add></fw>
+        
+          <add>
+            <w>morte</w><!-- rimosso il <fw> -->
             <w>di</w><persName ref="#sanTeobaldo"><w><choice>
                   <abbr><am>S.</am></abbr>
                   <expan>s<ex>an</ex></expan>
                 </choice></w><w><choice>
                   <abbr>Teo<am>b.</am></abbr>
                   <expan>Teob<ex>aldo</ex></expan>
-                </choice></w></persName></fw>
-        </add>
+                </choice></w></persName>
+          </add>
+
         <lb n="1" xml:id="ST_lb_03r_01"/>
         <w>Anima</w>
         <w><g ref="#slong"/>ua</w>
@@ -4270,9 +4271,9 @@
         <w>nuptu</w>
         <w>et</w>
         <w>volun<lb n="6" xml:id="ST_lb_03r_06"/>tate</w>
-        <add>
-          <fw place="top-left" type="N"><w>n°</w><g ref="#middot"/>2</fw>
-        </add>
+
+          <fw place="top-left" type="N"><add><w>n°</w><g ref="#middot"/>2</add></fw>
+        
         <w>divina</w><pc><g ref="#middot"/></pc>
         <w><choice>
             <abbr>inceper<am><g ref="#utilde"/></am>t</abbr>
@@ -4796,15 +4797,13 @@
         <w>cessaverunt</w><pc>.</pc>
       </p>
 
-      <p>
         <lb n="29" xml:id="ST_lb_03r_29"/>
         <lb n="30" xml:id="ST_lb_03r_30"/>
-        <add>
-          <fw place="margin-left" type="N">n<g ref="#middot"/>3</fw>
-          <fw place="margin-left" type="N">f</fw>
-        </add>
-      </p>
 
+          <fw place="margin-left" type="N"><add>n<g ref="#middot"/>3</add></fw><!-- CHECK non dovrebbe essere a inizio
+            pagina??? -->
+          <fw place="margin-left" type="N"><add>f</add></fw>
+        
       <p>
         <space dim="horizontal" extent="4char"/>
         <w><choice>
@@ -14325,17 +14324,14 @@
         <w>undecimo</w><pc>.</pc>
         </p> 
 
-       
+      </div>
+      
       <pb n="18" xml:id="ST_fol_18r"/>
+      
       <div n="5" type="section">
-      <p>
-        <add place="top">
-          <fw><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></fw>
-        </add>
-        <add place="margin-left">
-          <fw><w>n</w><g ref="#middot"/>17<g ref="#middot"/></fw>
-        </add>
-      </p>
+  
+        <fw><add place="top"><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
+        <fw><add place="margin-left"><w>n</w><g ref="#middot"/>17<g ref="#middot"/></add></fw>
         
          <p>
         [<w>Pergamena</w>
