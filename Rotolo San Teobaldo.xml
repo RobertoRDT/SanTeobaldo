@@ -3041,8 +3041,7 @@
             </choice>. </q>
         </p>
 
-        <p><add place="bottom">Machabeorum</add></p>
-        <!-- CHECK -->
+        <p><add place="bottom">Machabeorum</add></p><!-- CHECK -->
 
 
         <pb n="2" xml:id="ST_fol_02r"/>
@@ -3104,9 +3103,10 @@
             <w>ab</w>
             <w>eo</w><pc>.</pc>
           </quote>
-          <w><damage extent="3char" type="N"><abbr>C<am><g ref="#otilde"/></am></abbr><lb n="3" xml:id="ST_lb_02r_03"
-                /><g ref="#slong"/></damage>iderans<expan>Co<ex>n</ex></expan><lb n="3" xml:id="ST_lb_02r_0"
-            />siderans</w>
+          <w><choice>
+            <abbr><damage extent="3char" type="N">C<am><g ref="#otilde"/></am><lb facs="#VB_line_002_03" n="3" xml:id="ST_lb_02r_03_abbr"/><g ref="#slong"/></damage>iderans</abbr>
+            <expan>Co<ex>n</ex><lb facs="#VB_line_002_03" n="3" xml:id="ST_lb_02r_03_expan"/>siderans</expan>
+            </choice></w>
           <damage extent="7char" type="N"><w>in</w>
             <w><g ref="#slong"/>e</w>
             <w><choice>
@@ -3156,7 +3156,7 @@
           <w>requirit</w><g ref="#middot"/>
           <w><g ref="#slong"/>eu</w>
           <w>requirebat</w>
-          <w><damage extent="3char" type="N">pre</damage><lb n="5" xml:id="ST_lb_02r_05"/>mi<g ref="#slong"/><g
+          <w><damage extent="3char" type="N">pre</damage><lb facs="#VB_line_002_05" n="5" xml:id="ST_lb_02r_05"/>mi<g ref="#slong"/><g
               ref="#slong"/>a</w>
           <w>confe<g ref="#slong"/><g ref="#slong"/>ione</w>
           <w>de</w>
@@ -3273,7 +3273,7 @@
           <w><g ref="#slong"/>ua</w><pc><g ref="#middot"/></pc>
           <w><g ref="#slong"/>ive</w>
           <w>q<damage extent="2char" type="N">ue</damage></w>
-          <w><damage extent="2char" type="N">fu</damage><lb n="10" xml:id="ST_lb_02r_10"/>erat</w>
+          <w><damage extent="2char" type="N">fu</damage><lb facs="#VB_line_002_10" n="10" xml:id="ST_lb_02r_10"/>erat</w>
           <w><choice>
               <abbr>magis<am><g ref="#tinodotsup"/></am></abbr>
               <expan>magist<ex>ri</ex></expan>
@@ -13706,9 +13706,14 @@
                 <abbr>ju<am>x̃</am></abbr>
                 <expan>jux<ex>ta</ex></expan>
               </choice></w>
+
+
             <pb n="13" xml:id="ST_fol_13r"/>
+
             <label n="45"/> [<w>Pergamena</w>
-            <w>XIII</w>] <w><choice>
+            <w>XIII</w>]
+            <lb facs="#VB_line_013_01" xml:id="VB_lb_013_01" n="1"/>
+            <w><choice>
                 <abbr>mort<am><g ref="#etilde"/></am></abbr>
                 <expan>morte<ex>m</ex></expan>
               </choice></w>
@@ -14744,7 +14749,8 @@
             </choice></w>
           <pb n="14" xml:id="ST_fol_014r"/>
           <label n="46"/> [<w>Pergamena</w>
-          <w>XIV</w>] <lb facs="#VB_line_014_01" xml:id="VB_lb_014_01" n="1"/>
+          <w>XIV</w>]
+          <lb facs="#VB_line_014_01" xml:id="VB_lb_014_01" n="1"/>
           <w><choice>
               <abbr><am><g ref="#slongbarslash"/></am>viebat</abbr>
               <expan>s<ex>er</ex>viebat</expan>
