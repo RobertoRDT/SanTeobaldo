@@ -4153,7 +4153,11 @@
           <w>celum</w>
           <w>di<g ref="#slong"/><g ref="#slong"/>oluto</w>
           <w>vinculo</w>
-          <w>naturali</w>. <pb n="3" xml:id="ST_fol_03r"/>
+          <w>naturali</w>.
+          
+          
+          <pb n="3" xml:id="ST_fol_03r"/>
+
           <fw place="top-left" type="N"><add>pag<g ref="#middot"/>3</add></fw>
           <fw place="top-left" type="N"><add>n<g ref="#middot"/>1</add></fw>
           <add>
@@ -6385,8 +6389,12 @@
                 <reg><expan>instr<ex>u</ex>m<ex>entum</ex></expan></reg>
               </choice></w>
           </unclear>
+
+
           <pb n="5" xml:id="ST_fol_05r"/>
-          <add><fw place="margin-left"><w>pag</w>5</fw></add>
+
+          <fw place="margin-left"><add><w>pag</w>5</add></fw>
+
           <lb facs="#VB_line_005_01" xml:id="ST_lb_05r_01" n="1"/>
           <w><g ref="#slong"/>eptem</w>
           <w><choice>
@@ -7286,16 +7294,17 @@
           <w><choice>
               <abbr>fe<g ref="#slong"/>t<am><g ref="#etfin"/></am></abbr>
               <expan>festu<ex>m</ex></expan>
-            </choice></w>. <persName ref="#sanMartino">
+            </choice></w>. 
+          <persName ref="#sanMartino">
             <w><g ref="#slong"/>ancti</w>
+
+
             <pb n="6" xml:id="ST_fol_06r"/>
-            <add place="top-left">
-              <fw>pag. 6</fw>
-            </add>
-            <add>
-              <fw place="margin-left">n<g ref="#middot"/>1</fw>
-            </add>
-            <lb facs="#VB_line_006_01" xml:id="ST_lb_06r_01" n="1"/>
+
+            <fw place="top-left"><add>pag. 6</add></fw>
+            <fw place="margin-left">n<g ref="#middot"/>1</fw>
+
+            <lb facs="#VB_line_006_01" n="1" xml:id="ST_lb_06r_01"/>
             <w><choice>
                 <orig>martini</orig>
                 <reg>Martini</reg>
@@ -8375,8 +8384,12 @@
                 <orig>raphaelis</orig>
                 <reg>Raphaelis</reg>
               </choice></w></persName>
+
+
           <pb n="7" xml:id="ST_fol_07r"/>
-          <add><fw place="margin-left">pag.7 </fw></add>
+
+          <fw place="margin-left"><add>pag.7</add></fw>
+
           <lb facs="#VB_line_007_01" xml:id="ST_lb_07r_01" n="1"/>
           <w>vicario</w>
           <w><choice>
@@ -9000,16 +9013,16 @@
           <w>laudem</w><pc><g ref="#colmidcomposit"/></pc>
         </p>
 
+
         <!--- fine prima parte del rotulo -->
 
         <pb n="8" xml:id="ST_fol_08r"/>
 
+        <fw place="top-left" type="N"><add><w>pag</w><g ref="#middot"/>8</add></fw>
+        <fw place="top-left" type="N"><add><w>n</w><g ref="#middot"/>1</add></fw>
+          
         <p>
-          <add>
-            <fw place="top-left" type="N"><w>pag</w><g ref="#middot"/>8</fw>
-            <fw place="top-left" type="N"><w>n</w><g ref="#middot"/>1</fw>
-          </add>
-          <lb facs="#VB_line_008_01" xml:id="ST_lb_08r_01" n="1"/>
+          <lb facs="#VB_line_008_01" n="1" xml:id="ST_lb_08r_01"/>
           <add place="margin-left">a</add>
           <space dim="horizontal" extent="2char"/>
           <w><choice>
@@ -9036,7 +9049,7 @@
             <reg><w>quinta</w>
               <w>decima</w></reg>
           </choice>
-          <lb facs="#VB_line_008_02" xml:id="ST_lb_08r_02" n="2"/>
+          <lb facs="#VB_line_008_02" n="2" xml:id="ST_lb_08r_02"/>
           <add>
             <fw place="margin-left"><w>n</w><g ref="#middot"/>1<g ref="#middot"/></fw>
           </add>
@@ -9073,8 +9086,9 @@
             </choice></w>
           <persName ref="#MartinoGassa">
             <choice>
-              <orig><w><abbr>m<am>a<g ref="rrotsup"/></am><lb facs="#VB_line_008_03" xml:id="ST_lb_08r_03_orig" n="3"/>tino</abbr></w></orig>
-              <reg><expan>Ma<ex>r</ex><lb facs="#VB_line_008_03" xml:id="ST_lb_08r_03_reg" n="3"/>tino</expan></reg>
+              <orig><w><abbr>m<am>a<g ref="rrotsup"/></am><lb facs="#VB_line_008_03" n="3" xml:id="ST_lb_08r_03_orig"
+                    />tino</abbr></w></orig>
+              <reg><expan>Ma<ex>r</ex><lb facs="#VB_line_008_03" n="3" xml:id="ST_lb_08r_03_reg"/>tino</expan></reg>
             </choice>
             <w><choice>
                 <orig>ga<g ref="#slong"/><g ref="#slong"/>a</orig>
@@ -9107,7 +9121,7 @@
                 <orig>bergerono</orig>
                 <reg>Bergerono</reg>
               </choice></w>
-            <w>ta<lb facs="#VB_line_008_04" xml:id="ST_lb_08r_04" n="4"/>bernario</w>
+            <w>ta<lb facs="#VB_line_008_04" n="4" xml:id="ST_lb_08r_04"/>bernario</w>
           </persName>
           <w><choice>
               <abbr>te<g ref="#slong"/>tib<g ref="#usmod"/></abbr>
@@ -9141,7 +9155,7 @@
                 <reg>Paucapalea</reg>
               </choice></w>
           </placeName>
-          <lb facs="#VB_line_008_05" xml:id="ST_lb_08r_05" n="5"/>
+          <lb facs="#VB_line_008_05" n="5" xml:id="ST_lb_08r_05"/>
           <w>retulit</w>
           <w><choice>
               <abbr>d<am><g ref="#ntilde"/></am>is</abbr>
@@ -9159,7 +9173,7 @@
           <w>et</w>
           <persName ref="#GalvagnoArcidiacono"><w>Galvago</w></persName>
           <w>archidiacono</w>
-          <lb facs="#VB_line_008_06" xml:id="ST_lb_08r_06" n="6"/>
+          <lb facs="#VB_line_008_06" n="6" xml:id="ST_lb_08r_06"/>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>dicte</abbr>
               <expan>p<ex>re</ex>dicte</expan>
@@ -9207,7 +9221,7 @@
               <abbr>cu<am><g ref="#etfin"/></am></abbr>
               <expan>cu<ex>m</ex></expan>
             </choice></w>
-          <lb facs="#VB_line_008_07" xml:id="ST_lb_08r_07" n="7"/>
+          <lb facs="#VB_line_008_07" n="7" xml:id="ST_lb_08r_07"/>
           <persName ref="#OgerioCoppa">
             <w><orig><choice>
                   <abbr>oge<g ref="#imacr"/>us</abbr>
@@ -9242,7 +9256,7 @@
                 <reg>Paucapalea</reg>
               </choice></w>
           </placeName>
-          <lb facs="#VB_line_008_08" xml:id="ST_lb_08r_08" n="8"/>
+          <lb facs="#VB_line_008_08" n="8" xml:id="ST_lb_08r_08"/>
           <w>volens</w>
           <w><choice>
               <abbr>d<am><g ref="#ntilde"/></am>s</abbr>
@@ -9280,7 +9294,7 @@
               <abbr>i<am><g ref="#ptilde"/></am>o</abbr>
               <expan>ip<ex>s</ex>o</expan>
             </choice></w>
-          <lb facs="#VB_line_008_09" xml:id="ST_lb_08r_09" n="9"/>
+          <lb facs="#VB_line_008_09" n="9" xml:id="ST_lb_08r_09"/>
           <persName ref="#OgerioCoppa">
             <w><choice>
                 <orig>ogerio</orig>
@@ -9314,7 +9328,7 @@
               <abbr>d<am><g ref="#ctilde"/><g ref="#esh"/></am></abbr>
               <expan>d<ex>i</ex>c<ex>tu</ex>s</expan>
             </choice></w>
-          <lb facs="#VB_line_008_10" xml:id="ST_lb_08r_10" n="10"/>
+          <lb facs="#VB_line_008_10" n="10" xml:id="ST_lb_08r_10"/>
           <w><choice>
               <abbr>d<am><g ref="#ntilde"/></am>s</abbr>
               <expan>d<ex>omi</ex>n<ex>u</ex>s</expan>
@@ -9340,7 +9354,7 @@
           <w>inferiavit</w>
           <w>quibu<g ref="#slong"/>dam</w>
           <w>fer<g ref="#ijlig"/><g ref="#esh"/></w>
-          <lb facs="#VB_line_008_11" xml:id="ST_lb_08r_11" n="11"/>
+          <lb facs="#VB_line_008_11" n="11" xml:id="ST_lb_08r_11"/>
           <w>banconi</w>
           <w>et</w>
           <w><choice>
@@ -9368,7 +9382,7 @@
                 <orig>deus</orig>
                 <reg>Deus</reg>
               </choice></w></name>
-          <lb facs="#VB_line_008_12" xml:id="ST_lb_08r_12" n="12"/>
+          <lb facs="#VB_line_008_12" n="12" xml:id="ST_lb_08r_12"/>
           <w><unclear extent="2char">de</unclear>traerat</w>
           <w><choice>
               <abbr>i<am><g ref="#ptilde"/></am>m</abbr>
@@ -9395,7 +9409,7 @@
           </persName>
           <w>dictas</w>
           <w>ferria<g ref="#esh"/></w>
-          <lb facs="#VB_line_008_13" xml:id="ST_lb_08r_13" n="13"/>
+          <lb facs="#VB_line_008_13" n="13" xml:id="ST_lb_08r_13"/>
           <w><choice>
               <orig>aportaret</orig>
               <reg>apportaret</reg>
@@ -9422,7 +9436,7 @@
             </choice></w>
           <w>exivit</w>
           <w>dicto</w>
-          <lb facs="#VB_line_008_14" xml:id="ST_lb_08r_14" n="14"/>
+          <lb facs="#VB_line_008_14" n="14" xml:id="ST_lb_08r_14"/>
           <w>loco</w>
           <w>exi<g ref="#slong"/>tentibus</w>
           <w><choice>
@@ -9443,7 +9457,7 @@
           <w>tra<g ref="#slong"/>iens</w>
           <w>muro<g ref="#esh"/></w>
           <w>fo<g ref="#slong"/><g ref="#slong"/>ato<g ref="#esh"/></w>
-          <lb facs="#VB_line_008_15" xml:id="ST_lb_08r_15" n="15"/>
+          <lb facs="#VB_line_008_15" n="15" xml:id="ST_lb_08r_15"/>
           <w>maximos</w>
           <w>et</w>
           <w>in<g ref="#slong"/>pinatos</w>
@@ -9468,7 +9482,7 @@
                 <reg><expan>Paucapalea<ex>m</ex></expan></reg>
               </choice></w>
           </placeName>
-          <lb facs="#VB_line_008_16" xml:id="ST_lb_08r_16" n="16"/>
+          <lb facs="#VB_line_008_16" n="16" xml:id="ST_lb_08r_16"/>
           <w>portans</w>
           <w>dictas</w>
           <w>ferreas</w>
@@ -9493,7 +9507,7 @@
               </choice></w>
             <add place="below"><w><orig>thebaudi</orig><reg>Thebaudi</reg></w></add>
           </persName>
-          <lb facs="#VB_line_008_17" xml:id="ST_lb_08r_17" n="17"/>
+          <lb facs="#VB_line_008_17" n="17" xml:id="ST_lb_08r_17"/>
           <w><g ref="#slong"/>e</w>
           <w><g ref="#slong"/>ic</w>
           <w>eva<g ref="#slong"/>i<g ref="#slong"/><g ref="#slong"/>e</w><pc>.</pc>
@@ -10209,12 +10223,16 @@
               <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
+
+
           <pb n="9" xml:id="ST_fol_09r"/>
-          <add>
-            <fw place="top-left">pag <g ref="#middot"/>9</fw>
-            <fw place="top-left">n<g ref="#middot"/>1</fw>
-          </add> [<w>Pergamena</w>
-          <w>IX</w>] <lb facs="#VB_line_009_01" xml:id="ST_lb_09r_01" n="1"/>
+
+          <fw place="top-left"><add>pag <g ref="#middot"/>9</add></fw>
+          <fw place="top-left"><add>n<g ref="#middot"/>1</add></fw>
+
+          [<w>Pergamena</w>
+          <w>IX</w>]
+          <lb facs="#VB_line_009_01" xml:id="ST_lb_09r_01" n="1"/>
           <w>dictus</w>
           <w>filius</w>
           <w>dicti</w>
@@ -11214,9 +11232,14 @@
               <expan>sc<ex>r</ex>ipturis</expan>
             </choice></w>
           <label n="42"/> [<w>Pergamena</w>
-          <w>X</w>] <pb n="10" xml:id="ST_fol_10r"/>
+          <w>X</w>]
+          
+          
+          <pb n="10" xml:id="ST_fol_10r"/>
+
           <fw place="top-left"><add>pag <g ref="#middot"/>10</add></fw>
           <fw place="top-left"><add>n<g ref="#middot"/>1</add></fw>
+
           <lb facs="#VB_line_010_01" xml:id="ST_lb_10r_01" n="1"/>
           <w>corporaliter</w>
           <w>tactis</w>
@@ -11683,6 +11706,7 @@
               <abbr><am><g ref="#ptilde"/></am>dc<am><g ref="#itilde"/></am></abbr>
               <expan>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i</expan>
             </choice></w>. </p>
+
 
         <!-- Terza Parte del Rotulo, seconda narrazione vita di San Teobaldo e miracoli -->
 
@@ -12719,8 +12743,14 @@
                 <reg>Thebaudo</reg>
               </choice></w>
           </persName>
-          <pb n="12" xml:id="ST_fol_12r"/> [<w>Pergamena</w>
-          <w>XII</w>] <lb facs="#VB_line_012_01" xml:id="ST_lb_12r_01" n="1"/>
+
+
+          <pb n="12" xml:id="ST_fol_12r"/>
+          
+          [<w>Pergamena</w>
+          <w>XII</w>]
+          
+          <lb facs="#VB_line_012_01" xml:id="ST_lb_12r_01" n="1"/>
           <w><choice>
               <abbr>fue<am><g ref="#itilde"/></am>nt</abbr>
               <expan>fue<ex>r</ex>int</expan>
@@ -14747,7 +14777,10 @@
               <abbr>corpu<g ref="#slong"/>c<am><g ref="#lstrok"/></am></abbr>
               <expan>corpusc<ex>o</ex>lo</expan>
             </choice></w>
+
+
           <pb n="14" xml:id="ST_fol_014r"/>
+
           <label n="46"/> [<w>Pergamena</w>
           <w>XIV</w>]
           <lb facs="#VB_line_014_01" xml:id="VB_lb_014_01" n="1"/>
@@ -15497,7 +15530,10 @@
             <w>in</w>
             <w>cruce</w>
             <w>patienter</w>
+
+
             <pb n="15" xml:id="ST_fol_15r"/>
+            
             <label n="47"/> [<w>Pergamena</w>
             <w>XV</w>] <add place="top"><fw><w>pag</w><g ref="#middot"/>15<g ref="#middot"/></fw></add>
             <lb n="1"/>
