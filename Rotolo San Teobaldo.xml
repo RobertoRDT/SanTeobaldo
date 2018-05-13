@@ -20399,8 +20399,10 @@
                 <abbr>part<am><g ref="#usbase"/></am></abbr>
                 <expan>part<ex>us</ex></expan>
               </choice></w></add>
-          <w><abbr><am><g ref="#ptilde"/></am>gn<am><g ref="#atilde"/></am>ti<g ref="#slong"
-                /></abbr><expan>p<ex>re</ex>gna<ex>n</ex>tis</expan></w>
+          <w><choice>
+               <abbr><am><g ref="#ptilde"/></am>gn<am><g ref="#atilde"/></am>ti<g ref="#slong"/></abbr>
+               <expan>p<ex>re</ex>gna<ex>n</ex>tis</expan>
+             </choice></w>
           <w>mulieri<g ref="#slong"/></w>
           <lb n="44"/>
           <lb n="45"/>
@@ -22374,10 +22376,10 @@
           <lb n="77"/>
           <damage extent="8char" type="N">
             <w><choice>
-                <abbr>i<am><g ref="N"/></am>s</abbr>
+                <abbr>i<am><g ref="N"/></am>ius</abbr>
                 <expan>ip<ex>s</ex>ius</expan>
               </choice></w>
-            <persName ref="N">
+            <persName ref="N"><!-- CHECK non c'è qualcosa prima del nome di persona? -->
               <w><choice>
                   <abbr>Ja<am><g ref="#ctilde"/></am></abbr>
                   <expan>Jac<ex>obi</ex></expan>
@@ -22604,7 +22606,8 @@
             <w>retinere</w>
           </damage>
           <lb n="80"/>
-          <w>po<g ref="#slong"/><g ref="#slong"/>et</w>. <damage extent="5char" type="N">
+          <w>po<g ref="#slong"/><g ref="#slong"/>et</w>.
+          <damage extent="5char" type="N">
             <w><choice>
                 <abbr>S<am><g ref="#etfin"/></am></abbr>
                 <expan>S<ex>ed</ex></expan>
