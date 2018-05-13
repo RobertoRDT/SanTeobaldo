@@ -15741,7 +15741,7 @@
                 <orig><g ref="#slong"/>epelliri</orig>
                 <reg>sepeliri</reg>
               </choice></w><pc><g ref="#middot"/></pc>
-            <w><choice>
+            <lb n="5"/><w><choice>
                 <abbr>Ver<am><g ref="#utilde"/></am>tamen</abbr>
                 <expan>Veru<ex>m</ex>tamen</expan>
               </choice></w>
@@ -16141,7 +16141,7 @@
           <w>gaudenti</w>
           <lb n="14"/>
           <w><choice>
-              <abbr><am><g ref="#itilde"/></am>o</abbr>
+              <abbr>a<am><g ref="#itilde"/></am>o</abbr>
               <expan>a<ex>n</ex>i<ex>m</ex>o</expan>
             </choice></w>
           <w>re<g ref="#slong"/>pondit</w>
@@ -16261,7 +16261,7 @@
               <expan>elemosina<ex>m</ex></expan>
             </choice></w>
           <w>acciperent</w>
-          <lb n="16"/>
+          <lb n="17"/>
           <w>qui</w>
           <w>amore</w>
           <persName ref="#Dio">
@@ -16306,7 +16306,7 @@
                 />avit</abbr></orig>
               <reg><expan>dipe<ex>n</ex>savit</expan></reg>
             </choice></w>
-          <lb n="17"/>
+          <lb n="18"/>
           <w><choice>
               <abbr>n<am><g ref="#otilde"/></am></abbr>
               <expan>no<ex>n</ex></expan>
@@ -16355,8 +16355,8 @@
             </choice></w>
           <w>ho<g ref="#slong"/>piti<g ref="#slong"/><g ref="#slong"/>am</w>
           <w><choice>
-              <abbr>off<am><g ref="#etilde"/></am><lb n="18"/>derat</abbr>
-              <expan>offe<ex>n</ex><lb n="18"/>derat</expan>
+              <abbr>off<am><g ref="#etilde"/></am><lb n="19"/>derat</abbr>
+              <expan>offe<ex>n</ex><lb n="19"/>derat</expan>
             </choice></w>
           <w><g ref="#slong"/>achulum</w>
           <w>ubi</w>
@@ -16389,7 +16389,7 @@
             </choice></w>
           <w>ab<g ref="#slong"/>entis</w>
           <w>ho<g ref="#slong"/>piti<g ref="#slong"/><g ref="#slong"/>e</w>
-          <lb n="19"/>
+          <lb n="20"/>
           <w>proiecit</w>
           <w>et</w>
           <w><choice>
@@ -16422,8 +16422,8 @@
               <expan>ap<ex>par</ex>uit</expan>
             </choice></w>
           <w><choice>
-              <abbr>fa<am><g ref="#itilde"/></am><lb n="20"/>na</abbr>
-              <expan>fa<ex>r</ex>i<lb n="20"/>na</expan>
+              <abbr>fa<am><g ref="#itilde"/></am><lb n="21"/>na</abbr>
+              <expan>fa<ex>r</ex>i<lb n="21"/>na</expan>
             </choice></w>
           <w>albi<g ref="#slong"/><g ref="#slong"/>ima</w>
           <w>divina</w>
@@ -18154,7 +18154,8 @@
 
         <p>
           [<w>Pergamena</w>
-          <w>XVII</w>] <lb n="1" xml:id="ST_fol_18r_1"/>
+          <w>XVII</w>]
+          <lb n="1" xml:id="ST_fol_18r_1"/>
           <w><hi rend="cap4.4">J</hi>ubila</w>
           <persName ref="#Dio">
             <w><choice>
@@ -19359,13 +19360,14 @@
             <w>Deo</w>
           </persName>
           <w>gratia<g ref="#esh"/></w><g ref="#middot"/>
-          <w>Amen</w>. </p>
+          <w>Amen</w>.
+        </p>
+
         <lb n="24" xml:id="ST_fol_018r_24"/>
-        <lb n="25" xml:id="ST_fol_018r_25"/>
         <label n="53"/>
 
         <p>
-          <lb n="26" xml:id="ST_fol_018r_26"/>
+          <lb n="25" xml:id="ST_fol_018r_25"/>
           <w><hi rend="cap1.0">D</hi>e</w>
           <w>miraculo</w>
           <w>auris</w>
@@ -19377,9 +19379,9 @@
                 <reg>Ghemo</reg>
               </choice></w>
           </persName>
-          <lb n="27" xml:id="ST_fol_018r_27"/>
           <fw><add place="margin-left"><w>n</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
-          <lb n="28" xml:id="ST_fol_018r_28"/>
+          <lb n="26" xml:id="ST_fol_018r_26"/>
+          <lb n="27" xml:id="ST_fol_018r_27"/>
           <w><choice>
               <orig><abbr><hi rend="cap2.4">I</hi><hi rend="cap1.0">N</hi>tend<am><g ref="#etilde"/></am>s</abbr></orig>
               <reg><expan>Intende<ex>n</ex>s</expan></reg>
@@ -19455,7 +19457,7 @@
               <abbr>ac<am><g ref="#qbardes"/></am>r<am><g ref="#etilde"/></am></abbr>
               <expan>acq<ex>ui</ex>re<ex>re</ex></expan>
             </choice></w>
-          <lb n="29" xml:id="ST_fol_018r_29"/>
+          <lb n="28" xml:id="ST_fol_018r_28"/>
           <w>quos</w>
           <w>po<g ref="#slong"/><g ref="#slong"/>it</w>
           <w><choice>
@@ -19511,7 +19513,7 @@
               <expan>honore<ex>m</ex></expan>
             </choice></w>
           <w><g ref="#slong"/>ue</w>
-          <w>lauda<lb n="30" xml:id="ST_fol_018r_30"/>bil<unclear extent="2char" reason="N"/><supplied resp="N"
+          <w>lauda<lb n="29" xml:id="ST_fol_018r_29"/>bil<unclear extent="2char" reason="N"/><supplied resp="N"
               >is</supplied></w>
           <w><choice>
               <abbr>inventi<am><g ref="#otilde"/></am>i<g ref="#esh"/></abbr>
@@ -19579,7 +19581,7 @@
             </choice></w>
           <w>ab</w>
           <w>illa</w>
-          <lb n="31" xml:id="ST_fol_018r_31"/>
+          <lb n="30" xml:id="ST_fol_018r_30"/>
           <w>aure</w><pc>.</pc>
           <w>Ab</w>
           <w>alia</w>
@@ -19639,7 +19641,8 @@
           <w><choice>
               <abbr>via<am><g ref="#etfin"/></am></abbr>
               <expan>via<ex>m</ex></expan>
-            </choice></w>. <lb n="32" xml:id="ST_fol_018r_32"/>
+            </choice></w>.
+          <lb n="31" xml:id="ST_fol_018r_31"/>
           <w><damage extent="1char" type="N"><g ref="#Eunc"/></damage>t</w>
           <w>uni</w>
           <w>ex</w>
@@ -19688,7 +19691,7 @@
               </choice></w>
           </q><pc>.</pc>
           <w>Qui</w>
-          <w>re<lb n="33" xml:id="ST_fol_018r_33"/><g ref="#slong"/>pondit</w>
+          <w>re<lb n="32" xml:id="ST_fol_018r_32"/><g ref="#slong"/>pondit</w>
           <w>ei</w><pc>.</pc>
           <q who="N">
             <w><choice>
@@ -19763,7 +19766,7 @@
                 <abbr>pul<g ref="#slong"/>an<am><g ref="#ttilde"/></am></abbr>
                 <expan>pulsant<ex>ur</ex></expan>
               </choice></w>
-            <lb n="34" xml:id="ST_fol_018r_34"/>
+            <lb n="33" xml:id="ST_fol_018r_33"/>
             <w>et</w>
             <w><choice>
                 <abbr>g<am><g ref="#etilde"/></am>tes</abbr>
@@ -19835,7 +19838,7 @@
               <abbr><am><g ref="#pbardes"/></am>rexit</abbr>
               <expan>p<ex>er</ex>rexit</expan>
             </choice></w>
-          <lb n="35" xml:id="ST_fol_018r_35"/>
+          <lb n="34" xml:id="ST_fol_018r_34"/>
           <w><choice>
               <abbr><am><g ref="#itilde"/></am></abbr>
               <expan>i<ex>n</ex></expan>
@@ -19910,7 +19913,7 @@
               <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
               <expan>sup<ex>er</ex></expan>
             </choice></w>
-          <lb n="36" xml:id="ST_fol_018r_36"/>
+          <lb n="35" xml:id="ST_fol_018r_35"/>
           <w><g ref="#slong"/>uper</w>
           <w>uno</w>
           <w>gradu</w>
@@ -19970,7 +19973,7 @@
                 <abbr><g ref="#slong"/>epl<am><g ref="#combhook"/></am>cro</abbr>
                 <expan>sep<ex>u</ex>lcro</expan>
               </choice></w>
-            <lb n="37" xml:id="ST_fol_018r_37"/>
+            <lb n="36" xml:id="ST_fol_018r_36"/>
             <w>in</w>
             <w>capella</w>
             <w>i<g ref="#slong"/>ta</w>
@@ -20023,7 +20026,7 @@
                 <abbr>q<am>u<g ref="#combovl"/>i<g ref="#combovl"/><g ref="#q2app"/><g ref="#combovl"/></am></abbr>
                 <expan>qui<ex>n</ex>q<ex>ue</ex></expan>
               </choice></w>
-            <lb n="38" xml:id="ST_fol_018r_38"/>
+            <lb n="37" xml:id="ST_fol_018r_37"/>
             <w>anno<g ref="#slong"/></w>
             <w><choice>
                 <abbr><am><g ref="#et"/></am></abbr>
@@ -20086,7 +20089,7 @@
               </choice></w>
             <w>mihi</w>
             <w>reparatu<g ref="#slong"/></w>
-            <lb n="39" xml:id="ST_fol_018r_39"/>
+            <lb n="38" xml:id="ST_fol_018r_38"/>
             <w>dare</w>
             <w><choice>
                 <abbr>aur<am><g ref="#etilde"/></am></abbr>
@@ -20146,7 +20149,8 @@
           <w><choice>
               <abbr>re<g ref="#slong"/>titut<am><g ref="#usbase"/></am></abbr>
               <expan>restitut<ex>us</ex></expan>
-            </choice></w>. <lb n="41"/>
+            </choice></w>.
+          <lb n="39" xml:id="ST_fol_018r_39"/>
           <w>Lau<damage extent="3char" type="N">de<g ref="#slong"/></damage></w>
           <name ref="N">
             <w><choice>
@@ -20222,7 +20226,7 @@
           <w>eveni<g ref="#slong"/><g ref="#slong"/>e</w>
           <w>Juravit</w>. <label n="54"/>
           <w>In</w>
-          <lb n="41"/>
+          <lb n="40"/>
           <w><choice>
               <abbr>mani<damage extent="2char" type="N">b<am><g ref="#usbase"/></am></damage></abbr>
               <expan>manib<ex>us</ex></expan>
@@ -20302,9 +20306,9 @@
           </choice>
           <w>alii<g ref="#slong"/></w>
           <w><choice>
-              <orig><w><abbr><am><g ref="#pflour"/></am>re<g ref="#slong"/>ta<lb n="42"/>tu<g ref="#slong"
+              <orig><w><abbr><am><g ref="#pflour"/></am>re<g ref="#slong"/>ta<lb n="41"/>tu<g ref="#slong"
                         /></abbr></w><w><abbr>q<am><g ref="#etfin"/></am></abbr></w></orig>
-              <reg><expan>p<ex>ro</ex>testa<lb n="42"/>tusq<ex>ue</ex></expan></reg>
+              <reg><expan>p<ex>ro</ex>testa<lb n="41"/>tusq<ex>ue</ex></expan></reg>
             </choice></w>
           <w>fuit</w>
           <w><g ref="#slong"/>e</w>
@@ -20374,8 +20378,8 @@
           <persName ref="N">
             <w>beati</w>
             <w><choice>
-                <orig>the<lb n="43"/>baudi</orig>
-                <reg>The<lb n="43"/>baudi</reg>
+                <orig>the<lb n="42"/>baudi</orig>
+                <reg>The<lb n="42"/>baudi</reg>
               </choice></w>
           </persName>. <w><choice>
               <abbr>c<am><g ref="#utilde"/></am></abbr>
@@ -20387,8 +20391,7 @@
           <w>infirmitate</w>
           <w>magis</w>
           <w>gravaretur</w><g ref="#middot"/>
-          <lb n="44"/>
-          <lb n="45"/>
+          <lb n="43"/>
           <w><hi rend="cap1.0">D</hi>e</w>
           <w>miraculo</w>
           <del extent="3char" type="N"><g ref="#ptilde"/><g ref="#slong"/>t</del>
@@ -20399,7 +20402,8 @@
           <w><abbr><am><g ref="#ptilde"/></am>gn<am><g ref="#atilde"/></am>ti<g ref="#slong"
                 /></abbr><expan>p<ex>re</ex>gna<ex>n</ex>tis</expan></w>
           <w>mulieri<g ref="#slong"/></w>
-          <lb n="46"/>
+          <lb n="44"/>
+          <lb n="45"/>
           <add place="margin-left"><w>n</w><g ref="#middot"/>19<g ref="#middot"/></add>
           <w>Decur<g ref="#slong"/>is</w>
           <w>vero</w>
@@ -20445,7 +20449,7 @@
             /></damage></w>
           <w>detenta</w>
           <w>et</w>
-          <lb n="47"/>
+          <lb n="46"/>
           <w>validioribu<g ref="#slong"/></w>
           <w>doloribu<g ref="#slong"/></w>
           <w><choice>
@@ -20495,7 +20499,7 @@
             </choice></w>
           <damage extent="5char" type="N"><w>certo</w></damage>
           <w><damage extent="6char" type="N"><g ref="#slong"/>cient</damage>ibu<g ref="#slong"/></w>
-          <lb n="48"/>
+          <lb n="47"/>
           <w>morti<g ref="#slong"/></w>
           <w><g ref="#slong"/>ibi</w>
           <w><choice>
@@ -20581,7 +20585,7 @@
             <w>vite</w>
             <w><g ref="#slong"/>pe<g ref="#slong"/></w>
           </damage>
-          <lb n="49"/>
+          <lb n="48"/>
           <w><choice>
               <abbr>h<am><g ref="#rtilde"/></am>i</abbr>
               <expan>h<ex>abe</ex>ri</expan>
@@ -20657,7 +20661,7 @@
               <abbr>vit<am><g ref="#atilde"/></am></abbr>
               <expan>vita<ex>m</ex></expan>
             </choice></w>
-          <lb n="50"/>
+          <lb n="49"/>
           <w><choice>
               <abbr>d<am><g ref="N"/></am></abbr>
               <expan>d<ex>i</ex>cte</expan>
@@ -20735,7 +20739,7 @@
                 <expan>p<ex>re</ex>gna<ex>n</ex>ti</expan>
               </choice></w>
           </damage>
-          <lb n="51"/>
+          <lb n="50"/>
           <w><choice>
               <abbr>a<g ref="#slong"/>t<am><g ref="#atilde"/></am>tibus</abbr>
               <expan>asta<ex>n</ex>tibus</expan>
@@ -20805,7 +20809,7 @@
           </damage>
           <w><damage extent="2char">fe</damage><unclear extent="2char">ce</unclear><damage extent="1char"
             >r</damage>at</w>
-          <lb n="52"/>
+          <lb n="51"/>
           <w>pro</w>
           <w><g ref="#slong"/>ua</w>
           <w><choice>
@@ -20865,7 +20869,7 @@
                 </choice><expan>qu<ex>od</ex></expan></w></damage>
             <w><damage extent="3char">fui</damage><unclear extent="1char">t</unclear></w>
             <damage extent="8char"><w>repertum</w></damage>
-            <lb n="53"/>
+            <lb n="52"/>
             <w>cuiu<g ref="#slong"/></w>
             <w>meriti<g ref="#slong"/></w>
             <w><choice>
@@ -20932,7 +20936,7 @@
               <w>de</w>
             </damage>
             <w>ea</w>
-            <lb n="54"/>
+            <lb n="53"/>
             <w><choice>
                 <abbr>hr<am><g ref="#imacr"/></am></abbr>
                 <expan>h<ex>abe</ex>ri</expan>
@@ -20990,7 +20994,7 @@
               <w>dicta<g ref="#slong"/></w>
             </damage>
             <w>re<g ref="#slong"/></w>
-            <lb n="55"/>
+            <lb n="54"/>
             <w>portari</w>
             <w><choice>
                 <abbr>fac<am><g ref="#emacr"/></am></abbr>
@@ -21056,8 +21060,8 @@
             <w>fuit</w>
           </damage>
           <w>tacta</w>
-          <lb n="56"/>
-          <w>a<choice>
+          <lb n="55"/>
+          <w><choice>
               <abbr><g ref="#slong"/>u<am><g ref="#pbardes"/></am></abbr>
               <expan>sup<ex>er</ex></expan>
             </choice></w>
@@ -21138,7 +21142,7 @@
           </damage>
           <persName ref="N">
             <damage extent="5char"><w>beati</w></damage>
-            <lb n="57"/>
+            <lb n="56"/>
             <w><choice>
                 <orig>theba<damage extent="3char">udi</damage></orig>
                 <reg>Thebaudi</reg>
@@ -21217,7 +21221,7 @@
                   /></am></abbr>
               <expan>asta<ex>n</ex>tib<ex>us</ex></expan>
             </choice></w>
-          <lb n="58"/>
+          <lb n="57"/>
           <w><choice>
               <abbr>c<am><g ref="#utilde"/></am></abbr>
               <expan>cu<ex>m</ex></expan>
@@ -21298,20 +21302,20 @@
               </choice>predicta</w>
           </damage>
           <w><damage extent="2char">ju</damage>raverunt</w>
-          <lb n="59"/>
+          <lb n="58"/>
           <w>vera</w>
           <w><choice>
               <abbr><am><g ref="N"/></am></abbr>
               <expan>e<ex>ss</ex>e</expan>
             </choice></w>
           <w>et</w>
-          <w>maxirne</w>
+          <w>maxirne</w><!-- CHECK maxime? -->
           <w>dicta</w>
           <w>domina</w>
           <persName ref="N">
             <w>Johannina</w>
           </persName>
-          <lb n="60"/>
+          <lb n="59"/>
           <w><hi rend="cap1.0">D</hi>e</w>
           <w>miraculo</w>
           <w>mortui</w>
@@ -21327,6 +21331,8 @@
                 <reg>Malo</reg>
               </choice></w>
           </placeName>
+          <lb n="60"/>
+          <lb n="61"/>
           <w><choice>
               <abbr><hi rend="cap1.1">P</hi>o<g ref="#slong"/>t<am><g ref="N"/></am></abbr>
               <expan>Postq<ex>uam</ex></expan>
@@ -21394,7 +21400,7 @@
               </choice></w>
           </persName>
           <space dim="horizontal" extent="N"/>
-          <lb n="61"/>
+          <lb n="62"/>
           <add place="margin-left"><fw><damage extent="1char" type="N"><w>n</w></damage><g ref="#middot"/>20<g
                 ref="#middot"/></fw></add>
           <del extent="4char" type="N">rec<g ref="#otilde"/></del>
@@ -21451,9 +21457,9 @@
               </choice></w>
           </persName>
           <space dim="horizontal" extent="N"/>
-          <lb n="62"/>
+          <lb n="63"/>
           <choice>
-            <orig><w><abbr><am><g ref="#utilde"/></am></abbr></w><w><abbr>d<am><g ref="N"/></am></abbr></w></orig>
+            <orig><w><abbr>c<am><g ref="#utilde"/></am></abbr></w><w><abbr>d<am><g ref="N"/></am></abbr></w></orig><!-- CHECK !!! -->
             <reg><w><expan>c<ex>on</ex>d<ex>omi</ex>n<ex>u</ex>s</expan></w></reg>
           </choice>
           <w>loci</w>
@@ -21533,7 +21539,7 @@
               <abbr>quo<am><g ref="#rum"/></am></abbr>
               <expan>quo<ex>rum</ex></expan>
             </choice></w>
-          <lb n="63"/>
+          <lb n="64"/>
           <w><choice>
               <abbr>n<am><g ref="N"/></am></abbr>
               <expan>n<ex>om</ex>i<ex>n</ex>a</expan>
@@ -21595,7 +21601,7 @@
           </name>
           <w><g ref="#slong"/>ignavit</w>
           <space dim="horizontal" extent="N"/>
-          <lb n="64"/>
+          <lb n="65"/>
           <unclear extent="2char" reason="N"><w>ut</w></unclear>
           <w><damage extent="1char" type="N">m</damage>ori<g ref="#slong"/></w>
           <w>e<g ref="#slong"/>t</w>
@@ -21635,7 +21641,7 @@
           <w>qui</w>
           <w>filiu<g ref="#slong"/></w>
           <space dim="horizontal" extent="N"/>
-          <lb n="65"/>
+          <lb n="66"/>
           <damage extent="6char" type="N"><w><g ref="#slong"/>ubito</w></damage>
           <w><choice>
               <abbr><g ref="#slong"/>i<am><g ref="N"/></am></abbr>
@@ -21701,7 +21707,7 @@
                 <expan>b<ex>ea</ex>t<ex>u</ex>m</expan>
               </choice></w>
             <space dim="horizontal" extent="N"/>
-            <lb n="66"/>
+            <lb n="67"/>
             <w><choice>
                 <orig><damage extent="7char" type="N">thebaud</damage>um</orig>
                 <reg>Thebaudum</reg>
@@ -21772,7 +21778,7 @@
                 <abbr><g ref="#muncdes"/><am><g ref="#imacr"/><g ref="#etfin"/></am></abbr>
                 <expan>mi<ex>sericordi</ex>a<ex>m</ex></expan>
               </choice></w><space dim="horizontal" extent="N"/>
-            <lb n="67"/>
+            <lb n="68"/>
             <damage extent="8char" type="N"><w>succurre</w></damage>
             <w>michi</w>
             <w><choice>
@@ -21830,7 +21836,7 @@
               </choice></w>
             <w>qui</w>
             <w>hodie</w><space dim="horizontal" extent="N"/>
-            <lb n="68"/>
+            <lb n="69"/>
             <damage extent="2char" type="N"><w>in</w></damage>
             <w><choice>
                 <abbr><am><g ref="N"/></am></abbr>
@@ -21902,7 +21908,7 @@
               <w>mihi</w>
             </supplied>
             <w>cum</w>
-            <lb n="69"/>
+            <lb n="70"/>
             <unclear extent="8char" reason="N"/>
             <supplied resp="N">
               <w>sanitate</w>
@@ -21964,7 +21970,7 @@
                 <expan>devenie<ex>n</ex>s</expan>
               </choice></w>
           </damage>
-          <lb n="70"/>
+          <lb n="71"/>
           <unclear extent="2char" reason="N"/>
           <supplied resp="N"><w>ad</w></supplied>
           <label n="56"/>
@@ -22034,7 +22040,7 @@
               <abbr>fimit<am><g ref="#usmod"/></am></abbr>
               <expan>fi<ex>r</ex>mit<ex>er</ex></expan>
             </choice></w>
-          <lb n="71"/>
+          <lb n="72"/>
           <damage extent="14char" type="N">
             <w><choice>
                 <abbr>re<g ref="#slong"/>pit<am><g ref="N"/></am>s</abbr>
@@ -22100,7 +22106,7 @@
           <w>nimia</w>
           <w>c<unclear extent="2char" reason="N"/><supplied resp="N">or</supplied>di<g ref="#slong"/></w>
           <w>leticia</w>
-          <lb n="72"/>
+          <lb n="73"/>
           <damage extent="6char" type="N">
             <w><choice>
                 <abbr><am><g ref="#ptilde"/></am>fu<g ref="#slong"/>u<g ref="#slong"/></abbr>
@@ -22170,7 +22176,7 @@
             <orig><w>ad</w><w>Inplevi<damage extent="1char" type="N">t</damage></w></orig>
             <reg><w>adimplevit</w></reg>
           </choice><g ref="#middot"/>
-          <lb n="73"/>
+          <lb n="74"/>
           <w><hi rend="cap1.0">D</hi>e</w>
           <w><hi rend="double"><g ref="#muncdes"/></hi>iraculo</w>
           <w>uniu<g ref="#slong"/></w>
@@ -22185,7 +22191,7 @@
           <w>cecidit</w>
           <w>ab</w>
           <w>equo</w><g ref="#middot"/>
-          <lb n="74"/>
+          <lb n="75"/>
           <add place="margin-left"><damage extent="3char" type="N"><fw><w>n</w><g ref="#middot"/>21<g ref="#middot"
                 /></fw></damage></add>
           <damage extent="31char" type="N">
@@ -22274,7 +22280,7 @@
                 <reg>equus</reg>
               </choice></w>
           </damage>
-          <lb n="75"/>
+          <lb n="76"/>
           <damage extent="9 char" type="N">
             <w><choice>
                 <orig>perge<g ref="#slong"/></orig>
@@ -22365,7 +22371,7 @@
             <w>uno</w>
             <w>pede</w>
           </damage>
-          <lb n="76"/>
+          <lb n="77"/>
           <damage extent="8char" type="N">
             <w><choice>
                 <abbr>i<am><g ref="N"/></am>s</abbr>
@@ -22438,7 +22444,7 @@
                 <expan>ex<ex>tra</ex>here</expan>
               </choice></w>
           </damage>
-          <lb n="77"/>
+          <lb n="78"/>
           <w>nec</w>
           <w><choice>
               <abbr>dict<am><g ref="#utilde"/></am></abbr>
@@ -22511,7 +22517,7 @@
                 <abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>trat<am><g ref="#utilde"/></am></abbr>
                 <expan>p<ex>ro</ex>stratu<ex>m</ex></expan>
               </choice></w></damage>
-          <lb n="78"/>
+          <lb n="79"/>
           <w><choice>
               <abbr><am><g ref="#et"/></am></abbr>
               <expan><ex>et</ex></expan>
@@ -22597,7 +22603,7 @@
           <damage extent="8char" type="N">
             <w>retinere</w>
           </damage>
-          <lb n="79"/>
+          <lb n="80"/>
           <w>po<g ref="#slong"/><g ref="#slong"/>et</w>. <damage extent="5char" type="N">
             <w><choice>
                 <abbr>S<am><g ref="#etfin"/></am></abbr>
@@ -22674,7 +22680,7 @@
                 <expan>fue<ex>r</ex>at</expan>
               </choice></w>
           </damage>
-          <lb n="80"/>
+          <lb n="81"/>
           <w><choice>
               <abbr>re<am><g ref="#pbardes"/></am>t<am><g ref="#utilde"/></am></abbr>
               <expan>rep<ex>er</ex>tu<ex>m</ex></expan>
@@ -22772,7 +22778,7 @@
             <w><g ref="#slong"/>i</w>
             <w>ab</w>
           </damage>
-          <lb n="81"/>
+          <lb n="82"/>
           <q who="N">
             <w>hiis</w>
             <w>meis</w>
@@ -22854,7 +22860,7 @@
                   <expan>corp<ex>us</ex></expan>
                 </choice></w>
             </damage>
-            <lb n="82"/>
+            <lb n="83"/>
             <w>ob</w>
             <damage extent="11char" type="N">
               <w><choice>
@@ -22942,7 +22948,7 @@
                 <expan>dic<ex>t</ex>is</expan>
               </choice></w>
           </damage>
-          <lb n="83"/>
+          <lb n="84"/>
           <w><damage extent="3char" type="N">Inf</damage>ortunio</w>
           <w>et</w>
           <w><choice>
@@ -23034,7 +23040,7 @@
           </damage>
           <persName ref="N">
             <damage extent="5char" type="N"><w>beati</w></damage>
-            <lb n="84"/>
+            <lb n="85"/>
             <damage extent="8char" type="N"><w><choice>
                   <orig>thebaudi</orig>
                   <reg>Thebaudi</reg>
@@ -23137,7 +23143,7 @@
             <w>cui</w>
             <w>refferre</w>
           </damage>
-          <lb n="85"/>
+          <lb n="86"/>
           <damage extent="7char" type="N">
             <w>gratia<g ref="#slong"/></w>
           </damage>
@@ -23148,7 +23154,12 @@
             <w>po<g ref="#slong"/><g ref="#slong"/></w>
           </damage>
           <w>extendi</w>
-          <w>posset</w>. <lb n="N"/>
+          <w>posset</w>.
+          <lb n="87"/>
+          <lb n="88"/>
+          <lb n="89"/>
+          <lb n="90"/>
+          <lb n="91"/>
           <w>Ego</w>
           <persName ref="N">
             <w><choice>
