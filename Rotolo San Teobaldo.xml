@@ -1771,6 +1771,8 @@
       
       <div>
 
+        <!-- #######################################  folio 01r  ####################################### -->
+        
         <pb n="1" xml:id="ST_fol_01r"/>
 
         <fw place="top-left" type="N"><add>Pagina I<g ref="#middot"/></add></fw>
@@ -3043,7 +3045,8 @@
 
         <p><add place="bottom">Machabeorum</add></p><!-- CHECK -->
 
-
+        <!-- #######################################  folio 02r  ####################################### -->
+        
         <pb n="2" xml:id="ST_fol_02r"/>
 
         <fw place="above"><add>Pag<g ref="#middot"/>2</add></fw>
@@ -4155,6 +4158,7 @@
           <w>vinculo</w>
           <w>naturali</w>.
           
+          <!-- #######################################  folio 03r  ####################################### -->
           
           <pb n="3" xml:id="ST_fol_03r"/>
 
@@ -5181,6 +5185,9 @@
             </choice></w>
           <w>intelligi</w>
           <w>civitatis</w>
+          
+          <!-- #######################################  folio 04r  ####################################### -->
+
           <w>cu<pb n="4" xml:id="ST_fol_04r"/><lb facs="#VB_line_004_01" xml:id="ST_lb_04r_01" n="1"/>sto<g ref="#esh"/></w>
           <fw place="top-left" type="fol"><add>pagina 4</add></fw>
           <w>cum</w>
@@ -6390,7 +6397,8 @@
               </choice></w>
           </unclear>
 
-
+          <!-- #######################################  folio 05r  ####################################### -->
+          
           <pb n="5" xml:id="ST_fol_05r"/>
 
           <fw place="margin-left"><add><w>pag</w>5</add></fw>
@@ -7298,7 +7306,8 @@
           <persName ref="#sanMartino">
             <w><g ref="#slong"/>ancti</w>
 
-
+            <!-- #######################################  folio 06r  ####################################### -->
+            
             <pb n="6" xml:id="ST_fol_06r"/>
 
             <fw place="top-left"><add>pag. 6</add></fw>
@@ -8385,7 +8394,8 @@
                 <reg>Raphaelis</reg>
               </choice></w></persName>
 
-
+          <!-- #######################################  folio 07r  ####################################### -->
+          
           <pb n="7" xml:id="ST_fol_07r"/>
 
           <fw place="margin-left"><add>pag.7</add></fw>
@@ -9013,9 +9023,10 @@
           <w>laudem</w><pc><g ref="#colmidcomposit"/></pc>
         </p>
 
-
         <!--- fine prima parte del rotulo -->
 
+        <!-- #######################################  folio 08r  ####################################### -->
+        
         <pb n="8" xml:id="ST_fol_08r"/>
 
         <fw place="top-left" type="N"><add><w>pag</w><g ref="#middot"/>8</add></fw>
@@ -10224,7 +10235,8 @@
               <expan>q<ex>uod</ex></expan>
             </choice></w>
 
-
+          <!-- #######################################  folio 09r  ####################################### -->
+          
           <pb n="9" xml:id="ST_fol_09r"/>
 
           <fw place="top-left"><add>pag <g ref="#middot"/>9</add></fw>
@@ -11234,6 +11246,7 @@
           <label n="42"/> [<w>Pergamena</w>
           <w>X</w>]
           
+          <!-- #######################################  folio 10r  ####################################### -->
           
           <pb n="10" xml:id="ST_fol_10r"/>
 
@@ -11707,7 +11720,8 @@
               <expan>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i</expan>
             </choice></w>. </p>
 
-
+        <!-- #######################################  folio 11r  ####################################### -->
+        
         <!-- Terza Parte del Rotulo, seconda narrazione vita di San Teobaldo e miracoli -->
 
         <pb n="11" xml:id="ST_fol_11r"/>
@@ -12744,7 +12758,8 @@
               </choice></w>
           </persName>
 
-
+          <!-- #######################################  folio 12r  ####################################### -->
+          
           <pb n="12" xml:id="ST_fol_12r"/>
           
           [<w>Pergamena</w>
@@ -13737,7 +13752,8 @@
                 <expan>jux<ex>ta</ex></expan>
               </choice></w>
 
-
+            <!-- #######################################  folio 13r  ####################################### -->
+            
             <pb n="13" xml:id="ST_fol_13r"/>
 
             <label n="45"/> [<w>Pergamena</w>
@@ -14778,7 +14794,8 @@
               <expan>corpusc<ex>o</ex>lo</expan>
             </choice></w>
 
-
+          <!-- #######################################  folio 14r  ####################################### -->
+          
           <pb n="14" xml:id="ST_fol_014r"/>
 
           <label n="46"/> [<w>Pergamena</w>
@@ -15531,11 +15548,15 @@
             <w>cruce</w>
             <w>patienter</w>
 
-
+            <!-- #######################################  folio 15r  ####################################### -->
+            
             <pb n="15" xml:id="ST_fol_15r"/>
             
             <label n="47"/> [<w>Pergamena</w>
-            <w>XV</w>] <add place="top"><fw><w>pag</w><g ref="#middot"/>15<g ref="#middot"/></fw></add>
+            <w>XV</w>]
+            
+            <fw place="top"><w>pag</w><g ref="#middot"/>15<g ref="#middot"/></fw>
+            
             <lb n="1"/>
             <w><g ref="#slong"/>ub<g ref="#slong"/>tinuit</w>
           </q>
@@ -16434,6 +16455,9 @@
           <w><hi rend="double"><g ref="#esh"/></hi>cien<g ref="#esh"/></w>
           <label n="48"/> [<w>Pergamena</w>
           <w>XVI</w>] <w><hi rend="cap1.1">S</hi>ciens</w>
+
+          <!-- #######################################  folio 16r  ####################################### -->
+
           <pb n="16" xml:id="ST_fol_016r"/>
           <add place="top"><fw><w>pag</w><g ref="#middot"/>16</fw></add>
           <lb n="1"/>
@@ -17366,9 +17390,11 @@
           </add>
         </p>
 
-
-        <p>
-          <pb n="17" xml:id="ST_fol_017r"/> [<w>Pergamena</w>
+        <!-- #######################################  folio 17r  ####################################### -->
+        
+        <pb n="17" xml:id="ST_fol_017r"/>
+          
+        <p>[<w>Pergamena</w>
           <w>XVII</w>] <add place="top"><w>pag</w><g ref="#middot"/>17<g ref="#middot"/></add>
           <add place="margin-left"><w>n</w><g ref="#middot"/>16<g ref="#middot"/></add>
         </p>
@@ -17567,7 +17593,6 @@
             </choice></w>
           <w>ame<g ref="#nrdes"/></w><pc><g ref="#middot"/></pc>
         </p>
-
 
         <p>
           <lb n="6"/>
@@ -18120,6 +18145,8 @@
       
       <div n="5" type="section">
 
+        <!-- #######################################  folio 18r  ####################################### -->
+        
         <pb n="18" xml:id="ST_fol_18r"/>
         
         <fw><add place="top"><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
