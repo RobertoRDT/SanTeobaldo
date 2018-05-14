@@ -2143,7 +2143,8 @@
                 <abbr><hi rend="N">J</hi>aco<am>b<g ref="#usmod"/></am></abbr>
                 <expan><hi rend="N">J</hi>acob<ex>us</ex></expan>
               </choice></w>
-          </persName>. <q><!-- CHECK @who -->
+          </persName>.
+          <q><!-- CHECK @who -->
             <w><hi rend="N">E</hi>t</w>
             <w><damage extent="5char" type="N"><choice>
                   <abbr>in<am><g ref="#ttildevert"/></am></abbr>
@@ -2191,7 +2192,8 @@
           <w><choice>
               <abbr>n<am><g ref="#utilde"/></am></abbr>
               <expan>nu<ex>n</ex></expan>
-            </choice>cupabatur</w>. <q><!-- CHECK @who -->
+            </choice>cupabatur</w>.
+          <q><!-- CHECK @who -->
             <w>Ut</w>
             <w><g ref="#slong"/>is</w>
             <w>illi</w>
@@ -2498,7 +2500,7 @@
               <orig><abbr>o<g ref="#slong"/>t<am><g ref="#qslstroktilde"
                 /></am></abbr><expan>q<ex>uam</ex></expan></orig>
               <reg>Postquam</reg>
-              <!-- CHECK -->
+              <!-- CHECK manca la p iniziale nell'orig? -->
             </choice></w>
           <w><choice>
               <abbr>au<am><g ref="#ttilde"/></am></abbr>
@@ -4771,7 +4773,7 @@
           <w>Igitur</w>
           <w><choice>
               <sic>accepto</sic>
-              <corr>accepto</corr><!-- CHECK -->
+              <corr>accepto</corr><!-- CHECK dov'è l'errore? -->
             </choice></w>
           <w><choice>
               <abbr>cor<am><g ref="#pbardes"/></am>e</abbr>
@@ -4830,8 +4832,7 @@
         <lb facs="#ST_line_03r_30" xml:id="ST_lb_03r_30" n="30"/>
 
         <fw place="margin-left" type="N"><add>n<g ref="#middot"/>3</add></fw>
-        <!-- CHECK non dovrebbe essere a inizio
-            pagina??? -->
+        <!-- CHECK non dovrebbe essere a inizio pagina??? -->
         <fw place="margin-left" type="N"><add>f</add></fw>
 
         <p>
@@ -12187,7 +12188,8 @@
           <w><choice>
               <abbr>capit<am><g ref="#ltailstrok"/></am>o</abbr>
               <expan>capit<ex>u</ex>lo</expan>
-            </choice></w>. <quote><!-- CHECK -->
+            </choice></w>.
+          <quote><!-- CHECK -->
             <choice>
               <orig><w>sivis</w></orig>
               <reg><w>Si</w>
@@ -13093,11 +13095,11 @@
                 </choice></w>
             </placeName>
           </persName>
-          <!-- checkk -->
-            <fw place="margin-left"><add><w>patria</w>
+          <fw place="margin-left"><add>
+              <w>patria</w>
               <w>n</w><g ref="#middot"/>2<g ref="#middot"/>
             </add>
-             </fw> 
+          </fw> 
           <w>bone</w>
           <w><choice>
               <abbr>memo<am><g ref="#itilde"/></am>e</abbr>
@@ -15246,9 +15248,10 @@
         </p>
 
         <p><!-- CHECK -->
-            <fw place="margin-left"><add><w>suo</w>
+          <fw place="margin-left"><add><w>suo</w>
               <w>cibo</w></add></fw>
         </p>
+
         <p>
           <w><choice>
               <orig>tante</orig>
