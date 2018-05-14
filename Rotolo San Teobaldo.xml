@@ -3041,7 +3041,8 @@
             <choice>
               <orig><w><abbr><am><g ref="#itilde"/></am>eternu<am><g ref="#etfin"/></am></abbr></w></orig>
               <reg><w><expan>i<ex>n</ex></expan></w><w><expan>eternu<ex>m</ex></expan></w></reg>
-            </choice>. </q>
+            </choice>.
+          </q>
         </p>
 
         <p><add place="bottom">Machabeorum</add></p><!-- CHECK -->
@@ -4749,7 +4750,10 @@
           <w>fuerat</w>
           <w>po<g ref="#slong"/><g ref="#slong"/>itum</w><pc><g ref="#middot"/></pc>
           <w>Igitur</w>
-          <w><sic>accepto</sic><corr>accepto</corr></w>
+          <w><choice>
+              <sic>accepto</sic>
+              <corr>accepto</corr><!-- CHECK -->
+            </choice></w>
           <w><choice>
               <abbr>cor<am><g ref="#pbardes"/></am>e</abbr>
               <expan>corp<ex>or</ex>e</expan>
