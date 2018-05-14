@@ -5619,7 +5619,7 @@
             <w>Thebaudi</w>
           </persName>
           <lb facs="#ST_line_04r_14" xml:id="ST_lb_04r_14" n="14"/>
-          <add place="margin-left"><fw type="N">n<g ref="#middot"/>3<g ref="#middot"/></fw></add>
+          <fw place="margin-left" type="N"><add>n<g ref="#middot"/>3<g ref="#middot"/></add></fw>
           <space dim="horizontal" extent="4char"/>
           <w>furtim</w>
           <w>accepit</w><pc>.</pc>
