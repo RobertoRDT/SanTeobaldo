@@ -1767,7 +1767,8 @@
     <!-- - controllare e uniformare tutti i @place -->
     <!-- - marcatura uniforme per tutte le [ ]     -->
     <!-- - spostare tutti i marginalia in hotspot? -->
-
+    <!-- - specificare la mano per <add> moderne   -->
+    
     <body>
       
       <div n="1" type="section">
@@ -10204,20 +10205,10 @@
             <w>hoc</w>
             <w>et</w>
             <w>fir<lb facs="#ST_line_08r_40" xml:id="ST_lb_08r_40" n="40"/>mantiam</w>
-<!--
-<fw place="margin-left"><add>1354</add></fw>
-            <fw place="margin-left">
-             <add> 
-            <num value="1354"><g ref="#Muncdesosup"/>xxxliiii</num>
-              <g ref="#middot"/><w>de</w>
-              <w><abbr><am><g ref="#mtilde"/></am></abbr><expan>m<ex>ense</ex></expan></w>
-              <w>Iunii</w>
-             </add>
-              </fw>
--->            
-
-<add place="margin-left">
-              <fw>1354</fw>
+            <add place="margin-left" hand="modern"><!-- non è un fw, specificare la mano -->
+              <w>1354</w>
+            </add>
+            <add place="margin-left">
               <num value="1354"><g ref="#N"/>xxxliiii</num>
               <g ref="#middot"/><w>de</w>
               <w><abbr><am><g ref="#mtilde"/></am></abbr><expan>m<ex>ense</ex></expan></w>
