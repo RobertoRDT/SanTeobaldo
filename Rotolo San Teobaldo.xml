@@ -20993,7 +20993,7 @@
             <w>cuiu<g ref="#slong"/></w>
             <w>meriti<g ref="#slong"/></w>
             <w><choice>
-                <abbr><am><g ref="N"/></am></abbr>
+                <abbr><am>et</am></abbr>
                 <expan><ex>et</ex></expan>
               </choice></w>
             <w><choice>
@@ -21025,8 +21025,8 @@
             <w>et</w>
             <w>devotione</w>
             <w><choice>
-                <abbr>Ip<am><g ref="#atilde"/></am></abbr>
-                <expan>Ip<ex>s</ex>a</expan>
+                <abbr>ip<am><g ref="#atilde"/></am></abbr>
+                <expan>ip<ex>s</ex>a</expan>
               </choice></w>
             <w>ut</w>
             <w>credo</w>
@@ -21058,11 +21058,11 @@
             <w>ea</w>
             <lb facs="#ST_line_18r_53" xml:id="ST_lb_018r_53" n="53"/>
             <w><choice>
-                <abbr>hr<am><g ref="#imacr"/></am></abbr>
+                <abbr>hr<am><g ref="#itilde"/></am></abbr>
                 <expan>h<ex>abe</ex>ri</expan>
               </choice></w>
             <w><choice>
-                <abbr>p<am><g ref="N"/></am></abbr>
+                <abbr>p<am>o<g ref="#combovl"/>t<g ref="#combovl"/></am></abbr>
                 <expan>pot<ex>est</ex></expan>
               </choice></w>
             <w>ut</w>
@@ -21091,7 +21091,7 @@
           </q>
           <w>que</w>
           <w><choice>
-              <abbr>o<am><g ref="N"/></am><g ref="#slong"/></abbr>
+              <abbr>o<am>m<g ref="#combovl"/>e<g ref="#combovl"/></am><g ref="#slong"/></abbr>
               <expan>om<ex>n</ex>es</expan>
             </choice></w>
           <w>a<g ref="#slong"/>tante<g ref="#slong"/></w>
@@ -21103,7 +21103,7 @@
               </choice></w>
             <w>e<g ref="#slong"/>t</w>
             <w>quod</w>
-            <w>dixi<g ref="#slong"/>ti<g ref="#slong"/></w><g ref="#middot"/>
+            <w>dixi<g ref="#slong"/>ti<g ref="#slong"/></w><pc><g ref="#middot"/></pc>
             <choice>
               <orig><w>Ideo</w>
                 <damage extent="1char"><w><abbr><am><g ref="#qslstrok"/></am></abbr></w></damage></orig>
@@ -21117,7 +21117,7 @@
             <lb facs="#ST_line_18r_54" xml:id="ST_lb_018r_54" n="54"/>
             <w>portari</w>
             <w><choice>
-                <abbr>fac<am><g ref="#emacr"/></am></abbr>
+                <abbr>fac<am><g ref="#etilde"/></am></abbr>
                 <expan>face<ex>re</ex></expan>
               </choice></w>
             <w>ne</w>
@@ -21154,7 +21154,7 @@
           <w>magna</w>
           <w>cordis</w>
           <w><choice>
-              <abbr>affectio<am><g ref="#etilde"/></am></abbr>
+              <abbr>affectio<am>o<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
               <expan>affectio<ex>n</ex>e</expan>
             </choice></w>
           <w>et</w>
@@ -21168,7 +21168,7 @@
               <expan>p<ex>re</ex>gnans</expan>
             </choice></w>
           <w><choice>
-              <abbr>po<g ref="#slong"/>t<am><g ref="N"/></am></abbr>
+              <abbr>po<g ref="#slong"/>t<am><g ref="#qslstroktilde"/></am></abbr>
               <expan>postq<ex>uam</ex></expan>
             </choice></w>
           <damage extent="2char">
@@ -21210,7 +21210,7 @@
               <reg>asseruit</reg>
             </choice></w>
           <w><choice>
-              <abbr>q<am><g ref="#imacr"/></am></abbr>
+              <abbr>q<am><g ref="#itilde"/></am></abbr>
               <expan>q<ex>u</ex>i<ex>dem</ex></expan>
             </choice></w>
           <w><choice>
@@ -21227,7 +21227,7 @@
             </choice></w>
           <w>dolorem</w>
           <w><choice>
-              <abbr>v<am><g ref="#ltailstrok"/></am></abbr>
+              <abbr>v<am><g ref="#lstrok"/></am></abbr>
               <expan>v<ex>e</ex>l</expan>
             </choice></w>
           <w><choice>
@@ -21260,7 +21260,7 @@
             <w>et</w>
             <w>meriti<g ref="#slong"/></w>
           </damage>
-          <persName ref="N">
+          <persName ref="#sanTeobaldo">
             <damage extent="5char"><w>beati</w></damage>
             <lb facs="#ST_line_18r_56" xml:id="ST_lb_018r_56" n="56"/>
             <w><choice>
@@ -21280,15 +21280,15 @@
           </damage>
           <w>immen<g ref="#slong"/>a</w>
           <w><choice>
-              <orig><abbr>ip<am><g ref="N"/></am>m</abbr></orig>
+              <orig><abbr>i<am>p<g ref="#combovl"/>a<g ref="#combovl"/></am>m</abbr></orig>
               <reg><expan>ip<ex>s</ex>a</expan></reg>
             </choice></w>
-          <w>liberaverat</w><g ref="#middot"/>
+          <w>liberaverat</w><pc><g ref="#middot"/></pc>
           <w><g ref="#Eunc"/>t</w>
           <w>ob</w>
           <w>hoc</w>
           <w><choice>
-              <orig>Inpo<g ref="#slong"/><g ref="#slong"/>uit</orig>
+              <orig>inpo<g ref="#slong"/><g ref="#slong"/>uit</orig>
               <reg>imposuit</reg>
             </choice></w>
           <w>nomen</w>
@@ -21298,7 +21298,7 @@
             </choice></w>
           <w>filie</w>
           <w><g ref="#slong"/>ue</w>
-          <persName ref="N">
+          <persName ref="#Tebauda">
             <w><choice>
                 <orig>thebauda</orig>
                 <reg>Thebauda</reg>
@@ -21310,14 +21310,14 @@
               <expan>revere<ex>n</ex>tia<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>gr<am><g ref="#emacr"/></am></abbr>
+              <abbr>gr<am><g ref="#etilde"/></am></abbr>
               <expan>gr<ex>ati</ex>e</expan>
             </choice></w>
           <w><choice>
               <abbr><am><g ref="#pbardes"/></am></abbr>
               <expan>p<ex>er</ex></expan>
             </choice></w>
-          <persName ref="N">
+          <persName ref="#sanTeobaldo">
             <w><choice>
                 <abbr>bt<am><g ref="#mtilde"/></am></abbr>
                 <expan>b<ex>ea</ex>t<ex>u</ex>m</expan>
@@ -21331,8 +21331,9 @@
             <w><choice>
                 <abbr><am><g ref="#condes"/></am><g ref="#slong"/>ecute</abbr>
                 <expan><ex>con</ex>secute</expan>
-              </choice></w>. <w><choice>
-                <abbr>o<am><g ref="N"/></am>b<am><g ref="#usbase"/></am></abbr>
+            </choice></w><pc>.</pc> 
+            <w><choice>
+                <abbr>o<am>m<g ref="#combovl"/>i<g ref="#combovl"/></am>b<am><g ref="#usbase"/></am></abbr>
                 <expan>om<ex>n</ex>ib<ex>us</ex></expan>
               </choice></w>
           </damage>
@@ -21356,12 +21357,12 @@
               <abbr>b<am><g ref="#ntilde"/></am>dicentibu<g ref="#slong"/></abbr>
               <expan>b<ex>e</ex>n<ex>e</ex>dicentibus</expan>
             </choice></w>
-          <name ref="N">
+          <persName ref="#Dio">
             <w><choice>
                 <orig>deum</orig>
                 <reg>Deum</reg>
               </choice></w>
-          </name>
+          </persName>
           <w>qui</w>
           <w><choice>
               <abbr>tant<am><g ref="#atilde"/></am></abbr>
@@ -21375,10 +21376,10 @@
               <abbr><am><g ref="#ptilde"/></am>gn<am><g ref="#atilde"/></am>ti</abbr>
               <expan>p<ex>re</ex>gna<ex>n</ex>ti</expan>
             </choice></w>
-          <w>gratiam</w>
+          <w><choice><abbr>gr<am><g ref="#combovl"/>m<g ref="#combovl"/></am></abbr><expan>gra<ex>ti</ex>am</expan></choice></w>
           <w>ob</w>
           <w>merita</w>
-          <persName ref="N">
+          <persName ref="#sanTeobaldo">
             <w><choice>
                 <abbr>b<am><g ref="#ttilde"/></am>i</abbr>
                 <expan>b<ex>ea</ex>ti</expan>
@@ -21408,7 +21409,8 @@
           <w>in</w>
           <w>partu</w>
           <w>vitam</w>
-          <w>eva<g ref="#slong"/>it</w>. <choice>
+          <w>eva<g ref="#slong"/>it</w> 
+            <choice>
             <orig><w>Sic</w><w><abbr><am><g ref="#qslstrok"/></am></abbr></w></orig>
             <reg><w><expan>Sicq<ex>ue</ex></expan></w></reg>
           </choice>
@@ -21424,20 +21426,23 @@
                 <expan>p<ex>re</ex>dicta</expan>
               </choice>predicta</w>
           </damage>
-          <w><damage extent="2char">ju</damage>raverunt</w>
+          <w><choice><abbr><damage extent="2char">ju</damage>raver<am>u<g ref="#combovl"/>t<g ref="#combovl"/></am></abbr><expan>juraveru<ex>n</ex>t</expan></choice></w>
           <lb facs="#ST_line_18r_58" xml:id="ST_lb_018r_58" n="58"/>
           <w>vera</w>
           <w><choice>
-              <abbr><am><g ref="N"/></am></abbr>
+              <abbr><am>e<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
               <expan>e<ex>ss</ex>e</expan>
             </choice></w>
           <w>et</w>
           <w>maxirne</w><!-- CHECK maxime? -->
           <w>dicta</w>
           <w>domina</w>
-          <persName ref="N">
+          <persName ref="#GiovannaIncisa">
             <w>Johannina</w>
           </persName>
+          </p>
+          
+          <p>
           <lb facs="#ST_line_18r_59" xml:id="ST_lb_018r_59" n="59"/>
           <w><hi rend="cap1.0">D</hi>e</w>
           <w>miraculo</w>
