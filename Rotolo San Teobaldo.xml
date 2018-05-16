@@ -23338,7 +23338,7 @@
 
         <p>
           <w>Ego</w>
-          <persName ref="N">
+          <persName ref="#PietroBaresano">
             <w><choice>
                 <orig>petrus</orig>
                 <reg>Petrus</reg>
@@ -23354,14 +23354,16 @@
           <w>j<g ref="#slong"/>tam</w>
           <w>carttam</w>
           <w>recopiare</w>
+          <date when="1466">
           <w>1466</w>
+          </date>  
         </p>
 
         <p>
           <lb facs="#ST_line_18r_92" xml:id="ST_lb_018r_92" n="92"/>
           <w><g ref="#Eunc"/>t</w>
           <w>ego</w>
-          <persName ref="N">
+          <persName ref="#LudovicoCariniano">
             <w><choice>
                 <orig>ludovicu<g ref="#slong"/></orig>
                 <reg>Ludovicus</reg>
@@ -23373,8 +23375,8 @@
                 <expan>p<ex>ublicus</ex></expan>
               </choice></w></damage>
           <w><choice>
-              <abbr>not<am><g ref="N"/></am></abbr>
-              <expan>notari<ex>us</ex></expan>
+              <abbr>not<am>a<g ref="#combovl"/>r<g ref="#combovl"/></am></abbr>
+              <expan>notar<ex>ius</ex></expan>
             </choice></w>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>cripta</abbr>
@@ -23382,14 +23384,14 @@
             </choice></w>
           <lb facs="#ST_line_18r_93" xml:id="ST_lb_018r_093" n="93"/>
           <w><choice>
-              <abbr>o<am><g ref="N"/></am></abbr>
+              <abbr>o<am>i<g ref="#combovl"/>a<g ref="#combovl"/></am></abbr>
               <expan>o<ex>mn</ex>ia</expan>
             </choice></w>
           <w><g ref="#slong"/>crip<g ref="#slong"/>i</w>
           <w>ac</w>
           <w>in</w>
           <w><choice>
-              <abbr>pu<am><g ref="N"/></am></abbr>
+              <abbr>p<am>u<add place="above">ca<g ref="#etfin"/></add></am></abbr>
               <expan>pu<ex>bli</ex>cam</expan>
             </choice></w>
           <w><choice>
