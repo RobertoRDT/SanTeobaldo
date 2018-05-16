@@ -18956,7 +18956,7 @@
             <lb facs="#ST_line_18r_14" xml:id="ST_lb_18r_14" n="14"/>
             <w>de</w>
             <w><choice>
-                <orig>bernardi<g ref="N"/></orig>
+                <orig>bernardi<g ref="#esh"/></orig>
                 <reg>Bernardis</reg>
               </choice></w>
           </persName>
@@ -19058,7 +19058,7 @@
           </persName>
           <label n="52"/>
           <w><choice>
-              <abbr><am><g ref="N"/></am></abbr>
+              <abbr><am>e<g ref="#combovl"/>t<g ref="#combovl"/></am></abbr>
               <expan>et<ex>iam</ex></expan>
             </choice></w>
           <w><choice>
@@ -19459,7 +19459,7 @@
             </choice></w>
           <w>humani</w>
           <w><choice>
-              <abbr>g<am><g ref="N"/></am>i<g ref="#combovl"/>n<g ref="#combovl"/></abbr>
+              <abbr>g<am>n<g ref="#combovl"/>i<g ref="#combovl"/></am><g ref="#esh"/></abbr>
               <expan>g<ex>e</ex>n<ex>er</ex>is</expan>
             </choice></w>
           <w>corroboratione</w>
@@ -21424,7 +21424,7 @@
           <w>multe</w>
           <w>ex</w>
           <w><choice>
-              <abbr><am><g ref="N"/></am><g ref="#slong"/></abbr>
+              <abbr><am>i<g ref="#combovl"/>p<g ref="#combovl"/>i<g ref="#combovl"/></am><g ref="#slong"/></abbr>
               <expan>ip<ex>si</ex>s</expan>
             </choice></w>
           <damage extent="6char">
@@ -21478,7 +21478,7 @@
           <w>corpus</w>
           <persName ref="#sanTeobaldo">
             <w><choice>
-                <abbr><am>b<g ref="#combovl"/>t<g ref="#combovl"/>i<g ref="#combovl"/><g ref="N"/></am></abbr>
+                <abbr><am>b<g ref="#combovl"/>t<g ref="#combovl"/>i<g ref="#combovl"/></am></abbr>
                 <expan>b<ex>ea</ex>ti</expan>
               </choice></w>
             <w><choice>
@@ -21619,7 +21619,7 @@
               <expan>d<ex>omi</ex>no</expan>
             </choice></w>
           <w><choice>
-              <abbr><g ref="#Eunc"/><am><g ref="N"/></am></abbr>
+              <abbr><g ref="#Eunc"/><am>p<g ref="#combovl"/>o<g ref="#combovl"/></am></abbr>
               <expan>Ep<ex>iscop</ex>o</expan>
             </choice></w>
           <w>narravit</w>
@@ -21649,7 +21649,7 @@
           <w>et</w>
           <w>in</w>
           <w><choice>
-              <abbr>p<am>n<g ref="N"/>t<g ref="#combovl"/>i<g ref="#combovl"/>a<g ref="#combovl"/></am></abbr>
+              <abbr>p<am>n<g ref="#combovl"/>t<g ref="#combovl"/>i<g ref="#combovl"/>a<g ref="#combovl"/></am></abbr>
               <expan>p<ex>resen</ex>tia</expan>
             </choice></w>
           <w><choice>
@@ -22895,7 +22895,7 @@
               <expan>evad<ex>er</ex>e</expan>
           </choice></w><pc>.</pc> 
            <w><choice>
-              <abbr>H<am><g ref="N"/></am>li<am><g ref="#ttildevert"/></am></abbr>
+              <abbr>H<am>u<g ref="#combovl"/>i<g ref="#combovl"/></am>li<am><g ref="#ttildevert"/></am></abbr>
               <expan>Hu<ex>m</ex>ilit<ex>er</ex></expan>
             </choice></w>
           <w>ac</w>
@@ -22991,7 +22991,7 @@
             </persName>
             <damage extent="3char" type="N">
               <choice>
-                <orig><w><abbr>a<am><g ref="#ntilde"/></am></abbr></w><w><abbr><am><g ref="N"/></am></abbr></w></orig>
+                <orig><w><abbr>a<am><g ref="#ntilde"/></am></abbr></w><w><abbr><am><g ref="#qslstroktilde"/></am></abbr></w></orig>
                 <reg><w><expan>an<ex>te</ex>q<ex>uam</ex></expan></w></reg>
               </choice>
             </damage>
