@@ -3103,8 +3103,8 @@
             <w>Dil<damage extent="4char" type="N">exit</damage></w>
             <lb facs="#ST_line_02r_02" xml:id="ST_lb_02r_02" n="2"/>
             <w><choice>
-                <sic><abbr>maledition<am><g ref="#etilde"/></am></abbr><expan>maleditione<ex>m</ex></expan></sic>
-                <corr>maledictionem</corr>
+                <sic><abbr>maledition<am><g ref="#etilde"/></am></abbr></sic>
+              <corr><expan>maledictione<ex>m</ex></expan></corr>
               </choice></w>
             <w>et</w>
             <w><choice>
@@ -3115,8 +3115,8 @@
             <w>noluit</w>
             <w><choice>
                 <sic><abbr>b<am><g ref="#combhook"
-                  /></am>nditionem</abbr><expan>b<ex>e</ex>n<ex>e</ex>ditionem</expan></sic>
-                <corr>benedictionem</corr>
+                  /></am>nditionem</abbr></sic>
+              <corr><expan>b<ex>e</ex>n<ex>e</ex>dictionem</expan></corr>
               </choice></w><pc><g ref="#middot"/></pc>
             <w>et</w>
             <w><choice>
@@ -4169,7 +4169,7 @@
           <w><g ref="#slong"/>u<choice>
               <abbr><am><g ref="#pbardes"/></am>na</abbr>
               <expan>p<ex>er</ex>na</expan>
-            </choice>na</w><pc>.</pc>
+            </choice></w><pc>.</pc>
         </p>
 
         <p>
