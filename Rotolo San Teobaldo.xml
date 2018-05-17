@@ -1542,8 +1542,8 @@
         
         <char xml:id="muncdes">
           <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGH DESCENDER</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+F223D</mapping>
-          <mapping type="diplomatic">&#991805;</mapping>
+          <mapping type="codepoint" subtype="MUFI-PUA">U+F23D</mapping>
+          <mapping type="diplomatic">&#62013;</mapping>
           <mapping type="normalized">m</mapping>
         </char>
         
