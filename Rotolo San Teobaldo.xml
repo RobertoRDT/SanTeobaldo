@@ -1325,8 +1325,7 @@
         <char xml:id="qslstroktilde">
           <charName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE AND TILDE</charName>
           <mapping type="codepoint" subtype="composed">U+A759 + U+0303</mapping>
-          <mapping type="diplomatic">ꝙ̃</mapping>
-          
+          <mapping type="diplomatic">ꝙ̃</mapping>   
         </char>
         
         
@@ -1368,6 +1367,13 @@
         </glyph>
         
         <!-- ABBREVIATIONS -->
+        
+        <char xml:id="amp">
+          <charName>AMPERSAND</charName>
+          <mapping type="codepoint">U+0026</mapping>
+          <mapping type="diplomatic"></mapping>
+        </char>
+        
         
         <char xml:id="asup">
          <charName>COMBINING LATIN SMALL LETTER A</charName>
@@ -4236,9 +4242,11 @@
             </choice></w>.
         </p>
 
-        <p>
+        
           <lb facs="#ST_line_03r_03" xml:id="ST_lb_03r_03" n="3"/>
           <lb facs="#ST_line_03r_04" xml:id="ST_lb_03r_04" n="4"/>
+          
+          <p>
           <add place="margin-left">c</add>
           <space dim="horizontal" extent="4char"/>
           <w><choice>
@@ -9453,10 +9461,10 @@
               </choice></w></name>
           <w>ut</w>
           <w><g ref="#slong"/>i</w>
-          <name ref="N"><w><choice>
+          <persName ref="#Dio"><w><choice>
                 <orig>deus</orig>
                 <reg>Deus</reg>
-              </choice></w></name>
+              </choice></w></persName>
           <lb facs="#ST_line_08r_12" n="12" xml:id="ST_lb_08r_12"/>
           <w><unclear extent="2char">de</unclear>traerat</w>
           <w><choice>
@@ -14457,7 +14465,7 @@
           <lb facs="#ST_line_13r_13" xml:id="ST_lb_013_13" n="13"/>
           <fw place="margin-left"><add><w>ritorno</w>
               <w>in</w>
-              <placeName ref="N"><w>Alba</w>
+              <placeName ref="#Alba"><w>Alba</w>
                 <w>n</w><g ref="#middot"/>6<g ref="#middot"/></placeName></add></fw>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>dict<am><g ref="#atilde"/></am></abbr>
@@ -14590,7 +14598,7 @@
           <w>orans</w>
           <w>et</w>
           <w>vigilans</w>
-          <persName ref="N">
+          <persName ref="#Dio">
             <w><choice>
                 <orig><abbr>d<am><g ref="#ntilde"/></am>o</abbr></orig>
                 <reg>D<ex>omi</ex>no</reg>
@@ -17417,13 +17425,10 @@
               <abbr>ho<g ref="#slong"/>pitl<am><g ref="#combhook"/></am>e</abbr>
               <expan>hospit<ex>a</ex>le</expan>
             </choice>hospitale</w>
-          <placeName ref="#Borghetto">
             <choice>
               <orig><w><abbr><am><g ref="#itilde"/></am>b<am>u<g ref="rrotsup"/></am>geto</abbr></w></orig>
-              <reg><w><expan>i<ex>n</ex></expan></w>
-                <placeName ref="N">Bu<ex>r</ex>geto</placeName></reg>
+              <reg><w><expan>i<ex>n</ex></expan></w><placeName ref="#Borghetto">Bu<ex>r</ex>geto</placeName></reg>
             </choice>
-          </placeName>
           <placeName ref="#chiesaSanLorenzo">
             <w><choice>
                 <abbr>C<am><g ref="#atilde"/></am>panile</abbr>
@@ -20073,7 +20078,7 @@
             <w>Sicut</w>
             <w>vere</w>
             <w>corpu<g ref="#slong"/></w>
-            <persName ref="N">
+            <persName ref="#sanTeobaldo">
               <w><choice>
                   <abbr>b<am>t<g ref="#combovl"/>i<g ref="#combovl"/></am></abbr>
                   <expan>b<ex>ea</ex>ti</expan>
@@ -20119,7 +20124,7 @@
             <w><g ref="#slong"/>ic</w>
             <w>eiu<g ref="#slong"/></w>
             <w>meriti<g ref="#slong"/></w>
-            <w>et</w>
+            <w><choice><abbr><am><g ref="#amp"/></am></abbr><expan><ex>et</ex></expan></choice></w>
             <w>precibu<g ref="#slong"/></w>
             <w><g ref="#slong"/>i</w>
             <w>pro</w>
@@ -20277,7 +20282,7 @@
               </choice></w>
           </persName>
           <w><choice>
-            <abbr><am><g ref="#et"/></am></abbr>
+            <abbr><am><g ref="#amp"/></am></abbr>
               <expan><ex>et</ex></expan>
             </choice></w>
           <w><choice>
@@ -20366,11 +20371,11 @@
               <expan>P<ex>rese</ex>ntib<ex>us</ex></expan>
             </choice></w>
           <w>venerabilibu<g ref="#slong"/></w>
-          <persName ref="N">
             <w><choice>
                 <abbr><am><g ref="#ptilde"/><g ref="#slongbarslash"/>b</am>ro</abbr>
                 <expan>p<ex>re</ex>sbi<ex>te</ex>ro</expan>
-              </choice></w>
+            </choice></w>
+            <persName ref="#AntoniodeBernardis">
             <w><choice>
                 <abbr>A<am>n<g ref="combovl"/>t<g ref="#combovl"/>o<g ref="#combovl"/></am></abbr>
                 <expan>Anth<ex>oni</ex>o</expan>
@@ -20386,7 +20391,7 @@
               <expan>s<ex>upradic</ex>to</expan>
             </choice></w>
           <w>et</w>
-          <persName ref="N">
+          <persName ref="#StefanoRubo">
             <w><choice>
                 <orig><g ref="#slong"/>tephano</orig>
                 <reg>Stephano</reg>
@@ -21000,7 +21005,7 @@
             <w>cuiu<g ref="#slong"/></w>
             <w>meriti<g ref="#slong"/></w>
             <w><choice>
-                <abbr><am>et</am></abbr>
+                <abbr><am><g ref="#amp"/></am></abbr>
                 <expan><ex>et</ex></expan>
               </choice></w>
             <w><choice>
@@ -21456,7 +21461,7 @@
           <w>mortui</w>
           <w><g ref="#slong"/>uscitati</w>
           <w>in</w>
-          <placeName ref="N">
+          <placeName ref="#Borgomale">
             <w><choice>
                 <orig>burgo</orig>
                 <reg>Burgo</reg>
@@ -22391,7 +22396,7 @@
           <persName ref="#GiacomodeCarmagnola">
             <w>Jacobu<g ref="#slong"/></w>
           <w>de</w>
-          <placeName ref="N">
+          <placeName ref="#Carmagnola">
             <w><choice>
                 <orig>carmagnolia</orig>
                 <reg>Carmagnolia</reg>
@@ -22662,7 +22667,7 @@
               <abbr>i<am>p<g ref="#combovl"/>m<g ref="#combovl"/></am></abbr>
               <expan>ip<ex>su</ex>m</expan>
             </choice></w>
-          <persName ref="N">
+          <persName ref="#GiacomodeCarmagnola">
             <w><choice>
               <abbr>Ja<am>cͫ</am></abbr>
                 <expan>Ja<ex>cobu</ex>m</expan>
