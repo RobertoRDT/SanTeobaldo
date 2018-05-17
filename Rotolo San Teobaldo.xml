@@ -4220,8 +4220,8 @@
           <w><g ref="#slong"/>ibi</w>
           <w><g ref="#slong"/>an<lb facs="#ST_line_03r_02" xml:id="ST_lb_03r_02" n="2"/>ctis</w>
           <w>obtinuit</w>
-          <w>man<g ref="#slong"/>io<choice>
-              <abbr>mansio<am><g ref="#etilde"/><g ref="#etfin"/></am></abbr>
+          <w><choice>
+              <abbr>man<g ref="#slong"/>io<am><g ref="#etilde"/><g ref="#etfin"/></am></abbr>
               <expan>mansio<ex>n</ex>e<ex>m</ex></expan>
             </choice></w>. <w>anno</w>
           <w><choice>
