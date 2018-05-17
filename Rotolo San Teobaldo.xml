@@ -2809,8 +2809,8 @@
               </choice></w>
           </persName>
           <w><choice>
-              <sic><abbr>gloria<am><g ref="#ttilde"/></am></abbr><expan>gloriat<ex>ur</ex></expan></sic>
-              <corr>gloriabatur</corr>
+              <sic><abbr>gloria<am><g ref="#ttilde"/></am></abbr></sic>
+              <corr><expan>gloriabat<ex>ur</ex></expan></corr>
             </choice></w><pc><g ref="#middot"/></pc>
           <w><hi rend="N">L</hi>ucra<lb facs="#ST_line_01r_39" xml:id="ST_lb_01r_39" n="39"/>batur</w>
           <w>vir</w>
