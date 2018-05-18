@@ -1713,6 +1713,7 @@
       <zone ulx="442" uly="425" lrx="553" lry="479" rendition="HotSpot" xml:id="ST_hs_01r_02"/>
       <zone ulx="400" uly="823" lrx="717" lry="920" rendition="HotSpot" xml:id="ST_hs_01r_03"/>
       <zone ulx="385" uly="3632" lrx="649" lry="3730" rendition="HotSpot" xml:id="ST_hs_01r_04"/>
+      <zone ulx="1634" uly="4287" lrx="2103" lry="4379" rendition="HotSpot" xml:id="ST_hs_01r_05"/>
 
       <zone ulx="708" uly="431" lrx="2654" lry="581" rendition="Line" xml:id="ST_line_01r_01"/>
       <zone ulx="716" uly="491" lrx="2677" lry="652" rendition="Line" xml:id="ST_line_01r_02"/>
@@ -1786,7 +1787,7 @@
       <zone ulx="716" uly="5633" lrx="2940" lry="5743" rendition="Line" xml:id="ST_line_02r_15"/>
       <zone ulx="705" uly="5715" lrx="2948" lry="5817" rendition="Line" xml:id="ST_line_02r_16"/>
       <zone ulx="695" uly="5804" lrx="1649" lry="5897" rendition="Line" xml:id="ST_line_02r_17"/>
-      
+            <!-- riga vuota -->
       <zone ulx="855" uly="5951" lrx="2951" lry="6052" rendition="Line" xml:id="ST_line_02r_19"/>
       <zone ulx="868" uly="6045" lrx="2900" lry="6128" rendition="Line" xml:id="ST_line_02r_20"/>
       <zone ulx="878" uly="6118" lrx="2929" lry="6206" rendition="Line" xml:id="ST_line_02r_21"/>
@@ -1817,6 +1818,90 @@
       <zone ulx="675" uly="7978" lrx="2921" lry="8133" rendition="Line" xml:id="ST_line_02r_46"/>
       
       <!-- FOLIO 03 -->
+      
+      <zone ulx="407" uly="8442" lrx="694" lry="8645" rendition="HotSpot" xml:id="ST_hs_03r_01"/>
+      <zone ulx="440" uly="8779" lrx="533" lry="8855" rendition="HotSpot" xml:id="ST_hs_03r_02"/>
+      <zone ulx="430" uly="8911" lrx="577" lry="8991" rendition="HotSpot" xml:id="ST_hs_03r_03"/>
+      <zone ulx="357" uly="10891" lrx="526" lry="11032" rendition="HotSpot" xml:id="ST_hs_03r_04"/>
+      <zone ulx="479" uly="11234" lrx="669" lry="11307" rendition="HotSpot" xml:id="ST_hs_03r_05"/>
+      <zone ulx="339" uly="11725" lrx="670" lry="11837" rendition="HotSpot" xml:id="ST_hs_03r_06"/>
+      <zone ulx="342" uly="11885" lrx="560" lry="11981" rendition="HotSpot" xml:id="ST_hs_03r_07"/>
+      
+      <zone ulx="718" uly="8509" lrx="2863" lry="8612" rendition="Line" xml:id="ST_line_03r_01"/>
+      <zone ulx="724" uly="8609" lrx="2030" lry="8687" rendition="Line" xml:id="ST_line_03r_02"/>
+            <!-- riga vuota -->
+      <zone ulx="868" uly="8763" lrx="2813" lry="8851" rendition="Line" xml:id="ST_line_03r_04"/>
+      <zone ulx="879" uly="8849" lrx="2811" lry="8925" rendition="Line" xml:id="ST_line_03r_05"/>
+      <zone ulx="713" uly="8929" lrx="2797" lry="9021" rendition="Line" xml:id="ST_line_03r_06"/>
+      <zone ulx="720" uly="9021" lrx="2810" lry="9103" rendition="Line" xml:id="ST_line_03r_07"/>
+      <zone ulx="713" uly="9101" lrx="2824" lry="9209" rendition="Line" xml:id="ST_line_03r_08"/>
+      <zone ulx="703" uly="9192" lrx="2848" lry="9306" rendition="Line" xml:id="ST_line_03r_09"/>
+      <zone ulx="712" uly="9283" lrx="2881" lry="9393" rendition="Line" xml:id="ST_line_03r_10"/>
+      <zone ulx="700" uly="9367" lrx="2816" lry="9461" rendition="Line" xml:id="ST_line_03r_11"/>
+      <zone ulx="691" uly="9443" lrx="2846" lry="9554" rendition="Line" xml:id="ST_line_03r_12"/>
+      <zone ulx="704" uly="9525" lrx="2846" lry="9639" rendition="Line" xml:id="ST_line_03r_13"/>
+      <zone ulx="698" uly="9618" lrx="2842" lry="9726" rendition="Line" xml:id="ST_line_03r_14"/>
+      <zone ulx="707" uly="9695" lrx="2864" lry="9798" rendition="Line" xml:id="ST_line_03r_15"/>
+      <zone ulx="691" uly="9783" lrx="2836" lry="9885" rendition="Line" xml:id="ST_line_03r_16"/>
+      <zone ulx="679" uly="9866" lrx="2812" lry="9968" rendition="Line" xml:id="ST_line_03r_17"/>
+      <zone ulx="685" uly="9943" lrx="2822" lry="10048" rendition="Line" xml:id="ST_line_03r_18"/>
+      <zone ulx="692" uly="10019" lrx="2866" lry="10133" rendition="Line" xml:id="ST_line_03r_19"/>
+      <zone ulx="682" uly="10099" lrx="2828" lry="10205" rendition="Line" xml:id="ST_line_03r_20"/>
+      <zone ulx="693" uly="10178" lrx="2825" lry="10274" rendition="Line" xml:id="ST_line_03r_21"/>
+      <zone ulx="684" uly="10260" lrx="2804" lry="10351" rendition="Line" xml:id="ST_line_03r_22"/>
+      <zone ulx="674" uly="10335" lrx="2856" lry="10438" rendition="Line" xml:id="ST_line_03r_23"/>
+      <zone ulx="685" uly="10417" lrx="2827" lry="10519" rendition="Line" xml:id="ST_line_03r_24"/>
+      <zone ulx="675" uly="10503" lrx="2875" lry="10601" rendition="Line" xml:id="ST_line_03r_25"/>
+      <zone ulx="653" uly="10574" lrx="2829" lry="10677" rendition="Line" xml:id="ST_line_03r_26"/>
+      <zone ulx="689" uly="10673" lrx="2854" lry="10764" rendition="Line" xml:id="ST_line_03r_27"/>
+      <zone ulx="683" uly="10748" lrx="2256" lry="10841" rendition="Line" xml:id="ST_line_03r_28"/>
+            <!-- riga vuota -->
+      <zone ulx="823" uly="10895" lrx="2829" lry="11005" rendition="Line" xml:id="ST_line_03r_30"/>
+      <zone ulx="833" uly="10999" lrx="2856" lry="11098" rendition="Line" xml:id="ST_line_03r_31"/>
+      <zone ulx="643" uly="11058" lrx="2842" lry="11164" rendition="Line" xml:id="ST_line_03r_32"/>
+      <zone ulx="672" uly="11151" lrx="2795" lry="11242" rendition="Line" xml:id="ST_line_03r_33"/>
+      <zone ulx="683" uly="11236" lrx="2789" lry="11328" rendition="Line" xml:id="ST_line_03r_34"/>
+      <zone ulx="677" uly="11315" lrx="2778" lry="11403" rendition="Line" xml:id="ST_line_03r_35"/>
+      <zone ulx="690" uly="11395" lrx="2792" lry="11479" rendition="Line" xml:id="ST_line_03r_36"/>
+      <zone ulx="681" uly="11474" lrx="2800" lry="11561" rendition="Line" xml:id="ST_line_03r_37"/>
+      <zone ulx="577" uly="11555" lrx="2802" lry="11634" rendition="Line" xml:id="ST_line_03r_38"/>
+      <zone ulx="673" uly="11629" lrx="2834" lry="11716" rendition="Line" xml:id="ST_line_03r_39"/>
+      <zone ulx="668" uly="11709" lrx="2811" lry="11787" rendition="Line" xml:id="ST_line_03r_40"/>
+      <zone ulx="631" uly="11779" lrx="2783" lry="11856" rendition="Line" xml:id="ST_line_03r_41"/>
+      <zone ulx="667" uly="11857" lrx="2829" lry="11943" rendition="Line" xml:id="ST_line_03r_42"/>
+      <zone ulx="673" uly="11944" lrx="2807" lry="12031" rendition="Line" xml:id="ST_line_03r_43"/>
+      <zone ulx="573" uly="12029" lrx="2780" lry="12129" rendition="Line" xml:id="ST_line_03r_44"/>
+      
+      <!-- FOLIO 04 -->
+      
+      <!-- FOLIO 05 -->
+      
+      <!-- FOLIO 06 -->
+      
+      <!-- FOLIO 07 -->
+      
+      <!-- FOLIO 08 -->
+      
+      <!-- FOLIO 09 -->
+      
+      <!-- FOLIO 10 -->
+      
+      <!-- FOLIO 11 -->
+      
+      <!-- FOLIO 12 -->
+      
+      <!-- FOLIO 13 -->
+      
+      <!-- FOLIO 14 -->
+      
+      <!-- FOLIO 15 -->
+      
+      <!-- FOLIO 16 -->
+      
+      <!-- FOLIO 17 -->
+      
+      <!-- FOLIO 18 -->
+      
       
       
     </surface>
