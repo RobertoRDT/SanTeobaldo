@@ -9429,10 +9429,7 @@
                 <expan>Joh<ex>ann</ex>es</expan>
               </choice></w>
           </persName>
-          <w><choice>
-              <orig>Jui<g ref="#slong"/><g ref="#slong"/>et</orig>
-              <reg>fuisset</reg>
-            </choice></w>
+          <w>ivi<g ref="#slong"/><g ref="#slong"/>et</w>
           <w>apud</w>
           <placeName ref="#Lombriasco">
             <w><choice>
@@ -10503,7 +10500,7 @@
               <expan>promissione<ex>m</ex></expan>
             </choice></w>
           <w>nec</w>
-          <w>fuit</w>
+          <w>ivit</w>
           <placeName ref="#Alba">
             <w><choice>
                 <orig><abbr>alb<am><g ref="#atilde"/></am></abbr><expan>alba<ex>m</ex></expan></orig>
@@ -15344,7 +15341,7 @@
               <w>spalle</w>
               <w>un</w>
               <w>povero</w>
-              <w>....</w>
+              <w><choice><abbr>lan<am></am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w>
               <g ref="#middot"/><w>n</w><g ref="#middot"/>9</add></fw>
           <w>plenus</w>
           <w>ac</w>
