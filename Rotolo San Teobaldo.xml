@@ -1568,6 +1568,12 @@
           <mapping type="normalized">n</mapping>
         </char>
         
+        <char xml:id="inodotsup">
+          <charName>COMBINING LATIN SMALL LETTER DOTLESS I</charName>
+          <mapping type="codepoint" subtype="composed">U+F02F</mapping>
+          <mapping type="diplomatic">&#61487;</mapping>
+        </char>
+        
         <char xml:id="cinodotsup">
           <charName>LATIN SMALL LETTER C WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+0063 + U+F02F</mapping>
@@ -5431,6 +5437,15 @@
           <w>ho<g ref="#slong"/>pital<unclear extent="1char">i</unclear>s</w>
           <w><g ref="#slong"/>e</w>
           <w>e<g ref="#slong"/><g ref="#slong"/>e</w>
+          <!-- da spostare negli hotspot -->
+          <add>
+            <del rend="overwrite">
+              <unclear>
+                <lb/>mortu <lb/>e<g ref="#slong"/>t <date>ccc</date>
+                <lb/><date><g ref="#muncdes"/>. ccc</date>
+                <lb/>annis</unclear>
+            </del>
+          </add>
           <w>procu<lb facs="#ST_line_04r_03" xml:id="ST_lb_04r_03" n="3"/>ratorem</w>
           <w><choice>
               <abbr>pau<am><g ref="#pbardes"/></am>um</abbr>
@@ -5466,8 +5481,6 @@
           <w>IV</w>]
         </label>
         
-        <p><del extent="N" type="N"><gap/></del></p>
-        <!-- CHECK -->
         <p>
           <lb facs="#ST_line_04r_04" xml:id="ST_lb_04r_04" n="4"/>
           <space dim="horizontal" extent="5char"/>
@@ -5629,7 +5642,7 @@
           <w>celebrare</w>
           <w>devot<unclear extent="1char">e</unclear></w><pc><g ref="#middot"/></pc>
           <w><choice>
-              <abbr>qd<am><g ref="#combhook"/></am></abbr>
+              <abbr>q<del rend="overwrite"><g ref="#inodotsup"/></del><subst><del>a</del><add>d</add></subst><am><g ref="#combhook"/></am></abbr>
               <expan>q<ex>uo</ex>d</expan>
             </choice></w>
           <w><choice>
@@ -15335,13 +15348,13 @@
               </choice></w>
           </persName>
           <lb facs="#ST_line_14r_09" xml:id="ST_lb_014_09" n="9"/>
-          <fw place="margin-left"><add><w>porta</w>
+          <fw place="margin-left"><add hand="modern"><w>porta</w>
               <w>su</w>
               <w>le</w>
               <w>spalle</w>
               <w>un</w>
               <w>povero</w>
-              <w><choice><abbr>lan<am></am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w>
+            <w><choice><abbr>lang<am>ᵉ</am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w>
               <g ref="#middot"/><w>n</w><g ref="#middot"/>9</add></fw>
           <w>plenus</w>
           <w>ac</w>
