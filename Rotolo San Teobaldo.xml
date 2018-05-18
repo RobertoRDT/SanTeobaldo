@@ -1575,6 +1575,13 @@
           <mapping type="normalized">c</mapping>
         </char>
         
+        <char xml:id="ginodotsup">
+          <charName>LATIN SMALL LETTER G WITH VERTICAL DOTLESS I</charName>
+          <mapping type="codepoint" subtype="composed">U+0067 + U+F02F</mapping>
+          <mapping type="diplomatic">g</mapping>
+          <mapping type="normalized">g</mapping>
+        </char>
+        
         <char xml:id="ninodotsup">
           <charName>LATIN SMALL LETTER N WITH VERTICAL DOTLESS I</charName>
           <mapping type="codepoint" subtype="composed">U+006E + U+F02F</mapping>
@@ -11517,8 +11524,8 @@
               </choice></w>
           </persName>
           <w>gravi</w>
-          <w>egritudine</w>
-          <w>detentus</w>
+          <w><choice><abbr>e<am><g ref="#ginodotsup"/>tudine</am></abbr><expan>eg<ex>r</ex>itudine</expan></choice></w>
+          <w>detentu<g ref="#esh"/></w>
           <lb facs="#ST_line_10r_02" xml:id="ST_lb_10r_02" n="2"/>
           <w>et</w>
           <w>tali</w>
