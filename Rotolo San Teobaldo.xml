@@ -2186,8 +2186,8 @@
             </choice></w>
           <persName ref="#sanTebaldo">
             <w><choice>
-                <orig><abbr>thebald<am><g ref="#utilde"/></am></abbr><expan>thebaldu<ex>m</ex></expan></orig>
-                <reg>Thebaldum</reg>
+                <orig><abbr>thebald<am><g ref="#utilde"/></am></abbr></orig>
+              <reg><expan>Thebaldu<ex>m</ex></expan></reg>
               </choice></w>
           </persName>
           <del type="N"><w>nomine</w></del>
@@ -2560,7 +2560,7 @@
           </persName><pc>.</pc>
           <w><choice>
               <abbr><hi rend="N">T</hi>u<am><g ref="#cdot"/></am></abbr>
-              <expan><hi rend="N">T</hi>u<ex>un</ex>c</expan>
+              <expan><hi rend="N">T</hi>u<ex>n</ex>c</expan>
             </choice></w>
           <w>vir</w>
           <w><choice>
@@ -2665,7 +2665,7 @@
               <orig><abbr>o<g ref="#slong"/>t<am><g ref="#qslstroktilde"
                 /></am></abbr><expan>q<ex>uam</ex></expan></orig>
               <reg>Postquam</reg>
-              <!-- CHECK manca la p iniziale nell'orig? -->
+              <!-- CHECK manca la p iniziale nell'orig? ESATTO -->
             </choice></w>
           <w><choice>
               <abbr>au<am><g ref="#ttilde"/></am></abbr>
@@ -2960,8 +2960,8 @@
               </choice></w>
           </persName>
           <w><choice>
-              <sic><abbr>gloria<am><g ref="#ttilde"/></am></abbr></sic>
-              <corr><expan>gloriabat<ex>ur</ex></expan></corr>
+              <orig><abbr>gloria<am><g ref="#ttilde"/></am></abbr></orig>
+              <reg><expan>gloriabat<ex>ur</ex></expan></reg>
             </choice></w><pc><g ref="#middot"/></pc>
           <w><hi rend="N">L</hi>ucra<lb facs="#ST_line_01r_39" xml:id="ST_lb_01r_39" n="39"/>batur</w>
           <w>vir</w>
@@ -3254,8 +3254,8 @@
             <w>Dil<damage extent="4char" type="N">exit</damage></w>
             <lb facs="#ST_line_02r_02" xml:id="ST_lb_02r_02" n="2"/>
             <w><choice>
-                <sic><abbr>maledition<am><g ref="#etilde"/></am></abbr></sic>
-              <corr><expan>maledictione<ex>m</ex></expan></corr>
+                <orig><abbr>maledition<am><g ref="#etilde"/></am></abbr></orig>
+              <reg><expan>maledictione<ex>m</ex></expan></reg>
               </choice></w>
             <w>et</w>
             <w><choice>
@@ -3265,9 +3265,9 @@
             <w>ei</w><pc><g ref="#middot"/></pc>
             <w>noluit</w>
             <w><choice>
-                <sic><abbr>b<am><g ref="#combhook"
-                  /></am>nditionem</abbr></sic>
-              <corr><expan>b<ex>e</ex>n<ex>e</ex>dictionem</expan></corr>
+                <orig><abbr>b<am><g ref="#combhook"
+                  /></am>nditionem</abbr></orig>
+              <reg><expan>b<ex>e</ex>n<ex>e</ex>dictionem</expan></reg>
               </choice></w><pc><g ref="#middot"/></pc>
             <w>et</w>
             <w><choice>
@@ -3312,7 +3312,7 @@
           </damage>
           <lb facs="#ST_line_02r_04" xml:id="ST_lb_02r_04" n="4"/>
           <damage extent="2char" type="N"><w><choice>
-                <abbr>n<am><g ref="#otilde"/>o</am></abbr>
+                <abbr>n<am><g ref="#otilde"/></am></abbr>
                 <expan>no<ex>n</ex></expan>
               </choice></w></damage>
           <w>habuerat</w>
@@ -3356,7 +3356,7 @@
             </choice></w>
           <w><choice>
               <abbr>lapid<am><g ref="#etilde"/></am></abbr>
-              <expan>lapied<ex>m</ex></expan>
+              <expan>lapide<ex>m</ex></expan>
             </choice></w>
           <w><g ref="#slong"/>cale</w>
           <placeName ref="#chiesaSanLorenzo">
@@ -3562,7 +3562,8 @@
               </choice></w>
           </add>
           <w>et</w>
-          <damage extent="3char"><w>mo<choice>
+          <damage extent="3char">
+            <w><choice>
                 <abbr>mot<am><g ref="#usmod"/></am></abbr>
                 <expan>mot<ex>us</ex></expan>
               </choice></w></damage>
@@ -3594,7 +3595,8 @@
           <w>respexit</w>
           <w>ad</w>
           <w>eam</w>
-          <w>cu<choice>
+          <w>
+            <choice>
               <abbr>cui<am><g ref="#usmod"/></am></abbr>
               <expan>cui<ex>us</ex></expan>
             </choice></w>
@@ -4878,8 +4880,8 @@
               </choice></w>
             <lb facs="#ST_line_03r_23" n="23" xml:id="ST_lb_03r_23"/>
             <w><choice>
-                <orig><abbr><g ref="#slong"/>ilves<am><g ref="#tinodotsup"
-                    /></am></abbr><expan>silvest<ex>ri</ex></expan></orig>
+                <abbr><g ref="#slong"/>ilves<am><g ref="#tinodotsup"
+                    /></am></abbr><expan>silvest<ex>ri</ex></expan>
               </choice></w><pc><g ref="#middot"/></pc>
           </placeName>
           <w>et</w>
@@ -5113,7 +5115,7 @@
           <w><choice>
               <abbr>c<am><g ref="#otilde"/></am>mendata</abbr>
               <expan>co<ex>m</ex>mendata</expan>
-            </choice>commendata</w><pc><g ref="#hidot"/></pc>
+            </choice></w><pc><g ref="#hidot"/></pc>
           <w><choice>
               <abbr><g ref="#slong"/>eriat<am><g ref="#itilde"/></am></abbr>
               <expan>seriati<ex>m</ex></expan>
@@ -5147,10 +5149,12 @@
           <w>per</w>
           <w>totam</w>
           <placeName ref="#Lombardia">
+            <w>
             <choice>
               <orig><abbr>lombardi<am><g ref="#atilde"/></am></abbr></orig>
               <reg><expan>Lombardia<ex>m</ex></expan></reg>
             </choice>
+           </w>
           </placeName><pc><g ref="#hidot"/></pc>
           <w>et</w>
           <w><choice>
@@ -5297,8 +5301,8 @@
                 <expan>p<ex>er</ex></expan>
               </choice></w>
             <w><choice>
-                <sic><abbr>h<am><g ref="#usmod"/></am>re</abbr><expan>ho<ex>no</ex>re</expan></sic>
-                <corr>honorem</corr>
+                <orig><abbr>h<am><g ref="#usmod"/></am>re</abbr></orig>
+              <reg><expan>ho<ex>no</ex>re</expan></reg>
               </choice></w>
           </add>
           <persName ref="#sanTeobaldo">
@@ -5393,8 +5397,9 @@
           
           <!-- #######################################  folio 04r  ####################################### -->
 
-          <w>cu<pb n="4" xml:id="ST_fol_04r"/><lb facs="#ST_line_04r_01" xml:id="ST_lb_04r_01" n="1"/>sto<g ref="#esh"/></w>
+          <pb n="4" xml:id="ST_fol_04r"/><lb facs="#ST_line_04r_01" xml:id="ST_lb_04r_01" n="1"/>
           <fw place="top-left" type="fol"><add>pagina 4</add></fw>
+          <w>custo<g ref="#esh"/></w>
           <w>cum</w>
           <w><choice>
               <abbr>ip<am><g ref="#atilde"/></am>m</abbr>
@@ -5595,7 +5600,7 @@
           <w>et</w>
           <damage extent="10char">
             <w><g ref="#slong"/>ue</w>
-            <w>famitie</w>
+            <w>familie</w>
           </damage>
           <lb facs="#ST_line_04r_08" xml:id="ST_lb_04r_08" n="8"/>
           <w><choice>
@@ -6664,10 +6669,10 @@
 
         <p>
           <lb facs="#ST_line_05r_03" xml:id="ST_lb_05r_03" n="3"/>
-          <add place="margin-left">J</add>
+         
           <space dim="horizontal" extent="4char"/>
           <w><choice>
-              <orig>tem</orig>
+            <orig><add place="margin-left">J</add>tem</orig>
               <reg>Item</reg>
             </choice></w>
           <w><choice>
@@ -6794,7 +6799,7 @@
               </choice>
             </persName><pc><g ref="#middot"/></pc>
             <persName ref="#sanTeobaldo">
-              <w><g ref="#sanTeobaldo"/>ancte</w>
+              <w><g ref="#slong"/>ancte</w>
               <w><choice>
                   <orig>thebaude</orig>
                   <reg>Thebaude</reg>
@@ -7082,7 +7087,7 @@
           <w>de</w>
           <w>dictis</w>
           <w>carceribus</w><pc><g ref="#middot"/></pc>
-          <w><corr><abbr><am><g ref="#qslstrok"/></am></abbr><expan>q<ex>uod</ex></expan></corr></w>
+          <w><choice><abbr><am><g ref="#qslstrok"/></am></abbr><expan>q<ex>uod</ex></expan></choice></w>
           <w>vi<g ref="#slong"/>itaret</w>
           <lb facs="#ST_line_05r_23" xml:id="ST_lb_05r_23" n="23"/>
           <placeName ref="#altareSanTeobaldo">
@@ -7237,7 +7242,7 @@
           <space dim="horizontal" extent="5char"/>
           <add place="margin-left">I</add>
           <w><choice>
-              <orig><hi rend="double">N</hi></orig>
+            <orig> <add place="margin-left">I</add><hi rend="double">N</hi></orig>
               <reg>In</reg>
             </choice></w>
           <placeName ref="#Castellinaldo">
@@ -7286,7 +7291,7 @@
           <w><choice>
               <abbr>e<am><g ref="#atilde"/></am>t</abbr>
               <expan>e<ex>r</ex>at</expan>
-            </choice>erat</w>
+            </choice></w>
           <lb facs="#ST_line_05r_33" xml:id="ST_lb_05r_33" n="33"/>
           <damage extent="3char"><w><choice>
                 <abbr>a<am><g ref="#utilde"/></am>t</abbr>
@@ -7470,9 +7475,9 @@
         <p>
           <lb facs="#ST_line_05r_41" xml:id="ST_lb_05r_41" n="41"/>
           <space dim="horizontal" extent="4char"/>
-          <add place="margin-left">a</add>
+          
           <w><choice>
-              <orig>lio</orig>
+            <orig><add place="margin-left">a</add>lio</orig>
               <reg>Alio</reg>
             </choice></w>
           <w><choice>
