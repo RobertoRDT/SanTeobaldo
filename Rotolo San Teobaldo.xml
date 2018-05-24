@@ -2938,8 +2938,8 @@
           <w>ad</w>
           <w>celum</w><pc><g ref="#middot"/></pc>
           <w><choice>
-              <sic>honera</sic>
-              <corr>onera</corr>
+              <orig>honera</orig>
+              <reg>onera</reg>
             </choice></w>
           <w>corpus</w>
           <w>portabat</w><pc><g ref="#middot"/></pc>
@@ -3073,8 +3073,8 @@
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
-              <sic>hec</sic>
-              <corr>hoc</corr>
+              <orig>hec</orig>
+              <reg>hoc</reg>
             </choice></w>
           <w>fatiebat</w><pc>.</pc>
           <w><choice>
@@ -3204,8 +3204,8 @@
                 <expan>tuu<ex>m</ex></expan>
               </choice></w>
             <w><choice>
-                <sic>multiplicet</sic>
-                <corr>multiplicetur</corr>
+                <orig>multiplicet</orig>
+                <reg>multiplicetur</reg>
               </choice></w>
             <choice>
               <orig><w><abbr><am><g ref="#itilde"/></am>eternu<am><g ref="#etfin"/></am></abbr></w></orig>
@@ -4945,9 +4945,8 @@
           <w>po<g ref="#slong"/><g ref="#slong"/>itum</w><pc><g ref="#middot"/></pc>
           <w>Igitur</w>
           <w><choice>
-              <sic>accepto</sic>
-              <corr>accepto</corr>
-              <!-- CHECK dov'è l'errore? -->
+              <orig>acepto</orig>
+              <reg>accepto</reg>
             </choice></w>
           <w><choice>
               <abbr>cor<am><g ref="#pbardes"/></am>e</abbr>
@@ -5045,9 +5044,9 @@
               <expan>ip<ex>su</ex>m</expan>
             </choice></w>
           <w><choice>
-              <sic><abbr>o<g ref="#slong"/>tendend<am><g ref="#etilde"
-                  /></am>t</abbr><expan>ostendende<ex>re</ex>t</expan></sic>
-              <corr>ostenderet</corr>
+              <orig><abbr>o<g ref="#slong"/>tendend<am><g ref="#etilde"
+                  /></am>t</abbr></orig>
+            <reg><expan>ostendende<ex>re</ex>t</expan></reg>
             </choice></w>
           <w>prodigia</w>
           <w>et</w>
@@ -5540,8 +5539,8 @@
             <reg><w>in</w><w>parasceve</w></reg>
           </choice><pc><g ref="#middot"/></pc>
           <w><choice>
-              <sic>paraveverat</sic>
-              <corr>paraverat</corr>
+              <orig>paraveverat</orig>
+              <reg>paraverat</reg>
             </choice></w>
           <unclear extent="4char">
             <w><g ref="#slong"/>ibi</w>
@@ -6108,8 +6107,8 @@
               <expan>p<ex>er</ex>pen<damage extent="4char">dens</damage></expan>
             </choice></w><pc>.</pc>
           <w><choice>
-              <sic><g ref="#slong"/>ollepne</sic>
-              <corr>solepne</corr>
+              <orig><g ref="#slong"/>ollepne</orig>
+              <reg>solepne</reg>
             </choice></w>
           <w><choice>
               <abbr>mona<lb facs="#ST_line_04r_25" xml:id="ST_lb_04r_25_abbr" n="25"/><g ref="#slong"/>te<am><g ref="#itilde"/></am>um</abbr>
@@ -7076,8 +7075,8 @@
               </choice></w>
           </persName><pc>.</pc>
           <w><choice>
-              <sic>promitens</sic>
-              <corr>promittens</corr>
+              <orig>promitens</orig>
+              <reg>promittens</reg>
             </choice></w>
           <w><choice>
               <abbr><am><g ref="#qslstrok"/></am></abbr>
@@ -7232,8 +7231,8 @@
             </choice></w>
           <w>pluribus</w>
           <w><choice>
-              <sic>honini<add place="above">b</add>us</sic>
-              <corr>hominibus</corr>
+              <orig>honini<add place="above">b</add>us</orig>
+              <reg>hominibus</reg>
             </choice></w>
           <pc><g ref="#middot"/></pc>
         </p>
@@ -7915,8 +7914,8 @@
               </choice></w>
           </persName>
           <w><choice>
-              <sic>cicius</sic>
-              <corr>citius</corr>
+              <orig>cicius</orig>
+              <reg>citius</reg>
             </choice></w><pc>.</pc>
           <lb facs="#ST_line_06r_17" xml:id="ST_lb_06r_17" n="17"/>
           <w>et</w>
