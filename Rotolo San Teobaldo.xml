@@ -7848,7 +7848,7 @@
               <expan>su<ex>n</ex>t</expan>
             </choice></w>
           <w>anni</w>
-          <num value="20">.XX.</num><w>XX</w>
+          <num value="20">.XX.</num><w></w>
           <w>vel</w>
           <w>circa</w><pc><g ref="#middot"/></pc>
           <w>et</w>
@@ -8016,10 +8016,14 @@
               <orig><w>petro</w></orig>
             </choice><reg><w>Petro</w></reg>
             <w>de</w>
-            <placeName ref="#Incisa"><choice>
+            <placeName ref="#Incisa">
+              <w>
+              <choice>
                 <orig>anci<g ref="#slong"/>ia</orig>
                 <reg>Ancisia</reg>
-              </choice></placeName>
+              </choice>
+            </w>
+            </placeName>
           </persName>
           <persName ref="#GiacomoFaucilla"><w>Jacobo</w>
             <lb facs="#ST_line_06r_21" xml:id="ST_lb_06r_21" n="21"/><w>faucilia</w></persName>
@@ -8168,7 +8172,7 @@
             </choice></w>
           <w><choice>
               <abbr>albe<am><g ref="#ntilde"/></am></abbr>
-              <expan>alne<ex>sis</ex></expan>
+              <expan>alben<ex>sis</ex></expan>
             </choice></w>
           <lb facs="#ST_line_06r_27" xml:id="ST_lb_06r_27" n="27"/>
           <w>volens</w>
@@ -8457,7 +8461,7 @@
           <w><choice>
               <abbr>au<am><g ref="#utilde"/></am></abbr>
               <expan>aut<ex>em</ex></expan>
-            </choice>autem</w>
+            </choice></w>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>dict<am><g ref="#utilde"/></am></abbr>
               <expan>p<ex>re</ex>dictu<ex>m</ex></expan>
@@ -8609,8 +8613,9 @@
             </choice></w>
           <placeName ref="#Delfinato"><w><choice>
                 <orig>dalphi<lb facs="#ST_line_06r_44" xml:id="ST_lb_06r_44_orig" n="44"/>ni</orig>
-                <reg>Dalphi<lb facs="#ST_line_06r_44" xml:id="ST_lb_06r_44_reg" n="44"/></reg>
-              </choice></w></placeName><pc>.</pc>
+                <reg>Dalphi<lb facs="#ST_line_06r_44" xml:id="ST_lb_06r_44_reg" n="44"/>ni</reg>
+          </choice></w>
+          </placeName><pc>.</pc>
           <w>Anno</w>
           <persName ref="#Dio">
             <w><choice>
@@ -9167,7 +9172,7 @@
               <expan>ligatu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>extras<am><g ref="#slongbarslash"/><g ref="#utilde"/></am>t</abbr>
+              <abbr>extra<g ref="#slong"/><am><g ref="#slongbarslash"/><g ref="#utilde"/></am>t</abbr>
               <expan>extrass<ex>er</ex>u<ex>n</ex>t</expan>
             </choice></w>
           <w><choice>
@@ -9232,7 +9237,7 @@
           <w>fortius</w>
           <w>haberetur</w>
           <w><choice>
-              <abbr>cora<am><g ref="#etfin"/></am><expan>cora<ex>m</ex></expan></abbr>
+              <abbr>cora<am><g ref="#etfin"/></am></abbr><expan>cora<ex>m</ex></expan>
             </choice></w>
           <lb facs="#ST_line_07r_30" xml:id="ST_lb_07r_30" n="30"/>
           <w>dicto</w>
