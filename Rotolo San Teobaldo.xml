@@ -2980,8 +2980,8 @@
               <expan><ex>con</ex>tinuo</expan>
             </choice></w>
           <w>panes</w>
-          <w>eme<lb facs="#ST_line_01r_40" xml:id="ST_lb_01r_40" n="40"/>bat</w>&gt; <w><choice>
-              <abbr>v<am><g ref="#lstrok"/></am></abbr>
+          <w>eme<lb facs="#ST_line_01r_40" xml:id="ST_lb_01r_40" n="40"/>bat</w> <w><choice>
+              <abbr>u<am><g ref="#lstrok"/></am></abbr>
               <expan>v<ex>e</ex>l</expan>
             </choice></w>
           <w>placentulas</w><pc><g ref="#middot"/></pc>
@@ -3430,10 +3430,11 @@
             </choice></w>
           <w>exercebat</w><pc>.</pc>
           <w>videlicet</w>
-          <choice>
-            <sic><w><damage extent="2char">ho</damage><lb facs="#ST_line_02r_09" xml:id="ST_lb_02r_09_sic" n="9"/>nera</w></sic>
-            <corr><w>o<lb facs="#ST_line_02r_09" xml:id="ST_lb_02r_09_corr" n="9"/>nera</w></corr>
-          </choice>
+          <w><choice>
+            <orig><damage extent="2char">ho</damage><lb facs="#ST_line_02r_09" xml:id="ST_lb_02r_09_orig"
+              n="9"/>nera</orig>
+            <reg>o<lb facs="#ST_line_02r_09" xml:id="ST_lb_02r_09_reg" n="9"/>nera</reg>
+          </choice></w>
           <w>et</w>
           <w><g ref="#slong"/>acos</w>
           <w>deportando</w><pc>.</pc>
@@ -4402,8 +4403,8 @@
           <add place="margin-left">c</add>
           <space dim="horizontal" extent="4char"/>
           <w><choice>
-              <sic><g ref="#Eunc"/>cidit</sic>
-              <corr>Cecidit</corr>
+              <orig><supplied>C</supplied><g ref="#Eunc"/>cidit</orig>
+              <reg>Cecidit</reg>
             </choice>
           </w>
           <w><choice>
@@ -5011,7 +5012,7 @@
         <p>
           <space dim="horizontal" extent="4char"/>
           <w><choice>
-              <orig>Actum</orig>
+              <orig><supplied>F</supplied>Actum</orig>
               <reg>Factum</reg>
             </choice></w>
           <w>es<g ref="#slong"/>t</w>
