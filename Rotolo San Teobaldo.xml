@@ -2662,7 +2662,7 @@
           <lb facs="#ST_line_01r_28" xml:id="ST_lb_01r_28" n="28"/>
           <space dim="horizontal" extent="4char"/>
           <w><choice>
-              <orig><abbr>o<g ref="#slong"/>t<am><g ref="#qslstroktilde"
+              <orig><supplied>P</supplied><abbr>o<g ref="#slong"/>t<am><g ref="#qslstroktilde"
                 /></am></abbr><expan>q<ex>uam</ex></expan></orig>
               <reg>Postquam</reg>
               <!-- CHECK manca la p iniziale nell'orig? ESATTO -->
@@ -3651,7 +3651,7 @@
           <lb facs="#ST_line_02r_18" xml:id="ST_lb_02r_18" n="18"/>
           <lb facs="#ST_line_02r_19" xml:id="ST_lb_02r_19" n="19"/>
           <space dim="horizontal" extent="4char"/><w><choice>
-              <orig><abbr><hi rend="double">a</hi>u<am><g ref="#pbardes"/></am>ibus</abbr></orig>
+              <orig><abbr><supplied>P</supplied><hi rend="double">a</hi>u<am><g ref="#pbardes"/></am>ibus</abbr></orig>
               <reg><expan>Paup<ex>er</ex>ibus</expan></reg>
             </choice></w>
           <w><choice>
@@ -5491,7 +5491,7 @@
           <lb facs="#ST_line_04r_04" xml:id="ST_lb_04r_04" n="4"/>
           <space dim="horizontal" extent="5char"/>
           <w><choice>
-              <orig>Nvenitur</orig>
+              <orig><supplied>I</supplied>Nvenitur</orig>
               <reg>Invenitur</reg>
             </choice></w><pc><g ref="#middot"/></pc>
           <w><choice>
@@ -5766,7 +5766,7 @@
           <space dim="horizontal" extent="4char"/>
           <add place="margin-left">a</add>
           <w><choice>
-              <orig>lio</orig>
+              <orig><supplied>A</supplied>lio</orig>
               <reg>Alio</reg>
             </choice></w>
           <w><choice>
@@ -6670,10 +6670,10 @@
 
         <p>
           <lb facs="#ST_line_05r_03" xml:id="ST_lb_05r_03" n="3"/>
-         
+          <add place="margin-left">J</add>
           <space dim="horizontal" extent="4char"/>
           <w><choice>
-            <orig><add place="margin-left">J</add>tem</orig>
+            <orig><supplied>I</supplied>tem</orig>
               <reg>Item</reg>
             </choice></w>
           <w><choice>
@@ -6878,7 +6878,7 @@
           <add place="margin-left">a</add>
           <fw place="margin-left"><add><w>n</w><g ref="#middot"/>2</add></fw>
           <w><choice>
-              <orig>Ccidit</orig>
+              <orig><supplied>A</supplied>Ccidit</orig>
               <reg>Accidit</reg>
             </choice></w>
           <w>in</w>
@@ -7243,7 +7243,7 @@
           <space dim="horizontal" extent="5char"/>
           <add place="margin-left">I</add>
           <w><choice>
-            <orig> <add place="margin-left">I</add><hi rend="double">N</hi></orig>
+            <orig><supplied>I</supplied><hi rend="double">N</hi></orig>
               <reg>In</reg>
             </choice></w>
           <placeName ref="#Castellinaldo">
@@ -7476,9 +7476,9 @@
         <p>
           <lb facs="#ST_line_05r_41" xml:id="ST_lb_05r_41" n="41"/>
           <space dim="horizontal" extent="4char"/>
-          
+          <add place="margin-left">a</add>
           <w><choice>
-            <orig><add place="margin-left">a</add>lio</orig>
+            <orig><supplied>A</supplied>lio</orig>
               <reg>Alio</reg>
             </choice></w>
           <w><choice>
@@ -7777,7 +7777,7 @@
           <space dim="horizontal" extent="3char"/>
           <persName ref="#GuglielminoGiusiberto">
             <w><choice>
-                <orig>uilliemus</orig>
+                <orig><supplied>G</supplied>uilliemus</orig>
                 <reg>Guillermus</reg>
               </choice></w>
             <w>Jusibertus</w>
@@ -8049,7 +8049,7 @@
           <add place="margin-left">a</add>
           <fw place="margin-left"><add><w>n</w><reg>.</reg>3<g ref="#middot"/></add></fw>
           <w><choice>
-              <orig>nno</orig>
+              <orig><supplied>A</supplied>nno</orig>
               <reg>Anno</reg>
             </choice></w>
           <persName ref="#Dio">
@@ -8593,7 +8593,7 @@
           <add place="margin-left">q</add>
           <fw place="margin-left"><add><w>n</w><g ref="#middot"/>4<g ref="#middot"/></add></fw>
           <w><choice>
-              <orig>uidam</orig>
+              <orig><supplied>Q</supplied>uidam</orig>
               <reg>Quidam</reg>
             </choice></w>
           <persName ref="#GuglielmoVitrola"><w><choice>
