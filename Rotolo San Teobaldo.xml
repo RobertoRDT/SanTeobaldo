@@ -10557,7 +10557,7 @@
               <abbr>in<am><g ref="#condes"/></am>tinenti</abbr>
               <expan>in<ex>con</ex>tinenti</expan>
             </choice></w>
-          <w>ela<lb facs="#ST_line_09r_03" xml:id="ST_lb_09r_03" n="3"/>p<g n="#slong"/>o</w>
+          <w>ela<lb facs="#ST_line_09r_03" xml:id="ST_lb_09r_03" n="3"/>p<g ref="#slong"/>o</w>
           <w><choice>
               <abbr>t<am><g ref="#ptilde"/></am>re</abbr>
               <expan>t<ex>em</ex>p<ex>o</ex>re</expan>
@@ -12592,7 +12592,7 @@
                 <expan>celo<ex>rum</ex></expan>
               </choice></w>
           </quote><pc><g ref="#middot"/></pc>
-          <w><g ref="#eunc"/>t</w>
+          <w><g ref="#Eunc"/>t</w>
           <w>ideo</w>
           <w>poterat</w>
           <w><choice>
