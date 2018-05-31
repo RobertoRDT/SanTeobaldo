@@ -33,6 +33,29 @@
           </person>
 
 
+          <!-- Nomina Sacra -->
+          
+          <person xml:id="Dio">
+            <note></note>
+          </person>
+          
+          <person xml:id="Gesù">
+            <note></note>
+          </person>
+
+          <person xml:id="SpiritoSanto">
+            <persName>
+              <forename>Spirito Santo</forename>
+            </persName>
+          </person>
+
+          <person xml:id="Trinità">
+            <persName>
+              <forename>Santa Trinità</forename> 
+            </persName>
+          </person>
+
+
           <!-- ########## A ########## -->
           
           <person xml:id="AbraciatorArmannini">
@@ -151,7 +174,7 @@
           <person xml:id="BergerioneTaverniere">
             <persName>
              <forename>Bergerione</forename>
-              <surname></surname>
+              <surname>Taverniere</surname>
             </persName>
             <sex>M</sex>
           </person>
@@ -161,13 +184,13 @@
              <forename>Bermonda</forename>
            </persName>
             <sex>F</sex>
-            <occupation>madre di Arnulfo Albi e moglie di Pietro</occupation>
+            <occupation>madre di Arnulfo Albi e moglie di Pietro Albi</occupation>
           </person>
           
           <person xml:id="BetramodiMonteverde">
             <persName>
               <forename>Bertramo</forename>
-              <surname></surname>
+              <surname>di Monteverde</surname>
             </persName>
             <sex>M</sex>
           </person>
@@ -211,16 +234,6 @@
             </persName>
           <sex>M</sex>
             <occupation>profeta</occupation>
-            <note></note>
-          </person>
-          
-          <person xml:id="Dio">
-            <persName>
-              <forename></forename>
-              <surname></surname>
-            </persName>
-            <sex></sex>
-            <occupation></occupation>
             <note></note>
           </person>
         
@@ -287,16 +300,6 @@
             <sex>M</sex>
             <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
           </person>
-          
-          <person xml:id="Gesù">
-            <persName>
-              <forename></forename>
-              <surname></surname>
-            </persName>
-            <sex></sex>
-            <occupation n="1"></occupation>
-            <note></note>
-          </person>
          
          <person xml:id="GiacomelloPorta">
           <persName>
@@ -325,6 +328,7 @@
         <person xml:id="GiacomodeCarmagnola">
          <persName>
            <forename>Giacomo</forename>
+         <surname>di Carmagnola</surname>
          </persName> 
         <sex>M</sex>
         </person>
@@ -366,7 +370,7 @@
               <forename>Giacomo</forename> 
             </persName> 
             <sex>M</sex>
-            <occupation>apostolo</occupation>
+            <occupation>apostolo e santo</occupation>
           </person>
         
           <person xml:id="GilardoAlessandria">
@@ -417,7 +421,7 @@
            <surname>Cerruto</surname>
          </persName>
           <sex>M</sex>
-          <occupation>figlio di Manfredo Cerruti</occupation>
+          <occupation>figlio di Manfredo Cerruto</occupation>
         </person>
         
         <person xml:id="GiovanniGorrino">
@@ -470,6 +474,7 @@
               <surname></surname>
             </persName>
             <sex>M</sex>
+            <occupation>santo</occupation>
           </person>
           
         
@@ -526,6 +531,7 @@
             <forename>Maria</forename> 
            </persName>
             <sex>F</sex>
+            <occupation>madre del Signore</occupation>
           </person>
           
           <person xml:id="ManfredinoBucino">
@@ -576,7 +582,7 @@
               <surname></surname>
             </persName>
             <sex>M</sex>
-            <occupation>apostolo</occupation>
+            <occupation>apostolo e santo</occupation>
           </person>
           
           
@@ -606,7 +612,7 @@
              <forename>Oberto</forename>
            </persName> 
           <sex>M</sex>
-            <occupation>converso e massaro</occupation>
+            <occupation>converso e massaro della chiesa di San Lorenzo di Alba</occupation>
           </person>
         
           <person xml:id="ObertoBovolo">
@@ -635,7 +641,7 @@
               <surname></surname>
             </persName>
             <sex>M</sex>
-            <occupation>apostolo</occupation>
+            <occupation>apostolo e santo</occupation>
           </person>
           
           
@@ -652,6 +658,7 @@
           <person xml:id="PietrodeAncisa">
            <persName>
              <forename>Pietro</forename>
+             <surname>di Incisa</surname>
            </persName>
             <sex>M</sex>
           </person>
@@ -711,12 +718,6 @@
            <sex>M</sex> 
             <occupation>santo e papa</occupation>
           </person>
-        
-        <person xml:id="SpiritoSanto">
-          <persName>
-            <forename>Spirito Santo</forename>
-          </persName>
-        </person>
         
         
         <person xml:id="StefanoNoce">
@@ -803,12 +804,6 @@
             <occupation>fratello del vescovo di Alba</occupation>
           </person>
           
-        
-        <person xml:id="Trinità">
-          <persName>
-           <forename>Santa Trinità</forename> 
-          </persName>
-        </person>
           
           <!-- ########## V ########## -->
          
