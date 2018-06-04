@@ -9276,7 +9276,7 @@
           <add place="margin-left">a</add>
           <space dim="horizontal" extent="2char"/>
           <w><choice>
-              <orig>nno</orig>
+              <orig><supplied>A</supplied>nno</orig>
               <reg>Anno</reg>
             </choice></w>
           <w>do<damage extent="1char" type="N">m</damage>ini</w>
@@ -9335,15 +9335,19 @@
               <expan>d<ex>omi</ex>n<ex>o</ex></expan>
             </choice></w>
           <persName ref="#MartinoGassa">
+            <w>
             <choice>
-              <orig><w><abbr>m<am>a<g ref="rrotsup"/></am><lb facs="#ST_line_08r_03" n="3" xml:id="ST_lb_08r_03_orig"
-                    />tino</abbr></w></orig>
+              <orig><abbr>m<am>a<g ref="rrotsup"/></am><lb facs="#ST_line_08r_03" n="3" xml:id="ST_lb_08r_03_orig"
+                    />tino</abbr></orig>
               <reg><expan>Ma<ex>r</ex><lb facs="#ST_line_08r_03" n="3" xml:id="ST_lb_08r_03_reg"/>tino</expan></reg>
             </choice>
-            <w><choice>
+            </w> 
+            <w>
+            <choice>
                 <orig>ga<g ref="#slong"/><g ref="#slong"/>a</orig>
                 <reg>Gassa</reg>
-              </choice></w>
+            </choice>
+            </w>
           </persName>
           <w><choice>
               <abbr>pb<am><g ref="#combhook"/></am>ro</abbr>
@@ -10065,9 +10069,9 @@
           <w><choice>
               <abbr>dn<am><g ref="#otilde"/></am></abbr>
               <expan>d<ex>omi</ex>no</expan>
-            </choice>domino</w>
+            </choice></w>
           <lb facs="#ST_line_08r_28" xml:id="ST_lb_08r_28" n="28"/>
-          <persName ref="#GiglielmoGassa">
+          <persName ref="#GuglielmoGassa">
             <w><choice>
                 <abbr>Guill<am><g ref="#combhook"/></am>mo</abbr>
                 <expan>Guill<ex>el</ex>mo</expan>
@@ -10401,11 +10405,13 @@
             <w>hoc</w>
             <w>et</w>
             <w>fir<lb facs="#ST_line_08r_40" xml:id="ST_lb_08r_40" n="40"/>mantiam</w>
+           
             <add place="margin-left" hand="modern"><!-- non è un fw, specificare la mano -->
               <w>1354</w>
             </add>
+            
             <add place="margin-left">
-              <num value="1354"><g ref="#N"/>xxxliiii</num>
+              <num value="1354"><g ref="#Muncdesosup"/>xxxliiii</num>
               <g ref="#middot"/><w>de</w>
               <w><choice>
                   <abbr><am><g ref="#mtilde"/></am></abbr>
@@ -10521,8 +10527,8 @@
           <w>ivit</w>
           <placeName ref="#Alba">
             <w><choice>
-                <orig><abbr>alb<am><g ref="#atilde"/></am></abbr><expan>alba<ex>m</ex></expan></orig>
-                <reg>Albam</reg>
+                <abbr>alb<am><g ref="#atilde"/></am></abbr>
+              <expan>Alba<ex>m</ex></expan>         
               </choice></w>
           </placeName>
           <lb facs="#ST_line_09r_02" xml:id="ST_lb_09r_02" n="2"/>
@@ -10534,7 +10540,7 @@
           <w><choice>
               <abbr>o<am><g ref="#mtilde"/></am>es</abbr>
               <expan>om<ex>n</ex>es</expan>
-            </choice>omnes</w>
+            </choice></w>
           <w>arbores</w>
           <w><choice>
               <abbr>exi<g ref="#slong"/>t<am><g ref="#etilde"/></am>s</abbr>
@@ -11256,7 +11262,7 @@
           <fw place="margin-left"><add><w>n</w><g ref="#middot"/>1</add></fw><!-- CHECK -->
           <space dim="horizontal" extent="2char"/>
           <w><choice>
-              <orig>nno</orig>
+              <orig><supplied>A</supplied>nno</orig>
               <reg>Anno</reg>
             </choice></w>
           <name ref="#Dio">
@@ -11572,7 +11578,8 @@
           <w>in</w>
           <w>qua</w>
           <w><choice>
-              <abbr>e<am><g ref="#ginodotsup"/></am>tudine<expan>eg<ex>r</ex>itudine</expan></abbr>
+              <abbr>e<am><g ref="#ginodotsup"/></am>tudine</abbr>
+            <expan>eg<ex>r</ex>itudine</expan>
             </choice></w>
           <w><g ref="#slong"/>tetit</w>
           <choice>
@@ -23656,7 +23663,7 @@
     <back>
       
       <div type="hotspot">
-
+     
         <div facs="ST_hs_01r_01" xml:id="ST_div_hs_01r_01">
           <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
             letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
