@@ -11956,8 +11956,7 @@
 
         <fw place="above"><add><w>pagina</w>
             <num>11</num></add></fw>
-        <fw place="margin-left"><add>n<g ref="#middot"/>1<g ref="#middot"/></add></fw>
-
+        
         <label>
           [<w>Pergamena</w>
           <w>XI</w>]
@@ -13254,11 +13253,6 @@
                 </choice></w>
             </placeName>
           </persName>
-          <fw place="margin-left"><add>
-              <w>patria</w>
-              <w>n</w><g ref="#middot"/>2<g ref="#middot"/>
-            </add>
-          </fw> 
           <w>bone</w>
           <w><choice>
               <abbr>memo<am><g ref="#itilde"/></am>e</abbr>
@@ -13685,10 +13679,6 @@
               <expan>s<ex>an</ex>c<ex>t</ex>e</expan>
             </choice></w>
           <w>humi<lb facs="#ST_line_12r_15" xml:id="ST_lb_012_15" n="15"/>litatis</w>
-          <fw place="margin-left"><add><w>mestiere</w>
-              <w>n</w><g ref="#middot"/>3
-            </add>
-          </fw>
           <w><choice>
               <orig><abbr><am><g ref="#ptildevert"/></am>tio<g ref="#slong"/><g ref="#slong"/>am</abbr></orig>
               <reg><expan>p<ex>re</ex>tiosam</expan></reg>
@@ -13844,7 +13834,6 @@
               <expan>tene<ex>re</ex>t<ex>ur</ex></expan>
             </choice></w>
           <lb facs="#ST_line_12r_19" xml:id="ST_lb_012_19" n="19"/>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>4<g ref="#middot"/></add></fw>
           <w>qui</w>
           <w><g ref="#slong"/>ue</w>
           <w>infirmitatis</w>
@@ -14479,9 +14468,6 @@
           </q>
           <w>accipiens</w>
           <lb facs="#ST_line_13r_11" xml:id="ST_lb_013_11" n="11"/>
-          <fw place="margin-left"><add><w>Pellegrinaggio</w>
-              <w>di</w>
-              <persName ref="#sanGiacomo"><w>S.Giacomo</w></persName></add></fw>
           <w><choice>
               <abbr>bacul<am><g ref="#utilde"/></am></abbr>
               <expan>baculu<ex>m</ex></expan>
@@ -14524,7 +14510,6 @@
           </placeName>
           <w>visitavit</w>
           <lb facs="#ST_line_13r_12" xml:id="ST_lb_013_12" n="12"/>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>5</add></fw>
           <w><choice>
               <abbr><am><g ref="#itilde"/></am></abbr>
               <expan>i<ex>n</ex></expan>
@@ -14590,10 +14575,6 @@
           </placeName>
           <w>rediens</w>
           <lb facs="#ST_line_13r_13" xml:id="ST_lb_013_13" n="13"/>
-          <fw place="margin-left"><add><w>ritorno</w>
-              <w>in</w>
-              <placeName ref="#Alba"><w>Alba</w>
-                <w>n</w><g ref="#middot"/>6<g ref="#middot"/></placeName></add></fw>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>dict<am><g ref="#atilde"/></am></abbr>
               <expan>p<ex>re</ex>dicta<ex>m</ex></expan>
@@ -14771,9 +14752,6 @@
             </persName>
             <w>de</w>
             <lb facs="#ST_line_13r_16" xml:id="ST_lb_013_16" n="16"/>
-            <fw place="margin-left"><add><w>tenore</w>
-                <w>di</w>
-                <w>vita</w><g ref="#middot"/><w>n</w><g ref="#middot"/>7</add></fw>
             <w><choice>
                 <orig>ponte</orig>
                 <reg>Ponte</reg>
@@ -23767,8 +23745,64 @@
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
         
-        <div facs="ST_hs_010r_01" xml:id="ST_div_hs_018r_01">
+        <div facs="ST_hs_010r_01" xml:id="ST_div_hs_010r_01">
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_011r_01" xml:id="ST_div_hs_011r_01">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+        
+        
+        <div facs="ST_hs_012r_06" xml:id="ST_div_hs_012r_06">
+         <p><w>Patria</w></p> 
+        </div>
+        
+        <div facs="ST_hs_012r_07" xml:id="ST_div_hs_012r_07">
+         <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_012r_15" xml:id="ST_div_hs_012r_15">
+         <p><w>Mestiere</w></p> 
+        </div>
+        
+        <div facs="ST_hs_012r_16" xml:id="ST_012r_div_hs_16">
+         <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_012r_22" xml:id="ST_div_hs_012r_19">
+         <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_013r_11" xml:id="ST_div_hs_013r_11">
+          <p><w>Pellegrinaggio</w>
+            <w>di</w>
+            <persName ref="#sanGiacomo"><w>S.Giacomo</w></persName></p>
+        </div>
+        
+        <div facs="ST_hs_013r_12" xml:id="ST_div_hs_013r_12">
+         <p>n<g ref="#middot"/>5<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_013r_13" xml:id="ST_div_hs_013r_13">
+          <p><w>ritorno</w>
+            <w>in</w>
+            <placeName ref="#Alba"><w>Alba</w>
+            </placeName></p> 
+        </div>
+        
+        <div facs="ST_hs_013r_14" xml:id="ST_div_hs_013r_14">
+         <p>n<g ref="#middot"/>6<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_013r_16" xml:id="ST_div_hs_013r_16">
+          <p><w>tenore</w>
+            <w>di</w>
+            <w>vita</w></p>
+        </div>
+        
+        <div facs="ST_hs_013r_17" xml:id="ST_div_hs_013r_17">
+        <p>n<g ref="#middot"/>7<g ref="#middot"/></p>
         </div>
         
         
