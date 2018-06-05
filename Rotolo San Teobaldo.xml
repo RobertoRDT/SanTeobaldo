@@ -3208,16 +3208,18 @@
             </choice>.
           </q>
         </p>
-
-        <p><add place="bottom">Machabeorum</add></p><!-- CHECK -->
-
+        <lb facs="#ST_line_01r_49" xml:id="ST_lb_01r_49" n="49"/>
+        <lb facs="#ST_line_01r_50" xml:id="ST_lb_01r_50" n="50"/>
+        <lb facs="#ST_line_01r_51" xml:id="ST_lb_01r_51" n="51"/>
+        <lb facs="#ST_line_01r_52" xml:id="ST_lb_01r_52" n="52"/>
+        <lb facs="#ST_line_01r_53" xml:id="ST_lb_01r_53" n="53"/>
+     
         <!-- #######################################  folio 02r  ####################################### -->
         
         <pb n="2" xml:id="ST_fol_02r"/>
 
         <fw place="above"><add>Pag<g ref="#middot"/>2</add></fw>
-        <fw place="above"><add>n<g ref="#middot"/>1<g ref="#middot"/></add></fw>
-
+        
         <p>
           <lb facs="#ST_line_02r_01" xml:id="ST_lb_02r_01" n="1"/>
           <w><hi rend="double"><g ref="#Eunc"/></hi>t</w>
@@ -3639,12 +3641,12 @@
               </choice></w><reg>.</reg> </quote><pc>.</pc>
         </p>
 
-        <fw place="margin-left" type="N"><add>p</add></fw>
-        <fw place="margin-left" type="N"><add>n.2</add></fw>
+       
 
         <p>
           <lb facs="#ST_line_02r_18" xml:id="ST_lb_02r_18" n="18"/>
           <lb facs="#ST_line_02r_19" xml:id="ST_lb_02r_19" n="19"/>
+          <fw place="margin-left" type="N"><add>p</add></fw>
           <space dim="horizontal" extent="4char"/><w><choice>
               <orig><abbr><supplied>P</supplied><hi rend="double">a</hi>u<am><g ref="#pbardes"/></am>ibus</abbr></orig>
               <reg><expan>Paup<ex>er</ex>ibus</expan></reg>
@@ -4342,17 +4344,7 @@
           <pb n="3" xml:id="ST_fol_03r"/>
 
           <fw place="top-left" type="N"><add>pag<g ref="#middot"/>3</add></fw>
-          <fw place="top-left" type="N"><add>n<g ref="#middot"/>1</add></fw>
-          <add>
-            <w>morte</w><!-- rimosso il <fw> -->
-            <w>di</w><persName ref="#sanTeobaldo"><w><choice>
-                  <abbr><am>S.</am></abbr>
-                  <expan>s<ex>an</ex></expan>
-                </choice></w><w><choice>
-                  <abbr>Teo<am>b.</am></abbr>
-                  <expan>Teob<ex>aldo</ex></expan>
-                </choice></w></persName>
-          </add>
+          
           <lb facs="#ST_line_03r_01" xml:id="ST_lb_03r_01" n="1"/>
           <w>Anima</w>
           <w><g ref="#slong"/>ua</w>
@@ -4999,9 +4991,8 @@
         <lb facs="#ST_line_03r_29" xml:id="ST_lb_03r_29" n="29"/>
         <lb facs="#ST_line_03r_30" xml:id="ST_lb_03r_30" n="30"/>
 
-        <fw place="margin-left" type="N"><add>n<g ref="#middot"/>3</add></fw>
-        <!-- CHECK non dovrebbe essere a inizio pagina??? -->
-        <fw place="margin-left" type="N"><add>f</add></fw>
+       
+       <fw place="margin-left" type="N"><add>f</add></fw>
 
         <p>
           <space dim="horizontal" extent="4char"/>
@@ -5335,7 +5326,7 @@
               <expan>eccl<ex>esi</ex>a</expan>
             </choice></w>
           <lb facs="#ST_line_03r_42" xml:id="ST_lb_03r_42" n="42"/>
-          <add place="margin-left"><w>campanile</w></add>
+        
           <w><choice>
               <orig>Campanile</orig>
               <reg>campanile</reg>
@@ -5415,7 +5406,6 @@
           <w>fatiendis</w>
           <w>intelligitur</w>
           <lb facs="#ST_line_04r_02" xml:id="ST_lb_04r_02" n="2"/>
-          <fw place="margin-left" type="N"><add><w>n°I</w><pc><g ref="#middot"/></pc></add></fw>
           <w>civitati</w>
           <w>con<g ref="#slong"/>ulere</w><pc><g ref="#middot"/></pc>
           <w>et</w>
@@ -5437,15 +5427,6 @@
           <w>ho<g ref="#slong"/>pital<unclear extent="1char">i</unclear>s</w>
           <w><g ref="#slong"/>e</w>
           <w>e<g ref="#slong"/><g ref="#slong"/>e</w>
-          <!-- da spostare negli hotspot -->
-          <add>
-            <del rend="overwrite">
-              <unclear>
-                <lb/>mortu <lb/>e<g ref="#slong"/>t <date>ccc</date>
-                <lb/><date><g ref="#muncdes"/>. ccc</date>
-                <lb/>annis</unclear>
-            </del>
-          </add>
           <w>procu<lb facs="#ST_line_04r_03" xml:id="ST_lb_04r_03" n="3"/>ratorem</w>
           <w><choice>
               <abbr>pau<am><g ref="#pbardes"/></am>um</abbr>
@@ -5581,7 +5562,6 @@
           <w>et</w>
           <del type="N"><gap/></del>
           <lb facs="#ST_line_04r_07" xml:id="ST_lb_04r_07" n="7"/>
-          <fw place="margin-left" type="N"><add><w>n</w><g ref="#middot"/>2</add></fw>
           <w><damage extent="2char">ca</damage>rceri</w>
           <w>ob<g ref="#slong"/>curi<g ref="#slong"/><g ref="#slong"/>imo</w>
           <w>mancipatus</w><pc>.</pc>
@@ -5830,9 +5810,6 @@
               <expan>Cu<ex>m</ex></expan>
             </choice></w>
           <lb facs="#ST_line_04r_15" xml:id="ST_lb_04r_15" n="15"/>
-          <fw place="margin-left"><add><w>furto</w>
-              <w>della</w>
-              <w>costa</w></add></fw>
           <w><choice>
               <abbr><am>a<g ref="#utilde"/>t</am></abbr>
               <expan>aut<ex>em</ex></expan>
@@ -6870,7 +6847,7 @@
           <lb facs="#ST_line_05r_13" xml:id="ST_lb_05r_13" n="13"/>
           <space dim="horizontal" extent="4char"/>
           <add place="margin-left">a</add>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>2</add></fw>
+          
           <w><choice>
               <orig><supplied>A</supplied>Ccidit</orig>
               <reg>Accidit</reg>
@@ -7535,8 +7512,7 @@
             <pb n="6" xml:id="ST_fol_06r"/>
 
             <fw place="top-left"><add>pag. 6</add></fw>
-            <fw place="margin-left">n<g ref="#middot"/>1</fw>
-
+            
             <lb facs="#ST_line_06r_01" n="1" xml:id="ST_lb_06r_01"/>
             <w><choice>
                 <orig>martini</orig>
@@ -8041,7 +8017,7 @@
           <lb facs="#ST_line_06r_22" xml:id="ST_lb_06r_22" n="22"/>
           <space dim="horizontal" extent="3char"/>
           <add place="margin-left">a</add>
-          <fw place="margin-left"><add><w>n</w><reg>.</reg>3<g ref="#middot"/></add></fw>
+         
           <w><choice>
               <orig><supplied>A</supplied>nno</orig>
               <reg>Anno</reg>
@@ -8585,7 +8561,7 @@
           <lb facs="#ST_line_06r_43" xml:id="ST_lb_06r_43" n="43"/>
           <space dim="horizontal" extent="4char"/>
           <add place="margin-left">q</add>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>4<g ref="#middot"/></add></fw>
+          
           <w><choice>
               <orig><supplied>Q</supplied>uidam</orig>
               <reg>Quidam</reg>
@@ -9302,7 +9278,6 @@
               <w>decima</w></reg>
           </choice>
           <lb facs="#ST_line_08r_02" n="2" xml:id="ST_lb_08r_02"/>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>1<g ref="#middot"/></add></fw>
           <space dim="horizontal" extent="2char"/>
           <unclear extent="3char"><w>die</w></unclear>
           <num value="18">XVIII</num><pc><g ref="#middot"/></pc>
@@ -9769,8 +9744,7 @@
           <space dim="vertical" extent="2lines"/>
           <lb facs="#ST_line_08r_18" xml:id="ST_lb_08r_18" n="18"/>
           <lb facs="#ST_line_08r_19" xml:id="ST_lb_08r_19" n="19"/>
-          <lb facs="#ST_line_08r_20" xml:id="ST_lb_08r_20" n="20"/>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>2</add></fw>
+          <lb facs="#ST_line_08r_20" xml:id="ST_lb_08r_20" n="20"/> 
           <add place="margin-left">I</add>
           <choice>
             <orig><space dim="horizontal" extent="2char"/><w><hi rend="double">n</hi>nomi<damage extent="2char" type="N"
@@ -10405,20 +10379,6 @@
             <w>hoc</w>
             <w>et</w>
             <w>fir<lb facs="#ST_line_08r_40" xml:id="ST_lb_08r_40" n="40"/>mantiam</w>
-           
-            <add place="margin-left" hand="modern"><!-- non è un fw, specificare la mano -->
-              <w>1354</w>
-            </add>
-            
-            <add place="margin-left">
-              <num value="1354"><g ref="#Muncdesosup"/>xxxliiii</num>
-              <g ref="#middot"/><w>de</w>
-              <w><choice>
-                  <abbr><am><g ref="#mtilde"/></am></abbr>
-                  <expan>m<ex>ense</ex></expan>
-                </choice></w>
-              <w>Iunii</w>
-            </add>
             <w>fecit</w>
             <w>fecit</w>
             <w>et</w>
@@ -10494,8 +10454,7 @@
           <pb n="9" xml:id="ST_fol_09r"/>
 
           <fw place="top-left"><add>pag <g ref="#middot"/>9</add></fw>
-          <fw place="top-left"><add>n<g ref="#middot"/>1</add></fw>
-
+          
           <label>
             [<w>Pergamena</w>
             <w>IX</w>]
@@ -10970,7 +10929,6 @@
               <expan>b<ex>e</ex>n<ex>e</ex></expan>
             </choice></w>
           <w>regnovit</w>
-          <add place="margin-left">co</add>
           <w><choice>
               <abbr>gr<am><g ref="#atilde"/></am>m</abbr>
               <expan>gra<ex>tia</ex>m</expan>
@@ -11259,7 +11217,6 @@
 
         <p>
           <add place="margin-left">A</add>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>1</add></fw><!-- CHECK -->
           <space dim="horizontal" extent="2char"/>
           <w><choice>
               <orig><supplied>A</supplied>nno</orig>
@@ -11514,7 +11471,6 @@
           <pb n="10" xml:id="ST_fol_10r"/>
 
           <fw place="top-left"><add>pag <g ref="#middot"/>10</add></fw>
-          <fw place="top-left"><add>n<g ref="#middot"/>1</add></fw>
 
           <lb facs="#ST_line_10r_01" xml:id="ST_lb_10r_01" n="1"/>
           <w>corporaliter</w>
@@ -23664,6 +23620,158 @@
       
       <div type="hotspot">
      
+        <div facs="ST_hs_01r_53" xml:id="ST_div_01r_53">
+          <p><w>Machabeorum</w></p><!-- CHECK -->
+          <note>La parola appare vergata in inchiostro rosso al fondo del folio e in senso contrario alla direzione di scrittura:
+            essa costituisce un probabile residuo del testo che doveva in origine essere leggibile sul foglio, prima della sua rasura e del suo riutilizzo</note> 
+        </div>
+     
+     <div facs="ST_hs_02r_01" xml:id="ST_div_hs_02r_01">
+       <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+       <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più recente rispetto a quella del copista</note>
+     </div>
+     
+     <div facs="ST_hs_02r_21" xml:id="ST_div_hs_02r_21">
+       <p>n<g ref="#middot"/>2</p>
+       <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più recente rispetto a quella del copista</note>
+     </div>
+     
+     <div facs="ST_hs_03r_01" xml:id="ST_div_hs_03r_01">
+       <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+     </div>
+     
+     <div facs="ST_hs_03r_02" xml:id="ST_div_hs_03r_02">
+       <p>
+         <w>morte</w>
+         <w>di</w><persName ref="#sanTeobaldo"><w><choice>
+           <abbr><am>S.</am></abbr>
+           <expan>s<ex>an</ex></expan>
+         </choice></w><w><choice>
+           <abbr>Teo<am>b.</am></abbr>
+           <expan>Teob<ex>aldo</ex></expan>
+         </choice></w></persName>
+       </p> 
+     </div>
+        
+     <div facs="ST_hs_03r_07" xml:id="ST_div_hs_03r_07">
+       <p>n<g ref="#middot"/>2</p>
+     </div>
+        
+      <div facs="ST_hs_03r_30" xml:id="ST_div_hs_03r_30">
+        <p>n<g ref="#middot"/>3</p> 
+      </div>  
+        
+       <div facs="ST_hs_03r_42" xml:id="ST_div_hs_03r_42">
+        <p>Campanile</p> 
+       </div> 
+        
+        <div facs="ST_hs_04r_03" xml:id="ST_div_hs_04r_03">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+        </div>
+        
+      
+        <div facs="ST_hs_04r_04" xml:id="ST_div_hs_04">
+          <p>
+            <del rend="overwrite">
+              <unclear>
+                <lb/>mortu <lb/>e<g ref="#slong"/>t <date>ccc</date>
+                <lb/><date><g ref="#muncdes"/>. ccc</date>
+                <lb/>annis</unclear>
+            </del>
+          </p>
+        </div>
+        
+        <!-- SI TROVA A DESTRA E NON A SINISTRA NEL FOGLIO, E ALLA RIGA 3 -->
+        
+        <div facs="ST_hs_04r_07" xml:id="ST_div_hs_04r_07">
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_04r_14" xml:id="ST_div_hs_04r_14">
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_04r_15" xml:id="ST_div_hs_04r_15">
+          <p><w>furto</w>
+            <w>della</w>
+            <w>costa</w>
+          </p> 
+        </div>
+        
+        <div facs="ST_hs_04r_29" xml:id="ST_div_hs_04r_29">
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+        </div>
+        
+        
+        <div facs="ST_hs_05r_04" xml:id="ST_div_hs_05r_04">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_05r_13" xml:id="ST_div_hs_05r_13">
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_05r_33" xml:id="ST_div_hs_05r_33">
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_06r_01" xml:id="ST_div_hs_06r_01">
+         <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_06r_12" xml:id="ST_div_hs_06r_12">
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_06r_23" xml:id="ST_div_hs_06r_23">
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_06r_43" xml:id="ST_div_hs_06r_44">
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_08r_03" xml:id="ST_div_hs_06r_03">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_08r_20" xml:id="ST_div_hs_08r_20">
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_08r_39" xml:id="ST_div_hs_08r_39">
+         <p><date when="1354">1354</date></p> 
+        </div>
+        
+        <div facs="ST_hs_08r_40" xml:id="ST_div_hs_08r_40">
+          <p>
+            <num value="1354"><g ref="#Muncdesosup"/>xxxliiii</num>
+            <g ref="#middot"/><w>de</w>
+            <w><choice>
+              <abbr><am><g ref="#mtilde"/></am></abbr>
+              <expan>m<ex>ense</ex></expan>
+            </choice></w>
+            <w>Iunii</w>
+          </p> 
+        </div>
+        
+        <div facs="ST_hs_09r_01" xml:id="ST_div_hs_09r_01">
+         <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_09r_17" xml:id="ST_div_hs_09r_17">
+         <p>co</p> 
+        </div>
+        
+        <div facs="ST_hs_09r_29" xml:id="ST_div_hs_09r_29">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_010r_01" xml:id="ST_div_hs_018r_01">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+        
+        
         <div facs="ST_hs_01r_01" xml:id="ST_div_hs_01r_01">
           <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
             letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
