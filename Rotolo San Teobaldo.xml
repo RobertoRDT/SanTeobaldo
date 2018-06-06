@@ -23557,57 +23557,60 @@
     <back>
       
       <div type="hotspot">
-     
+
         <div facs="ST_hs_01r_53" xml:id="ST_div_01r_53">
-          <p><w>Machabeorum</w></p><!-- CHECK -->
-          <note>La parola appare vergata in inchiostro rosso al fondo del folio e in senso contrario alla direzione di scrittura:
-            essa costituisce un probabile residuo del testo che doveva in origine essere leggibile sul foglio, prima della sua rasura e del suo riutilizzo</note> 
+          <p><w>Machabeorum</w></p>
+          <!-- CHECK -->
+          <note>La parola appare vergata in inchiostro rosso al fondo del folio e in senso contrario alla direzione di
+            scrittura: essa costituisce un probabile residuo del testo che doveva in origine essere leggibile sul
+            foglio, prima della sua rasura e del suo riutilizzo</note>
         </div>
-     
-     <div facs="ST_hs_02r_01" xml:id="ST_div_hs_02r_01">
-       <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
-       <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più recente rispetto a quella del copista</note>
-     </div>
-     
-     <div facs="ST_hs_02r_21" xml:id="ST_div_hs_02r_21">
-       <p>n<g ref="#middot"/>2</p>
-       <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più recente rispetto a quella del copista</note>
-     </div>
-     
-     <div facs="ST_hs_03r_01" xml:id="ST_div_hs_03r_01">
-       <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
-     </div>
-     
-     <div facs="ST_hs_03r_02" xml:id="ST_div_hs_03r_02">
-       <p>
-         <w>morte</w>
-         <w>di</w><persName ref="#sanTeobaldo"><w><choice>
-           <abbr><am>S.</am></abbr>
-           <expan>s<ex>an</ex></expan>
-         </choice></w><w><choice>
-           <abbr>Teo<am>b.</am></abbr>
-           <expan>Teob<ex>aldo</ex></expan>
-         </choice></w></persName>
-       </p> 
-     </div>
-        
-     <div facs="ST_hs_03r_07" xml:id="ST_div_hs_03r_07">
-       <p>n<g ref="#middot"/>2</p>
-     </div>
-        
-      <div facs="ST_hs_03r_30" xml:id="ST_div_hs_03r_30">
-        <p>n<g ref="#middot"/>3</p> 
-      </div>  
-        
-       <div facs="ST_hs_03r_42" xml:id="ST_div_hs_03r_42">
-        <p>Campanile</p> 
-       </div> 
-        
+
+        <div facs="ST_hs_02r_01" xml:id="ST_div_hs_02r_01">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+          <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più
+            recente rispetto a quella del copista</note>
+        </div>
+
+        <div facs="ST_hs_02r_21" xml:id="ST_div_hs_02r_21">
+          <p>n<g ref="#middot"/>2</p>
+          <note>Numerazione progressiva dei differenti episodi narrati all'interno del folio, apposta da una mano più
+            recente rispetto a quella del copista</note>
+        </div>
+
+        <div facs="ST_hs_03r_01" xml:id="ST_div_hs_03r_01">
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
+        </div>
+
+        <div facs="ST_hs_03r_02" xml:id="ST_div_hs_03r_02">
+          <p>
+            <w>morte</w>
+            <w>di</w><persName ref="#sanTeobaldo"><w><choice>
+                  <abbr><am>S.</am></abbr>
+                  <expan>s<ex>an</ex></expan>
+                </choice></w><w><choice>
+                  <abbr>Teo<am>b.</am></abbr>
+                  <expan>Teob<ex>aldo</ex></expan>
+                </choice></w></persName>
+          </p>
+        </div>
+
+        <div facs="ST_hs_03r_07" xml:id="ST_div_hs_03r_07">
+          <p>n<g ref="#middot"/>2</p>
+        </div>
+
+        <div facs="ST_hs_03r_30" xml:id="ST_div_hs_03r_30">
+          <p>n<g ref="#middot"/>3</p>
+        </div>
+
+        <div facs="ST_hs_03r_42" xml:id="ST_div_hs_03r_42">
+          <p>Campanile</p>
+        </div>
+
         <div facs="ST_hs_04r_03" xml:id="ST_div_hs_04r_03">
-          <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
-      
+
         <div facs="ST_hs_04r_04" xml:id="ST_div_hs_04">
           <p>
             <del rend="overwrite">
@@ -23618,163 +23621,161 @@
             </del>
           </p>
         </div>
-        
+
         <!-- SI TROVA A DESTRA E NON A SINISTRA NEL FOGLIO, E ALLA RIGA 3 -->
-        
+
         <div facs="ST_hs_04r_07" xml:id="ST_div_hs_04r_07">
-          <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_04r_14" xml:id="ST_div_hs_04r_14">
-          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_04r_15" xml:id="ST_div_hs_04r_15">
           <p><w>furto</w>
             <w>della</w>
             <w>costa</w>
-          </p> 
+          </p>
         </div>
-        
+
         <div facs="ST_hs_04r_29" xml:id="ST_div_hs_04r_29">
-          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p>
         </div>
-        
-        
+
         <div facs="ST_hs_05r_04" xml:id="ST_div_hs_05r_04">
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_05r_13" xml:id="ST_div_hs_05r_13">
           <p>n<g ref="#middot"/>2<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_05r_33" xml:id="ST_div_hs_05r_33">
           <p>n<g ref="#middot"/>3<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_06r_01" xml:id="ST_div_hs_06r_01">
-         <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_06r_12" xml:id="ST_div_hs_06r_12">
-          <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_06r_23" xml:id="ST_div_hs_06r_23">
-          <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_06r_43" xml:id="ST_div_hs_06r_44">
-          <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_08r_03" xml:id="ST_div_hs_06r_03">
-          <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_08r_20" xml:id="ST_div_hs_08r_20">
-          <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_08r_39" xml:id="ST_div_hs_08r_39">
-         <p><date when="1354">1354</date></p> 
+          <p><date when="1354">1354</date></p>
         </div>
-        
+
         <div facs="ST_hs_08r_40" xml:id="ST_div_hs_08r_40">
           <p>
             <num value="1354"><g ref="#Muncdesosup"/>xxxliiii</num>
             <g ref="#middot"/><w>de</w>
             <w><choice>
-              <abbr><am><g ref="#mtilde"/></am></abbr>
-              <expan>m<ex>ense</ex></expan>
-            </choice></w>
+                <abbr><am><g ref="#mtilde"/></am></abbr>
+                <expan>m<ex>ense</ex></expan>
+              </choice></w>
             <w>Iunii</w>
-          </p> 
+          </p>
         </div>
-        
+
         <div facs="ST_hs_09r_01" xml:id="ST_div_hs_09r_01">
-         <p>n<g ref="#middot"/>1<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_09r_17" xml:id="ST_div_hs_09r_17">
-         <p>co</p> 
+          <p>co</p>
         </div>
-        
+
         <div facs="ST_hs_09r_29" xml:id="ST_div_hs_09r_29">
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_010r_01" xml:id="ST_div_hs_010r_01">
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_011r_01" xml:id="ST_div_hs_011r_01">
           <p>n<g ref="#middot"/>1<g ref="#middot"/></p>
         </div>
-        
-        
+
         <div facs="ST_hs_012r_06" xml:id="ST_div_hs_012r_06">
-         <p><w>Patria</w></p> 
+          <p><w>Patria</w></p>
         </div>
-        
+
         <div facs="ST_hs_012r_07" xml:id="ST_div_hs_012r_07">
-         <p>n<g ref="#middot"/>2<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>2<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_012r_15" xml:id="ST_div_hs_012r_15">
-         <p><w>Mestiere</w></p> 
+          <p><w>Mestiere</w></p>
         </div>
-        
+
         <div facs="ST_hs_012r_16" xml:id="ST_012r_div_hs_16">
-         <p>n<g ref="#middot"/>3<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>3<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_012r_22" xml:id="ST_div_hs_012r_19">
-         <p>n<g ref="#middot"/>4<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>4<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_013r_11" xml:id="ST_div_hs_013r_11">
           <p><w>Pellegrinaggio</w>
             <w>di</w>
             <persName ref="#sanGiacomo"><w>S.Giacomo</w></persName></p>
         </div>
-        
+
         <div facs="ST_hs_013r_12" xml:id="ST_div_hs_013r_12">
-         <p>n<g ref="#middot"/>5<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>5<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_013r_13" xml:id="ST_div_hs_013r_13">
           <p><w>ritorno</w>
             <w>in</w>
             <placeName ref="#Alba"><w>Alba</w>
-            </placeName></p> 
+            </placeName></p>
         </div>
-        
+
         <div facs="ST_hs_013r_14" xml:id="ST_div_hs_013r_14">
-         <p>n<g ref="#middot"/>6<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>6<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_013r_16" xml:id="ST_div_hs_013r_16">
           <p><w>tenore</w>
             <w>di</w>
             <w>vita</w></p>
         </div>
-        
+
         <div facs="ST_hs_013r_17" xml:id="ST_div_hs_013r_17">
-        <p>n<g ref="#middot"/>7<g ref="#middot"/></p>
+          <p>n<g ref="#middot"/>7<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_014r_04" xml:id="ST_div_hs_014r_04">
           <p><w>Cura</w>
             <w>della</w>
-            <w>Catedrale</w></p> 
+            <w>Catedrale</w></p>
         </div>
-        
+
         <div facs="ST_hs_014r_05" xml:id="ST_div_hs_014r_05">
-         <p>n°<g ref="#middot"/>8<g ref="#middot"/></p> 
+          <p>n°<g ref="#middot"/>8<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_014r_09" xml:id="ST_div_hs_014r_09">
           <p><w>porta</w>
             <w>su</w>
@@ -23782,118 +23783,79 @@
             <w>spalle</w>
             <w>un</w>
             <w>povero</w>
-            <w><choice><abbr>lang<am>ᵉ</am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w></p>
+            <w><choice>
+                <abbr>lang<am>ᵉ</am></abbr>
+                <expan>lang<ex>uent</ex>e</expan>
+              </choice></w></p>
         </div>
-        
+
         <div facs="ST_hs_014r_10" xml:id="ST_div_hs_014r_10">
-         <p>n<g ref="#middot"/>9<g ref="#middot"/></p> 
+          <p>n<g ref="#middot"/>9<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_014r_11" xml:id="ST_div_hs_014r_11">
           <p><w>suo</w>
             <w>cibo</w>
           </p>
         </div>
-        
+
         <div facs="ST_hs_014r_12" xml:id="ST_div_hs_014r_12">
-         <p>n°<g ref="#middot"/>10<g ref="#middot"/></p> 
+          <p>n°<g ref="#middot"/>10<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_014r_16" xml:id="ST_div_hs_014r_16">
           <p><w>si</w>
             <w>inferma</w>
             <w>morte</w>
-           </p> 
+          </p>
         </div>
-        
+
         <div facs="ST_hs_014r_17" xml:id="ST_div_hs_014r_17">
           <p>n°<g ref="#middot"/>11<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_015r_03" xml:id="ST_div_hs_015r_03">
-         <p><w>si</w><w>elegge</w><w>la</w><w>sepoltura</w></p> 
+          <p><w>si</w><w>elegge</w><w>la</w><w>sepoltura</w></p>
         </div>
-        
+
         <div facs="ST_hs_015r_04" xml:id="ST_div_hs_015r_04">
           <p>n°<g ref="#middot"/>12<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_015r_07" xml:id="ST_div_hs_015r_07">
-          <p><w>muore</w></p> 
+          <p><w>muore</w></p>
         </div>
-        
+
         <div facs="ST_hs_015r_08" xml:id="ST_div_hs_015r_08">
-        <p>n<g ref="#middot"/>13<g ref="#middot"/></p>
+          <p>n<g ref="#middot"/>13<g ref="#middot"/></p>
         </div>
-       
-       <div facs="ST_hs_015r_12" xml:id="ST_div_hs_015r_12">
-         <p><w>miraculo</w>
-           <num value="1">I</num>
-           <w>sabbia</w>
-           <w>in</w>
-           <w>farina</w></p> 
-       </div>
-       
+
+        <div facs="ST_hs_015r_12" xml:id="ST_div_hs_015r_12">
+          <p><w>miraculo</w>
+            <num value="1">I</num>
+            <w>sabbia</w>
+            <w>in</w>
+            <w>farina</w></p>
+        </div>
+
         <div facs="ST_hs_015r_14" xml:id="ST_div_hs_015r_14">
-         <p>n°<g ref="#middot"/>14<g ref="#middot"/></p> 
+          <p>n°<g ref="#middot"/>14<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_016r_04" xml:id="ST_div_hs_016r_04">
           <p><w>miracoli</w>
             <w>in</w>
-            <w>morte</w></p> 
+            <w>morte</w></p>
         </div>
-        
+
         <div facs="ST_hs_016r_06" xml:id="ST_div_hs_016r_06">
           <p>n°<g ref="#middot"/>15<g ref="#middot"/></p>
         </div>
-        
+
         <div facs="ST_hs_017r_01" xml:id="ST_div_hs_017r_01">
-         <p>n<g ref="#middot"/>16<g ref="#middot"/></p> 
-        </div>
-        
-        
-        
-        <div facs="ST_hs_01r_01" xml:id="ST_div_hs_01r_01">
-          <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
-            letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
-          <figure>
-            <graphic url="VB_106r_HS_01.jpg"/>
-          </figure>
+          <p>n<g ref="#middot"/>16<g ref="#middot"/></p>
         </div>
 
-        <div facs="ST_hs_01r_02" xml:id="ST_div_hs_01r_02">
-          <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
-            letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
-          <figure>
-            <graphic url="VB_106r_HS_01.jpg"/>
-          </figure>
-        </div>
-        
-        <div facs="ST_hs_01r_03" xml:id="ST_div_hs_01r_03">
-          <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
-            letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
-          <figure>
-            <graphic url="VB_106r_HS_01.jpg"/>
-          </figure>
-        </div>
-        
-        <div facs="ST_hs_01r_04" xml:id="ST_div_hs_01r_04">
-          <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
-            letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
-          <figure>
-            <graphic url="VB_106r_HS_01.jpg"/>
-          </figure>
-        </div>
-        
-        <div facs="ST_hs_01r_05" xml:id="ST_div_hs_01r_05">
-          <p>The scribe here wrote a word, 'þrowode', that he later corrected in 'wolde' by erasing the first three
-            letters and adding an 'l'. In this image you can see the contours of the erased letters.</p>
-          <figure>
-            <graphic url="VB_106r_HS_01.jpg"/>
-          </figure>
-        </div>
-        
       </div>
       
       <div type="biblCompleta">
