@@ -15156,9 +15156,6 @@
           <w><g ref="#slong"/>uis</w>
           <w><g ref="#slong"/>epe</w>
           <lb facs="#ST_line_14r_05" xml:id="ST_lb_014_05" n="5"/>
-          <fw place="margin-left"><add><w>Cura</w>
-              <w>della</w>
-              <w>Catedrale</w></add></fw>
           <w><g ref="#slong"/>copabat</w>
           <w>lampades</w>
           <w>ibi</w>
@@ -15294,14 +15291,6 @@
               </choice></w>
           </persName>
           <lb facs="#ST_line_14r_09" xml:id="ST_lb_014_09" n="9"/>
-          <fw place="margin-left"><add hand="modern"><w>porta</w>
-              <w>su</w>
-              <w>le</w>
-              <w>spalle</w>
-              <w>un</w>
-              <w>povero</w>
-            <w><choice><abbr>lang<am>ᵉ</am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w>
-              <g ref="#middot"/><w>n</w><g ref="#middot"/>9</add></fw>
           <w>plenus</w>
           <w>ac</w>
           <persName ref="#SpiritoSanto">
@@ -15384,11 +15373,6 @@
           <w>or<lb facs="#ST_line_14r_11" xml:id="ST_lb_014_11" n="11"/>dinaret</w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p><!-- CHECK -->
-          <fw place="margin-left"><add><w>suo</w>
-              <w>cibo</w></add></fw>
-        </p>
-
         <p>
           <w><choice>
               <orig>tante</orig>
@@ -15424,7 +15408,6 @@
               <expan>fue<ex>r</ex>it</expan>
             </choice></w>
           <w><g ref="#slong"/>ub<lb facs="#ST_line_14r_12" xml:id="ST_lb_014_12" n="12"/><g ref="#slong"/>tentatus</w>
-          <fw place="margin-left"><add><w>n</w><g ref="#middot"/>10<g ref="#middot"/></add></fw>
           <w>et</w>
           <w><g ref="#slong"/>i</w>
           <w><choice>
@@ -15594,10 +15577,6 @@
             </choice></w>
           <w>in</w>
           <lb facs="#ST_line_14r_16" xml:id="ST_lb_014_16" n="16"/>
-          <fw place="margin-left"><add><w>si</w>
-              <w>inferma</w>
-              <w>morte</w>
-              <w>n°</w><g ref="#middot"/>11<g ref="#middot"/></add></fw>
           <w><choice>
               <abbr>m<am><g ref="#etilde"/></am>te</abbr>
               <expan>me<ex>n</ex>te</expan>
@@ -15844,10 +15823,6 @@
                 <expan>cano<ex>n</ex>ici</expan>
               </choice></w>
             <lb facs="#ST_line_15r_03" xml:id="ST_lb_015_03" n="3"/>
-            <fw place="margin-left"><add><w>si</w>
-                <w>elegge</w>
-                <w>la</w>
-                <w>sepoltura</w></add></fw>
             <placeName ref="#chiesaSanLorenzo">
               <w><g ref="#slong"/>ancti</w>
               <w><choice>
@@ -15890,7 +15865,6 @@
             <w>prout</w>
             <w>potui</w>
             <w>hono<lb facs="#ST_line_15r_04" xml:id="ST_lb_015_04" n="4"/>ravi</w>
-            <fw place="margin-left"><add><w>n°</w><g ref="#middot"/>12<g ref="#middot"/></add></fw>
             <w>hanc</w>
             <w><choice>
                 <abbr>gr<am><g ref="#atilde"/></am>m</abbr>
@@ -16046,8 +16020,6 @@
               </choice></w>
           </persName>
           <lb facs="#ST_line_15r_07" xml:id="ST_lb_015_07" n="7"/>
-          <fw><add place="margin-left"><w>muore</w>
-              <w>n</w><g ref="#middot"/>13<g ref="#middot"/></add></fw>
           <unclear extent="16char" reason="N"/>
           <supplied>
             <w>pro</w>
@@ -16299,12 +16271,6 @@
                 <expan>om<ex>n</ex>ib<ex>us</ex></expan>
               </choice></w>
             <lb facs="#ST_line_15r_13" xml:id="ST_lb_015_13" n="13"/>
-            <fw place="margin-left"><add><w>miraculo</w>
-                <num value="1">I</num>
-                <w>sabbia</w>
-                <w>in</w>
-                <w>farina</w>
-                <w>n°</w><g ref="#middot"/>14<g ref="#middot"/></add></fw>
             <w><choice>
                 <abbr><damage extent="4char" type="N">libe</damage>n<am><g ref="#ttildevert"/></am></abbr>
                 <expan>libent<ex>er</ex></expan>
@@ -16782,10 +16748,6 @@
 
         <p>
           <lb facs="#ST_line_16r_04" xml:id="ST_lb_016_04" n="4"/>
-          <fw place="margin-left"><add><w>miracoli</w>
-              <w>in</w>
-              <w>morte</w></add></fw>
-            <fw place="margin-left"><add><w>n°</w><g ref="#middot"/>15<g ref="#middot"/></add></fw>
           <w><hi rend="cap.1.1">I</hi>n</w>
           <w>morte</w>
           <w><choice>
@@ -17602,8 +17564,6 @@
         </label>
 
         <fw place="top"><add><w>pag</w><g ref="#middot"/>17<g ref="#middot"/></add></fw>
-        <fw place="margin-left"><add><w>n</w><g ref="#middot"/>16<g ref="#middot"/></add></fw>
-
         <p>
           <lb facs="#ST_line_17r_01" xml:id="ST_lb_017_01" n="1"/>
           <w>De</w>
@@ -23804,6 +23764,94 @@
         <div facs="ST_hs_013r_17" xml:id="ST_div_hs_013r_17">
         <p>n<g ref="#middot"/>7<g ref="#middot"/></p>
         </div>
+        
+        <div facs="ST_hs_014r_04" xml:id="ST_div_hs_014r_04">
+          <p><w>Cura</w>
+            <w>della</w>
+            <w>Catedrale</w></p> 
+        </div>
+        
+        <div facs="ST_hs_014r_05" xml:id="ST_div_hs_014r_05">
+         <p>n°<g ref="#middot"/>8<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_014r_09" xml:id="ST_div_hs_014r_09">
+          <p><w>porta</w>
+            <w>su</w>
+            <w>le</w>
+            <w>spalle</w>
+            <w>un</w>
+            <w>povero</w>
+            <w><choice><abbr>lang<am>ᵉ</am></abbr><expan>lang<ex>uent</ex>e</expan></choice></w></p>
+        </div>
+        
+        <div facs="ST_hs_014r_10" xml:id="ST_div_hs_014r_10">
+         <p>n<g ref="#middot"/>9<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_014r_11" xml:id="ST_div_hs_014r_11">
+          <p><w>suo</w>
+            <w>cibo</w>
+          </p>
+        </div>
+        
+        <div facs="ST_hs_014r_12" xml:id="ST_div_hs_014r_12">
+         <p>n°<g ref="#middot"/>10<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_014r_16" xml:id="ST_div_hs_014r_16">
+          <p><w>si</w>
+            <w>inferma</w>
+            <w>morte</w>
+           </p> 
+        </div>
+        
+        <div facs="ST_hs_014r_17" xml:id="ST_div_hs_014r_17">
+          <p>n°<g ref="#middot"/>11<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_015r_03" xml:id="ST_div_hs_015r_03">
+         <p><w>si</w><w>elegge</w><w>la</w><w>sepoltura</w></p> 
+        </div>
+        
+        <div facs="ST_hs_015r_04" xml:id="ST_div_hs_015r_04">
+          <p>n°<g ref="#middot"/>12<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_015r_07" xml:id="ST_div_hs_015r_07">
+          <p><w>muore</w></p> 
+        </div>
+        
+        <div facs="ST_hs_015r_08" xml:id="ST_div_hs_015r_08">
+        <p>n<g ref="#middot"/>13<g ref="#middot"/></p>
+        </div>
+       
+       <div facs="ST_hs_015r_12" xml:id="ST_div_hs_015r_12">
+         <p><w>miraculo</w>
+           <num value="1">I</num>
+           <w>sabbia</w>
+           <w>in</w>
+           <w>farina</w></p> 
+       </div>
+       
+        <div facs="ST_hs_015r_14" xml:id="ST_div_hs_015r_14">
+         <p>n°<g ref="#middot"/>14<g ref="#middot"/></p> 
+        </div>
+        
+        <div facs="ST_hs_016r_04" xml:id="ST_div_hs_016r_04">
+          <p><w>miracoli</w>
+            <w>in</w>
+            <w>morte</w></p> 
+        </div>
+        
+        <div facs="ST_hs_016r_06" xml:id="ST_div_hs_016r_06">
+          <p>n°<g ref="#middot"/>15<g ref="#middot"/></p>
+        </div>
+        
+        <div facs="ST_hs_017r_01" xml:id="ST_div_hs_017r_01">
+         <p>n<g ref="#middot"/>16<g ref="#middot"/></p> 
+        </div>
+        
         
         
         <div facs="ST_hs_01r_01" xml:id="ST_div_hs_01r_01">
