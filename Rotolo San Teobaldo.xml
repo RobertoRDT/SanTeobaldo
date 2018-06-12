@@ -18326,8 +18326,7 @@
         <pb n="18" xml:id="ST_fol_18r"/>
 
         <fw><add place="top"><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
-        <fw><add place="margin-left"><w>n</w><g ref="#middot"/>17<g ref="#middot"/></add></fw>
-
+      
         <label> [<w>Pergamena</w>
           <w>XVII</w>] </label>
 
@@ -19571,7 +19570,7 @@
           </head>
 
           <lb facs="#ST_line_18r_25" n="25" xml:id="ST_lb_018r_25"/>
-          <fw><add place="margin-left"><w>n</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
+          
           <lb facs="#ST_line_18r_26" n="26" xml:id="ST_lb_018r_26"/>
 
           <p>
@@ -20630,7 +20629,6 @@
 
           <p>
             <lb facs="#ST_line_18r_45" n="45" xml:id="ST_lb_018r_45"/>
-            <fw place="margin-left"><add><w>n</w><g ref="#middot"/>19<g ref="#middot"/></add></fw>
             <w>Decur<g ref="#slong"/>is</w>
             <w>vero</w>
             <w>tribu<g ref="#slong"/></w>
@@ -21556,7 +21554,7 @@
                 <expan>e<ex>ss</ex>e</expan>
               </choice></w>
             <w>et</w>
-            <w>maxirne</w><!-- CHECK maxime? -->
+            <w>maxime</w>
             <w>dicta</w>
             <w>domina</w>
             <persName ref="#GiovannaIncisa">
@@ -21665,9 +21663,7 @@
                 </choice></w>
             </persName>
             <space dim="horizontal" extent="N"/>
-            <lb facs="#ST_line_18r_62" n="62" xml:id="ST_lb_018r_62"/>
-            <fw place="margin-left"><add><damage extent="1char" type="N"><w>n</w></damage><g ref="#middot"/>20<g
-                  ref="#middot"/></add></fw>
+            <lb facs="#ST_line_18r_62" n="62" xml:id="ST_lb_018r_62"/>          
             <del extent="4char" type="N">rec<g ref="#otilde"/></del>
             <w><choice>
                 <abbr>rec<am><g ref="#otilde"/></am>ciliati<am>o<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
@@ -22486,9 +22482,6 @@
           </head>
 
           <lb facs="#ST_line_18r_75" n="75" xml:id="ST_lb_018r_75"/>
-          <fw place="margin-left"><add><damage extent="3char" type="N"><w>n</w><g ref="#middot"/>21<g ref="#middot"
-                /></damage></add></fw>
-
           <p>
             <damage extent="31char" type="N">
               <w><choice>
@@ -23855,8 +23848,28 @@
         <div facs="ST_hs_017r_01" xml:id="ST_div_hs_017r_01">
           <p>n<g ref="#middot"/>16<g ref="#middot"/></p>
         </div>
-
+        <div facs="ST_hs_018r_01" xml:id="ST_div_hs_018r_01">
+          <p>n<g ref="#middot"/>17<g ref="#middot"/></p>  
+        </div>
+        
+        <div facs="ST_hs_018r_25" xml:id="ST_div_hs_018r_25">
+          <p>n<g ref="#middot"/>18<g ref="#middot"/></p> 
+        </div>
+       
+       <div facs="ST_hs_018r_45" xml:id="ST_div_hs_018r_45">
+        <p>n<g ref="#middot"/>19<g ref="#middot"/></p> 
+       </div>
+       
+       <div facs="ST_hs_018r_62" xml:id="ST_div_hs_018r_62">
+        <p>n<g ref="#middot"/>20<g ref="#middot"/></p>         
+       </div>
+      
+      <div facs="ST_hs_018r_75" xml:id="ST_div_hs_018r_75">
+      <p>n<g ref="#middot"/>21<g ref="#middot"/></p>
       </div>
+
+
+     </div>
       
       <div type="biblCompleta">
         <listBibl>
