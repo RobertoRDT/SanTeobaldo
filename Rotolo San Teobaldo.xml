@@ -9406,7 +9406,7 @@
             <w><choice>
                 <orig>bovolo</orig>
                 <reg>Bovolo</reg>
-              </choice>bovolo</w>
+              </choice></w>
           </persName>
           <w>et</w>
           <persName ref="#BergerioneTaverniere">
@@ -9503,7 +9503,7 @@
               <expan>i<ex>n</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>a<am><g ref="#rtilde"/></am></abbr>
+              <abbr>a<am><g ref="#rtilde"/></am>a</abbr>
               <expan>ar<ex>c</ex>a</expan>
             </choice></w>
           <w>et</w>
@@ -9595,7 +9595,7 @@
           <w>libris</w>
           <w>sex</w>
           <w><choice>
-              <abbr>vian<am><g ref="#ntilde"/></am></abbr>
+              <abbr>viane<am><g ref="#ntilde"/></am></abbr>
               <expan>vianen<ex>sibus</ex></expan>
             </choice></w><pc>.</pc>
           <w>et</w>
@@ -9643,7 +9643,7 @@
             </choice></w>
           <w>inferiavit</w>
           <w>quibu<g ref="#slong"/>dam</w>
-          <w>fer<g ref="#ijlig"/><g ref="#esh"/></w>
+          <w>ferrij<g ref="#esh"/></w>
           <lb facs="#ST_line_08r_11" n="11" xml:id="ST_lb_08r_11"/>
           <w>banconi</w>
           <w>et</w>
@@ -9656,7 +9656,7 @@
             </choice></w>
           <w>inferriatus</w>
           <w>et</w>
-          <w>inearceratus</w>
+          <w>incarceratus</w>
           <w><choice>
               <abbr>vot<am><g ref="#utilde"/></am></abbr>
               <expan>votu<ex>m</ex></expan>
@@ -9734,8 +9734,8 @@
               <expan>duab<ex>us</ex></expan>
             </choice></w>
           <w><choice>
-              <orig>Guard<g ref="°ijlig"/>s</orig>
-              <reg>guardiis</reg>
+              <orig>Guardijs</orig>
+              <reg>guardijs</reg>
             </choice></w>
           <w>et</w>
           <w><choice>
@@ -10998,8 +10998,8 @@
               <expan>gra<ex>tia</ex>m</expan>
             </choice></w>
           <choice>
-            <orig><w>adeo</w><reg><w>a</w>
-                <name ref="#Dio"><w>Deo</w></name></reg></orig>
+            <orig><w>adeo</w></orig>
+            <reg><w>a</w><name ref="#Dio"><w>Deo</w></name></reg>
           </choice>
           <w><g ref="#slong"/>ibi</w>
           <w><choice>
@@ -11328,7 +11328,7 @@
           <w>in</w>
           <placeName ref="#chiesaSanLorenzo">
             <w><choice>
-                <abbr>ecc<am><g ref="#combhook"/></am>ia</abbr>
+                <abbr>eccl<am><g ref="#combhook"/></am>ia</abbr>
                 <expan>eccl<ex>es</ex>ia</expan>
               </choice></w>
             <w><g ref="#slong"/>ancti</w>
@@ -12382,7 +12382,7 @@
           <w><choice>
               <abbr><am><g ref="#qslstroktilde"/></am>tum</abbr>
               <expan>q<ex>uan</ex>tum</expan>
-            </choice>quantum</w>
+            </choice></w>
           <choice>
             <orig><w><abbr>ad<g ref="#slong"/>tant<am><g ref="#utilde"/></am></abbr></w></orig>
             <reg><w>ad</w>
@@ -12458,13 +12458,13 @@
               <w><expan>laborib<ex>us</ex></expan></w></reg>
           </choice><pc>.</pc>
           <w><choice>
-              <abbr>p<am><g ref="#stilde"/></am></abbr>
+              <abbr><am><g ref="#ptilde"/></am>s</abbr>
               <expan>ps<ex>alm</ex></expan>
             </choice></w>
           <quote><!-- CHECK -->
             <w>laboravi</w>
             <choice>
-              <orig><abbr><am><g ref="#itilde"/></am>gemi<lb n="11" xml:id="ST_lb_11r_11_orig"/>tu</abbr></orig>
+              <orig><w><abbr><am><g ref="#itilde"/></am>gemi<lb n="11" xml:id="ST_lb_11r_11_orig"/>tu</abbr></w></orig>
               <reg><w><expan>i<ex>n</ex></expan></w>
                 <w>gemi<lb facs="#ST_line_11r_11" xml:id="ST_lb_11r_11_reg" n="11"/>tu</w></reg>
             </choice>
@@ -13030,7 +13030,7 @@
           <w><choice>
               <abbr>Quo<am>mͦ</am></abbr>
               <expan>Quo<ex/>m</expan>
-            </choice>Quaniam</w>
+            </choice></w>
           <w><choice>
               <abbr>a<am><g ref="#utildevert"/></am>m</abbr>
               <expan>au<ex>te</ex>m</expan>
@@ -13092,7 +13092,7 @@
               <expan>elicidanda<w>m</w></expan>
             </choice></w>
           <w><choice>
-              <abbr>c<am>c</am>a</abbr>
+              <abbr>c<am><g ref="#cinodotsup"/></am>a</abbr>
               <expan>c<ex>ir</ex>ca</expan>
             </choice></w>
           <w><choice>
@@ -13593,7 +13593,7 @@
           <w><g ref="#slong"/>uo</w>
           <w>ortu</w>
           <w><choice>
-              <abbr><am><g ref="#slongtailstrok"/></am>m</abbr>
+              <abbr><am><g ref="#slongbarslash"/></am>m</abbr>
               <expan>s<ex>ecundu</ex>m</expan>
             </choice></w>
           <w>carnem</w>
@@ -15790,7 +15790,7 @@
             <w><choice>
                 <abbr>nuda<am><g ref="#itilde"/></am></abbr>
                 <expan>nuda<ex>r</ex>i</expan>
-              </choice>nudari</w>
+              </choice></w>
             <w>in</w>
             <w>cruce</w>
             <w>patienter</w>
