@@ -7,15 +7,79 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Title</title>
+        <title>Edizione digitale del <title>Rotulo di San Teobaldo</title></title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication Information</p>
+        <p>Progetto dell'Archivio diocesano di Alba (CN)</p>
       </publicationStmt>
       <sourceDesc default="false">
         
         <msDesc>
-          <msIdentifier></msIdentifier>
+
+          <!-- Informazioni sulla collocazione fisica del manoscritto -->
+          <msIdentifier>
+            <settlement>Alba (CN)</settlement>
+            <repository>Archivio Diocesano di Alba, fondo del Capitolo della cattedrale, ASCap n. 19</repository>
+            <msName>Rotulo di San Teobaldo</msName>
+          </msIdentifier>
+          
+          <!-- Informazioni su autore e lingua -->
+          <msContents>
+            <summary>Il <title>Rotulo di San Teobaldo</title> è un manoscritto pergamenaceo palinsesto sul recto, esso riporta due
+              “vite” di San Teobaldo, compatrono della città di Alba, la narrazione di diversi miracoli a lui attribuiti
+              ed infine il racconto del ritrovamento delle sue spoglie.</summary>
+            <textLang>Latino</textLang>
+          </msContents>
+          
+          <!-- Descrizione fisica del manoscritto.-->
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <p>Il Rotulo è un manoscritto palinsesto sul recto, composto di 18 fogli di diverse dimensioni, cuciti
+                  tra loro con un punto semplice. Sul recto i primi 17 fogli riportano due “vite” e la narrazione dei
+                  dei miracoli attribuiti a San Teobaldo compatrono della città di Alba: il testo viene datato al primo
+                  quarto del XIV secolo.</p>
+                <p>Il Rotulo è stato composto riutilizzando nove fogli di una Bibbia datata all’inizio dell’XI sec.
+                  (n1-9) e otto fogli (10-17) di un antifonario datato all’inizio del XIII secolo <note>V. <ref
+                      target="#BUCCOLO_1989">Buccolo 1989</ref> e <ref target="#AIMASSO_BRUSA_2015">Aimasso Brusa
+                      2015</ref>.</note>. Entrambi i testi sono ancora leggibili al verso del rotolo, mentre al recto se
+                  ne intravedono soltanto alcune tracce, in particolare quelle delle linee ed iniziali rubricate
+                  dell’antifonario. Come detto questa prima parte è palinsesta, mentre l’ultimo foglio non lo è.
+                  L’ultima carta infatti è stata aggiunta in epoca successiva. Si tratta di un foglio di pergamena
+                  semplice, non rifilato, e che presenta i bordi naturali della pelle con la caratteristica forma della
+                  coda. Questa carta riporta la firma del massaro Pietro Baresano e del notaio Ludovico Cariniano con la
+                  data del 1456.</p>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+
+          <!-- Informazioni storiche sul manoscritto -->
+          <history>
+            <summary>
+              <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
+                morte nel 1150 e narra di come le sue spoglie furono ritrovate nel 1429 dal vescovo Alerino Rembaudi,
+                evento attestato anche da una lapide coeva posta in Cattedrale a ricordare l’evento. Le reliquie di San
+                Teobaldo sono conservate nella cappella omonima nella Cattedrale di San Lorenzo con quelle degli altri
+                santi tutelari della città. Il capo era invece custodito in un reliquiario a busto in argento dorato
+                sbalzato e cesellato, un’opera pregevole commissionata, si pensa, al tempo del ritrovamento della salma.
+                Il busto che veniva tradizionalmente esposto per impetrare la “buona morte” sin dal XVIII secolo,
+                scomparve nel terzo quarto del novecento per essere poi fortunosamente rintracciato esposto in un museo
+                statunitense e successivamente riportato in Italia. Attualmente è possibile ammirarlo nella Cappella di
+                San Teobaldo in Cattedrale: le reliquie contenute al suo interno sono andate perse.</p>
+              <p>La figura di questo laico dedito ad una vita semplice ed all’aiuto ai poveri tramite il lavoro ed il
+                servizio è stata oggetto di venerazione sin dal 1429, e come è bene illustrato nello studio di Micaela
+                Gastaldi, fiorirono diverse opere agiografiche che contribuirono alla fortuna del santo albese sino a
+                quando il culto fu riconosciuto dalla Santa Sede in seguito al processo di canonizzazione avvenuto nel
+                1841.</p>
+              <p>Nonostante la produzione agiografica su San Teobaldo sia stata vivace e costante nei secoli, il testo
+                del Rotulo fu edito solo nel 1929 ad opera del canonico Luigi Giordano, storico ed erudito albese per
+                molti anni archivista del Capitolo della Cattedrale. Il Giordano pubblica il Rotulo facendolo precedere
+                da una lunga analisi dei contenuti e delle caratteristiche paleografiche, avanza inoltre numerose
+                ipotesi circa l’esistenza di altre fonti scritte sulla vita del santo, basandosi sul confronto con le
+                altre Vite che furono redatte tra il sei ed il settecento.</p>
+            </summary>
+          </history>
+
         </msDesc>
         
         <!-- ########## Lista Persone ########## -->
