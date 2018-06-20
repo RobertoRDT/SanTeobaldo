@@ -53,7 +53,7 @@
             </objectDesc>
           </physDesc>
 
-          <!-- 
+          <!-- Informazioni storiche sul manoscritto -->
           <history>
             <summary>
               <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
@@ -79,7 +79,7 @@
                 altre Vite che furono redatte tra il sei ed il settecento.</p>
             </summary>
           </history>
-          Informazioni storiche sul manoscritto -->
+
         </msDesc>
         
         <!-- ########## Lista Persone ########## -->
