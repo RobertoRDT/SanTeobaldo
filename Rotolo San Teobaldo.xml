@@ -53,7 +53,7 @@
             </objectDesc>
           </physDesc>
 
-          <!-- Informazioni storiche sul manoscritto -->
+          <!-- 
           <history>
             <summary>
               <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
@@ -79,7 +79,7 @@
                 altre Vite che furono redatte tra il sei ed il settecento.</p>
             </summary>
           </history>
-
+          Informazioni storiche sul manoscritto -->
         </msDesc>
         
         <!-- ########## Lista Persone ########## -->
@@ -15821,7 +15821,7 @@
               <expan>no<ex>n</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>mocic<am><g ref="#utilde"/></am></abbr>
+              <abbr>modic<am><g ref="#utilde"/></am></abbr>
               <expan>modicu<ex>m</ex></expan>
             </choice></w>
           <w><g ref="#slong"/>olicita</w>
@@ -16248,7 +16248,7 @@
 
         <p>
           <damage extent="9char" type="N">
-            <w><g ref="#Nunc"/>am</w>
+            <w>Nam</w>
             <w>videns</w>
           </damage>
           <w><damage extent="5char" type="N">mulie</damage>r</w>
@@ -16991,7 +16991,7 @@
             </persName>
             <w>in</w>
             <w><g ref="#slong"/>uo</w>
-            <w>o<g ref="#slong"/>pitio</w>
+            <w>ho<g ref="#slong"/>pitio</w>
             <w><choice>
                 <abbr>rece<am><g ref="#pbardes"/></am>at</abbr>
                 <expan>recep<ex>er</ex>at</expan>
@@ -17109,7 +17109,7 @@
           <w><choice>
               <abbr>c<am><g ref="#utilde"/></am></abbr>
               <expan>cu<ex>m</ex></expan>
-            </choice>cum</w>
+            </choice></w>
           <lb facs="#ST_line_16r_11" xml:id="ST_lb_016_11" n="11"/>
           <w>debito</w>
           <w>honore</w>
@@ -17191,7 +17191,7 @@
             <w><choice>
                 <abbr><g ref="#slong"/>pina<am><g ref="#rum"/></am></abbr>
                 <expan>spina<ex>rum</ex></expan>
-              </choice>spinarum</w>
+              </choice></w>
           </q><pc><g ref="#middot"/></pc>
         </p>
 
@@ -17243,7 +17243,7 @@
           <w><choice>
               <abbr><am>mͦ</am></abbr>
               <expan>m<ex>od</ex>o</expan>
-            </choice>modo</w>
+            </choice></w>
           <w>fodere</w>
           <lb facs="#ST_line_16r_14" xml:id="ST_lb_016_14" n="14"/>
           <w>vallentes</w>
@@ -17501,7 +17501,7 @@
           <w>miracula</w>
           <w><choice>
               <abbr>pat<am><g ref="#etilde"/><g ref="#ttildevert"/></am></abbr>
-              <expan>pate<ex>en</ex>t<ex>er</ex></expan>
+              <expan>pate<ex>n</ex>t<ex>er</ex></expan>
             </choice></w>
           <lb facs="#ST_line_16r_20" xml:id="ST_lb_016_20" n="20"/>
           <w><choice>
@@ -17555,7 +17555,7 @@
           <w><choice>
               <abbr>ho<g ref="#slong"/>pitl<am><g ref="#combhook"/></am>e</abbr>
               <expan>hospit<ex>a</ex>le</expan>
-            </choice>hospitale</w>
+            </choice></w>
             <choice>
               <orig><w><abbr><am><g ref="#itilde"/></am>b<am>u<g ref="rrotsup"/></am>geto</abbr></w></orig>
               <reg><w><expan>i<ex>n</ex></expan></w><placeName ref="#Borghetto">Bu<ex>r</ex>geto</placeName></reg>
@@ -17572,7 +17572,7 @@
             <w><choice>
                 <orig><abbr>la<am><g ref="#utilde"/></am>r</abbr></orig>
                 <reg><expan>Laur<ex>entii</ex></expan></reg>
-              </choice>laurentii</w>
+              </choice></w>
           </placeName>
           <w>crates</w>
           <w>ferree</w>
@@ -17641,7 +17641,7 @@
           <w><choice>
               <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
-            </choice>quod</w>
+            </choice></w>
           <w><choice>
               <abbr>t<am><g ref="#ptilde"/></am>r</abbr>
               <expan>t<ex>em</ex>p<ex>o</ex>r<ex>e</ex></expan>
@@ -17776,7 +17776,7 @@
             </choice></w>
           <w><choice>
               <abbr>o<am><g ref="#pbardes"/></am>atus</abbr>
-              <expan>ope<ex>er</ex>atus</expan>
+              <expan>op<ex>er</ex>atus</expan>
             </choice></w>
           <w><choice>
               <abbr><am><g ref="#etilde"/></am></abbr>
@@ -18025,7 +18025,7 @@
           <w>folio</w>
           <w><choice>
               <abbr><am><g ref="#qbardes"/></am>nto</abbr>
-              <expan>qui<ex>ui</ex>nto</expan>
+              <expan>q<ex>ui</ex>nto</expan>
             </choice></w>
           <w>ut</w>
           <damage extent="6char" type="N"><w><g ref="#slong"/>upra</w><g ref="#middot"/></damage>
@@ -18098,7 +18098,7 @@
           <lb facs="#ST_line_17r_12" xml:id="ST_lb_017_12" n="12"/>
           <w><choice>
               <abbr>Septim<am><g ref="#utilde"/></am></abbr>
-              <expan>eptimu<ex>m</ex></expan>
+              <expan>Septimu<ex>m</ex></expan>
             </choice></w>
           <w><g ref="#muncdes"/>iraculum</w><pc><g ref="#middot"/></pc>
           <w>Incipit</w><pc><g ref="#middot"/></pc>
