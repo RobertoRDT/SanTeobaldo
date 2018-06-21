@@ -6756,7 +6756,7 @@
           <w>annum</w>
           <num value="1300">
             <w><choice>
-                <abbr><g ref="#Munc"/>ill<am><g ref="#usmod"/></am></abbr>
+                <abbr><g ref="#Muncdes"/>ill<am><g ref="#usmod"/></am></abbr>
                 <expan>mill<ex>esimo</ex></expan>
               </choice></w><g ref="#middot"/>
             <w>CCC</w><g ref="#middot"/></num>
@@ -12868,7 +12868,7 @@
             </choice></w>
           <w>jmitandus</w>
           <w><choice>
-              <abbr><am><g ref="#stroktilde"/></am>um</abbr>
+              <abbr><am><g ref="#qslstroktilde"/></am>um</abbr>
               <expan>q<ex>uant</ex>um</expan>
             </choice></w>
           <w>ad</w>
@@ -17788,7 +17788,7 @@
 
         <p>
           <lb facs="#ST_line_17r_04" xml:id="ST_lb_017_04" n="4"/>
-          <w><damage extent="4char" type="N"><g ref="#Munc"/>ort</damage>uus</w>
+          <w><damage extent="4char" type="N"><g ref="#Muncdes"/>ort</damage>uus</w>
           <w><choice>
               <abbr><am><g ref="#etilde"/></am></abbr>
               <expan>e<ex>st</ex></expan>
