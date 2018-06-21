@@ -1317,6 +1317,21 @@
           <mapping type="normalized">c</mapping>
         </char>
         
+        <char xml:id="gdot">
+         <charName>LATIN SMALL LETTER G WITH DOT ABOVE</charName>
+          <mapping type="codepoint">U+0121</mapping>
+          <mapping type="diplomatic">ġ</mapping>
+          <mapping type="normalized">g</mapping>
+        </char>
+        
+        <char xml:id="hrdes">
+          <charName>LATIN SMALL LETTER H WITH RIGHT DESCENDER</charName>
+          <mapping type="codepoint" subtype="MUFI-PUA">U+F23A</mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized">h</mapping>
+        </char>
+        
+        
         <char xml:id="ntilde">
           <charName>LATIN SMALL LETTER N WITH TILDE</charName>
           <mapping type="codepoint">U+00F1</mapping>
@@ -1503,10 +1518,18 @@
        
         <char xml:id="ctilde">
           <charName>LATIN SMALL LETTER C WITH TILDE</charName>
-          <mapping type="codepoin" subtype="composed">U+0065 + U+0303</mapping>
+          <mapping type="codepoint" subtype="composed">U+0065 + U+0303</mapping>
           <mapping type="diplomatic">c̃</mapping>
           <mapping type="normalized">c</mapping>
         </char>
+       
+       <char xml:id="gtilde">
+         <charName>LATIN SMALL LETTER G WITH TILDE</charName>
+         <mapping type="codepoint" subtype="composed">U+0067 + U+0303</mapping>
+         <mapping type="diplomatic">g̃</mapping>
+         <mapping type="normalized">g</mapping>
+       </char>
+       
        
         <char xml:id="etilde">
           <charName>LATIN SMALL LETTER E WITH TILDE</charName>
@@ -1550,6 +1573,14 @@
           <mapping type="normalized">r</mapping>
         </char>
         
+        <char xml:id="stilde">
+          <charName>LATIN SMALL LETTER S WITH TILDE</charName>
+          <mapping type="codepoint" subtype="composed">U+0073 + U+0303</mapping>
+          <mapping type="diplomatic">s̃</mapping>
+          <mapping type="normalized">s</mapping>
+        </char>
+        
+        
         <char xml:id="ttilde">
           <charName>LATIN SMALL LETTER T WITH TILDE</charName>
           <mapping type="codepoint" subtype="composed">U+0074 + U+0303</mapping>
@@ -1557,11 +1588,26 @@
           <mapping type="normalized">t</mapping>
         </char>
        
+       <char xml:id="gtildevert">
+         <charName>LATIN SMALL LETTER G WITH VERTICAL TILDE</charName>
+         <mapping type="codepoint" subtype="composed">U+0067 + U+033E</mapping>
+         <mapping type="diplomatic">g̾</mapping>
+         <mapping type="normalized">g</mapping>
+       </char>
+       
+       
         <char xml:id="otildevert">
           <charName>LATIN SMALL LETTER O WITH VERTICAL TILDE</charName>
           <mapping type="codepoint" subtype="composed">U+006F + U+033E</mapping>
           <mapping type="diplomatic">o̾</mapping>
           <mapping type="normalized">o</mapping>
+        </char>
+        
+        <char xml:id="ptildevert">
+          <charName>LATIN SMALL LETTER P WITH VERTICAL TILDE</charName>
+          <mapping type="codepoint" subtype="composed">U+0070 + U+033E</mapping>
+          <mapping type="diplomatic">p̾</mapping>
+          <mapping type="normalized">p</mapping>
         </char>
         
         <char xml:id="utildevert">
@@ -1599,6 +1645,12 @@
           <mapping type="normalized">E</mapping>
         </char>
         
+        <char xml:id="Muncdes">
+          <charName>LATIN MEDIUSCULE METTER M UNCIAL FORM WITH RIGHT DESCENDER</charName>
+        <mapping type="codepoint">U+F224</mapping>
+          <mapping type="diplomatic"></mapping>
+        </char>
+        
         <char xml:id="muncdes">
           <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGH DESCENDER</charName>
           <mapping type="codepoint" subtype="MUFI-PUA">U+F23D</mapping>
@@ -1612,6 +1664,13 @@
           <mapping type="diplomatic">˚</mapping>
           <mapping type="normalized">M</mapping>
         </char>
+        
+        <char xml:id="muncdesosup">
+          <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGHT DESCENDER AND RING ABOVE</charName>
+        <mapping type="codepoint" subtype="composed">U+F23D + U+02DA</mapping>
+          <mapping type="diplomatic">&#62013;&#730;</mapping>
+        </char>
+        
         
         <char xml:id="mring">
           <charName>LATIN SMALL LETTER M WITH RING ABOVE</charName>
@@ -6697,7 +6756,7 @@
           <w>annum</w>
           <num value="1300">
             <w><choice>
-                <abbr><g ref="#munc"/>ill<am><g ref="#usmod"/></am></abbr>
+                <abbr><g ref="#Munc"/>ill<am><g ref="#usmod"/></am></abbr>
                 <expan>mill<ex>esimo</ex></expan>
               </choice></w><g ref="#middot"/>
             <w>CCC</w><g ref="#middot"/></num>
@@ -7975,7 +8034,7 @@
               </choice></w>
           </persName>
           <lb facs="#ST_line_06r_18" xml:id="ST_lb_06r_18" n="18"/>
-          <date when="1330"><w><g ref="#Muncosup"/></w><reg>.</reg><w>CCͦC</w>
+          <date when="1330"><w><g ref="#Muncdesosup"/></w><reg>.</reg><w>CCͦC</w>
             <w>XXX</w></date>
           <space dim="horizontal" extent="3char"/>
           <w>die</w>
@@ -8094,7 +8153,7 @@
           </persName>
           <date when="1331">
             <w><choice>
-                <abbr>mill<am><g ref="#comhook"/></am>o</abbr>
+                <abbr>mill<am><g ref="#combhook"/></am>o</abbr>
                 <expan>mill<ex>esim</ex>o</expan>
               </choice></w>
             <w>CCCXXXIͦ</w>
@@ -12355,7 +12414,7 @@
             </choice></w>
           <w>nobis</w>
           <w><choice>
-              <abbr>proponi<am><g ref="#tilde"/></am></abbr>
+              <abbr>proponi<am><g ref="#ttilde"/></am></abbr>
               <expan>proponit<ex>ur</ex></expan>
             </choice></w>
           <w>ymitandus</w>
@@ -12809,7 +12868,7 @@
             </choice></w>
           <w>jmitandus</w>
           <w><choice>
-              <abbr><am><g ref="#qslstroktilde"/></am>um</abbr>
+              <abbr><am><g ref="#stroktilde"/></am>um</abbr>
               <expan>q<ex>uant</ex>um</expan>
             </choice></w>
           <w>ad</w>
@@ -12897,7 +12956,7 @@
             </choice></w>
           <w>imitandus</w>
           <w><choice>
-              <abbr><am><g ref="#qslstroktilde"/></am>tum</abbr>
+              <abbr><am><g ref="#stroktilde"/></am>tum</abbr>
               <expan>q<ex>uan</ex>tum</expan>
             </choice></w>
           <choice>
@@ -13221,7 +13280,7 @@
             </choice></w>
           <lb facs="#ST_line_12r_04" xml:id="ST_lb_12r_04" n="4"/>
           <w><choice>
-              <abbr><am><g ref="#qslstrok"/></am></abbr>
+              <abbr><am><g ref="#strok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
@@ -13637,7 +13696,7 @@
             </choice></w>
           <w>inditijs</w><pc><g ref="#middot"/></pc>
           <w><choice>
-              <orig><abbr><am><g ref="#qslstrok"/></am></abbr></orig>
+              <orig><abbr><am><g ref="#strok"/></am></abbr></orig>
               <reg><expan>Q<ex>uod</ex></expan></reg>
             </choice></w>
           <persName ref="#sanTeobaldo">
@@ -13667,7 +13726,7 @@
               <abbr>illd<am><g ref="#combhook"/></am><expan>ill<ex>u</ex>d</expan></abbr>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#qslstrok"/></am></abbr>
+              <abbr><am><g ref="#strok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <persName ref="#Abramo">
@@ -13877,7 +13936,7 @@
               <expan>didiciss<ex>et</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#qslstrok"/></am></abbr>
+              <abbr><am><g ref="#strok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
@@ -14589,7 +14648,7 @@
               <expan>dedicatu<ex>m</ex></expan>
             </choice></w><pc>.</pc>
           <w><choice>
-              <abbr>Po<g ref="#slong"/>t<am><g ref="#qslsroktilde"/></am></abbr>
+              <abbr>Po<g ref="#slong"/>t<am><g ref="#qslstroktilde"/></am></abbr>
               <expan>Postq<ex>uam</ex></expan>
             </choice></w>
           <w><choice>
@@ -18341,7 +18400,7 @@
           </persName>
           <date when="1354">
             <w><choice>
-                <abbr><am><g ref="#muncosup"/></am></abbr>
+                <abbr><am><g ref="#muncdesosup"/></am></abbr>
                 <expan>m<ex>illesimo</ex></expan>
               </choice></w>
             <w>CCCL</w>
@@ -18821,7 +18880,7 @@
           <w>a</w>
           <w>mente</w>
           <w><choice>
-              <abbr><g ref="#hunc"/>o<am>i<g ref="combovl"/>u<g ref="combovl"/><g ref="#etfin"/></am></abbr>
+              <abbr><g ref="#hrdes"/>o<am>i<g ref="combovl"/>u<g ref="combovl"/><g ref="#etfin"/></am></abbr>
               <expan>ho<ex>m</ex>i<ex>n</ex>u<ex>m</ex></expan>
             </choice></w>
           <w>et</w>
@@ -19767,7 +19826,7 @@
             <w>campani<g ref="#slong"/></w>
             <w>ob</w>
             <w><choice>
-                <abbr><g ref="#hunc"/>ono<am>r<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
+                <abbr><g ref="#hrdes"/>ono<am>r<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
                 <expan>honore<ex>m</ex></expan>
               </choice></w>
             <w><g ref="#slong"/>ue</w>
@@ -20119,7 +20178,7 @@
                 <expan>no<ex>n</ex></expan>
               </choice></w>
             <w><choice>
-                <abbr>val<am>e<g ref="#cpmbovl"/>s<g ref="#combovl"/></am></abbr>
+                <abbr>val<am>e<g ref="#combovl"/>s<g ref="#combovl"/></am></abbr>
                 <expan>vale<ex>n</ex>s</expan>
               </choice></w>
             <w><choice>
