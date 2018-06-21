@@ -53,7 +53,7 @@
             </objectDesc>
           </physDesc>
 
-          <!-- Informazioni storiche sul manoscritto -->
+          <!-- 
           <history>
             <summary>
               <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
@@ -79,7 +79,7 @@
                 altre Vite che furono redatte tra il sei ed il settecento.</p>
             </summary>
           </history>
-
+          Informazioni storiche sul manoscritto -->
         </msDesc>
         
         <!-- ########## Lista Persone ########## -->
@@ -18595,7 +18595,7 @@
             </choice></w>
           <w>obumbravit</w>
           <w>de<g ref="#slong"/>olatos</w>
-          <w>letificanclo</w>
+          <w>letificando</w>
           <w>debiles</w>
           <w>et</w>
           <w>langue<g ref="#slong"/>centes</w>
@@ -18638,9 +18638,14 @@
             </choice></w>
           <lb facs="#ST_line_18r_05" n="5" xml:id="ST_lb_18r_05"/>
           <w>defendendo</w><pc>.</pc>
+          <choice>
+            <orig>
           <w>In</w>
           <w><g ref="#slong"/>tabili</w>
-          <w><g ref="#slong"/>anitatis</w>
+            </orig>
+            <reg><w>Insabili</w></reg>
+            </choice>
+              <w><g ref="#slong"/>anitatis</w>
           <w>et</w>
           <w>patientie</w>
           <w>gradu</w>
@@ -19028,11 +19033,11 @@
               <abbr>n<am><g ref="#otilde"/></am></abbr>
               <expan>no<ex>n</ex></expan>
             </choice></w>
-          <w><choice>
-              <orig>In</orig>
-              <reg>in</reg>
-            </choice></w>
-          <w>memor</w><pc>.</pc>
+          <choice>
+              <orig><w>In</w><w>memor</w></orig>
+              <reg><w>inmemor</w></reg>
+            </choice>
+          <pc>.</pc>
           <w>Volens</w>
           <w><g ref="#slong"/>ibi</w>
           <w>inpo<g ref="#slong"/><g ref="#slong"/>ita</w>
@@ -19078,7 +19083,7 @@
             <lb facs="#ST_line_18r_13" n="13" xml:id="ST_lb_18r_13"/>
             <w><choice>
                 <abbr><am>xxviii</am></abbr>
-                <!-- CHECK manca l'expan -->
+                <expan><ex>vigessimoseptimo</ex></expan>
               </choice></w><g ref="#middot"/></date>
           <w>circha</w>
           <w>horam</w>
@@ -19096,7 +19101,7 @@
           <w><choice>
               <abbr><am>pͦ</am></abbr>
               <expan>p<ex>rimo</ex>o</expan>
-            </choice>primo</w>
+            </choice></w>
           <w><choice>
               <abbr>februa<am>i<g ref="combovl"/>j<g ref="combovl"/></am></abbr>
               <expan>februa<ex>r</ex>ii</expan>
@@ -19293,7 +19298,7 @@
           <choice>
             <orig><w>in<g ref="#slong"/>epulcro</w></orig>
             <reg><w>in</w><w>sepulcro</w></reg>
-          </choice><w>in</w>
+          </choice>
           <w>in</w>
           <placeName ref="#cappellaSanTeobaldo"/>
           <w>capella</w>
@@ -19430,7 +19435,7 @@
           <w>ei<g ref="#slong"/>dem</w>
           <w>acqui<g ref="#slong"/>ito</w>
           <w>the<g ref="#slong"/>auro</w><pc>.</pc>
-          <w><g ref="#utilde"/>unt</w>
+          <w><g ref="#slong"/>unt</w>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>gavi<g ref="#slong"/><g ref="#slong"/>i</abbr>
               <expan>p<ex>er</ex>gavissi</expan>
@@ -20257,7 +20262,7 @@
             <w>et</w>
             <persName ref="#sanTeobaldo">
               <w><choice>
-                  <abbr><am><g ref="#bercurl"/></am>to</abbr>
+                  <abbr><am>b<g ref="#combhook"/></am>to</abbr>
                   <expan>b<ex>ea</ex>to</expan>
                 </choice></w>
               <w><choice>
@@ -21057,7 +21062,7 @@
             <w><choice>
                 <abbr>errogar<am>u<g ref="#combovl"/>t<g ref="#combovl"/></am></abbr>
                 <expan>errogaru<ex>n</ex>t</expan>
-              </choice>errogarunt</w>
+              </choice></w>
             <w>ut</w>
             <w><g ref="#slong"/>ua</w>
             <w>pietate</w>
@@ -21223,7 +21228,7 @@
               </persName>
               <damage extent="2char"><w><choice>
                     <abbr>q<am><g ref="#utilde"/></am></abbr>
-                  </choice><expan>qu<ex>od</ex></expan></w></damage>
+                  <expan>qu<ex>od</ex></expan></choice></w></damage>
               <w><damage extent="3char">fui</damage><unclear extent="1char">t</unclear></w>
               <damage extent="8char"><w>repertum</w></damage>
               <lb facs="#ST_line_18r_52" n="52" xml:id="ST_lb_018r_52"/>
@@ -21735,10 +21740,10 @@
               <reg><w><expan>dumq<ex>ue</ex></expan></w></reg>
             </choice>
             <w>e<g ref="#slong"/><g ref="#slong"/>et</w>
-            <choice>
-              <orig><w><abbr><am>R</am></abbr></w><w>du<g ref="#slong"/></w></orig>
-              <reg><w><expan>R<ex>everen</ex>dus</expan></w></reg>
-            </choice><g ref="#middot"/>
+            <w><choice>
+              <orig><abbr><am>R</am>du<g ref="#slong"/></abbr></orig>
+              <reg><expan>R<ex>everen</ex>dus</expan></reg>
+            </choice></w><g ref="#middot"/>
             <w><choice>
                 <abbr><g ref="#Eunc"/><am>p<g ref="#combovl"/>s<g ref="#combovl"/></am></abbr>
                 <expan>Ep<ex>iscopu</ex>s</expan>
@@ -21810,11 +21815,13 @@
                 <expan>ip<ex>s</ex>ius</expan>
               </choice></w>
             <persName ref="#sanTeobaldo">
+              <w>
               <choice>
                 <abbr>bt<am><g ref="#itilde"/></am></abbr>
                 <expan>b<ex>ea</ex>ti</expan>
               </choice>
-              <w><choice>
+              </w>
+                <w><choice>
                   <orig>thebaudi</orig>
                   <reg>Thebaudi</reg>
                 </choice></w>
@@ -22790,7 +22797,7 @@
                   <abbr>i<am>p<g ref="#combovl"/>i<g ref="#combovl"/>u<g ref="#combovl"/></am>s</abbr>
                   <expan>ip<ex>s</ex>ius</expan>
                 </choice></w>
-              <persName ref="#GiacomodeCarmagnola"><!-- CHECK non c'è qualcosa prima del nome di persona? -->
+              <persName ref="#GiacomodeCarmagnola"><!-- CHECK non c'è qualcosa prima del nome di persona? RAF: due caratteri (re) che sbaglia a scrivere, ma non cancella; va deciso come renderli -->
                 <w><choice>
                     <abbr>Ja<am><g ref="#ctilde"/></am></abbr>
                     <expan>Jac<ex>obi</ex></expan>
@@ -23089,7 +23096,7 @@
               <w><choice>
                   <abbr><am>q<g ref="#combovl"/>d<g ref="#combovl"/></am></abbr>
                   <expan>q<ex>uo</ex>d</expan>
-                </choice>quod</w>
+                </choice></w>
               <w><choice>
                   <abbr>fue<am><g ref="#atilde"/></am>t</abbr>
                   <expan>fue<ex>r</ex>at</expan>
