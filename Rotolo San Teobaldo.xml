@@ -12861,12 +12861,12 @@
               <abbr>eti<am><g ref="#atilde"/></am></abbr>
               <expan>etia<ex>m</ex></expan>
             </choice></w>
-          <lb facs="#ST_line_11r_19" xml:id="ST_lb_11r_19" n="19"/>
           <w><choice>
               <abbr>proponi<am><g ref="#ttilde"/></am></abbr>
               <expan>proponit<ex>ur</ex></expan>
             </choice></w>
           <w>jmitandus</w>
+          <lb facs="#ST_line_11r_19" xml:id="ST_lb_11r_19" n="19"/>
           <w><choice>
               <abbr><am><g ref="#qslstroktilde"/></am>um</abbr>
               <expan>q<ex>uant</ex>um</expan>
@@ -12956,7 +12956,7 @@
             </choice></w>
           <w>imitandus</w>
           <w><choice>
-              <abbr><am><g ref="#stroktilde"/></am>tum</abbr>
+              <abbr><am><g ref="#qslstroktilde"/></am>tum</abbr>
               <expan>q<ex>uan</ex>tum</expan>
             </choice></w>
           <choice>
@@ -13280,7 +13280,7 @@
             </choice></w>
           <lb facs="#ST_line_12r_04" xml:id="ST_lb_12r_04" n="4"/>
           <w><choice>
-              <abbr><am><g ref="#strok"/></am></abbr>
+              <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
@@ -13696,7 +13696,7 @@
             </choice></w>
           <w>inditijs</w><pc><g ref="#middot"/></pc>
           <w><choice>
-              <orig><abbr><am><g ref="#strok"/></am></abbr></orig>
+              <orig><abbr><am><g ref="#qslstrok"/></am></abbr></orig>
               <reg><expan>Q<ex>uod</ex></expan></reg>
             </choice></w>
           <persName ref="#sanTeobaldo">
@@ -13726,7 +13726,7 @@
               <abbr>illd<am><g ref="#combhook"/></am><expan>ill<ex>u</ex>d</expan></abbr>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#strok"/></am></abbr>
+              <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <persName ref="#Abramo">
@@ -13936,7 +13936,7 @@
               <expan>didiciss<ex>et</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#strok"/></am></abbr>
+              <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
@@ -13945,7 +13945,7 @@
             </choice></w>
           <w><g ref="#slong"/>uus</w>
           <w><choice>
-              <abbr><am><g ref="#gmacr"/></am>vi</abbr>
+              <abbr><am><g ref="#gtilde"/></am>vi</abbr>
               <expan>g<ex>ra</ex>vi</expan>
             </choice></w>
           <w><choice>
@@ -14814,7 +14814,7 @@
               <expan><ex>et</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#gmacr"/></am>tijs</abbr>
+              <abbr><am><g ref="#gtilde"/></am>tijs</abbr>
               <expan>g<ex>ra</ex>tijs</expan>
             </choice></w>
           <w><choice>
@@ -15306,7 +15306,7 @@
               </choice></w>
           </persName>
           <w><choice>
-              <abbr><am><g ref="#gmacr"/></am>ta</abbr>
+              <abbr><am><g ref="#gtilde"/></am>ta</abbr>
               <expan>g<ex>ra</ex>t<ex>i</ex>a</expan>
             </choice></w>
           <w>fatiebat</w>
@@ -15527,7 +15527,7 @@
           <w>pro</w>
           <w>potu</w>
           <w><choice>
-              <abbr>fu<am><g ref="#tilde"/></am>t</abbr>
+              <abbr>fu<am><g ref="#itilde"/></am>t</abbr>
               <expan>fue<ex>r</ex>it</expan>
             </choice></w>
           <w><g ref="#slong"/>ub<lb facs="#ST_line_14r_12" xml:id="ST_lb_014_12" n="12"/><g ref="#slong"/>tentatus</w>
@@ -16493,7 +16493,7 @@
                 <expan>ill<ex>u</ex>d</expan>
               </choice></w>
             <w><choice>
-                <abbr><damage extent="2char" type="N"><am><g ref="#gmacr"/></am>n</damage>um</abbr>
+                <abbr><damage extent="2char" type="N"><am><g ref="#gtilde"/></am>n</damage>um</abbr>
                 <expan>g<ex>ra</ex>num</expan>
               </choice></w>
             <w>et</w>
