@@ -53,7 +53,7 @@
             </objectDesc>
           </physDesc>
 
-          <!-- 
+          <!-- Informazioni storiche sul manoscritto -->
           <history>
             <summary>
               <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
@@ -79,7 +79,7 @@
                 altre Vite che furono redatte tra il sei ed il settecento.</p>
             </summary>
           </history>
-          Informazioni storiche sul manoscritto -->
+          
         </msDesc>
         
         <!-- ########## Lista Persone ########## -->
@@ -352,6 +352,13 @@
          </persName> 
           <sex>M</sex>
           <occupation>canonico della chiesa di San Lorenzo di Alba</occupation>
+        </person>
+        
+        <person xml:id="Furmenti">
+         <persName>
+           <surname>Furmenti</surname>
+         </persName>
+          <occupation>famiglia di Alba</occupation>
         </person>
         
         
@@ -3185,8 +3192,10 @@
               </choice></w>
           </add>
           <w>de</w>
+          <persName ref="#Furmenti">
           <w>furmentis</w>
-          <w><choice>
+          </persName>
+            <w><choice>
               <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
