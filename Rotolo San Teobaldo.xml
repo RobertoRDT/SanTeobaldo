@@ -2072,7 +2072,7 @@
           <label n="29"/>
           <lb facs="#ST_line_01r_01" n="1" xml:id="ST_lb_01r_01"/>
           <space dim="horizontal" extent="3char"/><choice>
-            <orig><w><supplied>I</supplied>nnomine</w></orig>
+            <orig><w>nnomine</w></orig>
             <reg><supplied>I</supplied>n <w>nomine</w></reg>
           </choice>
           <persName ref="#Dio">
