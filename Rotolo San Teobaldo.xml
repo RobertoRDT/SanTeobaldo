@@ -100,8 +100,8 @@
           
           ########## -->
 
-
-          <!-- Nomina Sacra -->
+      <!-- #######
+          Nomina Sacra
           
           <person xml:id="Dio">
             <note></note>
@@ -122,17 +122,10 @@
               <forename>Santa Trinità</forename> 
             </persName>
           </person>
-
+      ####### -->
 
           <!-- ########## A ########## -->
           
-          <person xml:id="AbraciatorArmannini">
-            <persName>
-              <forename>Abraciator</forename>
-              <surname>quondam Armannini</surname>
-            </persName>
-            <sex>M</sex>
-          </person>
           
           <person xml:id="Abramo">
             <persName>
@@ -305,14 +298,8 @@
             <occupation>profeta</occupation>
             <note></note>
           </person>
-        
-        
-        <person xml:id="diavolo">
-         <persName>
-           <forename>diavolo</forename>
-         </persName> 
-        </person>
-        
+       
+       
           <!-- ########## E ########## -->
           
         <person xml:id="EnricoTagliarino">
@@ -388,6 +375,7 @@
           <person xml:id="GiacomoArcipresbitero">
            <persName>
              <forename>Giacomo</forename>
+           <surname>arcipresbitero</surname>
            </persName>
            <sex>M</sex>
            <occupation>arcipresbitero della Chiesa di San Lorenzo</occupation> 
@@ -588,7 +576,7 @@
           <forename>Lorenzo</forename> 
          </persName>
          <sex>M</sex>
-          <occupation>santo e beato</occupation>
+          <occupation>santo</occupation>
         </person>
         
         <person xml:id="LudovicoCariniano">
@@ -846,11 +834,10 @@
           
           <person xml:id="sanTeobaldo">
             <persName>
-              <forename>Teobaldo</forename>
-              <surname>Roggeri</surname>
+              <forename>san Tebaudo</forename>
             </persName>
             <sex>M</sex>
-            <occupation n="1">santo e beato</occupation>
+            <occupation n="1">santo</occupation>
             <note></note>
           </person>
           
@@ -1094,9 +1081,6 @@
          <settlement type="località">Vitrolles</settlement> 
         </place>
         
-        <place xml:id="Zoco">
-          <settlement type="località">Zoco</settlement>
-        </place>
         
         </listPlace>
         
@@ -3235,9 +3219,7 @@
             </choice>vidia</w>
           <w>et</w>
           <w>a</w>
-          <persName ref="#diavolo">
             <w>dyabolo</w>
-          </persName>
           <w>in<g ref="#slong"/>tigatus</w><pc><g ref="#middot"/></pc>
           <choice>
             <orig><w>ad</w>
@@ -8216,10 +8198,10 @@
                 <reg>The<lb facs="#ST_line_06r_24" xml:id="ST_lb_06r_24_reg" n="24"/>baudo</reg>
               </choice></w>
             <w>de</w>
-            <placeName ref="#Zoco"><w><choice>
+            <w><choice>
                   <orig>zoco</orig>
                   <reg>Zoco</reg>
-                </choice></w></placeName>
+                </choice></w>
           </persName>
           <w>pre<g ref="#slong"/>bitero</w>
           <persName ref="#PietroVacono"><choice>
