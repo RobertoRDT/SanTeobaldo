@@ -84,6 +84,8 @@
         
         <!-- ########## Lista Persone ########## -->
         
+        <!-- ##########
+        
         <listPerson>
 
           <person xml:id="N">
@@ -95,6 +97,8 @@
             <occupation n="1"></occupation>
             <note></note>
           </person>
+          
+          ########## -->
 
 
           <!-- Nomina Sacra -->
@@ -166,6 +170,7 @@
            <persName>
             <forename>Alessandro</forename>
              <surname>Benevello</surname>
+           <affiliation></affiliation>
            </persName>
             <sex>M</sex>
             <occupation>cappellano della chiesa di San Lorenzo di Alba</occupation>
@@ -928,6 +933,7 @@
         
         <place xml:id="Borghetto">
           <settlement type="quartiere">Borghetto</settlement>
+        <note></note>
         </place>
         
         <place xml:id="Borgogna">
@@ -944,7 +950,7 @@
         </place>
         
         <place xml:id="cappellaSanTeobaldo">
-         <settlement type="monumeto">cappella di San Teobaldo nella chiesa di San Lorenzo di Alba</settlement> 
+         <settlement type="monumento">cappella di San Teobaldo nella chiesa di San Lorenzo di Alba</settlement> 
         </place>
         
           <place xml:id="Carmagnola">
@@ -19309,7 +19315,7 @@
             <reg><w>in</w><w>sepulcro</w></reg>
           </choice>
           <w>in</w>
-          <placeName ref="#cappellaSanTeobaldo"/>
+          <placeName ref="#cappellaSanTeobaldo">
           <w>capella</w>
           <w>dicti</w>
           <persName ref="#sanTeobaldo">
@@ -19322,6 +19328,7 @@
                 <reg>Thebaudi</reg>
               </choice></w>
           </persName>
+            </placeName>
           <w><choice>
               <abbr>noi<am><g ref="#etilde"/></am></abbr>
               <expan>no<ex>m</ex>i<ex>n</ex>e</expan>
