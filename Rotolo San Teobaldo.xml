@@ -1084,6 +1084,9 @@
         
         </listPlace>
         
+        
+        <!-- 
+        
         <listPlace>
           <place xml:id="Aciliano">
             <settlement type="località">Aciliano</settlement>
@@ -1104,8 +1107,11 @@
             <settlement type="località">Agina</settlement>
           </place>
         </listPlace>
+        -->
         
-        <!-- ########## Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)   ########## -->    
+        <!-- ########## 
+          
+          Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)    
         <listOrg>
           <head>Istituti religiosi</head>
           <org xml:id="S_Martino_Ponzanello">
@@ -1134,6 +1140,8 @@
               <ref target="#BALDASSARRI_ANDREAZOZOLI_2005" type="biblio">BALDASSARRI ANDREAZZOLI 2005</ref>.</desc>
           </org>
         </listOrg>
+        
+        ######### -->
         
 
       </sourceDesc>
