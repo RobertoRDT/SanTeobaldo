@@ -2066,7 +2066,7 @@
         <fw place="top-left" type="N"><add>Pagina I<g ref="#middot"/></add></fw>
         <fw place="top-left" type="N"><add>n<g ref="#middot"/>I<g ref="#middot"/></add></fw>
 
-        <p>
+        <p n="1" xml:id="ST_p_01">
           <label n="29"/>
           <lb facs="#ST_line_01r_01" n="1" xml:id="ST_lb_01r_01"/>
           <space dim="horizontal" extent="3char"/><choice>
