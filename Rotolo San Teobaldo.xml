@@ -1029,15 +1029,6 @@
         </place>
         
         
-        <place xml:id="OspedaleSanTebaudo">
-         <settlement type="edificio">ospedale di San Tebaudo</settlement>
-          <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne fuori della porta San Martino.
-           Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di Casanova, 
-           per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII sec. nell’Ospedale di San Lazzaro <ref target="#MELLINO_1988"/>
-           <ref target="#AUDENINO_COMBA_2007"/> <ref target="#GATTO_MONTICONE_2005"/> <ref target="#MILANO_1903"/>
-          </note>
-        </place>
-        
         <place xml:id="PievediTeco">
           <settlement type="località">Pieve di Teco</settlement>
         </place>
@@ -1102,6 +1093,19 @@
         
         
         </listPlace>
+        
+        
+        <listOrg>
+          <head>Istituti religiosi e ospedali</head>
+          <org xml:id="OspedaleSanTebaudo">
+              <settlement type="edificio">ospedale di San Tebaudo</settlement>
+              <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne fuori della porta San Martino.
+                Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di Casanova, 
+                per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII sec. nell’Ospedale di San Lazzaro. Bibliografia: <ref target="#MELLINO_1988"/>
+                <ref target="#AUDENINO_COMBA_2007"/> <ref target="#GATTO_MONTICONE_2005"/> <ref target="#MILANO_1903"/>
+              </note>         
+          </org>
+        </listOrg>
         
         
         <!-- 
@@ -2062,7 +2066,7 @@
     </surface>
   </facsimile>
   
-  <text xml:id="SanTeobaldo" type="prose">
+  <text xml:id="ST_text" type="prose">
 
     <!-- ############  NOTE VARIE  #############   -->
     <!-- - i <del> devono avere @rend, non @type   -->
@@ -17498,6 +17502,7 @@
                 <reg>Thebaudi</reg>
               </choice></w>
           </placeName>
+          <orgName ref="#OspedaleSanTebaudo">
           <w><choice>
               <abbr>ho<g ref="#slong"/>pitl<am><g ref="#combhook"/></am>e</abbr>
               <expan>hospit<ex>a</ex>le</expan>
@@ -17506,7 +17511,8 @@
               <orig><w><abbr><am><g ref="#itilde"/></am>b<am>u<g ref="rrotsup"/></am>geto</abbr></w></orig>
               <reg><w><expan>i<ex>n</ex></expan></w><placeName ref="#Borghetto">Bu<ex>r</ex>geto</placeName></reg>
             </choice>
-          <placeName ref="#chiesaSanLorenzo">
+          </orgName>
+            <placeName ref="#chiesaSanLorenzo">
             <w><choice>
                 <abbr>C<am><g ref="#atilde"/></am>panile</abbr>
                 <expan>Ca<ex>m</ex>panile</expan>
