@@ -1053,6 +1053,7 @@
         <place xml:id="chiesaSanLorenzo">
           <placeName>chiesa di San Lorenzo di Alba</placeName>
           <settlement type="edificio">chiesa</settlement>
+          <note><link/></note>
         </place>
         
         <place xml:id="chiesaSanSilvestro">
@@ -1065,9 +1066,15 @@
          <note>una delle quattro antiche parrocchie albesi unita a quella di San Lorenzo nel XVII secolo. 
          Presso l’archivio vescovile si conserva un disegno del conte Rangone di Montelupo il “Tipo regolare della piazza detta dellle armi […]” 
          (Archivio storicodiocesano di Alba, Archivio storico del Vescovo cartella n. 1595) con raffigurazione della pianta e di un frammento di muro. 
-         Il disegno è datato 7 febbraio 1788. <ref target="#COMBA_2010"/> <ref target="#ACCIGLIARO_BOFFA_MOLINO_2011"/> <ref target="#VERNAZZA_1788"/> <ref target="#LEVI_MOMIGLIANO_2004"/>
+         Il disegno è datato 7 febbraio 1788. Bibliografia: <ref target="#COMBA_2010"/> <ref target="#ACCIGLIARO_BOFFA_MOLINO_2011"/> <ref target="#VERNAZZA_1788"/> <ref target="#LEVI_MOMIGLIANO_2004"/>
          </note>
        </place>
+
+        <place xml:id="campanileSanLorenzo">
+         <placeName>antico campanile della chiesa di San Lorenzo di Alba</placeName>
+          <note>Antico campanile della chiesa di San Lorenzo. Bibliografia: <ref target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
+            "/> <ref target="#AAVV_2013"/></note>
+        </place>
 
 
         <place xml:id="chiostroSanLorenzo">
@@ -1078,6 +1085,11 @@
          <placeName type="edificio">sepolcro di San Teobaldo</placeName> 
         </place>
         
+        <place xml:id="voltechiesaSanTebaudo">
+         <placeName type="edificio">volte della chiesa di San Tebaudo</placeName> 
+          <note>volte della antica chiesa di San Tebaudo. Bibliografia: <ref target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
+            "/> <ref target="#AAVV_2013"/></note>
+        </place>
         
         <place xml:id="Sospello">
           <settlement type="località">Sospello</settlement>
@@ -17489,9 +17501,9 @@
             </choice></w>
           <w><g ref="#slong"/>int</w>
           <label n="49"/>
+          <placeName ref="#voltechiesaSanTebaudo">
           <w>te<g ref="#slong"/>tudine<g ref="#esh"/></w>
           <lb facs="#ST_line_16r_21" xml:id="ST_lb_016_21" n="21"/>
-          <placeName ref="#chiesaSanLorenzo">
             <w><choice>
                 <abbr><g ref="#Eunc"/>ccl<am><g ref="#combhook"/></am>e</abbr>
                 <expan>Eccl<ex>es</ex>ie</expan>
@@ -17512,7 +17524,7 @@
               <reg><w><expan>i<ex>n</ex></expan></w><placeName ref="#Borghetto">Bu<ex>r</ex>geto</placeName></reg>
             </choice>
           </orgName>
-            <placeName ref="#chiesaSanLorenzo">
+            <placeName ref="#campanileSanLorenzo">
             <w><choice>
                 <abbr>C<am><g ref="#atilde"/></am>panile</abbr>
                 <expan>Ca<ex>m</ex>panile</expan>
@@ -23867,13 +23879,16 @@
           <bibl xml:id="MELLINO_1988">G. Mellino, <emph>L'Ospedale di San Lazzaro e l'opera sanitario-assistenziale in Alba</emph>, Alba, 1988.</bibl>
           
           <bibl xml:id="COMBA_2010">R. Comba, <emph>Fra religiosità delle opere e predicazione dell'ortodossia: dinamiche socio religiose ad Alba tra XII e XIV secolo</emph>, in
-          <emph>Alba Medievale: dall'Alto Medioevo alla dominazione Angioina. VI - XIV secolo</emph>, Alba, 2010</bibl>
+          <emph>Alba Medievale: dall'Alto Medioevo alla dominazione Angioina. VI - XIV secolo</emph>, Alba, 2010.</bibl>
           
-          <bibl xml:id="ACCIGLIARO_BOFFA_MOLINO_2011">W. Accigliaro, G. Boffa, B. Molino, <emph>Repertorio storico delle parrocchie e delle parrocchiali nella Diocesi di Alba</emph>, Alba, 2001</bibl>
+          <bibl xml:id="ACCIGLIARO_BOFFA_MOLINO_2011">W. Accigliaro, G. Boffa, B. Molino, <emph>Repertorio storico delle parrocchie e delle parrocchiali nella Diocesi di Alba</emph>, Alba, 2001.</bibl>
           
-          <bibl xml:id="VERNAZZA_1788">G. Vernazza, <emph>Santa Maria del Ponte in Alba</emph>, Torino, 1788</bibl>
+          <bibl xml:id="VERNAZZA_1788">G. Vernazza, <emph>Santa Maria del Ponte in Alba</emph>, Torino, 1788.</bibl>
         
-          <bibl xml:id="LEVI_MOMIGLIANO_2004">L. Levi Momigliano, <emph>Giuseppe Vernazza e la storia dell'arte in Piemonte</emph>, Alba, 2004</bibl>        
+          <bibl xml:id="LEVI_MOMIGLIANO_2004">L. Levi Momigliano, <emph>Giuseppe Vernazza e la storia dell'arte in Piemonte</emph>, Alba, 2004.</bibl>        
+        
+          <bibl xml:id="AAVV_2013">AAVV, <emph>La cattedrale di Alba, archeologia di un cantiere</emph>, Borgo San Lorenzo, 2013.</bibl>        
+        
         
         </listBibl>
       </div>
