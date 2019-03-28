@@ -366,10 +366,13 @@
           
           <person xml:id="GalvagnoArcidiacono">
            <persName>
-             <forename>Galvagno (arcidiacono)</forename>
+             <forename>Galvagno</forename>
+             <surname>di Marcenasco</surname>
            </persName>
             <sex>M</sex>
             <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
+             al f.5 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note>
           </person>
          
          <person xml:id="GiacomelloPorta">
@@ -382,10 +385,12 @@
          
           <person xml:id="GiacomoArcipresbitero">
            <persName>
-             <forename>Giacomo (arcipresbitero)</forename>
+             <forename>Giacomo de Mediolano</forename>
            </persName>
            <sex>M</sex>
-           <occupation>arcipresbitero della Chiesa di San Lorenzo</occupation> 
+           <occupation>arciprete della Chiesa di San Lorenzo</occupation>
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al
+             f.12 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note> 
           </person>
         
         <person xml:id="GiacomoBaduino">
@@ -464,10 +469,13 @@
         
          <person xml:id="GiobArcipresbitero">
           <persName>
-            <forename>Giob (arciprete)</forename>
+            <forename>Giacomo, detto Giob</forename>
           </persName>
            <sex>M</sex>
            <occupation>arciprete della Chiesa di San Lorenzo di Alba</occupation>
+           <note>citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.19 e f. 42 (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1), 
+           compare anche nel Minutario del notaio Allaria (collocazione)
+           </note>
          </person>
         
         <person xml:id="GiovanniCavalero">
@@ -566,6 +574,9 @@
            </persName> 
             <sex>M</sex>
             <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
+            <note>Con nota citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
+             al f.48 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).
+            </note>
           </person>
           
           <person xml:id="GuglielmoVitrola">
@@ -742,7 +753,9 @@
            <surname>Baresano</surname>
          </persName> 
           <sex>M</sex>
-          <occupation>massaro della chiesa di San Lorenzo di Alba e sottoscrittore della pergamena del 1456</occupation>
+          <occupation>massaro della chiesa di San Lorenzo di Alba e sottoscrittore della pergamena del 1456 (fol. 18)</occupation>
+          <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f. 10 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1)
+           per la traslazione delle reliquie di san Frontiniano presso la Cattedrale di Alba nel 1455.</note>
         </person>
         
           <person xml:id="PietroRenaco">
@@ -846,8 +859,6 @@
               <forename>Tebaudo (san)</forename>
             </persName>
             <sex>M</sex>
-            <occupation n="1">santo</occupation>
-            <note></note>
           </person>
           
           <person xml:id="TebaudoMaleto">
@@ -1001,10 +1012,6 @@
         
         <place xml:id="Lombriasco">
          <settlement type="località">Lombriasco</settlement> 
-        </place>
-        
-        <place xml:id="Marcenasco">
-          <settlement type="località">Marcenasco</settlement>
         </place>
         
         <place xml:id="Mentone">
@@ -11402,14 +11409,12 @@
           <w>domino</w>
           <persName ref="#GalvagnoArcidiacono">
             <w>Galvagno</w>
-          </persName>
           <w>de</w>
-          <placeName ref="#Marcenasco">
             <w><choice>
                 <orig>marcena<g ref="#slong"/>co</orig>
                 <reg>Marcenasco</reg>
               </choice></w>
-          </placeName>
+          </persName>     
           <w>archidiacono</w>
           <w><choice>
               <abbr>d<am><g ref="#ctilde"/></am>e</abbr>
