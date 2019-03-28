@@ -1,0 +1,2790 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edizione digitale del <title>Rotulo di San Teobaldo</title></title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Progetto dell'Archivio diocesano di Alba (CN)</p>
+      </publicationStmt>
+      <sourceDesc default="false">
+        
+        <msDesc>
+
+          <!-- Informazioni sulla collocazione fisica del manoscritto -->
+          <msIdentifier>
+            <settlement>Alba (CN)</settlement>
+            <repository>Archivio Diocesano di Alba, fondo del Capitolo della cattedrale, ASCap n. 19</repository>
+            <msName>Rotulo di San Teobaldo</msName>
+          </msIdentifier>
+          
+          <!-- Informazioni su autore e lingua -->
+          <msContents>
+            <summary>Il <title>Rotulo di San Teobaldo</title> è un manoscritto pergamenaceo palinsesto sul recto, esso riporta due
+              “vite” di San Teobaldo, compatrono della città di Alba, la narrazione di diversi miracoli a lui attribuiti
+              ed infine il racconto del ritrovamento delle sue spoglie.</summary>
+            <textLang>Latino</textLang>
+          </msContents>
+          
+          <!-- Descrizione fisica del manoscritto.-->
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <p>Il Rotulo è un manoscritto palinsesto sul recto, composto di 18 fogli di diverse dimensioni, cuciti
+                  tra loro con un punto semplice. Sul recto i primi 17 fogli riportano due “vite” e la narrazione dei
+                  dei miracoli attribuiti a San Teobaldo compatrono della città di Alba: il testo viene datato al primo
+                  quarto del XIV secolo.</p>
+                <p>Il Rotulo è stato composto riutilizzando nove fogli di una Bibbia datata all’inizio dell’XI sec.
+                  (n1-9) e otto fogli (10-17) di un antifonario datato all’inizio del XIII secolo <note>V. <ref target="#BUCCOLO_1989">Buccolo 1989</ref> e <ref target="#AIMASSO_BRUSA_2015">Aimasso Brusa
+                      2015</ref>.</note>. Entrambi i testi sono ancora leggibili al verso del rotolo, mentre al recto se
+                  ne intravedono soltanto alcune tracce, in particolare quelle delle linee ed iniziali rubricate
+                  dell’antifonario. Come detto questa prima parte è palinsesta, mentre l’ultimo foglio non lo è.
+                  L’ultima carta infatti è stata aggiunta in epoca successiva. Si tratta di un foglio di pergamena
+                  semplice, non rifilato, e che presenta i bordi naturali della pelle con la caratteristica forma della
+                  coda. Questa carta riporta la firma del massaro Pietro Baresano e del notaio Ludovico Cariniano con la
+                  data del 1456.</p>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+
+          <!-- 
+          <history>
+            <summary>
+              <p>Il Rotulo è la fonte più antica di cui siamo a conoscenza sulla vita del santo, il testo ne colloca la
+                morte nel 1150 e narra di come le sue spoglie furono ritrovate nel 1429 dal vescovo Alerino Rembaudi,
+                evento attestato anche da una lapide coeva posta in Cattedrale a ricordare l’evento. Le reliquie di San
+                Teobaldo sono conservate nella cappella omonima nella Cattedrale di San Lorenzo con quelle degli altri
+                santi tutelari della città. Il capo era invece custodito in un reliquiario a busto in argento dorato
+                sbalzato e cesellato, un’opera pregevole commissionata, si pensa, al tempo del ritrovamento della salma.
+                Il busto che veniva tradizionalmente esposto per impetrare la “buona morte” sin dal XVIII secolo,
+                scomparve nel terzo quarto del novecento per essere poi fortunosamente rintracciato esposto in un museo
+                statunitense e successivamente riportato in Italia. Attualmente è possibile ammirarlo nella Cappella di
+                San Teobaldo in Cattedrale: le reliquie contenute al suo interno sono andate perse.</p>
+              <p>La figura di questo laico dedito ad una vita semplice ed all’aiuto ai poveri tramite il lavoro ed il
+                servizio è stata oggetto di venerazione sin dal 1429, e come è bene illustrato nello studio di Micaela
+                Gastaldi, fiorirono diverse opere agiografiche che contribuirono alla fortuna del santo albese sino a
+                quando il culto fu riconosciuto dalla Santa Sede in seguito al processo di canonizzazione avvenuto nel
+                1841.</p>
+              <p>Nonostante la produzione agiografica su San Teobaldo sia stata vivace e costante nei secoli, il testo
+                del Rotulo fu edito solo nel 1929 ad opera del canonico Luigi Giordano, storico ed erudito albese per
+                molti anni archivista del Capitolo della Cattedrale. Il Giordano pubblica il Rotulo facendolo precedere
+                da una lunga analisi dei contenuti e delle caratteristiche paleografiche, avanza inoltre numerose
+                ipotesi circa l’esistenza di altre fonti scritte sulla vita del santo, basandosi sul confronto con le
+                altre Vite che furono redatte tra il sei ed il settecento.</p>
+            </summary>
+          </history>
+          Informazioni storiche sul manoscritto -->
+        </msDesc>
+        
+        <!-- ########## Lista Persone ########## -->
+        
+        <listPerson>
+
+          <person xml:id="N">
+            <persName>
+              <forename/>
+              <surname/>
+            </persName>
+            <sex/>
+            <occupation n="1"/>
+            <note/>
+          </person>
+
+
+          <!-- 
+            Nomina Sacra
+          
+          <person xml:id="Dio">
+            <note/>
+          </person>
+          
+          <person xml:id="Gesù">
+            <note/>
+          </person>
+
+          <person xml:id="SpiritoSanto">
+            <persName>
+              <forename>Spirito Santo</forename>
+            </persName>
+          </person>
+
+          <person xml:id="Trinità">
+            <persName>
+              <forename>Santa Trinità</forename> 
+            </persName>
+          </person>
+          
+ -->
+          
+
+          <!-- ########## A ########## -->
+          
+          <person xml:id="Abramo">
+            <persName>
+              <forename>Abramo</forename>
+            </persName>
+            <sex>M</sex>
+            <occupation>profeta</occupation>
+          </person>
+          
+          <person xml:id="Acaritus">
+            <persName>
+              <forename>Acaritus</forename>
+            </persName>
+            <sex>M</sex>
+          </person>
+
+          <person xml:id="Alassina">
+           <persName>
+             <forename>Alassina</forename>
+           </persName>
+            <sex>F</sex>
+            <occupation>moglie di Guglielmino Giusiberto</occupation>
+          </person>
+          
+          <person xml:id="AlerinoRembaudi">
+            <persName>
+              <forename>Alerino</forename>
+              <surname>Rembaudi</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <person xml:id="AlessandroBenevello">
+           <persName>
+            <forename>Alessandro</forename>
+             <surname>Benevello</surname>
+           </persName>
+            <sex>M</sex>
+            <occupation>cappellano della chiesa di San Lorenzo di Alba</occupation>
+          </person>
+          
+          
+          <person xml:id="Allegranzia">
+            <persName>
+              <forename>Allegranzia</forename>
+            </persName>
+            <sex>F</sex>
+            <occupation>moglie di Federico Negro</occupation>
+          </person>
+          
+          <person xml:id="AntonioBerruto">
+           <persName>
+            <forename>Antonio</forename>
+            <surname>Berruto</surname> 
+           </persName> 
+            <sex>M</sex>
+          </person>
+          
+          <person xml:id="AntoniodeBernardis">
+            <persName>
+              <forename>Antonio</forename>
+              <surname>de Bernardis</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>prevosto della chiesa di San Lorenzo di Alba</occupation>
+          </person>
+          
+          <person xml:id="AntonioGhemme">
+            <persName>
+              <forename>Antonio</forename>
+              <surname>di Ghemme</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <person xml:id="AntonioRubo">
+            <persName>
+              <forename>Antonio</forename>
+              <surname>Rubo</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          <person xml:id="ArenosoRestagno">
+           <persName>
+             <forename>Arenoso</forename>
+             <surname>Restagno</surname>
+           </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <person xml:id="ArnulfoAlbi">
+           <persName>
+             <forename>Arnulfo</forename>
+             <surname>Albi</surname>
+           </persName> 
+            <sex>M</sex>
+            <occupation>figlio di Pietro Albi e Bermonda</occupation>
+          </person>
+          
+          
+          <person xml:id="Astruga">
+            <persName>
+              <forename>Astruga</forename>
+            </persName>
+            <sex>F</sex>
+            <occupation>vicina di casa di Arnulfo Albi</occupation>
+          </person>
+          
+          <!-- ########## B ########## -->
+          
+          <person xml:id="BergerioneTaverniere">
+            <persName>
+             <forename>Bergerione</forename>
+              <surname>Taverniere</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          <person xml:id="Bermonda">
+           <persName>
+             <forename>Bermonda</forename>
+           </persName>
+            <sex>F</sex>
+            <occupation>madre di Arnulfo Albi e moglie di Pietro Albi</occupation>
+          </person>
+          
+          <person xml:id="BetramodiMonteverde">
+            <persName>
+              <forename>Bertramo</forename>
+              <surname>di Monteverde</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          <person xml:id="BorghinoCerrato">
+            <persName>
+              <forename>Borghino</forename>
+              <surname>Cerrato</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <!-- ########## C ########## -->
+          
+          
+          <person xml:id="CatalanoFalletti">
+           <persName>
+            <forename>Catalano</forename>
+             <surname>dei Falletti</surname>
+           </persName>
+            <sex>M</sex>
+            <occupation>consignore di Borgomale</occupation>
+          </person>
+          
+          
+          <!-- ########## D ########## -->
+          
+          <person xml:id="DanieleFerrario">
+           <persName>
+             <forename>Daniele</forename>
+             <surname>Ferrario</surname>
+           </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <person xml:id="Davide">
+            <persName>
+              <forename>Davide</forename>
+            </persName>
+          <sex>M</sex>
+            <occupation>profeta</occupation>
+            <note/>
+          </person>
+        
+       
+          <!-- ########## E ########## -->
+          
+        <person xml:id="EnricoTagliarino">
+         <persName>
+          <forename>Enrico</forename> 
+         <surname>Tagliarino</surname>
+         </persName>
+          <sex>M</sex>
+        </person>       
+        
+          <!-- ########## F ########## -->
+        
+          <person xml:id="FacciottoMusso">
+            <persName>
+              <forename>Facciotto</forename>
+              <surname>Musso</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+        
+          <person xml:id="FedericoNegro">
+            <persName>
+              <forename>Federico</forename>
+              <surname>Negro</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+        
+          <person xml:id="FrancescoBergogno">
+            <persName>
+              <forename>Francesco</forename>
+              <surname>Bergogno</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+        
+        <person xml:id="FrancescoRagio">
+         <persName>
+           <forename>Francesco</forename>
+           <surname>Ragio</surname>
+         </persName> 
+          <sex>M</sex>
+          <occupation>canonico della chiesa di San Lorenzo di Alba</occupation>
+        </person>
+       
+       
+          <person xml:id="Furmenti">
+            <persName>
+              <surname>Furmenti</surname>
+            </persName>
+            <occupation>famiglia di Alba</occupation>
+          </person>
+          
+       
+        
+          <!-- ########## G ########## -->
+          
+          <person xml:id="GalvagnoArcidiacono">
+           <persName>
+             <forename>Galvagno (arcidiacono)</forename>
+           </persName>
+            <sex>M</sex>
+            <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
+          </person>
+         
+         <person xml:id="GiacomelloPorta">
+          <persName>
+            <forename>Giacomello</forename>
+            <surname>della Porta</surname>
+          </persName>
+          <sex>M</sex> 
+         </person>
+         
+          <person xml:id="GiacomoArcipresbitero">
+           <persName>
+             <forename>Giacomo (arcipresbitero)</forename>
+           </persName>
+           <sex>M</sex>
+           <occupation>arcipresbitero della Chiesa di San Lorenzo</occupation> 
+          </person>
+        
+        <person xml:id="GiacomoBaduino">
+         <persName>
+          <forename>Giacomo</forename>
+           <surname>Baduino</surname> 
+         </persName> 
+          <sex>M</sex>
+        </person>
+        
+        <person xml:id="GiacomodeCarmagnola">
+         <persName>
+           <forename>Giacomo</forename>
+         <surname>di Carmagnola</surname>
+         </persName> 
+        <sex>M</sex>
+        </person>
+        
+        <person xml:id="GiacomoFaucilla">
+         <persName>
+           <forename>Giacomo</forename>
+           <surname>Faucilla</surname>
+         </persName> 
+          <sex>M</sex>
+        </person>
+        
+          <person xml:id="GiacomoFerrario">
+           <persName>
+            <forename>Giacomo</forename> 
+           <surname>Ferrario</surname>
+           </persName>
+           <sex>M</sex> 
+          </person>
+          
+          <person xml:id="Giacomo">
+           <persName>
+            <forename>Giacomo</forename> 
+           </persName> 
+            <sex>M</sex>
+          <occupation>figlio del maestro di Teobaldo</occupation>
+          </person>
+          
+          <person xml:id="GiacomoNegro">
+           <persName>
+             <forename>Giacomo</forename>
+             <surname>(Negro)</surname>
+           </persName>
+            <sex>M</sex>
+            <occupation>figlio di Federico Negro e Alassina</occupation>
+          </person>
+          
+          <person xml:id="sanGiacomo">
+            <persName>
+              <forename>Giacomo (san)</forename> 
+            </persName> 
+            <sex>M</sex>
+            <occupation>apostolo e santo</occupation>
+          </person>
+        
+          <person xml:id="GilardoAlessandria">
+            <persName>
+              <forename>Gilardo</forename>
+              <surname>di Alessandria</surname>
+            </persName>
+            <sex>M</sex>
+          </person>  
+    
+          <person xml:id="GillioVezza">
+            <persName>
+              <forename>Gillio</forename>
+              <surname>di Vezza</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+        
+         <person xml:id="GiobArcipresbitero">
+          <persName>
+            <forename>Giob (arciprete)</forename>
+          </persName>
+           <sex>M</sex>
+           <occupation>arciprete della Chiesa di San Lorenzo di Alba</occupation>
+         </person>
+        
+        <person xml:id="GiovanniCavalero">
+         <persName>
+          <forename>Giovanni</forename>
+           <surname>Cavalero</surname>
+         </persName>
+          <sex>M</sex>
+        </person>
+        
+        <person xml:id="GiovannaIncisa">
+         <persName>
+          <forename>Giovanna</forename>
+           <surname>Incisa (dei Marchesi di)</surname>
+         </persName>
+          <sex>F</sex>
+          <occupation>moglie di Borghino Cerrato</occupation>
+        </person>
+        
+        <person xml:id="GiovanniCerruto">
+         <persName>
+           <forename>Giovanni</forename>
+           <surname>Cerruto</surname>
+         </persName>
+          <sex>M</sex>
+          <occupation>figlio di Manfredo Cerruto</occupation>
+        </person>
+        
+        <person xml:id="GiovanniGorrino">
+         <persName>
+           <forename>Giovanni</forename>
+           <surname>Gorrino</surname>
+         </persName>
+          <sex>M</sex>
+        </person>
+        
+          <person xml:id="GiovanniFerrario">
+            <persName>
+              <forename>Giovanni</forename>
+              <surname>Ferrario</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          <person xml:id="GiovanniRembaudo">
+            <persName>
+              <forename>Giovanni</forename>
+              <surname>Rembaudo</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>zio del vescovo di Alba</occupation>
+          </person>
+          
+          
+        <person xml:id="GiraudoMartino">
+         <persName>
+           <forename>Giraudo</forename>
+           <surname>Martino</surname>
+         </persName>
+         <sex>M</sex> 
+        </person>
+        
+          <person xml:id="GiudaIscariota">
+            <persName>
+              <forename>Giuda</forename>
+              <surname>Iscariota</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>apostolo</occupation>
+          </person>
+          
+        
+          <person xml:id="sanGregorio">
+            <persName>
+              <forename>Gregorio (san)</forename>
+              <surname/>
+            </persName>
+            <sex>M</sex>
+            <occupation>santo</occupation>
+          </person>
+          
+        
+        <person xml:id="GuglielminoGiusiberto">
+          <persName>
+           <forename>Guglielmino</forename>
+           <surname>Giusiberto</surname> 
+          </persName>
+        <sex/>
+         <occupation/> 
+        </person>
+          
+          <person xml:id="GuglielmoGassa">
+           <persName>
+             <forename>Guglielmo</forename>
+             <surname>Gassa</surname>
+           </persName> 
+            <sex>M</sex>
+            <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
+          </person>
+          
+          <person xml:id="GuglielmoVitrola">
+            <persName>
+              <forename>Guglielmo</forename>
+              <surname>Vitrola</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+        
+        
+          <!-- ########## L ########## -->
+        
+          <person xml:id="sanLorenzo">
+         <persName>
+          <forename>Lorenzo (san)</forename> 
+         </persName>
+         <sex>M</sex>
+          <occupation>santo e beato</occupation>
+        </person>
+        
+        <person xml:id="LudovicoCariniano">
+          <persName>
+            <forename>Ludovico</forename>
+            <surname>Cariniano</surname>
+          </persName>
+          <sex>M</sex>
+          <occupation>notaio e redattore della pergamena del 1456</occupation>
+        </person>
+        
+          <!-- ########## M ########## -->
+          
+          <person xml:id="VergineMaria">
+           <persName>
+            <forename>Maria (Vergine)</forename> 
+           </persName>
+            <sex>F</sex>
+            <occupation>madre del Signore</occupation>
+          </person>
+          
+          <person xml:id="ManfredinoBucino">
+           <persName>
+             <forename>Manfredino</forename>
+             <surname>Bucino</surname>
+           </persName>
+            <sex>M</sex>
+          </person>
+          
+          
+          <person xml:id="ManfredoCerruto">
+           <persName>
+             <forename>Manfredo</forename>
+             <surname>Cerruto</surname>
+           </persName> 
+          </person>
+          
+          <person xml:id="Martino">
+           <persName>
+            <forename>Martino</forename> 
+           <surname>(Giusiberto)</surname>
+           </persName>
+           <sex>M</sex>
+           <occupation>figlio di Guglielmino Giusiberto e Alassina</occupation> 
+          </person>
+          
+          
+          <person xml:id="MartinoGassa">
+            <persName>
+              <forename>Martino</forename>
+              <surname>Gassa</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>presibitero della chiesa di San Lorenzo di Alba</occupation> 
+          </person>
+          
+          <person xml:id="sanMartino">
+            <persName>
+              <forename>Martino (san)</forename>
+            </persName>
+          <occupation>vescovo di Tours e santo</occupation>
+          </person>
+          
+          
+          <person xml:id="sanMatteo">
+            <persName>
+              <forename>Matteo (san)</forename>
+              <surname/>
+            </persName>
+            <sex>M</sex>
+            <occupation>apostolo e santo</occupation>
+          </person>
+          
+          
+          <person xml:id="Melchisedec">
+           <persName>
+            <forename>Melchisedec</forename> 
+           </persName> 
+            <sex>M</sex>
+            <occupation>profeta</occupation>
+          </person>
+       
+          <!-- ######## N ########## -->
+          
+          <person xml:id="NicolinoMazzaburra">
+           <persName>
+            <forename>Nicolino</forename>
+            <surname>Mazzaburra</surname> 
+           </persName>
+           <sex>M</sex> 
+          </person>
+       
+       
+          <!-- ########## O ########## -->
+          
+          <person xml:id="Obertomassaro">
+           <persName>
+             <forename>Oberto (massaro)</forename>
+           </persName> 
+          <sex>M</sex>
+            <occupation>converso e massaro della chiesa di San Lorenzo di Alba</occupation>
+          </person>
+        
+          <person xml:id="ObertoBovolo">
+            <persName>
+              <forename>Oberto</forename>
+              <surname>Bovolo</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation/> 
+          </person>
+        
+        <person xml:id="OgerioCoppa">
+          <persName>
+            <forename>Ogerio</forename>
+            <surname>Coppa</surname>
+          </persName>
+          <sex>M</sex>
+        </person>
+        
+        
+          <!-- ########## P ########## -->
+          
+          <person xml:id="sanPaolo">
+            <persName>
+              <forename>Paolo (san)</forename>
+              <surname/>
+            </persName>
+            <sex>M</sex>
+            <occupation>apostolo e santo</occupation>
+          </person>
+          
+          
+          
+          <person xml:id="PietroAlbi">
+            <persName>
+              <forename>Pietro</forename>
+              <surname>Albi</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>padre di Arnulfo Albi e marito di Bermonda</occupation>
+          </person>
+          
+          <person xml:id="PietrodeAncisa">
+           <persName>
+             <forename>Pietro</forename>
+             <surname>di Incisa</surname>
+           </persName>
+            <sex>M</sex>
+          </person>
+        
+        <person xml:id="PietroBaresano">
+         <persName>
+           <forename>Pietro</forename>
+           <surname>Baresano</surname>
+         </persName> 
+          <sex>M</sex>
+          <occupation>massaro della chiesa di San Lorenzo di Alba e sottoscrittore della pergamena del 1456</occupation>
+        </person>
+        
+          <person xml:id="PietroRenaco">
+            <persName>
+              <forename>Pietro</forename>
+              <surname>Renaco</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+        
+          <person xml:id="PietroVacono">
+            <persName>
+              <forename>Pietro</forename>
+            <surname>Vacono</surname>
+            </persName>
+            <sex>M</sex>
+          </person>
+          
+          <!-- ######### R ######## -->
+        
+          <person xml:id="RaimondoRafaele">
+            <persName>
+              <forename>Raimondo</forename>
+              <surname>di Rafaele</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>vicario del vescovo di Ventimiglia</occupation>
+          </person>
+        
+          <person xml:id="Richina">
+            <persName>
+              <forename>Richina</forename>
+            </persName>
+            <sex>M</sex>
+            <occupation>moglie di Francesco Ragio</occupation>
+          </person>
+        
+        
+          <!-- ########## S ########## -->
+          
+          <person xml:id="sanSilvestro">
+           <persName>
+            <forename>Silvestro (san)</forename> 
+           </persName>
+           <sex>M</sex> 
+            <occupation>santo e papa</occupation>
+          </person>
+        
+        
+        <person xml:id="StefanoNoce">
+          <persName>
+            <forename>Stefano</forename>
+            <surname>della Noce</surname>
+          </persName>
+          <sex>M</sex>
+          <occupation>capellano della chiesa di San Lorenzo di Alba</occupation>
+        </person>
+        
+          <person xml:id="StefanoRubo">
+            <persName>
+              <forename>Stefano</forename>
+              <surname>Rubo</surname>
+            </persName>
+            <sex>M</sex>
+          <occupation>diacono della chiesa di San Lorenzo di Alba</occupation>
+          </person>
+          
+        
+        
+          <!-- ########## T ########## -->
+          
+          <person xml:id="Tebauda">
+           <persName>
+            <forename>Tebauda</forename> 
+           </persName>
+            <sex>F</sex>
+            <occupation>figlia di Borghino Cerrato e di Giovanna dei Marchesi di Incisa</occupation>
+          </person>
+          
+          <person xml:id="TebaudoMusso">
+            <persName>
+             <forename>Tebaudo</forename>
+              <surname>Musso</surname>
+            </persName>
+           <sex>M</sex>
+            <occupation>figlio di Facciotto Musso e Richina</occupation>
+          </person>
+          
+          
+          <person xml:id="TebaudoNegro">
+            <persName>
+              <forename>Tebaudo</forename>
+            </persName>
+            <sex>M</sex>
+            <occupation>figlio di Federico Negro e Alassina</occupation>
+          </person>
+          
+          <person xml:id="sanTebaudo">
+            <persName>
+              <forename>Tebaudo</forename>
+            </persName>
+            <sex>M</sex>
+            <occupation>santo e beato</occupation>
+            <note/>
+          </person>
+          
+          <person xml:id="TebaudoMaleto">
+           <persName>
+             <forename>Tebaudo</forename>
+           <surname>Maleto</surname>
+           </persName>
+           <sex>M</sex> 
+          </person>
+          
+          <person xml:id="TebaudoZoco">
+           <persName>
+            <forename>Tebaudo</forename>
+           <surname>de Zoco</surname> 
+           </persName>
+            <sex>M</sex>
+            <occupation>prete</occupation>
+          </person>
+          
+          <person xml:id="TommasoRembaudo">
+            <persName>
+              <forename>Tommaso</forename>
+              <surname>Rembaudo</surname>
+            </persName>
+            <sex>M</sex>
+            <occupation>fratello del vescovo di Alba</occupation>
+          </person>
+          
+          
+          <!-- ########## V ########## -->
+         
+          <person xml:id="Viridia">
+           <persName>
+             <forename>Viridia</forename>
+           </persName> 
+          <occupation>figlia del maestro di San Teobaldo</occupation>
+            <sex>F</sex>
+          </person>
+          
+        
+        </listPerson>
+        
+        
+        <!-- ########## Lista dei luoghi ########## -->
+        
+        <listPlace>
+        
+          
+          <place xml:id="Agliano">
+            <settlement type="località">Agliano</settlement>
+          </place>
+          
+          <place xml:id="Alba">
+            <settlement type="località">Alba</settlement>
+          </place>
+       
+        <place xml:id="Alessandria">
+          <settlement type="località">Alessandria</settlement>
+        </place>
+        
+        <place xml:id="altareSanGiacomo">
+          <placeName>altare di San Giacomo</placeName>
+          <settlement type="monumento">chiesa di Santiago di Compostela</settlement>
+        </place>
+        
+        
+        <place xml:id="altareSanTebaudo">
+        <placeName>altare di San Tebaudo della chiesa di San Lorenzo di Alba</placeName> 
+        <settlement type="monumento">altare</settlement>
+        </place>
+        
+        
+        
+        <place xml:id="Asti">
+         <settlement type="località">Asti</settlement> 
+        </place>
+        
+        <place xml:id="BastieNeuve">
+          <settlement type="località">Bastie Neuve</settlement>
+        </place>
+        
+        <place xml:id="Besançon">
+         <settlement type="località">Besançon</settlement> 
+        </place>
+        
+        <place xml:id="Borghetto">
+          <settlement type="quartiere">Borghetto</settlement>
+        </place>
+        
+        <place xml:id="Borgogna">
+        <settlement type="regione">Borgogna</settlement>  
+        </place>
+        
+        <place xml:id="Borgomale">
+          <settlement type="località">Borgomale</settlement>
+        </place>
+        
+        
+        <place xml:id="Calosso">
+          <settlement type="località">Calosso</settlement>
+        </place>
+        
+        <place xml:id="cappellaSanTebaudo">
+         <settlement type="monumeto">cappella di San Tebaudo nella chiesa di San Lorenzo di Alba</settlement> 
+        </place>
+        
+          <place xml:id="Carmagnola">
+           <settlement type="località">Carmagnola</settlement> 
+          </place>
+          
+        <place xml:id="Castellinaldo">
+          <settlement type="località">Castellinaldo</settlement>
+        </place>  
+        
+        <place xml:id="Cissone">
+          <settlement type="località">Cissone</settlement>
+        </place>
+        
+        <place xml:id="Delfinato">
+         <settlement xml:id="regione">Delfinato</settlement> 
+        </place>
+        
+        <place xml:id="Francia">
+         <settlement type="regione">Francia</settlement> 
+        </place>
+        
+        <place xml:id="Galizia">
+         <settlement type="regione">Galizia</settlement> 
+        </place>
+        
+        <place xml:id="diocesiGap">
+         <settlement type="diocesi">diocesi di Gap</settlement> 
+        </place>
+        
+        
+        <place xml:id="Giaveno">
+         <settlement type="località">Giaveno</settlement> 
+        </place>
+        
+        
+        <place xml:id="Gorbio">
+         <settlement type="località">Gorbio</settlement> 
+        </place>
+       
+          <place xml:id="Incisa">
+            <settlement type="località">Incisa</settlement>
+          </place>
+       
+        <place xml:id="Italia">
+          <settlement type="regione">Italia</settlement>
+        </place>
+        
+        <place xml:id="Lombardia">
+          <settlement type="regione">Lombardia</settlement>
+        </place>
+        
+        <place xml:id="Lombriasco">
+         <settlement type="località">Lombriasco</settlement> 
+        </place>
+        
+        <place xml:id="Marcenasco">
+          <settlement type="località">Marcenasco</settlement>
+        </place>
+        
+        <place xml:id="Mentone">
+          <settlement type="località">Mentone</settlement>
+        </place>
+        
+        
+        <place xml:id="Milano">
+          <settlement type="località">Milano</settlement>
+        </place>
+        
+        <place xml:id="Monteverde">
+         <settlement type="località">Monteverde</settlement> 
+        </place>
+        
+        
+        <place xml:id="Mondovì">
+          <settlement type="località">Mondovì</settlement>
+        </place>
+        
+        <place xml:id="Morra">
+          <settlement type="località">La Morra</settlement>
+        </place>
+        
+        
+        <place xml:id="Pavia">
+         <settlement type="località">Pavia</settlement> 
+        </place>
+        
+        <place xml:id="PievediTeco">
+          <settlement type="località">Pieve di Teco</settlement>
+        </place>
+        
+        <place xml:id="Pocapaglia">
+          <settlement type="località">Pocapaglia</settlement>
+        </place>
+        
+        <place xml:id="Pontremoli">
+          <settlement type="località">Pontremoli</settlement>
+        </place>
+        
+        <place xml:id="Provenza">
+          <settlement type="regione">Provenza</settlement>
+        </place>
+        
+        <place xml:id="Roddi">
+          <settlement type="località">Roddi</settlement>
+        </place>
+        
+        <place xml:id="Rodello">
+         <settlement type="località">Rodello</settlement> 
+        </place>
+        
+        
+        <place xml:id="chiesaSanLorenzo">
+          <placeName>chiesa di San Lorenzo di Alba</placeName>
+          <settlement type="edificio">chiesa</settlement>
+        </place>
+        
+        <place xml:id="chiesaSanSilvestro">
+          <placeName>chiesa di San Silvestro di Alba</placeName>
+          <settlement type="edificio">chiesa</settlement>
+        </place>
+        
+       <place xml:id="chiesaSantaMariadelPonte">
+        <placeName type="edificio">chiesa di Santa Maria del Ponte di Alba</placeName> 
+       </place>
+
+
+        <place xml:id="chiostroSanLorenzo">
+         <placeName type="edificio">chiostro della chiesa di San Lorenzo di Alba</placeName> 
+        </place>
+        
+        <place xml:id="sepolcroSanTebaudo">
+         <placeName type="edificio">sepolcro di San Tebaudo</placeName> 
+        </place>
+        
+        
+        <place xml:id="Sospello">
+          <settlement type="località">Sospello</settlement>
+        </place>
+        
+        <place xml:id="Torino">
+         <settlement type="località">Torino</settlement> 
+        </place>
+        
+        
+        <place xml:id="Ventimiglia">
+          <settlement xml:id="località">Ventimiglia</settlement>
+        </place>
+        
+        <place xml:id="Vitrolles">
+         <settlement type="località">Vitrolles</settlement> 
+        </place>
+        
+        <place xml:id="Zoco">
+          <settlement type="località">Zoco</settlement>
+        </place>
+        
+        </listPlace>
+        
+       
+        
+        <!-- ########## Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)   ########## -->    
+        <listOrg>
+          <head>Istituti religiosi</head>
+          <org>
+           <orgName></orgName> 
+          <desc></desc>
+          </org>
+          
+         
+        </listOrg>
+        
+
+      </sourceDesc>
+    </fileDesc>
+    
+    <encodingDesc>
+      <projectDesc>
+        <p/>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="unknown" method="silent">
+          <p/>
+        </correction>
+        <normalization method="silent">
+          <p/>
+        </normalization>
+        <segmentation>
+          <p/>
+        </segmentation>
+        <hyphenation eol="all">
+          <p>Physical line breaks are rigidly observed.</p>
+        </hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    
+    <revisionDesc status="draft">
+      <change when="2014-08" who="RRDT" status="draft">First TEI encoding.</change>
+    </revisionDesc>
+    
+    
+  </teiHeader>
+    
+  <facsimile>
+    <surface>
+      
+      <graphic url="Rotulo-Stitched_70_verticale_100dpi_10quality.jpg" width="3501px" height="55056px"/>
+      
+      <!-- FOLIO 01 -->
+      
+      <zone ulx="470" uly="308" lrx="684" lry="374" rendition="HotSpot" xml:id="ST_hs_01r_01"/>
+      <zone ulx="442" uly="425" lrx="553" lry="479" rendition="HotSpot" xml:id="ST_hs_01r_02"/>
+      <zone ulx="400" uly="823" lrx="717" lry="920" rendition="HotSpot" xml:id="ST_hs_01r_03"/>
+      <zone ulx="385" uly="3632" lrx="649" lry="3730" rendition="HotSpot" xml:id="ST_hs_01r_04"/>
+      <zone ulx="1634" uly="4287" lrx="2103" lry="4379" rendition="HotSpot" xml:id="ST_hs_01r_05"/>
+
+      <zone ulx="708" uly="431" lrx="2654" lry="581" rendition="Line" xml:id="ST_line_01r_01"/>
+      <zone ulx="716" uly="491" lrx="2677" lry="652" rendition="Line" xml:id="ST_line_01r_02"/>
+      <zone ulx="719" uly="571" lrx="2662" lry="707" rendition="Line" xml:id="ST_line_01r_03"/>
+      <zone ulx="717" uly="610" lrx="2702" lry="786" rendition="Line" xml:id="ST_line_01r_04"/>
+      <zone ulx="719" uly="709" lrx="2691" lry="848" rendition="Line" xml:id="ST_line_01r_05"/>
+      <zone ulx="713" uly="787" lrx="2710" lry="922" rendition="Line" xml:id="ST_line_01r_06"/>
+      <zone ulx="601" uly="864" lrx="2714" lry="1006" rendition="Line" xml:id="ST_line_01r_07"/>
+      <zone ulx="614" uly="928" lrx="2720" lry="1069" rendition="Line" xml:id="ST_line_01r_08"/>
+      <zone ulx="624" uly="1000" lrx="2832" lry="1138" rendition="Line" xml:id="ST_line_01r_09"/>
+      <zone ulx="515" uly="1060" lrx="2757" lry="1226" rendition="Line" xml:id="ST_line_01r_10"/>
+      <zone ulx="621" uly="1142" lrx="2765" lry="1290" rendition="Line" xml:id="ST_line_01r_11"/>
+      <zone ulx="618" uly="1217" lrx="2771" lry="1364" rendition="Line" xml:id="ST_line_01r_12"/>
+      <zone ulx="564" uly="1283" lrx="2776" lry="1440" rendition="Line" xml:id="ST_line_01r_13"/>
+      <zone ulx="615" uly="1366" lrx="2781" lry="1512" rendition="Line" xml:id="ST_line_01r_14"/>
+      <zone ulx="513" uly="1435" lrx="2772" lry="1584" rendition="Line" xml:id="ST_line_01r_15"/>
+      <zone ulx="592" uly="1512" lrx="2800" lry="1664" rendition="Line" xml:id="ST_line_01r_16"/>
+      <zone ulx="614" uly="1590" lrx="2811" lry="1731" rendition="Line" xml:id="ST_line_01r_17"/>
+      <zone ulx="617" uly="1666" lrx="2817" lry="1805" rendition="Line" xml:id="ST_line_01r_18"/>
+      <zone ulx="608" uly="1751" lrx="2807" lry="1878" rendition="Line" xml:id="ST_line_01r_19"/>
+      <zone ulx="624" uly="1810" lrx="2804" lry="1956" rendition="Line" xml:id="ST_line_01r_20"/>
+      <zone ulx="630" uly="1888" lrx="2798" lry="2019" rendition="Line" xml:id="ST_line_01r_21"/>
+      <zone ulx="616" uly="1957" lrx="2805" lry="2097" rendition="Line" xml:id="ST_line_01r_22"/>
+      <zone ulx="614" uly="2037" lrx="2800" lry="2171" rendition="Line" xml:id="ST_line_01r_23"/>
+      <zone ulx="613" uly="2121" lrx="2808" lry="2261" rendition="Line" xml:id="ST_line_01r_24"/>
+      <zone ulx="620" uly="2201" lrx="2832" lry="2335" rendition="Line" xml:id="ST_line_01r_25"/>
+      <zone ulx="620" uly="2275" lrx="2768" lry="2395" rendition="Line" xml:id="ST_line_01r_26"/>
+      <zone ulx="618" uly="2390" lrx="1248" lry="2468" rendition="Line" xml:id="ST_line_01r_27"/>
+      <zone ulx="759" uly="2405" lrx="2763" lry="2546" rendition="Line" xml:id="ST_line_01r_28"/>
+      <zone ulx="754" uly="2486" lrx="2809" lry="2628" rendition="Line" xml:id="ST_line_01r_29"/>
+      <zone ulx="772" uly="2574" lrx="2802" lry="2700" rendition="Line" xml:id="ST_line_01r_30"/>
+      <zone ulx="633" uly="2649" lrx="2806" lry="2782" rendition="Line" xml:id="ST_line_01r_31"/>
+      <zone ulx="636" uly="2736" lrx="2814" lry="2856" rendition="Line" xml:id="ST_line_01r_32"/>
+      <zone ulx="634" uly="2806" lrx="2878" lry="2923" rendition="Line" xml:id="ST_line_01r_33"/>
+      <zone ulx="633" uly="2870" lrx="2827" lry="2998" rendition="Line" xml:id="ST_line_01r_34"/>
+      <zone ulx="629" uly="2956" lrx="2832" lry="3085" rendition="Line" xml:id="ST_line_01r_35"/>
+      <zone ulx="640" uly="3038" lrx="2797" lry="3144" rendition="Line" xml:id="ST_line_01r_36"/>
+      <zone ulx="637" uly="3102" lrx="2811" lry="3237" rendition="Line" xml:id="ST_line_01r_37"/>
+      <zone ulx="616" uly="3190" lrx="2802" lry="3306" rendition="Line" xml:id="ST_line_01r_38"/>
+      <zone ulx="638" uly="3269" lrx="2842" lry="3373" rendition="Line" xml:id="ST_line_01r_39"/>
+      <zone ulx="647" uly="3332" lrx="2801" lry="3452" rendition="Line" xml:id="ST_line_01r_40"/>
+      <zone ulx="645" uly="3410" lrx="2810" lry="3522" rendition="Line" xml:id="ST_line_01r_41"/>
+      <zone ulx="645" uly="3480" lrx="2820" lry="3589" rendition="Line" xml:id="ST_line_01r_42"/>
+      <zone ulx="656" uly="3558" lrx="2814" lry="3660" rendition="Line" xml:id="ST_line_01r_43"/>
+      <zone ulx="656" uly="3638" lrx="2806" lry="3744" rendition="Line" xml:id="ST_line_01r_44"/>
+      <zone ulx="656" uly="3722" lrx="2801" lry="3811" rendition="Line" xml:id="ST_line_01r_45"/>
+      <zone ulx="599" uly="3798" lrx="2816" lry="3901" rendition="Line" xml:id="ST_line_01r_46"/>
+      <zone ulx="668" uly="3876" lrx="2808" lry="3982" rendition="Line" xml:id="ST_line_01r_47"/>
+      <zone ulx="668" uly="3957" lrx="2832" lry="4051" rendition="Line" xml:id="ST_line_01r_48"/>
+      
+      <!-- FOLIO 02 -->
+
+      <zone ulx="471" uly="4365" lrx="722" lry="4613" rendition="HotSpot" xml:id="ST_hs_02r_01"/>
+      <zone ulx="417" uly="5975" lrx="674" lry="6158" rendition="HotSpot" xml:id="ST_hs_02r_02"/>
+      <zone ulx="2911" uly="5581" lrx="3168" lry="5702" rendition="HotSpot" xml:id="ST_hs_02r_03"/>
+      
+      <zone ulx="742" uly="4513" lrx="2960" lry="4631" rendition="Line" xml:id="ST_line_02r_01"/>
+      <zone ulx="749" uly="4622" lrx="2930" lry="4714" rendition="Line" xml:id="ST_line_02r_02"/>
+      <zone ulx="743" uly="4700" lrx="2914" lry="4785" rendition="Line" xml:id="ST_line_02r_03"/>
+      <zone ulx="759" uly="4776" lrx="2922" lry="4869" rendition="Line" xml:id="ST_line_02r_04"/>
+      <zone ulx="749" uly="4853" lrx="2904" lry="4927" rendition="Line" xml:id="ST_line_02r_05"/>
+      <zone ulx="742" uly="4919" lrx="2895" lry="5007" rendition="Line" xml:id="ST_line_02r_06"/>
+      <zone ulx="710" uly="5009" lrx="2992" lry="5089" rendition="Line" xml:id="ST_line_02r_07"/>
+      <zone ulx="740" uly="5089" lrx="2916" lry="5171" rendition="Line" xml:id="ST_line_02r_08"/>
+      <zone ulx="735" uly="5158" lrx="2901" lry="5256" rendition="Line" xml:id="ST_line_02r_09"/>
+      <zone ulx="726" uly="5232" lrx="2925" lry="5343" rendition="Line" xml:id="ST_line_02r_10"/>
+      <zone ulx="735" uly="5315" lrx="2949" lry="5418" rendition="Line" xml:id="ST_line_02r_11"/>
+      <zone ulx="722" uly="5406" lrx="2931" lry="5500" rendition="Line" xml:id="ST_line_02r_12"/>
+      <zone ulx="735" uly="5488" lrx="2982" lry="5577" rendition="Line" xml:id="ST_line_02r_13"/>
+      <zone ulx="726" uly="5563" lrx="2936" lry="5651" rendition="Line" xml:id="ST_line_02r_14"/>
+      <zone ulx="716" uly="5633" lrx="2940" lry="5743" rendition="Line" xml:id="ST_line_02r_15"/>
+      <zone ulx="705" uly="5715" lrx="2948" lry="5817" rendition="Line" xml:id="ST_line_02r_16"/>
+      <zone ulx="695" uly="5804" lrx="1649" lry="5897" rendition="Line" xml:id="ST_line_02r_17"/>
+            <!-- riga vuota -->
+      <zone ulx="855" uly="5951" lrx="2951" lry="6052" rendition="Line" xml:id="ST_line_02r_19"/>
+      <zone ulx="868" uly="6045" lrx="2900" lry="6128" rendition="Line" xml:id="ST_line_02r_20"/>
+      <zone ulx="878" uly="6118" lrx="2929" lry="6206" rendition="Line" xml:id="ST_line_02r_21"/>
+      <zone ulx="681" uly="6204" lrx="2944" lry="6291" rendition="Line" xml:id="ST_line_02r_22"/>
+      <zone ulx="696" uly="6283" lrx="2969" lry="6367" rendition="Line" xml:id="ST_line_02r_23"/>
+      <zone ulx="699" uly="6366" lrx="2955" lry="6446" rendition="Line" xml:id="ST_line_02r_24"/>
+      <zone ulx="690" uly="6437" lrx="2921" lry="6515" rendition="Line" xml:id="ST_line_02r_25"/>
+      <zone ulx="704" uly="6514" lrx="2949" lry="6590" rendition="Line" xml:id="ST_line_02r_26"/>
+      <zone ulx="712" uly="6586" lrx="2970" lry="6676" rendition="Line" xml:id="ST_line_02r_27"/>
+      <zone ulx="703" uly="6652" lrx="2955" lry="6752" rendition="Line" xml:id="ST_line_02r_28"/>
+      <zone ulx="689" uly="6725" lrx="2950" lry="6822" rendition="Line" xml:id="ST_line_02r_29"/>
+      <zone ulx="699" uly="6804" lrx="2959" lry="6905" rendition="Line" xml:id="ST_line_02r_30"/>
+      <zone ulx="661" uly="6875" lrx="2935" lry="6979" rendition="Line" xml:id="ST_line_02r_31"/>
+      <zone ulx="669" uly="6957" lrx="2931" lry="7060" rendition="Line" xml:id="ST_line_02r_32"/>
+      <zone ulx="685" uly="7029" lrx="2941" lry="7138" rendition="Line" xml:id="ST_line_02r_33"/>
+      <zone ulx="679" uly="7097" lrx="2936" lry="7206" rendition="Line" xml:id="ST_line_02r_34"/>
+      <zone ulx="688" uly="7169" lrx="2937" lry="7282" rendition="Line" xml:id="ST_line_02r_35"/>
+      <zone ulx="699" uly="7249" lrx="2890" lry="7347" rendition="Line" xml:id="ST_line_02r_36"/>
+      <zone ulx="689" uly="7325" lrx="2911" lry="7431" rendition="Line" xml:id="ST_line_02r_37"/>
+      <zone ulx="603" uly="7396" lrx="2910" lry="7522" rendition="Line" xml:id="ST_line_02r_38"/>
+      <zone ulx="692" uly="7476" lrx="2918" lry="7607" rendition="Line" xml:id="ST_line_02r_39"/>
+      <zone ulx="685" uly="7547" lrx="2922" lry="7666" rendition="Line" xml:id="ST_line_02r_40"/>
+      <zone ulx="701" uly="7623" lrx="2929" lry="7741" rendition="Line" xml:id="ST_line_02r_41"/>
+      <zone ulx="698" uly="7690" lrx="2899" lry="7813" rendition="Line" xml:id="ST_line_02r_42"/>
+      <zone ulx="692" uly="7766" lrx="2895" lry="7895" rendition="Line" xml:id="ST_line_02r_43"/>
+      <zone ulx="669" uly="7839" lrx="2916" lry="7982" rendition="Line" xml:id="ST_line_02r_44"/>
+      <zone ulx="686" uly="7902" lrx="2966" lry="8063" rendition="Line" xml:id="ST_line_02r_45"/>
+      <zone ulx="675" uly="7978" lrx="2921" lry="8133" rendition="Line" xml:id="ST_line_02r_46"/>
+      
+      <!-- FOLIO 03 -->
+      
+      <zone ulx="407" uly="8442" lrx="694" lry="8645" rendition="HotSpot" xml:id="ST_hs_03r_01"/>
+      <zone ulx="440" uly="8779" lrx="533" lry="8855" rendition="HotSpot" xml:id="ST_hs_03r_02"/>
+      <zone ulx="430" uly="8911" lrx="577" lry="8991" rendition="HotSpot" xml:id="ST_hs_03r_03"/>
+      <zone ulx="357" uly="10891" lrx="526" lry="11032" rendition="HotSpot" xml:id="ST_hs_03r_04"/>
+      <zone ulx="479" uly="11234" lrx="669" lry="11307" rendition="HotSpot" xml:id="ST_hs_03r_05"/>
+      <zone ulx="339" uly="11725" lrx="670" lry="11837" rendition="HotSpot" xml:id="ST_hs_03r_06"/>
+      <zone ulx="342" uly="11885" lrx="560" lry="11981" rendition="HotSpot" xml:id="ST_hs_03r_07"/>
+      
+      <zone ulx="718" uly="8509" lrx="2863" lry="8612" rendition="Line" xml:id="ST_line_03r_01"/>
+      <zone ulx="724" uly="8609" lrx="2030" lry="8687" rendition="Line" xml:id="ST_line_03r_02"/>
+            <!-- riga vuota -->
+      <zone ulx="868" uly="8763" lrx="2813" lry="8851" rendition="Line" xml:id="ST_line_03r_04"/>
+      <zone ulx="879" uly="8849" lrx="2811" lry="8925" rendition="Line" xml:id="ST_line_03r_05"/>
+      <zone ulx="713" uly="8929" lrx="2797" lry="9021" rendition="Line" xml:id="ST_line_03r_06"/>
+      <zone ulx="720" uly="9021" lrx="2810" lry="9103" rendition="Line" xml:id="ST_line_03r_07"/>
+      <zone ulx="713" uly="9101" lrx="2824" lry="9209" rendition="Line" xml:id="ST_line_03r_08"/>
+      <zone ulx="703" uly="9192" lrx="2848" lry="9306" rendition="Line" xml:id="ST_line_03r_09"/>
+      <zone ulx="712" uly="9283" lrx="2881" lry="9393" rendition="Line" xml:id="ST_line_03r_10"/>
+      <zone ulx="700" uly="9367" lrx="2816" lry="9461" rendition="Line" xml:id="ST_line_03r_11"/>
+      <zone ulx="691" uly="9443" lrx="2846" lry="9554" rendition="Line" xml:id="ST_line_03r_12"/>
+      <zone ulx="704" uly="9525" lrx="2846" lry="9639" rendition="Line" xml:id="ST_line_03r_13"/>
+      <zone ulx="698" uly="9618" lrx="2842" lry="9726" rendition="Line" xml:id="ST_line_03r_14"/>
+      <zone ulx="707" uly="9695" lrx="2864" lry="9798" rendition="Line" xml:id="ST_line_03r_15"/>
+      <zone ulx="691" uly="9783" lrx="2836" lry="9885" rendition="Line" xml:id="ST_line_03r_16"/>
+      <zone ulx="679" uly="9866" lrx="2812" lry="9968" rendition="Line" xml:id="ST_line_03r_17"/>
+      <zone ulx="685" uly="9943" lrx="2822" lry="10048" rendition="Line" xml:id="ST_line_03r_18"/>
+      <zone ulx="692" uly="10019" lrx="2866" lry="10133" rendition="Line" xml:id="ST_line_03r_19"/>
+      <zone ulx="682" uly="10099" lrx="2828" lry="10205" rendition="Line" xml:id="ST_line_03r_20"/>
+      <zone ulx="693" uly="10178" lrx="2825" lry="10274" rendition="Line" xml:id="ST_line_03r_21"/>
+      <zone ulx="684" uly="10260" lrx="2804" lry="10351" rendition="Line" xml:id="ST_line_03r_22"/>
+      <zone ulx="674" uly="10335" lrx="2856" lry="10438" rendition="Line" xml:id="ST_line_03r_23"/>
+      <zone ulx="685" uly="10417" lrx="2827" lry="10519" rendition="Line" xml:id="ST_line_03r_24"/>
+      <zone ulx="675" uly="10503" lrx="2875" lry="10601" rendition="Line" xml:id="ST_line_03r_25"/>
+      <zone ulx="653" uly="10574" lrx="2829" lry="10677" rendition="Line" xml:id="ST_line_03r_26"/>
+      <zone ulx="689" uly="10673" lrx="2854" lry="10764" rendition="Line" xml:id="ST_line_03r_27"/>
+      <zone ulx="683" uly="10748" lrx="2256" lry="10841" rendition="Line" xml:id="ST_line_03r_28"/>
+            <!-- riga vuota -->
+      <zone ulx="823" uly="10895" lrx="2829" lry="11005" rendition="Line" xml:id="ST_line_03r_30"/>
+      <zone ulx="833" uly="10999" lrx="2856" lry="11098" rendition="Line" xml:id="ST_line_03r_31"/>
+      <zone ulx="643" uly="11058" lrx="2842" lry="11164" rendition="Line" xml:id="ST_line_03r_32"/>
+      <zone ulx="672" uly="11151" lrx="2795" lry="11242" rendition="Line" xml:id="ST_line_03r_33"/>
+      <zone ulx="683" uly="11236" lrx="2789" lry="11328" rendition="Line" xml:id="ST_line_03r_34"/>
+      <zone ulx="677" uly="11315" lrx="2778" lry="11403" rendition="Line" xml:id="ST_line_03r_35"/>
+      <zone ulx="690" uly="11395" lrx="2792" lry="11479" rendition="Line" xml:id="ST_line_03r_36"/>
+      <zone ulx="681" uly="11474" lrx="2800" lry="11561" rendition="Line" xml:id="ST_line_03r_37"/>
+      <zone ulx="577" uly="11555" lrx="2802" lry="11634" rendition="Line" xml:id="ST_line_03r_38"/>
+      <zone ulx="673" uly="11629" lrx="2834" lry="11716" rendition="Line" xml:id="ST_line_03r_39"/>
+      <zone ulx="668" uly="11709" lrx="2811" lry="11787" rendition="Line" xml:id="ST_line_03r_40"/>
+      <zone ulx="631" uly="11779" lrx="2783" lry="11856" rendition="Line" xml:id="ST_line_03r_41"/>
+      <zone ulx="667" uly="11857" lrx="2829" lry="11943" rendition="Line" xml:id="ST_line_03r_42"/>
+      <zone ulx="673" uly="11944" lrx="2807" lry="12031" rendition="Line" xml:id="ST_line_03r_43"/>
+      <zone ulx="573" uly="12029" lrx="2780" lry="12129" rendition="Line" xml:id="ST_line_03r_44"/>
+      
+      <!-- FOLIO 04 -->
+      
+      <!-- FOLIO 05 -->
+      
+      <!-- FOLIO 06 -->
+      
+      <!-- FOLIO 07 -->
+      
+      <!-- FOLIO 08 -->
+      
+      <!-- FOLIO 09 -->
+      
+      <!-- FOLIO 10 -->
+      
+      <!-- FOLIO 11 -->
+      
+      <!-- FOLIO 12 -->
+      
+      <!-- FOLIO 13 -->
+      
+      <!-- FOLIO 14 -->
+      
+      <!-- FOLIO 15 -->
+      
+      <!-- FOLIO 16 -->
+      
+      <!-- FOLIO 17 -->
+      
+      <!-- FOLIO 18 -->
+      
+      
+      
+    </surface>
+  </facsimile>
+  
+  <text xml:id="ST_text_transIT" type="prose">
+
+    <!-- ############  NOTE VARIE  #############   -->
+    <!-- - i <del> devono avere @rend, non @type   -->
+    <!-- - aggiungere un @place per ogni <add>     -->
+    <!-- - inserire @place per <fw> o per <add>?   -->
+    <!-- - controllare e uniformare tutti i @place -->
+    <!-- - marcatura uniforme per tutte le [ ]     -->
+    <!-- - spostare tutti i marginalia in hotspot? -->
+    <!-- - specificare la mano per <add> moderne con @hand="modern" (o simili)  -->
+    <!-- - marcare i punti dell'edizione con <reg> -->
+    
+    <body>
+      
+      <div n="1" type="section">
+      
+      
+        <p n="1" xml:id="STT_p_01">        
+         <w>Nel</w> 
+         <w>nome</w> 
+         <w>del</w> 
+         <w>Signore</w><pc>,</pc> 
+         <w>amen</w><pc>.</pc>                
+          <w>Poiché</w> 
+         <w>nostro</w> 
+         <w>Signore</w> 
+         <w>Gesù</w> 
+         <w>Cristo</w> 
+         <w>voleva</w> 
+         <w>custodire</w> <w>l'</w><w>illustre</w>, <w>bella</w> <w>e</w> <w>nobile</w> <w>città</w> <w>di</w> 
+         <placeName ref="#Alba"> 
+         <w>Alba</w>
+         </placeName><pc>,</pc> 
+         <w>mandò</w> <w>un</w> <w>uomo</w> <w>santissimo</w>, <w>di</w> <w>nome</w> 
+         <persName ref="#sanTeobaldo">
+         <w>Teobaldo</w>
+         </persName><pc>,</pc> 
+          <w>secondo</w> <w>la</w> <w>fedele</w> <w>profezia</w> <w>di</w> 
+          <persName ref="#Davide">
+          <w>Davide</w>
+          </persName> 
+          <quote>
+          <w>Se</w> <w >il</w> <w>Signore</w> <w>non</w> <w>custodirà</w> <w>la</w> <w>città</w><pc>,</pc> <w>invano</w> <w>vigila</w> <w>chi</w> <w>la</w> <w>custodisce</w>
+          </quote><pc>.</pc> 
+         <w>E</w> <w>quest'</w><w >uomo</w> <w>santissimo</w> <w>certamente</w> <w>forestiero</w> <w>e</w> <w>di</w> 
+         <placeName ref="#Mondovì"> 
+         <w>Montevico</w>
+         </placeName><pc>,</pc>
+         <w>quando</w> <w>era</w> <w>fanciullo</w> <w>in</w>
+         <placeName ref="#Alba">
+          <w>Alba</w>
+         </placeName><pc>,</pc>
+         <w>imparò</w> <w>a</w> <w>cucire</w> <w>le</w> <w>calzature</w> <w>ed</w> <w>esercitava</w> <w>il</w> <w>mestiere</w> <w>di</w> <w>calzolaio</w><pc>.</pc>
+         </p> 
+        <p n="2" xml:id="STT_p_02"> 
+        <w>Quando</w> <w>era</w> <w>già</w> <w>esperto</w> <w>del</w> <w>mestiere</w><pc>,</pc> <w>accadde</w> <w>che</w> <w>il</w> <w>suo</w> <w>maestro</w>, <w>e</w> <w>quasi</w> 
+        <w>suo</w> <w>alunno</w>, <w>fosse</w> <w>afferrato</w> <w>dal</w> <w>laccio</w> <w>di</w> <w>una</w> <w>grave</w> <w>malattia</w><pc>.</pc> 
+        <w>E</w> <w>vedendo</w> <w>e</w> <w>sentendo</w> <w>che</w> <w>era</w> <w>grave</w> <w>e</w> <w>versava</w> <w>in</w> <w>pericolo</w> <w>di</w> <w>vita</w><pc>,</pc>
+        <w>chiamò</w> <w>l'</w><w>uomo</w> <w>santissimo</w> 
+        <persName ref="#sanTeobaldo">  
+        <w>Teobaldo</w>
+        </persName><pc>,</pc>
+        <w>suo</w> <w>discepolo</w><pc>,</pc> <w>e</w> <w>gli</w> <w>disse</w><pc>:</pc>
+        <q>
+        <w>Figliolo</w> <w >mio</w> 
+        <persName ref="#sanTeobaldo">
+        <w>Teobaldo</w>
+        </persName><pc>,</pc> <w>finora</w> <w>io</w> <w>ho</w> <w>tenuto</w> <w>te</w> <w>come</w> <w>un</w> <w>figlio</w><pc>;</pc> 
+        <w>d'</w><w>ora</w> <w>in</w> <w>avanti</w> <w>tieni</w> <w>tu</w> <w>come</w> <w>tuo</w> <w>figlio</w> <w>il</w> <w>mio</w> <w>figliolo</w>
+        <pc>,</pc> <w>correggendolo</w> <w>e</w> <w >insegnandogli</w> <w>il</w> <w>mestiere</w><pc>,</pc>
+        <w>comportati</w> <w>con</w> <w>lui</w> <w>come</w> <w>io</w> <w>con</w> <w>te</w><pc>.</pc>
+        </q>
+        <w>Quel</w> <w>fanciullo</w> <w>si</w> <w>chiamava</w> 
+        <persName ref="#Giacomo">
+        <w>Giacomo</w>
+        </persName><pc>.</pc>
+        <q> 
+        <w>E</w> <w>intanto</w> <w>affinché</w> <w>il</w> <w>legame</w> <w>d'</w><w>amore</w> <w>diventi</w> <w>indissolubile</w><pc>,</pc>
+        <w>io</w> <w>ti</w> <w>prego</w><pc>,</pc>
+        <w>o</w> <w>dolcissimo</w> <w>figlio</w><pc>,</pc> <w>di</w> <w>accettare</w> <w>la</w> <w>mia</w> <w>figliola</w> <w>come</w> <w>fidanzata</w>
+        <w>e</w> <w>come</w> <w>moglie</w><pc>.</pc>
+        </q>
+        <w >E</w> <w>quella</w> <w>fanciulla</w> <w>si</w> <w>chiamava</w> 
+        <persName ref="#Viridia">
+        <w>Virida</w>
+        </persName><pc>.</pc>
+        <q>
+        <w>Affinché</w> <w>tu</w> <w>per</w> <w>lei</w> <w>possa</w> <w>essere</w> <w>marito</w>, <w>signore</w> <w>e</w> <w>padre</w><pc>,</pc>
+        <w>per</w> <w>mio</w> <w>figlio</w> <w>fratello</w> <w>e</w> <w>padre</w><pc>,</pc> <w>e</w> <w>per</w> <w>la</w> <w>tua</w> <w>padrona</w> <w>figlio</w><pc>.</pc>
+        <w>E</w> <w>tutta</w> <w>la</w> <w>sostanza</w> <w>della</w> <w>casa</w> <w>sia</w> <w>tua</w><pc>;</pc>
+        <w>e</w> <w>tu</w> <w>sarai</w> <w>il</w> <w>conforto</w> <w>di</w> <w>tutti</w> <w>costoro</w><pc>.</pc>
+        </q>
+        <w >A</w> <w>ciò</w> <w>l'</w><w >uomo</w> <w>di</w> <w>Dio</w><pc>,</pc>
+        <w>alzando</w> <w>gli</w> <w>occhi</w> <w>verso</w> <w>il</w> <w>cielo</w><pc>,</pc> <w>rispose</w> 
+        <q>
+        <w>Maestro</w> <w>mio</w><pc>,</pc> <w>per</w> <w>quello</w> <w>che</w> <w>dite</w> <w>benedico</w> <w>Dio</w><pc>,</pc>
+        <w>e</w> <w>a</w> <w>voi</w> <w>porgo</w> <w>vivi</w> <w>ringraziamenti</w><pc>,</pc> 
+        <w>ma</w> <w>poiché</w> <w>io</w> <w>ho</w> <w>in</w> <w>mente</w> <w>che</w> <w>altro</w> <w>si</w> <w>faccia</w><pc>,</pc> 
+        <w>e</w> <w>poiché</w> <w>vostra</w> <w>figlia</w> <w>sarebbe</w> <w>degna</w> <w>di</w> <w>onore</w> <w>più</w> <w>grande</w> <w>di</w> <w>quello</w>
+        <w>che</w> <w>le</w> <w>mie</w> <w>forze</w> <w>possano</w> <w>dare</w><pc>,</pc> <w>vi</w> <w>prego</w><pc>,</pc> <w>o</w> <w>padre</w> <w>mio</w><pc>,</pc>
+        <w>per</w> <w>amor</w> <w>di</w> <w>Dio</w> <w>e</w> <w>senso</w> <w>di</w> <w>pietà</w><pc>,</pc> <w>di</w> <w>lasciarmi</w> <w>libero</w> 
+        <w>dal</w> <w>legame</w> <w>di</w> <w>questo</w> <w>matrimonio</w><pc>.</pc>
+        </q>
+        <w>Allora</w> <w>il</w> <w>maestro</w><pc>,</pc> <w>udite</w> <w>le</w> <w>parole</w> <w>dell'</w><w>uomo</w> <w>di</w> <w>Dio</w><pc>,</pc>
+        <w>lo</w> <w>benedisse</w> <w>con</w> <w>tutta</w> <w>la</w> <w>sua</w> <w>famiglia</w><pc>.</pc> <w>E</w> <w>subito</w><pc>,</pc>
+        <w>esalato</w> <w>l'</w><w>ultimo</w> <w>respiro</w><pc>,</pc> <w>rese</w> <w>l'</w><w>anima</w> <w>sua</w> <w>a</w> <w>Dio</w><pc>.</pc>
+        <w>Allora</w> <w>l'</w><w >uomo</w> <w>santissimo</w> 
+        <persName ref="#sanTeobaldo">
+          <w>Tabaudo</w>
+        </persName><pc>,</pc> 
+        <w>celebrate</w> <w>le</w> <w>esequie</w> <w>del</w> <w>suo</w> <w>maestro</w><pc>,</pc> 
+        <w>se</w> <w>ne</w> <w>andò</w> <w>peregrino</w><pc>,</pc> 
+        <w>lasciando</w> <w>alla</w> <w>sua</w> <w>maestra</w> <w>e</w> <w>a</w> <w>entrambi</w> <w>i</w> <w>figli</w>
+        <w>quaranta</w> <w>lire</w> <w>di</w> <w>moneta</w> <w>astese</w><pc>,</pc> 
+        <w>che</w> <w>già</w> <w>aveva</w> <w>risparmiate</w> <w>grazie</w> <w>al</w> <w>suddetto</w> <w>mestiere</w> <w>di</w> <w>calzolaio</w>. 
+        <w>E</w> <w>preso</w> <w>il</w> <w>bordone</w> <w>e</w> <w>la</w> <w>bisaccia</w><pc>,</pc> 
+        <w>vivendo</w> <w>di</w> <w>elemosina</w><pc>,</pc> 
+        <w>visitò</w> 
+        <placeName ref="#altareSanGiacomo">
+         <w>l'</w><w>altare</w> <w>dedicato</w> <w>al</w> 
+        <persName ref="#sanGiacomo">
+        <w>beato</w> 
+        <w>Giacomo</w> 
+        <w>apostolo</w>
+       </persName>  
+       </placeName>
+       <w>in</w> 
+        <placeName ref="#Galizia">
+          <w>Galizia</w>
+        </placeName><pc>.</pc>
+        </p>
+        
+        <p n="3" xml:id="STT_p_03">
+         <w>Dopo</w> <w>che</w> <w>ebbe</w> <w>compiuto</w> <w>il</w> <w>suo</w> <w>viaggio</w> <w>e</w> <w>adempiuto</w> <w>il</w> <w>voto</w>
+         <w>fatto</w> <w>all'</w><w>apostolo</w> <w>suddetto</w><pc>,</pc> 
+         <w>ritornò</w> <w>in</w>
+         <placeName ref="#Italia"> 
+          <w>Italia</w>
+         </placeName> 
+         <w>e</w> <w>visitò</w> <w>la</w> <w>città</w> <w>nella</w> <w>quale</w> <w>prima</w> <w>aveva</w> <w>abitato</w><pc>.</pc> 
+         <w>Lungo</w> <w>la</w> <w>via</w> <w>apprese</w> <w>infatti</w> <w>dallo</w> <w>Spirito</w> <w>Santo</w> 
+         <w>di</w> <w>non</w>  <w>doversi</w> <w>esaltare</w> <w>in</w> <w>alcuna</w> <w>pratica</w>
+         <w>e</w><pc>,</pc> <w>avendo</w> <w>accolto</w> <w>e</w> <w >ribadito</w> <w>nel</w> <w>suo</w> <w>cuore</w>
+         <w>questo</w> <w>precetto</w><pc>,</pc> 
+         <w>rinnegò</w> <w>la</w> <w>sua</w> <w>arte</w> <w>di</w> <w>ciabattino</w> <w>e</w> <w>calzolaio</w> 
+         <w>e</w> <w>si</w> <w>dedicò</w> <w>al</w> <w>mestiere</w> <w>più</w> <w>umile</w> <w>che</w> <w>poté</w> <w>trovare</w><pc>.</pc>
+        <w>E</w> <w>volendo</w> <w>osservare</w> <w>il</w> <w >comando</w> <w>di</w> <w>Dio</w><pc>,</pc> 
+        <w>non</w> <w>solo</w> <w>rivolse</w> <w>lo</w> <w>sguardo</w> <w>al</w> <w>più</w> <w>vile</w> <w>degli</w> <w>elementi</w><pc>,</pc> 
+         <w>ma</w> <w>si</w> <w>collocò</w> <w>al</w> <w>livello</w> <w>degli</w> <w>asini</w>
+         <w>e</w> <w>dei</w> <w>muli</w> <w>che</w> <w>portano</w> <w>i</w> <w>pesi</w><pc>.</pc>
+         <w>Il</w> <w>comando</w> <w>del</w> <w>Signore</w> <w>è</w> <w>questo</w>
+          <quote>
+         <w>chi</w> <w>si</w> <w>umilia</w> <w>sarà</w> <w>esaltato</w>
+         <w>e</w> <w>ancora</w> <w>chi</w> <w>non</w> <w>sarà</w> <w>rinnovato</w>
+         <w>e</w> <w>non</w> <w>sarà</w> <w>diventato</w> <w>come</w> <w>un</w> <w>fanciullo</w><pc>,</pc> 
+         <w>non</w> <w>entrerà</w> <w>nel</w> <w>regno</w> <w>dei</w> <w>cieli</w><pc>.</pc></quote>
+         <w>Rivolse</w> <w>gli</w> <w>occhi</w> <w>alla</w> <w>terra</w><pc>,</pc> 
+         <w>ma</w> <w>con</w> <w>cuore</w> <w>umile</w> <w>si</w> <w>rivolgeva</w> <w>in</w> <w>verità</w> <w>al</w> <w>cielo</w><pc>.</pc> 
+         <w>Sopportava</w> <w>le</w> <w>fatiche</w> <w>nel</w> <w>corpo</w><pc>,</pc> 
+         <w>ma</w> <w>l'</w><w>anima</w> <w>si</w> <w>gloriava</w> <w>sempre</w> <w>nel</w> <w>Signore</w><pc>.</pc>
+         <w>L'</w><w>uomo</w> <w>di</w> <w>Dio</w> <w>guadagnava</w> <w>molto</w> <w>denaro</w> <w>con</w> <w>il</w> <w>quale</w>
+         <w>comprava</w> <w>ogni</w> <w>giorno</w> <w>dei</w> <w>pani</w> <w>e</w> <w>delle</w> <w>focacce</w> <w>e</w><pc>,</pc> 
+         <w>dopo</w> <w>averli</w> <w>divisi</w> <w>in</w> <w>tre</w> <w>parti</w><pc>,</pc>
+         <w>si</w> <w>chiedeva</w> <w>quali</w> <w>fossero</w> <w>le</w> <w>migliori</w> <w>e</w> <w>le</w> <w>distribuiva</w> <w>ai</w> <w>poveri</w><pc>;</pc>
+         <w>teneva</w> <w>per</w> <w>sé</w> <w>la</w> <w>terza</w> <w>e</w> <w>se</w> <w>ne</w> <w>serviva</w> <w>per</w> <w>il</w> <w>sostentamento</w>
+         <w>del</w> <w>proprio</w> <w>corpo</w><pc>.</pc>
+         <w>Un</w> <w>tale</w> <w >della</w> <w >famiglia</w>
+         <w>dei</w> 
+         <persName ref="#Furmenti">
+         <w>Furmenti</w>
+         </persName><pc>,</pc> 
+         <w>udendo</w> <w>che</w> <w>faceva</w> <w>ciò</w> <w>e</w> <w>che</w> <w>spesso</w> <w>acquistava</w> <w>focacce</w><pc>,</pc> 
+         <w>mosso</w> <w>da</w> <w>invidia</w> <w>e</w> <w>istigato</w> <w>dal</w> <w>diavolo</w><pc>,</pc>
+         <w>riempì</w> <w>una</w> <w>focaccia</w> <w>di</w> <w>sugna</w> <w>di</w> <w>maiale</w>
+         <w>e</w> <w>gliela</w> <w>porse</w> <w>affinché</w> <w>la</w> <w>mangiasse</w><pc>.</pc>
+         <persName ref="#sanTebaudo">
+          <w>san</w> 
+          <w>Teobaldo</w>
+         </persName><pc>,</pc> 
+         <w>però</w><pc>,</pc> 
+         <w>vedendo</w> <w>gli</w> <w>scherzi</w> <w>che</w> <w>gli</w> <w>erano</w> <w>stati</w> <w>fatti</w><pc>,</pc>
+         <w>sebbene</w> <w>non</w> <w>fosse</w> <w>solito</w> <w>arrabbiarsi</w><pc>,</pc> 
+         <w>si</w> <w>adirò</w> <w>in</w> <w>modo</w> <w>insolito</w><pc>,</pc> 
+         <w>e</w> <w>maledisse</w> <w>quell'</w><w>uomo</w> <w>dicendo</w>
+         <q>
+         <w>Sii</w> <w>maledetto</w> <w>tra</w> <w>gli</w> <w>uomini</w> <w>e</w> <w>la</w> <w>tua</w> <w>stirpe</w> <w>non</w> <w >sia</w> <w>esaltata</w><pc>,</pc>
+         <w>né</w> <w>la</w> <w>tua</w> <w>discendenza</w> <w>sia</w> <w>moltiplicata</w> <w>in</w> <w>eterno</w><pc>.</pc>
+         </q>
+        </p>
+         
+         <pb n="2" xml:id="ST_fol_02_r"/>
+         
+          <p n="4" xml:id="STT_p_04">
+         <w>E</w> <w>in</w> <w>lui</w> <w>si</w> <w>compì</w> <w>ciò</w> <w>che</w> <w>fu</w> <w>scritto</w> <w>dal</w> <w>profeta</w> <w>che</w> <w>diceva</w> 
+         <quote>
+         <w>amò</w> <w>la</w> <w>maledizione</w> <w>e</w> <w>cadrà</w> <w>su</w> <w>di</w> <w>lui</w><pc>,</pc> 
+         <w>non</w> <w>volle</w> <w>la</w> <w>benedizione</w> <w>ed</w> <w>essa</w> <w>sarà</w> <w>da</w> <w>lui</w> <w>lontana</w><pc>.</pc>
+         </quote> 
+         <w>Il</w> <w>santo</w><pc>,</pc> <w>pensando</w> <w>in</w> <w>se</w> <w>stesso</w> <w>di</w> <w>aver</w> <w>oltrepassato</w> <w>il</w> <w>limite</w>
+         <w>con</w> <w>la</w> <w>bestemmia</w> <w>e</w> <w>di</w> <w>non</w> <w>aver</w> <w>avuto</w> <w>la</w> <w>pazienza</w> <w>che</w> <w>richiede</w>
+         <w>o</w> <w>richiedeva</w> <w>il</w> <w>suo</w> <w>stile</w> <w>di</w> <w>vita</w><pc>,</pc> 
+         <w>dopo</w> <w>la</w> <w>confessione</w> <w>dei</w> <w>peccati</w> <w>commessi</w><pc>,</pc>
+         <w>decise</w> <w>di</w> <w>non</w> <w>dormire</w> <w>più</w> <w>se</w> <w>non</w> <w>sulla</w> <w>pietra</w> <w>della</w> <w>scala</w>
+         <w >della</w>
+         <placeName ref="#chiesaSanLorenzo">
+         <w>chiesa</w>
+         <w>del</w>
+         <persName ref="#sanMartino">
+         <w>beato</w> 
+         <w>Lorenzo</w>
+         </persName> 
+         </placeName><pc>,</pc> 
+         <w>che</w> <w>si</w> <w>trova</w> <w>nella</w> <w>porta</w> <w>esterna</w><pc>.</pc>
+         <w>E</w> <w>così</w> <w>si</w> <w>propose</w> <w>l'</w><w>uomo</w> <w>santo</w> <w>di</w> <w>Dio</w> 
+         <w>e</w> <w>perseverò</w> <w>per</w> <w>tutto</w> <w>il</w> <w>corso</w> <w>della</w> <w>sua</w> <w>vita</w><pc>.</pc>
+         <w>E</w> <w>mentre</w> <w>il</w> <w>santo</w> <w>perseverava</w> <w>nello</w> <w>stile</w> <w>di</w> <w>vita</w>
+         <w>precedentemente</w> <w>descritto</w><pc>,</pc> <w>cioè</w> <w>svolgeva</w>  <w>il</w> <w>suo</w> <w>lavoro</w> 
+         <w>portando</w> <w>carichi</w> <w>e</w> <w>sacchi</w><pc>,</pc> 
+         <w>lo</w> <w>chiamò</w> <w>dunque</w> <w>la</w> <w>sua</w> <w>maestra</w>, <w>ovvero</w> <w>la</w> <w >moglie</w> <w>che</w>
+         <w>aveva</w> <w>avuto</w> <w>il</w> <w>suo</w> <w>maestro</w><pc>,</pc> <w>e</w> <w>gli</w> <w>disse</w>: 
+          <q>
+          <w >O</w> <w >fratello</w> <w >dolcissimo</w>, <w >vi</w> <w >prego</w> <w >di</w> <w >portare</w> <w >questo</w> <w >sacco</w> <w >di</w> <w >frumento</w> <w >al</w> <w >mulino</w> <w >e</w> <w >di</w> <w >fermarvi</w> <w >a</w> <w >custodirlo</w> <w >affinché</w> <w >la</w> <w >farina</w> <w >sia</w> <w >meglio</w> <w >macinata</w><pc>.</pc>
+          </q> 
+          <w>E</w> <w>rispondendole</w> <w>disse</w>: 
+          <q><w >Volentieri</w><pc>.</pc></q>
+         <w>Preso</w> <w>il</w> <w>sacco</w><pc>,</pc> <w>lo</w> <w>portò</w> <w>al</w> <w>mulino</w> <w>e</w> <w>fece</w> <w>così</w> <w>come</w> <w>gli</w>
+        <w>era</w> <w>stato</w> <w>ordinato</w><pc>.</pc> 
+        <w>C'</w><w>erano</w><pc>,</pc> <w>però</w><pc>,</pc> 
+        <w>attorno</w> <w>al</w> <w>mulino</w> <w>moltissimi</w> <w>poveri</w> <w>a</w> <w>causa</w> <w>della</w> <w>carestia</w> <w>allora</w> <w>vigente</w> 
+        <w>e</w> 
+        <persName ref="#sanTebaudo">
+          <w>san</w>
+          <w>Teobaldo</w>
+        </persName> <pc>,</pc> 
+        <w>mosso</w> <w>da</w> <w>compassione</w> <w>nei</w> <w>loro</w> <w>confronti</w><pc>,</pc> 
+        <w>non</w> <w>pensò</w> <w>a</w> <w>chi</w> <w>appartenesse</w> <w>la</w> <w>farina</w> <w>e</w> <w>la</w> <w>distribuì</w>
+        <w>tutta</w> <w>ai</w> <w>poveri</w><pc>.</pc> 
+        <w>Adempì</w> <w>infatti</w> <w>la</w> <w>parola</w> <w>di</w> 
+        <persName ref="#Davide">
+          <w>Davide</w>
+        </persName> 
+        <w>che</w> <w>dice</w>
+        <quote>
+          <w>distribuì</w> <w>ai</w> <w>poveri</w>
+        </quote><pc>.</pc>
+          </p>
+        <p n="5" xml:id="STT_p_05">
+        <w>Dopo</w> <w>aver</w> <w>dato</w> <w>suddetta</w> <w>farina</w> <w>ai</w> <w>poveri</w><pc>,</pc>
+        <w>si</w> <w>ricordò</w> <w>di</w> <w>aver</w> <w>distribuito</w> <w>roba</w> <w>d'</w><w>altri</w> 
+        <w>e</w> <w>provò</w> <w>in</w> <w>se</w> <w>stesso</w> <w>tanta</w> <w>vergogna</w>
+        <w>che</w> <w>a</w> <w>stento</w> <w>poté</w> <w>respirare</w><pc>.</pc>
+        <w>E</w> <w>volendo</w> <w>fuggire</w> <w>e</w> <w>nascondere</w> <w>ingegnosamente</w> <w>quella</w> <w>vergogna</w><pc>,</pc>
+        <w>con</w> <w>l'</w><w>aiuto</w> <w>di</w> <w>Dio</w><pc>,</pc>
+        <w>riempì</w> <w>il</w> <w>suo</w> <w>sacco</w> <w>di</w> <w>sabbia</w> <w>e</w> <w>lo</w> <w>portò</w>
+        <w>alla</w> <w>casa</w> <w>della</w> <w>sua</w> <w>maestra</w><pc>,</pc> <w >alla</w> <w >quale</w> <w >apparteneva</w><pc>.</pc>
+        <w>Dopo</w> <w>aver</w> <w>lanciato</w> <!-- CHECK -->
+        <w>il</w> <w>sacco</w> <w>in</w> <w >casa</w><pc>,</pc> 
+        <w>per</w> <w>la</w> <w>vergogna</w> <w>uscì</w> <w>dalla</w> <w>città</w>
+        <w>e</w> <w>giunse</w> <w>al</w> <w >borgo</w> <!--(<w>lui</w> <w>traduce</w> <w>castello</w>) --> <w>che</w> <w>è</w> <w>chiamato</w> 
+        <placeName ref="#Roddi">
+          <w>Roddi</w>
+        </placeName><pc>.</pc>
+        <w>Nel</w> <w>frattempo</w> <w>la</w> <w>donna</w><pc>,</pc> <w>ricevendo</w> <w>il</w> <w>suo</w> <w>sacco</w>
+        <w>e</w> <w>tirando</w> <w>fuori</w> <w>ciò</w> <w>che</w> <w>c'</w><w>era</w> <w>dentro</w><pc>,</pc>
+        <w>trovò</w> <w>della</w> <w>bella</w> <w>e</w> <w>buona</w> <w>farina</w>
+        <w>con</w> <w>la</w> <w>quale</w><pc>,</pc>
+        <w>impastandola</w><pc>,</pc> 
+        <w>fece</w> <w>più</w> <w>pane</w> <w>del</w> <w>solito</w>
+        <w>e</w> <w>ottenne</w> <w>anche</w> <w>pane</w> <w>migliore</w> <w>di</w> <w>quello</w> <w>che</w> <w>era</w> <w>solita</w> <w>ottenere</w><pc>.</pc>
+        <w>E</w> <w>ricordandosi</w> <w>dell'</w><w>uomo</w> <w>di</w> <w>Dio</w><pc>,</pc> 
+        <w>fece</w> <w>per</w> <w>lui</w> <w>una</w> <w>bella</w> <w>focaccia</w><pc>,</pc>
+        <w>perché</w> <w>sapeva</w> <w>che</w> <w>egli</w> <w>se</w> <w >ne</w> <w>serviva</w> <w>assai</w> <w>sovente</w><pc>.</pc>
+        <w>E</w> <w>lo</w> <w>fece</w> <w>cercare</w> <w>per</w> <w>la</w> <w>città</w><pc>,</pc>
+        <w>ma</w> <w>non</w> <w>lo</w> <w>trovò</w><pc>.</pc> 
+        <w>E</w> <w>mentre</w> <w>chiedeva</w> <w>ai</w> <w>vicini</w> <w>se</w> <w>lo</w> <w>avessero</w> <w>visto</w><pc>,</pc>
+        <w>passò</w> <w>una</w> <w>donna</w> <w>di</w> 
+        <placeName ref="#Roddi"> 
+         <w>Roddi</w>
+         </placeName>
+         <w>e</w> <w>le</w> <w>chiese</w>: 
+          <q>
+          <w >Chi</w> <w>cercate</w>?
+          </q><pc>,</pc> 
+         <w>e</w> <w>quella</w> <w>rispondendo</w> <w>disse</w>: 
+         <q> 
+          <w>Cerco</w> <w>un</w> <w>povero</w> <w>che</w> <w>si</w> <w>chiama</w> 
+           <persName ref="#sanTebaudo">
+           <w>frate</w>
+           <w>Teobaldo</w>
+           </persName><pc>.</pc>
+         </q>
+         <w>E</w> <w>allora</w> <w>lei</w> <w>disse</w>: 
+          <q>
+          <w>L'</w><w >ho</w> <w>visto</w> <w>oggi</w> <w>a</w>
+           <placeName ref="#Roddi"> 
+            <w>Roddi</w>
+           </placeName> 
+           <w>e</w> <w>se</w> <w>mai</w> <w>lo</w> <w>troverò</w><pc>,</pc> 
+           <w>lo</w> <w>rimanderò</w> <w>a</w> <w>voi</w>
+          </q><pc>.</pc>
+          <w>Mentre</w> <w>la</w> <w>donna</w> <w>ritornava</w> <w>a</w> <w>casa</w><pc>,</pc>
+          <w>lo</w> <w>trovò</w> <w>in</w> <w>detto</w> <w>borgo</w>
+          <w>e</w> <w>gli</w> <w>disse</w> <w>che</w> <w>la</w> <w>donna</w><pc>,</pc> 
+          <w>che</w> <w>aveva</w> <w>servito</w><pc>,</pc> 
+          <w>lo</w> <w>faceva</w> <w>cercare</w> <w>con</w> <w>grande</w> <w>zelo</w>
+          <w>per</w> <w>dargli</w> <w>del</w> <w>pane</w> <w>che</w> <w>aveva</w> <w>fatto</w><pc>.</pc>
+         <w>Ma</w> <w>quello</w><pc>,</pc> 
+         <w>udite</w> <w>le</w> <w>parole</w> <w>e</w> <w>compreso</w> <w>l'</w><w>accaduto</w><pc>,</pc>
+         <w>considerando</w> <w>anche</w> <w>che</w>  <w>queste</w> <w>cose</w> <w>erano</w> <w>accadute</w>
+        <w>per</w> <w>mano</w> <w>divina</w><pc>,</pc>
+        <w>rapidamente</w> <w>venne</w> <w>in</w> <w>città</w>
+        <w>ed</w> <w>entrò</w> <w>nella</w> <w>casa</w> <w>della</w> <w>sua</w> <w>maestra</w><pc>.</pc>
+        <w>Avendolo</w> <w>dunque</w> <w>visto</w><pc>,</pc> 
+        <w>fu</w> <w>presa</w> <w>da</w> <w>grande</w> <w>gioia</w> <w>e</w><pc>,</pc>
+        <w>prendendo</w> <w>la</w> <w>focaccia</w> <w>che</w> <w>per</w> <w>lui</w> <w>aveva</w> <w>fatto</w><pc>,</pc>
+        <w>preparò</w> <w>affinché</w> <w>mangiasse</w> <w>nella</w> <w>dispensa</w> 
+        <w>dove</w> <w>si</w> <w>trovava</w> <w>il</w> <w>vino</w><pc>.</pc>
+        <w>Egli</w> <w>non</w> <w>volle</w> <w>la</w> <w>focaccia</w><pc>,</pc> <w>ma</w> <w>le</w> <w>domandò</w> <w>del</w> <w>pane</w>
+        <w>e</w> <w>lei</w> <w>subito</w> <w>rapidamente</w> <w>gliene</w> <w>diede</w><pc>.</pc>
+        </p>
+        
+        <p n="6" xml:id="STT_p_06">
+        <w>Dopo</w> <w>che</w> <w>la</w> <w>donna</w> <w>si</w> <w>fu</w> <w>allontanata</w><pc>,</pc>
+        <w>l'</w><w>uomo</w> <w>giusto</w> <w>prese</w> <w>l'</w><w>unico</w> <w>pane</w> <w>e</w><pc>,</pc>
+        <w>elevati</w> <w>gli</w> <w>occhi</w> <w>al</w> <w>cielo</w><pc>,</pc> <w>lo</w> <w>benedisse</w>
+        <w>e</w> <w>lo</w> <w>spezzò</w> <w>in</w> <w>tre</w> <w>parti</w><pc>.</pc>
+        <w>Nella</w> <w>frazione</w> <w>del</w> <w>pane</w> 
+        <w>egli</w> <w>esercitava</w> <w>il</w> <w>sacerdozio</w> <w>che</w> <w>aveva</w> <w>appreso</w>
+        <w>da</w> <w>colui</w> <w>che</w> <w>è</w> <w>sacerdote</w> <w>per</w> <w>sempre</w>
+        <w>al</w> <w>modo</w> <w>di</w>
+         <persName ref="#Melchisedec"> 
+         <w>Melchisedec</w>
+         </persName><pc>.</pc>
+         <w>Offriva</w> <w>a</w> <w>Dio</w> <w>il</w> <w>sacrificio</w> <w>del</w> <w>pane</w> <w>in</w> <w>terra</w>
+         <w>e</w> <w>la</w> <w>sua</w> <w>anima</w> <w>tendeva</w> <w>all'</w><w>immortalità</w><pc>.</pc>
+        </p>
+        <p n="7" xml:id="STT_p_07">
+         <w>Dopo</w> <w>avere</w> <w>dunque</w> <w>sollevato</w> <w>gli</w> <w>occhi</w> <w>al</w> <w>cielo</w><pc>,</pc>
+         <w>sciolto</w> <w>il</w> <w>legame</w> <w>della</w> <w>natura</w><pc>,</pc>
+         
+         
+         <pb n="3" xml:id="ST_fol_03_r"/>
+         <!-- [<w >morte</w> <w >di</w> <w >San</w> <w >Tebaudo</w>] -->
+          
+         <w>la</w> <w>sua</w> <w>anima</w> <w>volò</w> <w>verso</w> <w>Dio</w>
+         <w>e</w> <w>ottenne</w> <w>la</w> <w>dimora</w> <w>per</w> <w>lui</w> <w>preparata</w> 
+         <w>insieme</w> <w>con</w> <w>i</w> <w>santi</w><pc>.</pc>
+         <w>Era</w> <w>l'</w><w>anno</w> 
+          <date when="1150">
+          <num>1150</num>
+          </date><pc>.</pc>
+        </p>
+        
+        <p n="8" xml:id="STT_p_08">
+         <w>Cadde</w> <w>pertanto</w> <w>il</w> <w>cadavere</w><pc>,</pc>
+         <w>o</w> <w>meglio</w> <w>il</w> <w>corpo</w> <w>santo</w><pc>,</pc> 
+         <w>sopra</w> <w>la</w> <w>tavola</w> <w>o</w> <w>mensa</w>
+         <w>sulla</w> <w>quale</w> <w>era</w> <w>stato</w> <w>preparato</w> <w>per</w> <w>lui</w> <w>per</w> <w>mangiare</w><pc>.</pc>
+         <w>E</w> <w>subito</w><pc>,</pc> 
+         <w>per</w> <w>desiderio</w> <w>e</w> <w>volontà</w> <w>divina</w><pc>,</pc> 
+         <w>le</w> <w>campane</w> <w>della</w> <w>città</w> <w>cominciarono</w> <w>a</w> <w>essere</w> <w>suonate</w><pc>,</pc> 
+         <w>senza</w> <w>che</w> <w>nessuno</w> <w>le</w> <w>toccasse</w> 
+         <w>e</w> <w>come</w> <w>se</w> <w>si</w> <w>dovesse</w> <w>celebrare</w> <w>il</w> <w>Natale</w> <w>del</w> <w>Signore</w><pc>.</pc>
+         <w>Le</w> <w>campane</w> <w>annunciavano</w> <w>un</w> <w>miracolo</w>
+         <w>e</w> <w>perciò</w> <w>le</w> <w>persone</w> <w>cominciarono</w> <w>a</w> <w>meravigliarsi</w>
+         <w>e</w> <w>ci</w> <w>fu</w> <w>un</w> <w>grande</w> <w>subbuglio</w>
+         <w>in</w> <w>tutto</w> <w>il</w> <w >popolo</w> <!--  <w>e</w> <w>arituinantes</w> --> 
+         <w>e</w> <w>vociando</w> <w>tutto</w> <w>insieme</w> <w>tra</w> <w>loro</w> <w>dicevano</w>:
+         <q>
+         <w>Veramente</w> <w>qualche</w> <w>cosa</w> <w>di</w> <w>grande</w> <w>si</w> <w>manifestò</w> <w>fra</w> <w>noi</w><pc>.</pc>
+         </q>
+         <w>E</w> <w>la</w> <w>donna</w><pc>,</pc> 
+         <w>ricordata</w> <w>poco</w> <w>fa</w><pc>,</pc>
+         <w>spaventata</w> <w>per</w> <w>il</w> <w>frastuono</w> <w>che</w> <w>c'</w><w>era</w> <w>in</w> <w>città</w><pc>,</pc>
+         <w>accorse</w> <w>al</w> <w>luogo</w> <w>dove</w> <w>aveva</w> <w>preparato</w> 
+         <w>per</w> <w>l'</w><w>uomo</w> <w>santo</w> <w>e</w> <w>trovò</w> <w>il</w> <w>suo</w> <w>corpo</w>
+         <w>che</w> <w>giaceva</w> <w>sulla</w> <w>mensa</w><pc>,</pc> 
+         <w>slegato</w> <w>dall'</w><w>anima</w><pc>.</pc>
+         <w>E</w> <w>spaventata</w><pc>,</pc> 
+         <w>la</w> <w>donna</w> <w>uscì</w> 
+         <w>e</w> <w>annunciò</w> <w>al</w> <w>vescovo</w> 
+         <w>e</w> <w>a</w> <w>tutto</w> <w>il</w> <w>clero</w> <w>che</w> <w>cosa</w> <w>le</w> <w>era</w> <w>apparso</w><pc>.</pc>
+         <w>Allora</w> <w>il</w> <w>vescovo</w><pc>,</pc>
+         <w>udendo</w> <w>queste</w> <w>cose</w><pc>,</pc>
+         <w>uscì</w> <w>con</w> <w>tutto</w> <w>il</w> <w>clero</w>
+         <w>con</w> <w>una</w> <w>grande</w> <w>processione</w> <w>e</w> <w>si</w> <w>recò</w> 
+         <!-- <w>con</w> <w>il</w> <w >Crocifisso</w> <w>del</w> <w>Signore</w> <w>davanti</w> -->
+         <w>preceduto</w> <w>dal</w> <w>Crocifisso</w> <w>del</w> <w>Signore</w><pc>,</pc> 
+         <w>nel</w> <w>luogo</w> <w>dove</w> <w>c'</w><w>era</w> <w>il</w> <w>corpo</w><pc>.</pc>
+         <w>E</w> <w>con</w> <w>grandi</w> <w>solennità</w> <w>portarono</w>
+         <w>il</w> <w>corpo</w> <w>con</w> <w>la</w> <w>mensa</w> <w>alla</w> 
+          <placeName ref="#chiesaSanLorenzo">
+          <w>chiesa</w> 
+          <w>del</w> 
+          <persName ref="#sanLorenzo">
+            <w>Beato</w>
+            <w>Lorenzo</w>
+            </persName>
+          </placeName><pc>.</pc>
+         <w>Deposto</w> <w>dunque</w> <w>il</w> <w>corpo</w><pc>,</pc> 
+         <w>iniziarono</w> <w>a</w> <w>celebrare</w> <w>l'</w><w>officio</w> <w>solenne</w>
+         <w>e</w> <w>offrirono</w> <w>al</w> <w>Signore</w> <w>il</w> <w>sacrificio</w> <w>in</w> <w>onore</w> <w>del</w> <w>santo</w><pc>.</pc>
+         <w>E</w> <w>volendo</w> <w>seppellire</w> <w>il</w> <w>corpo</w><pc>,</pc>
+         <w>non</w> <w>poterono</w> <w>scavare</w> <w>altrove</w>
+         <w>né</w> <w>portare</w> <w>il</w> <w>corpo</w> <w>in</w> <w>altro</w> <w>luogo</w><pc>.</pc>
+         <w>Pertanto</w><pc>,</pc>
+         <w>mentre</w> <w>tutti</w> <w>erano</w> <w>meravigliati</w><pc>,</pc> 
+         <w>si</w> <w>presentò</w> <w>un</w> <w>certo</w> <w>mendicante</w> <w>della</w> 
+         <placeName ref="#Provenza"> 
+          <w>Provenza</w>
+         </placeName>
+          <w>che</w> <w>disse</w> <w>loro</w>: 
+          <q>
+          <w>Io</w> <w>ho</w> <w>sentito</w> <w>da</w> <w >quest'</w><w>uomo</w> <w>mentre</w> <w>era</w> <w>in</w> <w>vita</w> <w>ciò</w>:
+          <quote>
+            <w >questo</w> <w >roveto</w> <w >o</w> <w >spineto</w> <w >darà</w> <w >ancora</w> <w >segni</w> <w >di</w> <w >virtù</w>
+          </quote>         
+          </q><pc>.</pc>
+          <w>Era</w> <w>dunque</w> <w>quel</w> <w>luogo</w> <w>in</w> <w>mezzo</w> <w>a</w> <w>due</w> <w>chiese</w><pc>,</pc>
+         <w>cioè</w> <w>quella</w> <w>di</w> 
+          <placeName ref="#chiesaSanLorenzo">
+          <w>San</w> <w>Lorenzo</w>
+          </placeName> 
+          <w>e</w> <w>quella</w> <w>di</w>
+          <placeName ref="#chiesaSanSilvestro">
+          <w>San</w> <w>Silvestro</w>
+          </placeName>
+         <w>e</w> <w>la</w> <w>distanza</w> <w>era</w> <w>abbastanza</w> <w>grande</w><pc>.</pc>
+         <w>E</w> <w>giunti</w> <w>nel</w> <w>luogo</w><pc>,</pc>
+         <w>videro</w> <w>due</w> <w>candelabri</w> <w>sui</w> <w>quali</w> <w>c'</w><w >erano</w> <w>due</w> <w>ceri</w> <w>accesi</w> 
+         <w>e</w> <w>in</w> <w>mezzo</w> <w>c'</w><w>era</w> <w>un</w> <w>bel</w> <w>sepolcro</w> <w>nel</w> <w>quale</w><pc>,</pc>
+         <w>come</w> <w>sembrava</w><pc>,</pc>
+         <w>non</w> <w>vi</w> <w>era</w> <w>stato</w> <w>posto</w> <w>alcun</w> <w>cadavere</w><pc>.</pc>
+         <w>Pertanto</w><pc>,</pc> 
+         <w>preso</w> <w>il</w> <w>corpo</w><pc>,</pc> 
+         <w>lo</w> <w>portarono</w> <w>al</w> <w>sepolcro</w> <w>e</w> <w>lì</w> <w>lo</w> <w>seppellirono</w><pc>,</pc>
+         <w>lodando</w> <w>e</w> <w>glorificando</w> <w>Dio</w><pc>.</pc>
+         <w>E</w> <w>dopo</w> <w>che</w> <w>essi</w> <w>fecero</w> <w>ciò</w><pc>,</pc>
+         <w>le</w> <w>campane</w> <w>cessarono</w> <w>di</w> <w>suonare</w><pc>.</pc>
+        </p>
+        
+        <p n="9" xml:id="STT_p_09">
+         <w>Accadde</w> <w>poi</w> <w>che</w><pc>,</pc>
+         <w>dopo</w> <w>che</w> <w>furono</w> <w>celebrate</w> <w>le</w> <w>esequie</w> <w>del</w> <w>santo</w> <w>di</w> <w>Dio</w><pc>,</pc>
+         <w>il</w> <w>Signore</w> <w>manifestò</w> <w>nel</w> <w>popolo</w> <w>attraverso</w> <w>di</w> <w>lui</w>
+         <w>prodigi</w> <w>e</w> <w>grandi</w> <w>segni</w><pc>.</pc>
+         <w>Dopo</w> <w>la</w> <w>sua</w> <w>morte</w><pc>,</pc>
+         <w>dunque</w><pc>,</pc> 
+         <w>il</w> <w>santo</w> <w>benedetto</w> <w>operò</w> <w>tanti</w> <w>miracoli</w>
+         <w>che</w> <w>per</w> <w>la</w> <w>loro</w> <w>quantità</w> <w>non</w> <w>poterono</w> <w>essere</w> <w>raccontati</w><pc>.</pc>
+         <w>E</w> <w>quelli</w> <w>che</w> <w>sono</w> <w>noti</w><pc>,</pc> <w>adatti</w> <w>e</w> <w>affidati</w>
+         <w>alla</w> <w>memoria</w> <w>scritta</w> <w>sono</w> <w>singolarmente</w> <w>esposti</w> <w>di</w> <w>seguito</w><pc>.</pc>
+         <w>E</w> <w>le</w> <w>cose</w> <w>che</w> <w>accadevano</w> <w>per</w> <w>mezzo</w> <w>di</w> 
+         <persName ref="#sanTebaudo">
+          <w>San</w>
+          <w>Teobaldo</w>
+         </persName>
+          <w>furono</w> <w>rivelate</w> <w>in</w> <w>tutta</w> <w>la</w>
+         <placeName ref="#Lombardia"> 
+         <w >Lombardia</w>
+         </placeName>
+         <w>e</w> <w>nelle</w> <w>regioni</w> <w>a</w> <w>essa</w> <w>limitrofe</w><pc>.</pc>
+         <w>E</w> <w>accadde</w> <w>che</w> <w>da</w> <w>ogni</w> <w>parte</w> <w>accorrevano</w> <w>persone</w> <w>per</w> <w>la</w> <w >grande</w>
+         <w>quantità</w> <w>di</w> <w>miracoli</w> <w>che</w> <w>il</w> <w>Signore</w>
+         <w>mostrava</w> <w>per</w> <w>mezzo</w> <w>di</w> <w>lui</w>
+         <w>fino</w> <w>al</w> <w>giorno</w> <w>d'</w><w>oggi</w><pc>.</pc>
+         <w >E</w> <w>si</w> <w>adempì</w> <w>la</w> <w>parola</w> <w>del</w> <w>profeta</w>
+         <w>che</w> <w>dice</w>
+        <quote>  
+        <w>risuonò</w> <w>dal</w> <w>cielo</w> <w>il</w> <w>Signore</w>
+        <w>e</w> <w>l'</w><w>Altissimo</w> <w>fece</w> <w>uscire</w>
+        <w>la</w> <w>sua</w> <w>voce</w>
+        <w>e</w> <w>ancora</w> <w>per</w> <w>tutta</w> <w>la</w> <w>terra</w>
+        <w>si</w> <w>sparse</w> <w>la</w> <w>sua</w> <w>voce</w><pc>.</pc>
+        </quote>
+         <w>Con</w> <w>le</w> <w>offerte</w> <w>fatte</w><pc>,</pc>
+         <w>pertanto</w><pc>,</pc>
+         <w>in</w> <w>onore</w> <w>del</w> <w>glorioso</w>
+         <persName ref="#sanTebaudo"> 
+          <w>San</w>
+          <w>Teobaldo</w>
+         </persName>
+          <w>dalle</w> <w>genti</w> <w>che</w> <w>accorrevano</w><pc>,</pc>
+          <w>per</w> <w>cenno</w> <w>e</w> <w>volontà</w> <w>di</w> <w>Dio</w>
+          <w>furono</w> <w>fatte</w> <w>in</w> <w>città</w> <w>quattro</w> <w>opere</w> <w>eccezionali</w><pc>,</pc>
+          <w>cioè</w> <w>la</w> <w>chiesa</w><pc>,</pc> <!-- Individuare di che opera si tratta e indicarla --> 
+          <w>il</w> <w>campanile</w><pc>,</pc> <!-- Individuare di che opera si tratta e indicarla -->
+         <w>i</w> <w>culmini</w> <w>ossia</w> <w>volte</w><pc>,</pc> <!-- Individuare di che opera si tratta e indicarla -->
+         <w>l'</w><w>ospedale</w> <w>dei</w> <w>poveri</w><pc>.</pc> <!-- Individuare di che opera si tratta e indicarla -->
+         <w>Edificò</w> <w>la</w> <w>chiesa</w><pc>,</pc> <!-- Individuare di che opera si tratta e indicarla -->
+         <w>che</w> <w>ne</w> <w>congiunse</w> <w>insieme</w> <w>altre</w> <w >due</w><pc>,</pc>
+         <w>per</w> <w>dimostrare</w> <w>con</w> <w>ciò</w> <w>che</w> <w>egli</w> <w>è</w> <w>centro</w> <w>di</w> <w>unità</w>
+         <w>e</w> <w>di</w> <w>pace</w><pc>.</pc>
+         <w>Nella</w> <w>fabbrica</w> <w>del</w> <w>campanile</w>
+         <w>si</w> <w>può</w> <w>comprendere</w> <w>che</w> <w>egli</w> <w>è</w> <w>custode</w> 
+         
+         <pb n="4" xml:id="ST_fol_04_r"/>
+         <w>della</w> <w>città</w> <w>poiché</w> <w>sempre</w> <w>la</w> <w>difende</w> <w>e</w> <w>la</w> <w>protegge</w><pc>.</pc>
+         <w>Nelle</w> <w>volte</w> <!--(<w >controlla</w> <w >revolutionibus</w>) -->
+         <w>da</w> <w>farsi</w> <w>si</w> <w>comprende</w> <w>il</w> <w>deliberare</w> <w>per</w> <w>la</w> <w>città</w>
+         <w>e</w> <w>il</w> <w>prendere</w> <w>parte</w> <w>alle</w> <w>buone</w> <w>deliberazioni</w> <w>della</w> <w>stessa</w><pc>;</pc>
+         <w>nell'</w><w>ordinamento</w> <w>dell'</w><w>ospedale</w> <!-- Dire di che ospedale si tratta -->
+         <w>dimostrò</w> <w>di</w> <w >essere</w> <w>sostenitore</w> <w>dei</w> <w>poveri</w>
+         <w>e</w> <w>proprio</w> <w>loro</w> <w>costituì</w> <w>eredi</w> <w>di</w> <w>tutto</w> <w>il</w> <w>posseduto</w><pc>.</pc>
+        </p>
+        
+        <p n="10" xml:id="STT_p_010">
+         <w>Si</w> <w>trova</w> <w>che</w> <w>al</w> <w>tempo</w> <w>del</w> <w>signore</w> 
+          <persName ref="#GiacomoArcipresbitero">
+          <w>arciprete</w>
+          <w>Giacomo</w>
+          </persName><pc>,</pc>
+         <w>che</w> <w>vide</w> <w>e</w> <w>fece</w> <w>testimonianza</w><pc>,</pc>
+         <w>un</w> <w>uomo</w> <w>il</w> <w>Venerdì</w> <w>santo</w> <w>si</w> <w>era</w> <w>preparata</w>
+         <w>la</w> <w>Pasqua</w><pc>,</pc>
+         <w>per</w> <w>potere</w> <w>festeggiare</w> <w>in</w> <w>tanta</w> <w>solennità</w>
+         <w>con</w> <w>la</w> <w>sua</w> <w>famiglia</w><pc>,</pc>
+         <w>ma</w> <w>accadde</w> <w>che</w> <w>il</w> <w>Sabato</w> <w>santo</w>
+         <w>fosse</w> <w>ingiustamente</w> <w>preso</w> <w>e</w> <w>rinchiuso</w>
+         <w>in</w> <w>una</w> <w>oscurissima</w> <w>prigione</w><pc>.</pc>
+         <w>E</w> <w>costui</w><pc>,</pc>
+         <w>pensando</w> <w>al</w> <w>rispetto</w> <w>della</w> <w>festa</w>
+         <w>e</w> <w>alla</w> <w>tristezza</w> <w>della</w> <w>sua</w> <w>famiglia</w><pc>,</pc>
+         <w>fece</w> <w>voto</w> <w>al</w>
+         <persName ref="#sanTebaudo">
+          <w>beato</w>
+          <w>Teobaldo</w>
+         </persName>
+         <w>che</w><pc>,</pc>
+         <w>se</w> <w>liberato</w> <w>dal</w> <w>carcere</w><pc>,</pc>
+         <w>potesse</w> <w>celebrare</w> <w>con</w> <w>devozione</w> <w>detta</w> <w>festa</w>
+         <w>con</w> <w>la</w> <w>sua</w> <w>famiglia</w><pc>,</pc>
+         <w>egli</w> <w>avrebbe</w> <w>portato</w> <w>le</w> <w>catene</w> <w>al</w> <w>luogo</w>
+         <w>ove</w> <w>era</w> <w>stato</w> <w>sepolto</w><pc>.</pc>
+         <w>E</w> <w>così</w> <w>accadde</w> <w>che</w><pc>,</pc>
+         <w>per</w> <w>i</w> <w>meriti</w> <w>di</w> 
+         <persName ref="#sanTebaudo">
+         <w>San</w>
+         <w>Teobaldo</w>
+         </persName><pc>,</pc>
+         <w>quello</w> <w>fu</w> <w>miracolosamente</w> <w>liberato</w> <w>dal</w> <w>carcere</w>
+         <w>e</w> <w>visitò</w> <w>con</w> <w>grandissima</w> <w>devozione</w>
+         <w>il</w> <w>santo</w> <w>corpo</w> <w>con</w> <w>le</w> <w>catene</w> <!-- (<w >cum</w> <w >compedibus</w>) --><pc>.</pc>
+         <w>E</w> <w>questo</w> <w>arciprete</w> <w>vide</w> <w>quell'</w><w>uomo</w><pc>,</pc>
+         <w>lo</w> <w>toccò</w> <w>e</w> <w>offrì</w> <w>testimonianza</w> <w>di</w> <w>questo</w> <w>miracolo</w><pc>.</pc>
+          <w>Questo</w> <w>accadde</w> <w>nel</w> 
+          <date when="1285">
+           <num>1285</num>
+           </date> 
+        <w>circa</w><pc>.</pc>
+        </p>
+        <p n="11" xml:id="STT_p_11">
+         <w>In</w> <w>altro</w> <w>tempo</w> <w>accadde</w> <w>che</w> <w>un</w> <w>custode</w> <w>della</w>
+          <placeName ref="#chiesaSanLorenzo">
+          <w>chiesa</w> <w>di</w> <w>San</w> <w>Lorenzo</w>
+          </placeName> 
+         <w>sottrasse</w> <w>di</w> <w>nascosto</w> <w>una</w> <w>delle</w> <w>costole</w> <w>di</w>
+          <persName ref="#sanTebaudo">
+          <w>San</w>
+          <w>Teobaldo</w>
+          </persName>
+          <w>e</w>  <w>di</w> <w>nascosto</w> <w>fuggì</w><pc>,</pc>
+          <w>dirigendo</w> <w>i</w> <w>suoi</w> <w>passi</w> <w>verso</w> <w>la</w>
+          <placeName ref="#Francia">
+          <w>Francia</w>
+          </placeName><pc>.</pc>
+         <w>Dopo</w> <w>aver</w> <w>fatto</w> <w>il</w> <w>suo</w> <w>ingresso</w> <w>in</w>
+          <placeName ref="#Borgogna">
+          <w >Borgogna</w>
+          </placeName><pc>,</pc>
+         <w>si</w> <w>addormentò</w> <w>su</w> <w>un</w> <w>prato</w> 
+         <w>e</w> <w>con</w> <w>cura</w> <w>e</w> <w>rispetto</w> <w>collocò</w>
+         <w>al</w> <w>proprio</w> <w>fianco</w> <w>la</w> <w>cassetta</w> 
+         <w>nella</w> <w>quale</w> <w>aveva</w> <w>riposto</w> <w>la</w> <w>santa</w> <w>costola</w><pc>.</pc>
+         <w>E</w> <w>dopo</w> <w>che</w> <w>questi</w> <w>si</w> <w>alzò</w> <w>dal</w> <w>sonno</w><pc>,</pc>
+         <w>intenzionato</w> <w>a</w> <w>riprendere</w> <w>la</w> <w>cassetta</w><pc>,</pc>
+         <w>suddetto</w> <w>santo</w> <w>la</w> <w>fece</w> <w>diventare</w>
+         <w>così</w> <w>pesante</w> <w>che</w> <w>non</w> <w>poteva</w> <w>affatto</w> <w>essere</w> <w>smossa</w><pc>.</pc>
+         <w>E</w> <w>quest'</w><w>uomo</w><pc>,</pc>
+         <w>considerando</w> <w>la</w> <w>santità</w> <w>di</w> 
+         <persName ref="#sanTebaudo">
+          <w>san</w>
+          <w>Teobaldo</w>
+         </persName>
+         <w>in</w> <w>un</w> <w>così</w> <w>grande</w> <w>miracolo</w> <w>divinamente</w> <w>operato</w>
+         <w>davanti</w> <w>a</w> <w>lui</w><pc>,</pc>
+         <w>incominciò</w> <w>a</w> <w>versare</w> <w>lacrime</w> <w>copiosamente</w> <w>e</w> <w>a</w> <w>piangere</w> <w>a</w> <w>dirotto</w><pc>.</pc>
+         <w>Passava</w> <w>per</w> <w>quella</w> <w>strada</w> <w>un</w> <w>arcivescovo</w><pc>,</pc>
+         <w>il</w> <w>quale</w><pc>,</pc>
+         <w>avendo</w> <w>veduto</w> <w>quel</w> <w>chierico</w> <w>che</w> <w>piangeva</w>
+         <w>in</w> <w>modo</w> <w>così</w> <w>doloroso</w><pc>,</pc>
+         <w>gli</w> <w>chiese</w> <w>che</w> <w>cosa</w> <w>avesse</w><pc>.</pc>
+         <w>Ed</w> <w>egli</w> <w>gli</w> <w>narrò</w> <w>per</w> <w>ordine</w> <w>l'</w><w>accaduto</w><pc>.</pc>
+         <w>Allora</w> <w >l'</w><w>arcivescovo</w><pc>,</pc>
+         <w>scendendo</w> <w>in</w> <w>quel</w> <w>luogo</w><pc>,</pc>
+         <w>volle</w> <w>con</w> <w>la</w> <w>destra</w> <w>alzare</w> <w>detta</w> <w>cassetta</w><pc>;</pc>
+         <w>ma</w> <w>non</w> <w>la</w> <w>poté</w> <w>rimuovere</w><pc>,</pc>
+         <w>perché</w><pc>,</pc>
+         <w>così</w> <w>come</w> <w>prima</w><pc>,</pc>
+         <w>suddetto</w> <w>Santo</w> <w>la</w> <w>manteneva</w> <w>del</w> <w>tutto</w> <w>immobile</w><pc>.</pc>
+         <w>Il</w> <w>che</w> <w>vedendo</w> <w>detto</w> <w>arcivescovo</w><pc>,</pc>
+         <w>e</w> <w>ponderando</w> <w >l'</w><w>evidenza</w> <w>del</w> <w>miracolo</w><pc>,</pc>
+         <w>fece</w> <w>fondare</w>
+         <w>in</w> <w>quel</w> <w>luogo</w> <w>un</w> <w>imponente</w> <w>monastero</w> <w>di</w> <w>monaci</w> <w>neri</w><pc>,</pc>
+         <w>in</w> <w>onore</w> <w>di</w> 
+         <persName ref="#sanTebaudo"> 
+          <w>San</w>
+          <w>Teobaldo</w>
+         </persName><pc>;</pc>
+        <w>e</w> <w>questo</w> <w>monastero</w> <w>aveva</w> <w>perseverato</w>
+        <w>fino</w> <w>alla</w> <w>nostra</w> <w>epoca</w> 
+        <w>in</w> <w>grande</w> <w>rispetto</w> <w>e</w> <w>devozione</w><pc>.</pc>
+        </p>
+        
+        <p n="12" xml:id="STT_p_12">
+         <w >In</w> <w>altro</w> <w>tempo</w> <w>accadde</w> <w>che</w> <w>in</w> 
+         <placeName ref="#Besançon">
+          <w>Besançon</w>
+         </placeName> 
+         <w >di</w>
+          <placeName ref="#Borgogna">
+          <w>Borgogna</w>
+          </placeName> 
+         <w>morì</w> <w>un</w> <w>giovane</w> <w>di</w> <w>18</w> <w>anni</w><pc>,</pc> 
+         <w>figlio</w> <w>unico</w><pc>,</pc>
+         <w>che</w> <w>il</w> <w>padre</w> <w>amava</w> <w>con</w> <w>grandissimo</w> <w>affetto</w><pc>.</pc>
+         <w>Era</w> <w>allora</w> <w>a</w> <w>fama</w> <w>di</w>
+         <persName ref="#sanTebaudo"> 
+          <w>San</w> <w>Teobaldo</w>
+         </persName><pc>,</pc>
+         <w>a</w> <w>quel</w> <w>tempo</w><pc>,</pc>
+         <w>era</w> <w>divulgata</w>  <w>in</w> <w>ogni</w> <w>parte</w><pc>,</pc>
+         <w>e</w><pc>,</pc>
+         <w>avendo</w> <w>quel</w> <w>padre</w> <w>appresa</w> <w>la</w> <w>morte</w> <w>del</w> <w>figlio</w>
+         <w>e</w> <w>piangendo</w> <w>sopra</w> <w>di</w> <w>lui</w><pc>,</pc>
+         <w>lo</w> <w>raccomandò</w> <w>a</w>
+         <persName ref="#sanTebaudo">
+          <w>San</w> <w>Teobaldo</w>
+         </persName>
+         <w>tra</w> <w>le</w> <w>lacrime</w> <w>e</w> <w>con</w> <w>grande</w> <w>devozione</w><pc>.</pc>
+         <w>E</w> <w>dopo</w> <w>che</w> <w>già</w> <w>era</w> <w>stato</w> <w>avvolto</w> <w>nella</w> <w>tela</w><pc>,</pc>
+         <w>come</w> <w>un</w> <w>morto</w> <w>per</w> <w>la</w> <w>sepoltura</w><pc>,</pc>
+        <w>fece</w> <w>voto</w> <w>che</w> <w>se</w> <w>il</w> <w>santo</w> <w>si</w> <w>fosse</w> <w>degnato</w> <w>di</w>
+        <w>restituirglielo</w> <w>vivo</w><pc>,</pc>
+        <w>egli</w> <w>lo</w> <w>avrebbe</w> <w>portato</w> <w>in</w>
+         <placeName ref="#Alba"> 
+          <w>Alba</w>
+         </placeName>
+         <w>al</w> 
+         <placeName ref="#sepolcroSanTebaudo"> 
+         <w>sepolcro</w> <w>di</w> <w>San</w> <w>Teobaldo</w>
+         </placeName><pc>.</pc>
+         <w>E</w> <w>subito</w> <w>apparve</w> <w>vivo</w> <w>colui</w> <w>che</w> <w>era</w> <w>morto</w><pc>.</pc>
+         <w>Allora</w> <w>il</w> <w>padre</w><pc>,</pc>
+         <w>non</w> <w>ingrato</w> <w>per</w> <w>tanto</w> <w>beneficio</w> <w>ricevuto</w><pc>,</pc>
+         <w>condusse</w> <w>il</w> <w>figlio</w> <w>in</w>
+         <placeName ref="#Alba">
+          <w >Alba</w>
+         </placeName><pc>.</pc>
+         <w>E</w> <w>frate</w> 
+         <persName ref="#Obertomassaro"> 
+          <w>Oberto</w>
+         </persName><pc>,</pc>
+         <w>converso</w> <w>e</w> <w>massaro</w> <w>di</w> <w>detto</w> <w>santo</w><pc>,</pc>
+         <w>testimoniò</w> <w>di</w> <w>avere</w> <w>visto</w> <w>quel</w> <w>giovine</w>
+         <w>e</w> <w>più</w> <w>di</w> <w>mille</w> <w>persone</w>
+         <w>videro</w> <w>colui</w> <w>che</w> <w>il</w> 
+         <persName ref="#sanTebaudo"> 
+          <w>beato</w> <w>Tebaudo</w>
+         </persName> 
+         <w>risuscitò</w> <w>da</w> <w>morte</w><pc>.</pc>
+         <w>Egli</w><pc>,</pc> 
+         <w>poi</w><pc>,</pc> <w>quando</w> <w>si</w> <w>avvicinò</w> <w>alla</w>
+         <placeName ref="#chiesaSanLorenzo">
+          <w >chiesa</w> <w >di</w> <w >San</w> <w >Lorenzo</w>
+         </placeName><pc>,</pc>
+         <w>piegò</w> <w>le</w> <w>ginocchia</w> <w>e</w><pc>,</pc>
+         <w>stando</w> <w>in</w> <w>ginocchio</w><pc>,</pc>
+         <w>si</w> <w>trascinò</w> <w>con</w> <w>grande</w> <w>devozione</w>
+         <w>fino</w> <w>al</w>
+         <placeName ref="#sepolcroSanTebaudo"> 
+          <w>sepolcro</w> <w>di</w> <w>san</w> <w>Teobaldo</w>
+         </placeName><pc>,</pc> 
+         <w>portandosi</w> <w>sul</w> <w>capo</w> <w>il</w> <w>lenzuolo</w>
+         <w>nel</w> <w>quale</w> <w>era</w> <w>stato</w> <w>avvolto</w> <w>per</w> <w>la</w> <w>sepoltura</w><pc>.</pc>
+         <w>E</w> <w>quel</w> <w>lenzuolo</w> <w>molti</w> <w>lo</w> <w>hanno</w> <w>baciato</w><pc>,</pc>
+         <w>uno</w> <w>dei</w> <w>quali</w> <w>fu</w> <w>detto</w> <w>frate</w> 
+         <persName ref="#Obertomassaro"> 
+          <w>Oberto</w>
+         </persName><pc>,</pc>
+          <w>come</w> <w>egli</w> <w>riferì</w> <w>davanti</w> <w>a</w> <w>molti</w><pc>.</pc>
+         <w>E</w> <w>il</w> <w>padre</w> <w>di</w> <w>suddetto</w> <w>giovane</w>
+         <w>portò</w> <w>con</w> <w>sé</w> <w>un</w> <w>istrumento</w><pc>,</pc>
+          
+         
+         <pb n="5" xml:id="ST_fol_05_r"/>
+         <w>confermato</w> <w>da</w> <w>sette</w> <w>testimoni</w><pc>,</pc>
+         <w>che</w> <w>giuravano</w> <w>di</w> <w>avere</w> <w>visto</w> <w>morto</w> <w>quel</w> <w>giovane</w><pc>.</pc>
+         <w>Questo</w> <w>accadde</w> <w>verso</w> <w>l'</w><w>anno</w> 
+         <date when="1300"> 
+          <num>1300</num>
+         </date><pc>.</pc>
+        </p>
+        
+        <p n="13" xml:id="STT_p_13">
+         <w>Così</w> <w>pure</w> <w>in</w>
+         <placeName ref="#Rodello"> 
+          <w>Rodello</w>
+         </placeName> 
+         <w>accadde</w> <w>che</w> <w>una</w> <w>nutrice</w> <w>aveva</w> <w>dato</w> <w>del</w> <w>pane</w>
+         <w>da</w> <w>mangiare</w> <w>al</w> <w>suo</w> <w>bambino</w><pc>;</pc>
+         <w>e</w> <w>siccome</w> <w>questi</w> <w>mangiava</w> <w>senza</w> <w>alcuna</w> <w>cautela</w><pc>,</pc>
+         <w>gli</w> <w>rimase</w> <w>in</w> <w>gola</w> <w>un</w> <w>boccone</w>
+         <w>che</w> <w>non</w> <w>poteva</w> <w>andare</w> <w>né</w> <w>su</w> <w>e</w> <w>né</w> <w>giù</w><pc>.</pc>
+         <w>La</w> <w>faccia</w> <w>del</w> <w>bimbo</w> <w>diventava</w> <w>nerastra</w><pc>;</pc>
+         <w>i</w> <w>suoi</w> <w>occhi</w> <w>si</w> <w>gonfiavano</w><pc>;</pc>
+         <w>il</w> <w>bimbo</w> <w>stava</w> <w>per</w> <w>rimanere</w> <w>soffocato</w><pc>;</pc>
+         <w>la</w> <w>morte</w> <w>si</w> <w>avvicinava</w> <w>e</w> <w>non</w> <w>vi</w> <w>era</w> <w>disponibile</w> <w>nessun</w> <w>rimedio</w>
+         <w>del</w> <w>corpo</w><pc>.</pc>
+         <w>Allora</w> <w>la</w> <w>balia</w><pc>,</pc>
+         <w>rivolgendosi</w> <w>a</w>
+         <persName ref="#sanTebaudo"> 
+          <w>San</w> <w>Teobaldo</w>
+         </persName><pc>,</pc> 
+         <w>gridò</w> <w>a</w> <w>gran</w> <w>voce</w><pc>:</pc>
+         <q>
+          <persName ref="#sanTebaudo"> 
+          <w>San</w> <w>Teobaldo</w>
+          </persName><pc>,</pc>
+          <persName ref="#sanTebaudo">
+            <w>San</w> <w>Teobaldo</w>
+          </persName><pc>,</pc> 
+          <w>soccorri</w> <w>mio</w> <w>figlio</w> <w>che</w> <w>io</w> <w>con</w> <w>devozione</w> <w>ti</w> <w>affido</w>
+          </q><pc>.</pc>
+        <w>Aveva</w> <w>appena</w> <w>pronunciate</w> <w>queste</w> <w>parole</w>
+        <w>che</w> <w>subito</w> <w>il</w> <w>fanciullo</w><pc>,</pc>
+        <w>per</w> <w>la</w> <w>vita</w> <w>del</w> <w>quale</w><pc>,</pc> 
+        <w>con</w> <w>un</w> <w>rimedio</w> <w>naturale</w><pc>,</pc>
+        <w>nessuno</w> <w>più</w> <w>nutriva</w> <w>speranza</w><pc>,</pc>
+        <w>fu</w> <w>miracolosamente</w> <w>liberato</w><pc>.</pc>
+        <w>Accadde</w> <w>questo</w> <w>nel</w> <w>castello</w> <w>suddetto</w> <w>l'</w><w>anno</w> <w>del</w> <w>Signore</w> 
+         <date> 
+          <num>1327</num>
+         </date><pc>.</pc>
+        </p>
+        
+        <p n="14" xml:id="STT_p_14">
+        <w>Accadde</w><pc>,</pc>
+        <w>nel</w> <w>castello</w> <w>di</w>
+        <placeName ref="#Cissone">
+        <w>Cissone</w>
+        </placeName>
+        <w>della</w> <w>diocesi</w> <w>di</w>
+        <placeName ref="#Alba">
+          <w>Alba</w>
+        </placeName><pc>,</pc>
+        <w>che</w> <w>un</w> <w>certo</w>
+         <persName ref="#GiacomoFerrario"> 
+          <w>Giacomo</w> <w>Ferrario</w>
+         </persName>
+        <w>di</w>
+        <placeName ref="#Calosso">
+          <w>Calosso</w>
+        </placeName>
+        <w>fu</w> <w>preso</w> <w>e</w> <w>trattenuto</w> <w>dagli</w> <w>uomini</w> <w>di</w> <w>detto</w> <w>castello</w>
+        <w>e</w> <w>strettamente</w> <w>incarcerato</w> 
+        <w>in</w> <w>occasione</w> 
+        <w>del</w> <w>cambio</w> <w>che</w> <w>egli</w> <w>aveva</w> <w>fatto</w> <w>con</w> <w>un</w> <w>uomo</w> <w>che</w> <w>era</w> <w>reo</w><pc>.</pc>
+        <w>Tenevano</w> <w>il</w> <w>prigioniero</w> <w>in</w> <w>una</w> <w>tina</w> <!-- CHECK -->
+        <w>coperta</w> <w>di</w> <w>tavole</w>
+        <w>e</w> <w>tutto</w> <w>il</w> <w>giorno</w> <w>e</w> <w>tutta</w> <w>la</w> <w>notte</w>
+        <w>tre</w> <w>guardiani</w><pc>,</pc> 
+        <w>o</w> <w>almeno</w> <w>due</w><pc>,</pc>
+        <w>stavano</w> <w>alla</w> <w>custodia</w> <w>del</w> <w>carcerato</w><pc>.</pc>
+        <w>E</w> <w>questi</w><pc>,</pc>
+        <w>in</w> <w>prigione</w><pc>,</pc>
+        <w>conoscendo</w> <w>la</w> <w>misericordia</w> <w>di</w> <w>Dio</w> <w>e</w> <w>di</w> <w>tutti</w> <w>i</w> <w>Santi</w><pc>,</pc>
+        <w>si</w> <w>rivolse</w> <w>con</w> <w>tutto</w> <w>l'</w><w>affetto</w> <w>del</w> <w>cuore</w> <w>a</w> <w>Dio</w>
+        <w>e</w> <w>a</w> <w>molti</w> <w>santi</w><pc>.</pc>
+        <w>A</w> <w>nulla</w> <w>valevano</w> <w>i</w> <w>suoi</w> <w>voti</w><pc>;</pc>
+        <w>mentre</w> <w>la</w> <w>sua</w> <w>prigionia</w> <w>si</w> <w>prolungava</w><pc>,</pc>
+        <w>si</w> <w>ricordò</w> <w>delle</w> <w>meraviglie</w> <w>che</w> <w>operava</w>
+        <persName ref="#sanTebaudo">
+        <w>San</w> <w>Teobaldo</w>
+        </persName>
+        <w>e</w> <w>promise</w> <w>che</w><pc>,</pc> 
+        <w>se</w> <w>fosse</w> <w>uscito</w> <w>da</w> <w>quel</w> <w>carcere</w><pc>,</pc>
+        <w>avrebbe</w> <w>visitato</w> <w>l'</w>
+        <placeName ref="#altareSanTebaudo">  
+        <w>altare</w> <w>di</w> <w>San</w> <w>Teobaldo</w>
+        </placeName> 
+        <w>con</w> <w>una</w> <w>candela</w> <w>lunga</w> <w>quanto</w> <w>era</w> <w>lungo</w> <w>lui</w><pc>,</pc>
+        <w>e</w> <w>che</w> <w>avrebbe</w> <w>portato</w> <w>le</w> <w>catene</w> <w>che</w> <w>lo</w> <w>legavano</w> 
+        <w>a</w> <w>quella</w> <w>prigione</w><pc>.</pc>
+        <w>E</w> <w>per</w> <w>disposizione</w> <w>e</w> <w>volontà</w> <w>divina</w> 
+        <w>e</w> <w>di</w> <w>detto</w> <w>santo</w><pc>,</pc>
+        <w>accadde</w> <w>che</w>
+        <w>i</w> <w>guardiani</w> <w>che</w> <w>lo</w> <w>custodivano</w> <w>andarono</w> <w>a</w> <w>pranzare</w> <w >e</w><pc>,</pc>
+        <w>perseverando</w> <w>in</w> <w>detto</w> <w>voto</w><pc>,</pc>
+        <w>detto</w> <w>prigioniero</w><pc>,</pc> 
+        <w>senza</w> <w>sforzi</w> <w>e</w> <w>senza</w> <w>alcuno</w> <w>strumento</w><pc>,</pc>
+        <w>estrasse</w> <w>un</w> <w>piede</w> <w>dall'</w><w>anello</w> <w>e</w><pc>,</pc>
+        <w>affinché</w> <w>la</w> <w>catena</w> <w>non</w> <w>risuonasse</w><pc>,</pc>
+        <w>la</w> <w>legò</w> <w>all'</w><w>altra</w> <w>gamba</w>
+        <w>e</w> <w>così</w> <w>fuggi</w> <w>da</w> <w>detta</w> <w>prigione</w><pc>.</pc>
+        <w>E</w> <w>questo</w> <w>accadde</w> <w>nell'</w><w>anno</w> <w>del</w> <w>Signore</w>
+        <date>  
+        <num>1327</num><pc>,</pc>
+        <w>il</w> <w>17</w> <w>del</w> <w>mese</w> <w>di</w> <w>giugno</w>
+        </date><pc>,</pc> <w>alla</w> <w>presenza</w> <w>di</w> <w>molti</w> <w>testimoni</w><pc>.</pc>
+        </p>
+        
+       <p n="15" xml:id="STT_p_15">
+       <w>In</w>
+       <placeName ref="#Castellinaldo">  
+       <w>Castellinaldo</w>
+       </placeName>
+       <w>accadde</w> <w>che</w><pc>,</pc>
+       <w>mentre</w> <w>due</w> <w>uomini</w> <w>scavavano</w> <w>terra</w> <w>sotto</w> <w>una</w> <w>certa</w> <w>ripa</w><pc>,</pc>
+       <w>franò</w> <w>sopra</w> <w>di</w> <w>loro</w> <w>la</w> <w>terra</w> <w>e</w> <w>li</w> <w>seppellì</w><pc>;</pc>
+       <w>ed</w> <w>era</w> <w>con</w> <w>quelli</w> <w>una</w> <w>fanciulla</w> <w>piccolina</w><pc>,</pc>
+       <w>che</w> <w>la</w> <w>terra</w> <w>travolse</w> <w>allo</w> <w>stesso</w> <w>modo</w><pc>.</pc>
+       <w>Molti</w> <w>accorsero</w> <w>e</w><pc>,</pc>
+       <w>udendo</w> <w>il</w> <w>frastuono</w> <w>di</w> <w>quel</w> <w>crollo</w><pc>,</pc>
+       <w>accorse</w> <w>anche</w> <w>la</w> <w>madre</w> <w>della</w> <w>fanciulla</w><pc>;</pc>
+       <w>credendola</w> <w>morta</w> <w>e</w> <w>non</w> <w>ignorando</w> <w>la</w> <w>potenza</w> <w>di</w>
+       <persName ref="#sanTebaudo">
+       <w>San</w> <w>Teobaldo</w>
+       </persName><pc>,</pc>
+       <w>invocò</w> <w>supplichevole</w> <w>la</w> <w>pietà</w> <w>di</w> <w>lui</w>
+       <w>per</w> <w>la</w> <w>figlia</w> <w>che</w> <w>già</w> <w>credeva</w> <w>morta</w><pc>,</pc>
+       <w>e</w> <w>fece</w> <w>un</w> <w>voto</w><pc>.</pc>
+       <w>Cosa</w> <w>mirabile</w> <w>a</w> <w>dirsi</w><pc>!</pc>
+       <w>Smossero</w> <w>la</w> <w>terra</w> <w>che</w> <w>aveva</w> <w>coperto</w> <w>quegli</w> <w>uomini</w> 
+       <w>e</w> <w>li</w> <w>trovarono</w> <w>morti</w><pc>,</pc>
+       <w>ma</w> <w>quella</w> <w>fanciulla</w><pc>,</pc>
+       <w>per</w> <w>i</w> <w>meriti</w> <w>di</w>
+       <persName ref="#sanTebaudo">
+         <w>San</w> <w>Teobaldo</w>
+       </persName><pc>,</pc>
+       <w>rimase</w> <w>del</w> <w>tutto</w> <w>illesa</w><pc>.</pc>
+       <w>Accadde</w> <w>questo</w> <w>circa</w> <w>l'</w><w>anno</w> <w>del</w> <w>Signore</w>
+        <date when="1319"> 
+         <num>1319</num>
+        </date><pc>.</pc>
+       </p>
+        
+        <p n="16" xml:id="STT_p_16">
+         <w>In</w> <w>altro</w> <w>tempo</w> <w>accadde</w> <w>che</w> <w>uno</w> <w>di</w> <w>nome</w>
+        <persName ref="#EnricoTagliarino">  
+          <w>Enrico</w> <w>Tagliarino</w>
+        </persName><pc>,</pc>
+        <w>di</w> 
+        <placeName ref="#Agliano">  
+          <w>Agliano</w>
+        </placeName><pc>,</pc>
+        <w>della</w> <w>diocesi</w> <w>di</w> 
+        <placeName ref="#Pavia">  
+          <w >Pavia</w>
+        </placeName>
+          <w>e</w> <w>del</w> <w>distretto</w> <w>di</w>
+        <placeName ref="#Astia">  
+          <w>Asti</w>
+        </placeName><pc>,</pc> 
+        <w>il</w> <w>quale</w> <w>verso</w> <w>la</w> <w>festa</w> <w>di</w> <w>San</w> <w>Martino</w> <!-- CHECK --> 
+         
+         <pb n="6" xml:id="ST_fol_06_r"/>
+         <w>ultimo</w> <w>scorso</w><pc>,</pc> 
+         <w>soffriva</w> <w>gravissimamente</w> <w>al</w> <w>braccio</w> <w>destro</w><pc>,</pc>
+         <w>tanto</w> <w>che</w> <w>di</w> <w>quello</w> <w>in</w> <w>nessun</w> <w>modo</w> <w>si</w> <w>poteva</w> <w>servire</w><pc>.</pc>
+         <w>E</w><pc>,</pc>
+         <w>facendo</w> <w>voto</w><pc>,</pc>
+         <w>promise</w> <w>al</w>
+         <persName ref="#sanTebaudo">
+          <w>beato</w> <w>Teobaldo</w>
+         </persName> 
+         <w>che</w><pc>,</pc> 
+         <w>se</w> <w>entro</w> <w>quel</w> <w>giorno</w> <w>o</w> <w>entro</w> <w>il</w> <w>giorno</w> <w>seguente</w><pc>,</pc>
+         <w>fosse</w> <w>guarito</w><pc>,</pc>
+         <w>avrebbe</w> <w>visitato</w> <w>il</w> <w>suo</w> 
+         <placeName ref="#altareSanTebaudo">
+          <w>altare</w>
+         </placeName>
+         <w>con</w> <w>una</w> <w>candela</w><pc>.</pc>
+         <w>E</w><pc>,</pc> 
+         <w>fatto</w> <w>il</w> <w>voto</w><pc>,</pc>
+         <w>il</w> <w>giorno</w> <w>seguente</w> <w>improvvisamente</w> <w>si</w> <w>sentì</w> <w>guarito</w><pc>.</pc>
+         <w>Analogamente</w> <w>il</w> <w>medesimo</w> 
+         <persName ref="#EnricoTagliarino">
+          <w>Enrico</w>
+         </persName><pc>,</pc>
+        <w>all'</w><w >incirca</w> <w>nello</w> <w>stesso</w> <w>periodo</w><pc>,</pc>
+         <w>essendo</w> <w>molto</w> <w>gravemente</w> <w>malato</w> <w>di</w> <w>occhi</w><pc>,</pc>
+         <w>tanto</w> <w>che</w> <w>non</w> <w>vedeva</w> <w>che</w> <w>poco</w> <w>o</w> <w>nulla</w><pc>,</pc>
+        <w>fece</w> <w>voto</w> <w>che</w><pc>,</pc> 
+        <w>se</w> <w>fosse</w> <w>guarito</w> <w>da</w> <w>quella</w> <w>infermità</w><pc>,</pc>
+        <w>avrebbe</w> <w>visitato</w> <w>suddetto</w> 
+         <placeName ref="#altareSanTebaudo"> 
+          <w>altare</w>
+         </placeName>
+          <w>con</w> <w>determinati</w> <w>lumi</w><pc>.</pc>
+        <w>E</w><pc>,</pc>
+        <w>in</w> <w>pochissimo</w> <w>tempo</w><pc>,</pc>
+        <w>e</w> <w>quasi</w> <w>improvvisamente</w><pc>,</pc>
+        <w>recuperò</w> <w>la</w> <w>vista</w> <w>in</w> <w>modo</w> <w>completo</w><pc>,</pc>
+        <w>e</w> <w>il</w> <w>giorno</w> <w>suddetto</w> <w>venne</w> <w>a</w> <w>soddisfare</w> <w>i</w> <w>suoi</w> <w>voti</w>
+        <w>e</w> <w>a</w> <w>narrare</w> <w>le</w> <w>cose</w> <w>predette</w><pc>.</pc>
+        <w>Questo</w> <w>accade</w><pc>,</pc> 
+        <w>infatti</w><pc>,</pc>
+        <w>l'</w><w>anno</w> <w>del</w> <w>Signore</w>
+         <date> 
+          <num>1328</num><pc>,</pc> <w>il</w> <num>3</num> <w>di</w> <w>febbraio</w>
+         </date><pc>.</pc>
+        </p>
+        
+       <p n="17" xml:id="STT_p_17"> 
+         <persName ref="#GuglielminoGiusiberto">
+         <w>Guglielmino</w> <w>Giusberto</w>
+         </persName> 
+         <w>di</w>
+         <placeName ref="#Giaveno">
+         <w>Giaveno</w>
+         </placeName><pc>,</pc>
+         <w>della</w> <w>diocesi</w> <w>di</w> 
+        <placeName ref="#Torino">
+         <w >Torino</w>
+        </placeName> 
+        <w>e</w> <w>sua</w> <w>moglie</w>
+         <persName ref="#Alassina">
+         <w>Alassina</w>
+         </persName>
+         <w>condussero</w> <w>un</w> <w>loro</w> <w>figlio</w> <w>di</w> <w>nome</w>
+         <persName ref="#Martino">
+         <w >Martino</w>
+         </persName><pc>,</pc>
+         <w >il</w> <w>quale</w> <w>dopo</w> <w>che</w> <w>era</w> <w>già</w> <w>morto</w><pc>,</pc>
+         <w>riebbero</w> <w>vivo</w> <w>per</w> <w>i</w> <w>meriti</w> <w>del</w> 
+        <persName ref="#sanTebaudo"> 
+        <w>beato</w> <w>Teobaldo</w>
+        </persName><pc>.</pc>
+         <w>Già</w> <w>sono</w> <w>20</w> <w>anni</w><pc>,</pc>
+         <w>o</w> <w>pressapoco</w><pc>,</pc>
+         <w>e</w> <w>fin</w> <w>d'</w><w>allora</w> <w>fecero</w> <w>voto</w> <w>di</w> <w>venire</w> 
+         <w>al</w> <w>più</w> <w>presto</w> <w>al</w>
+          <persName ref="#sanTebaudo">
+          <w>beato</w> <w>Tebaudo</w>
+          </persName><pc>.</pc>
+        <w>E</w> <w>questa</w> <w>giurarono</w> <w>essere</w> <w>la</w> <w>verità</w> <w>entrambi</w> <w>i</w> <w>coniugi</w><pc>,</pc>
+         <w>l'</w><w>anno</w> <w>del</w> <w>Signore</w> 
+         <date> 
+          <num>1330</num><pc>,</pc>
+          <w>il</w> <w>3</w> <w>di</w> <w>giugno</w>
+          </date><pc>,</pc>
+          <w>nella</w>
+          <placeName ref="#chiesaSanLorenzo"> 
+           <w>chiesa</w> <w>albese</w>
+          </placeName><pc>,</pc> 
+         <w>presso</w> 
+         <placeName ref="#altareSanTebaudo">
+         <w>l'</w><w>altare</w> <w>del</w> <w>beato</w> <w>Teobaldo</w>
+         </placeName><pc>,</pc>
+         <w>in</w> <w>presenza</w> <w>del</w> <w>signor</w> 
+         <persName ref="#GiobArcipresbitero"> 
+          <w>Giob</w> <w>arciprete</w>
+         </persName>
+         <w>e</w> <w>di</w> 
+          <persName ref="#FrancescoRagio">
+          <w >Francesco</w> <w >Ragio</w>
+          </persName><pc>,</pc>
+         <w>canonico</w> <w>di</w> <w>detta</w> <w>chiesa</w><pc>,</pc> 
+         <w>e</w> <w>presenti</w>
+         <persName ref="#GiovanniCavalero">
+          <w>Giovanni</w> <w>Cavalero</w>
+         </persName><pc>,</pc>
+         <persName ref="#PietrodeAncisa">
+          <w>Pietro</w> <w>di</w> <w>Ancisa</w>
+         </persName><pc>,</pc>
+         <persName ref="#GiacomoFaucilla">
+          <w>Giacobo</w> <w>Fanciulla</w>
+         </persName><pc>,</pc>
+         <w>e</w> <w>molti</w> <w>altri</w> <w>cittadini</w> <w>di</w>
+          <placeName ref="#Alba">
+          <w>Alba</w>
+          </placeName><pc>.</pc>
+        </p>
+        
+        <p n="18" xml:id="STT_p_18">
+         <w>L'</w><w>anno</w> <w>del</w> <w>Signore</w>
+         <date> 
+          <num>1331</num> <w>il</w> <num>19</num> <w>del</w> <w>mese</w> <w>di</w> <w>aprile</w>
+         </date><pc>,</pc>
+         <w>nel</w> 
+          <placeName ref="#chiostroSanLorenzo">
+            <w>chiostro</w> <w>della</w>  <w>chiesa</w>
+          </placeName>
+          <w>di</w> 
+         <placeName ref="#Alba"><w>Alba</w>
+         </placeName><pc>,</pc>
+         <w>presenti</w> <w>il</w> <w>signor</w> <w>arciprete</w> <!-- CHECK --> 
+         <w>della</w> <w>stessa</w> <w>chiesa</w> <!-- CHECK --><pc>,</pc>
+          <persName ref="#TebaudoZoco">
+          <w>Teobaldo</w> <w>de</w> <w>Zoco</w>
+          </persName>  
+         <w>prete</w><pc>,</pc> 
+          <persName ref="#PietroVacono">
+          <w>Pietro</w> <w>Vacono</w>
+          </persName> 
+         <w>e</w> <w>molti</w> <w>altri</w> <w>astanti</w><pc>,</pc>
+         <w>il</w> <w>signor</w>
+         <persName ref="#FacciottoMusso"> 
+          <w>Facciotto</w> <w>Musso</w>
+         </persName> 
+         <w>di</w> 
+         <placeName ref="#PievediTeco"> 
+          <w>Pieve</w> <w>di</w> <w>Teco</w>
+         </placeName><pc>,</pc> 
+         <w>della</w> <w>diocesi</w> <w>di</w> 
+         <placeName ref="#Ventimiglia"> 
+          <w>Ventimiglia</w>
+         </placeName><pc>,</pc>
+         <w>costituito</w> <w>in</w> <w>presenza</w> <w>del</w> <w>signor</w> 
+         <persName ref="#FrancescoRagio"> 
+          <w>Francesco</w> <w>Regio</w>
+         </persName> 
+         <w>canonico</w> <w>albense</w><pc>,</pc>
+         <w>volendo</w><pc>,</pc> <w>ad</w> <w>onore</w> <w>di</w> <w>Dio</w> <w>e</w> <w>del</w>
+         <persName ref="#sanTebaudo">
+          <w>beato</w> <w>Teobaldo</w>
+         </persName><pc>,</pc>
+         <w>rendere</w> <w>pubblica</w> <w>la</w> <w>grazia</w> <w>e</w> <w>il</w> <w>miracolo</w><pc>,</pc>
+         <w>il</w> <w>quale</w> <w>e</w> <w>la</w> <w>quale</w><pc>,</pc>
+         <w>egli</w> <w>e</w> <w>la</w> <w>signora</w> 
+         <persName ref="#Richina">
+          <w>Richina</w>
+         </persName> 
+         <w>sua</w> <w>moglie</w> <w>ricevettero</w> <w>da</w> <w>Dio</w> <w>per</w> <w>i</w> <w>meriti</w> <w>del</w>
+         <persName ref="#sanTebaudo">
+          <w>beato</w> <w>Teobaldo</w>
+         </persName><pc>,</pc>
+          <w>disse</w> <w>e</w> <w>manifestò</w> <w>che</w><pc>,</pc>
+         <w>poiché</w> <w>loro</w> <w>coniugi</w> <w>non</w> <w>avevano</w> <w>prole</w>
+         <w>né</w> <w>presumibilmente</w> <w>presumevano</w> <w>di</w> <w>poterne</w> <w>avere</w><pc>,</pc> 
+         <w>fece</w> <w>voto</w> <w>detta</w> <w>signora</w>
+          <persName ref="#Richina">
+          <w>Richina</w>
+          </persName> 
+          <w>a</w> <w>Dio</w> <w>e</w> <w>al</w> 
+          <persName ref="#sanTebaudo">
+          <w>beato</w> <w>Tebaldo</w>
+          </persName><pc>,</pc>
+         <w>che</w><pc>,</pc>
+         <w>se</w> <w>per</w> <w>merito</w> <w>dello</w> <w>stesso</w> <w>santo</w><pc>,</pc>
+          <w>avesse</w> <w>concepito</w> <w>un</w> <w>maschio</w><pc>,</pc>
+         <w>l'</w><w>avrebbe</w> <w>fatto</w> <w>chiamare</w> 
+          <persName ref="#TebaudoMusso">
+          <w>Teobaldo</w>
+          </persName> 
+          <w>e</w> <w>l'</w><w>avrebbe</w> <w>condotto</w> <w>lei</w> <w>stessa</w> <w>o</w> <w >l'</w><w>avrebbe</w> <w>fatto</w> <w>condurre</w>
+         <w>da</w> <w>detto</w> <w>suo</w> <w>marito</w> <w>alla</w> <w>città</w> <w>di</w>
+         <placeName ref="#Alba">
+          <w>Alba</w>
+         </placeName><pc>,</pc>
+         <w>all'</w>
+          <placeName ref="#altareSanTebaudo">
+          <w>altare</w> <w>del</w> <w>Teobaldo</w>
+          </placeName> 
+         <w>e</w> <w>ivi</w> <w>farebbe</w> <w>celebrare</w> <w>e</w> <w>farebbe</w> <w>una</w> <w>certa</w> <w>offerta</w><pc>.</pc>
+         <w>Il</w> <w>che</w> <w>oggi</w> <w>adempie</w><pc>.</pc>
+         <w>E</w> <w>l'</w><w>avrebbe</w> <w>fatto</w> <w>da</w> <w>lungo</w> <w>tempo</w> <w>ma</w><pc>,</pc>
+         <w>impedito</w> <w>dalle</w> <w>guerre</w> <w>o</w> <w>dalle</w> <w>cattive</w> <w>condizioni</w> 
+         <w>di</w> <w>queste</w> <w>parti</w><pc>,</pc> <w>non</w> <w>potè</w> <w>fare</w> <w>questo</w> <w>prima</w><pc>.</pc>
+         <w>Il</w> <w>suddetto</w> <w>voto</w> <w>poi</w> <w>fu</w> <w>fatto</w>
+         <w>per</w> <w>suggerimento</w> <w>della</w> <w>signora</w>
+         <persName ref="#Allegranzia"> 
+          <w >Allegranza</w>
+         </persName><pc>,</pc> 
+         <w>moglie</w> <w>del</w> <w>fu</w> 
+          <persName ref="#FedericoNegro">
+          <w>Negro</w> <w>Federico</w>
+          </persName><pc>,</pc>
+         <w>che</w> <w>abita</w> <w>in</w> <w>detto</w> <w>luogo</w><pc>,</pc>
+         <w>la</w> <w>quale</w><pc>,</pc> 
+         <w>siccome</w> <w>non</w> <w>aveva</w> <w>che</w> <w>figliuole</w><pc>,</pc>
+         <w>fatto</w> <w>un</w> <w>simile</w> <w>voto</w><pc>,</pc> 
+         <w>come</w> <w>sosteneva</w><pc>,</pc> 
+         <w>concepì</w> <w>due</w> <w>figli</w> <w>maschi</w>
+         <w>e</w> <w>chiamò</w> <w>il</w> <w>primo</w> 
+          <persName ref="#TebaudoNegro">
+          <w>Teobaldo</w>
+          </persName> 
+         <w>e</w> <w>il</w> <w>secondo</w> 
+          <persName ref="#GiacomoNegro">
+          <w>Giacomo</w>
+          </persName><pc>,</pc>
+         <w>il</w> <w>quale</w> <w>egli</w> <w>vide</w> <w>e</w> <w>conobbe</w><pc>.</pc>
+         <w>E</w> <w>lo</w> <w>stesso</w> 
+          <persName ref="#GiacomoNegro">
+          <w>Giacomo</w> 
+          </persName>
+          <w>è</w> <w>ancora</w> <w>vivente</w><pc>.</pc>
+          <w>E</w> <w>le</w> <w>cose</w> <w>suddette</w> <w>depose</w> <w>con</w> <w>giuramento</w><pc>.</pc>
+        </p>
+        
+        <p n="19" xml:id="STT_p_19">
+         <w>Un</w> <w>certo</w> 
+          <persName ref="#GuglielmoVitrola">
+          <w>Guglielmo</w> <w>per</w> <w>nome</w> <w>di</w> 
+           <placeName ref="#Vitrolles"> 
+            <w>Vitrola</w>
+           </placeName>
+          </persName><pc>,</pc> 
+         <w>oriundo</w> <w>della</w> 
+          <placeName ref="#Delfinato">
+          <w>terra</w> <w>di</w> <w>Delfino</w>
+          </placeName><pc>,</pc>
+         <w>l'</w><w>anno</w> <w>del</w> <w>Signore</w> 
+          <date>
+          <num>1326</num>
+          </date><pc>,</pc> 
+         <w>davanti</w> <w>al</w> <w>signore</w>
+          <persName ref="#RaimondoRafaele">
+          <w >Rajmondo</w> <w >di</w> <w>Raffaele</w>
+           </persName> 
+         
+         <pb n="7" xml:id="ST_fol_07_r"/>         
+          <w>vicario</w> <w>del</w> <w>signor</w> <w>vescovo</w> <w>di</w>
+         <placeName ref="#Ventimiglia"> 
+          <w>Ventimiglia</w>
+         </placeName><pc>,</pc>
+          <w>umilmente</w> <w>espose</w> <w>e</w> <w>confermò</w> <w>con</w> <w>sicuri</w> <w>indizi</w>
+          <w>e</w> <w>con</w> <w>un</w> <w>giuramento</w> <w>che</w><pc>,</pc>
+          <w>mentre</w> <w>veniva</w> <w>da</w>
+          <placeName ref="#Sospello">
+          <w>Sospello</w>
+          </placeName> 
+          <w>a</w>
+          <placeName ref="#Mentone">
+          <w>Mentone</w>
+          </placeName><pc>,</pc>
+          <w>insieme</w> <w>al</w> <w>suo</w> <w>unico</w> <w>figlio</w> <w>che</w> <w>aveva</w> <w>con</w> <w>sé</w><pc>,</pc>
+          <w>fu</w> <w>preso</w> <w>e</w> <w>tenuto</w><pc>,</pc>
+          <w>insieme</w> <w>al</w> <w>figlio</w><pc>,</pc>
+          <w>da</w> <w>crudeli</w> <w>ladri</w><pc>.</pc>
+          <w>I</w> <w>quali</w><pc>,</pc>
+          <w>messo</w> <w>da</w> <w>parte</w> <w>il</w> <w>timore</w> <w>di</w> <w>Dio</w>
+          <w>e</w> <w>immemori</w> <w>della</w> <w>salute</w> <w>dell'</w><w>anima</w><pc>,</pc>
+          <w>strangolarono</w> <w>crudelmente</w> <w>l'</w><w>unico</w> <w>figlio</w> <w>in</w> <w>presenza</w>
+          <w>del</w> <w>padre</w><pc>;</pc>
+          <w>il</w> <w>padre</w><pc>,</pc>
+          <w>poi</w><pc>,</pc>
+          <w>dopo</w> <w>averlo</w> <w>fortemente</w> <w>bastonato</w><pc>,</pc>
+          <w>lo</w> <w>legarono</w> <w>e</w> <w>lo</w> <w>rinchiusero</w> <w>in</w> <w>una</w> <w>oscura</w> <w>spelonca</w><pc>,</pc>
+          <w>allo</w> <w>scopo</w> <w>di</w> <w>trasportarlo</w> <w>poi</w><pc>,</pc> 
+          <w>col</w> <w>favore</w> <w>della</w> <w>notte</w><pc>,</pc> 
+          <w>in</w> <w>un</w> <w>altro</w> <w>luogo</w> <w>per</w> <w>avere</w> <w>il</w> <w>riscatto</w><pc>.</pc>
+          <w>Egli</w> <w>allora</w><pc>,</pc>
+          <w>considerando</w> <w>il</w> <w>pericoloso</w> <w>suo</w> <w>stato</w><pc>,</pc>
+          <w>si</w> <w>raccomandò</w> <w>con</w> <w>tutta</w> <w>la</w> <w>devozione</w> 
+          <w>del</w> <w>suo</w> <w>cuore</w> <w>a</w> 
+          <persName ref="#sanTebaudo">
+          <w>San</w> <w>Teobaldo</w>
+          </persName>
+          <w>e</w> <w>con</w> <w>tutto</w> <w>l'</w><w>affetto</w> <w>fece</w> <w>voto</w><pc>,</pc>
+         <w>promettendo</w> <w>di</w> <w>andare</w> <w>per</w> <w>sette</w> <w>anni</w> <w>pellegrino</w><pc>,</pc>
+         <w>durante</w> <w>i</w> <w>quali</w> <w>avrebbe</w> <w>esaltato</w> 
+         <w>e</w> <w>a</w> <w>viva</w> <w>voce</w> <w>proclamato</w> <w>il</w> <w>miracolo</w><pc>,</pc>
+          <w>ad</w> <w>onore</w> <w>del</w> <w>Santo</w><pc>,</pc>
+         <w>se</w> 
+         <persName ref="#sanTebaudo"> 
+          <w>San</w> <w>Teobaldo</w>
+         </persName> 
+          <w>l'</w><w>avesse</w> <w>tratto</w> <w>illeso</w> <w>da</w> <w>tanto</w> <w>pericolo</w><pc>.</pc>
+          <w>Alla</w> <w>fine</w> <w>accadde</w><pc>,</pc> 
+          <w>per</w> <w>caso</w><pc>,</pc>
+          <w>che</w> <w>cacciatori</w> <w>del</w> <w>conte</w> <w>di</w>
+          <placeName ref="#Gorbio">
+          <w>Gorbio</w>
+          </placeName>
+          <w>inseguissero</w> <w>un</w> <w>maiale</w> <w>selvatico</w><pc>.</pc>
+          <w>Inoltre</w> <w>quel</w> <w>maiale</w> <w>selvatico</w> <w>giunse</w> <w>a</w> <w>detta</w> <w>caverna</w>
+          <w>nella</w> <w>quale</w> <w>il</w> <w>detto</w> <w>prigioniero</w> <w>era</w> <w>stato</w> <w>imprigionato</w><pc>.</pc>
+          <w>Ed</w> <w>ecco</w> <w>che</w><pc>,</pc>
+          <w>per</w> <w>la</w> <w>protezione</w> <w>di</w> 
+          <persName ref="#sanTebaudo">
+          <w>San</w> <w>Teobaldo</w>
+          </persName><pc>,</pc>
+          <w>accadde</w> <w>che</w> <w>quell'</w><w>animale</w> <w>ferocissimo</w><pc>,</pc>
+          <w>dando</w> <w>segni</w> <w>di</w> <w>mansuetudine</w><pc>,</pc>
+          <w>si</w> <w>accasciò</w> <w>umilmente</w> <w>ai</w> <w>piedi</w> <w>di</w> <w>detto</w> <w>prigioniero</w><pc>.</pc>
+          <w>Quelli</w> <w>che</w> <w>inseguivano</w> <w>il</w> <w>maiale</w><pc>,</pc>
+          <w>arrivati</w> <w>a</w> <w>quella</w> <w>grotta</w><pc>,</pc>
+          <w>vedendo</w> <w>quanto</w> <w>fosse</w> <w>oscuro</w> <w>il</w> <w>luogo</w><pc>,</pc>
+          <w>ebbero</w> <w>paura</w>
+          <w>di</w> <w>entrare</w> <w>ignorando</w> <w>che</w> <w >quell'</w><w>uomo</w> <w>era</w> <w>tenuto</w> <w>legato</w>
+          <w>nella</w> <w>spelonca</w> <w>stessa</w><pc>.</pc>
+          <w>Ma</w> <w>egli</w><pc>,</pc>
+          <w>sentendoli</w><pc>,</pc>
+          <w>incominciò</w> <w>a</w> <w>gridare</w> <w>forte</w><pc>:</pc>
+          <q>
+          <w>Entrate</w><pc>,</pc>
+          <w>o</w> <w>signori</w><pc>,</pc>
+          <w>entrat</w> <w>tranquillamente</w><pc>,</pc>
+          <w>perché</w> <w>Iddio</w> <w>per</w> <w>intercessione</w> <w>di</w> 
+          <persName ref="#sanTebaudo">  
+          <w>San</w> <w >Teobaldo</w>
+          </persName><pc>,</pc>
+          <w>oggi</w> <w>ha</w> <w>operato</w> <w>mirabili</w> <w>cose</w><pc>,</pc> 
+          <w>affinché</w> <w>la</w> <w>santità</w> <w>di</w> <w>lui</w> <w>sia</w> <w>manifestata</w> <w>in</w> <w>molti</w> <w>modi</w><pc>,</pc>
+          <w>nei</w> <w>suoi</w> <w>miracoli</w><pc>,</pc>
+          <w>per</w> <w>tutto</w> <w>il</w> <w>mondo</w><pc>.</pc>
+          </q>
+         <w>Così</w> <w>chiamati</w><pc>,</pc>
+        <w>entrarono</w> <w>e</w> <w>trovarono</w> <w>l'</w><w>uomo</w> <w>legato</w> 
+         <w>e</w> <w>il</w> <w>maiale</w><pc>,</pc>
+         <w>che</w> <w>giaceva</w> <w>ai</w> <w>suoi</w> <w>piedi</w> <w>ammansito</w><pc>,</pc>
+         <w>sicché</w> <w>poterono</w> <w>prenderlo</w> <w>senza</w> <w>alcuna</w> <w>ribellione</w><pc>.</pc>
+         <w>L'</w><w>uomo</w> <w>poi</w> <w>lo</w> <w>estrassero</w> <w>legato</w> <w>come</w> <w>lo</w> <w>avevano</w> <w>trovato</w><pc>.</pc>
+         <w>Lo</w> <w>interrogarono</w> <w>sulla</w> <w>ragione</w> <w>per</w> <w>la</w> <w>quale</w> <w>era</w> <w>stato</w>
+         <w>a</w> <w>quel</w> <w>modo</w> <w>legato</w> <w>e</w> <w>rinchiuso</w><pc>;</pc>
+         <w>e</w> <w>dopo</w> <w>avere</w> <w>appreso</w> <w>questa</w><pc>,</pc>
+         <w>come</w> <w>sopra</w> <w>è</w> <w>stato</w> <w>detto</w><pc>,</pc>
+         <w>inseguirono</w> <w>i</w> <w>malfattori</w> <w>e</w><pc>,</pc> 
+         <w>avendone</w> <w>raggiunto</w> <w>uno</w><pc>,</pc>
+         <w>subito</w> <w>lo</w> <w>ammazzarono</w><pc>.</pc>
+         <w>E</w> <w>affinché</w> <w>la</w> <w>devozione</w> <w>di</w>
+         <persName ref="#sanTebaudo">
+          <w>San</w> <w>Teobaldo</w>
+         </persName>
+          <w>sia</w> <w>ritenuta</w> <w>più</w> <w>forte</w><pc>,</pc>
+         <w>davanti</w> <w>al</w> <w>detto</w> <w>vicario</w><pc>,</pc>
+         <w>tutte</w> <w>queste</w> <w>cose</w> <w>furono</w> <w>confermate</w> <w>con</w> <w>giuramento</w> 
+         <w>e</w> <w>a</w> <w>lode</w> <w>perpetua</w> <w>di</w>
+         <persName ref="#sanTebaudo"> 
+          <w>San</w> <w>Teobaldo</w>
+         </persName><pc>.</pc>
+          
+      </p> 
+        </div>
+
+
+
+      <!--<w>Parte</w> <w>seconda</w> <w>del</w> <w>Rotolo</w>  -->
+
+<div n="2" type="section">
+<pb n="8" xml:id="ST_fol_08_r"/>  
+
+<p n="20" xml:id="STT_p_20">
+  <w>L'</w><w>anno</w> <w>del</w> <w>signore</w> <date when="1236"><w>1736</w>, <w>la</w> <w>quindicesima</w> <w>indizione</w>, <w>il</w> <w>18</w> <w>di</w> <w>settembre</w></date>, 
+  <w>in</w> <placeName ref="#Alba"></placeName><w>Alba</w>, <w>nel</w> <placeName ref="#chiostroSanLorenzo"><w>chiostro</w> <w>di</w> <w>San</w> <w>Lorenzo</w></placeName>, 
+  <w>presenti</w> <w>il</w> <w>signor</w> <persName ref="#MartinoGassa"><w>Martino</w> <w>Gassa</w> <w>prete</w> <w>di</w> <placeName ref="#chiesaSanLorenzo"><w>San</w> <w>Lorenzo</w></placeName></persName>, 
+  <persName ref="#ObertoBovolo"><w>Oberto</w> <w>Bovolo</w></persName>
+  <w>e</w> <persName ref="#BergerioneTaverniere"><w>Bergerone</w> <w>Taverniere</w></persName>
+  <w>testi</w>, <persName ref="#GiovanniCerruto"><w>Giovanni</w> <w>Cerruti</w></persName>
+  <w>figlio</w> <w>di</w> 
+  <persName ref="#ManfredoCerruto">
+  <w>Manfredo</w> <w>Cerruti</w>
+  </persName>
+  <w>di</w> <placeName ref="#Pocapaglia"><w>Pocapaglia</w></placeName>
+  <w>riferì</w> <w>ai</w> <w>signori</w> <persName ref="#GiacomoArcipresbitero"><w>Giacomo</w> <w>arciprete</w> <w>di</w> <w>detta</w> <w>chiesa</w></persName>
+  <w>e</w> <persName ref="#GalvagnoArcidiacono"><w>Galvagno</w> <w>arcidiacono</w> <w>della</w> <w>predetta</w> <w>chiesa</w></persName>, <w>che</w>, <w>mentre</w> <w>egli</w>, 
+  <persName ref="#GiovanniCerruto">
+  <w>Giovanni</w> <w>suddetto</w></persName>, <w>era</w> <w>presso</w> <placeName ref="#Lombriasco"><w>Lombriasco</w></placeName><w>nell'</w><w>aia</w>, <w>e</w> <w>avendo</w> 
+  <persName ref="#OgerioCoppa">
+  <w>Ogerio</w> <w>Coppa</w></persName>
+  <w>di</w> <placeName ref="#Cherasco"><w>Cherasco</w></placeName>
+  <w>attaccato</w> <w>briga</w> <w>con</w> <persName ref="#GiacomelloPorta"><w>Giacomello</w> <w>della</w> <w>Porta</w></persName>
+  <w>di</w> <placeName ref="#Pocapaglia"><w>Pocapaglia</w></placeName>, <w>poiché</w> <w>il</w> <w>signore</w> <w>di</w> <w>detto</w> <w>castello</w> <w>voleva</w> <w>imprigionare</w>
+  <w>detto</w> <persName ref="#OgerioCoppa"><w>Ogerio</w></persName>, <w>detto</w> <persName ref="#GiovanniCerruto"><w>Giovanni</w></persName>
+  <w>prestò</w> <w>per</w> <w>lui</w> <w>cauzione</w> <w>di</w> <w>sei</w> <w>lire</w> <w>genovesi</w> <w>e</w>,
+  <w>essendo</w> <w>il</w> <w>detto</w> <persName ref="#OgerioCoppa"><w>Ogerio</w></persName>
+  <w>allontanato</w> <w>da</w> <w>detto</w> <w>luogo</w>, <w>il</w> <w>suddetto</w> <w>signore</w> <w>fece</w> <w>prendere</w> <w>e</w> <w>tenne</w> <w>prigioniero</w>
+  <w>lo</w> <w>stesso</w> <persName ref="#GiovanniCerruto"><w>Giovanni</w></persName>
+  <w>e</w> <w>lo</w> <w>fece</w> <w>incatenare</w> <w>a</w> <w>certi</w> <w>ferri</w> <w>di</w> <w>un</w> <w>bancone</w>.
+  <w>E</w>, <w>mentre</w> <w>era</w> <w>incatenato</w> <w>e</w> <w>rinchiuso</w>, <w>fece</w> <w>voto</w> <w>a</w> <w>Dio</w> <w>che</w>,
+  <w>se</w> <w>Dio</w> <w>lo</w> <w>avesse</w> <w>liberato</w> <w>da</w> <w>quella</w> <w>prigione</w>,
+  <w>per</w> <w>i</w> <w>meriti</w> <w>del</w> <persName ref="#SanTebaudo"><w>beato</w> <w>Teobaldo</w></persName>,
+  <w>egli</w> <w>avrebbe</w> <w>portato</w> <w>dette</w> <w>catene</w> <w>al</w> <w>suo</w> <placeName ref="#altareSanTebaudo"><w>santo</w> <w>altare</w></placeName><pc>.</pc> 
+  <w>Dunque</w>, <w>fatto</w> <w>il</w> <w>voto</w>, <w>la</w> <w>notte</w> <w>seguente</w> <w>uscì</w> <w>da</w> <w>detto</w> <w>luogo</w> (<w>anche</w> <w>se</w> <w>c'</w><w>erano</w> <w>due</w> <w>guardie</w>),
+  <w>attraversando</w>, <w>in</w> <w>mezzo</w> <w>a</w> <w>sei</w> <w>cani</w>, <w>muri</w> <w>e</w> <w>fossati</w> <w>altissimi</w>
+  <w>e</w> <w>guarniti</w> <w>di</w> <w>spine</w> <w>e</w> <w>così</w> <w>per</w> <w>i</w> <w>meriti</w>
+  <w>del</w> <persName ref="#SanTeobaldo"><w>beato</w> <w>Teobaldo</w></persName>
+  <w>venne</w> <w>a</w> <placeName ref="#Pocapaglia"><w>Pocapaglia</w></placeName>, <w>portando</w> <w>le</w> <w>dette</w> <w>catene</w> <w>al</w> <w>suo</w> <placeName ref="#altareSanTebaudo"><w>santo</w> <w>altare</w></placeName>.
+  <w>E</w> <w>così</w> <w>giurò</w> <w>essere</w> <w>vere</w> <w>le</w> <w>cose</w> <w>suddette</w>,
+  <w>confessando</w> <w>che</w> <w>egli</w> <w>si</w> <w>era</w> <w>in</w> <w>tal</w> <w>modo</w> <w>liberato</w>
+  <w>per</w> <w>i</w> <w>meriti</w> <w>di</w> <persName ref="#sanTebaudo"><w>San</w> <w>Teobaldo</w></persName><pc>.</pc> 
+  </p>
+  
+  <p n="21" xml:id="STT_p_21">
+  <w>Nel</w> <w>nome</w> <w>del</w> <w>nostro</w> <w>Signore</w> <w>Gesù</w> <w>Cristo</w> <w>e</w> <w>della</w> <w>gloriosa</w> <w>sua</w> <w>madre</w> <w>Maria</w>
+  <w>e</w> <w>del</w> <persName ref="#sanLorenzo"><w>santissimo</w> <w>Lorenzo</w> <w>martire</w></persName>
+  <w>e</w> <w>del</w> <persName ref="#sanTebaudo"><w>beato</w> <w>Teobaldo</w></persName> <w>e</w> <w>di</w> <w>tutta</w> <w>la</w> <w>corte</w> <w>celeste</w>,
+  <w>fatto</w> <w>nella</w> <w>città</w> <w>di</w> <placeName ref="#Alba"><w>Alba</w></placeName>, <w>nella</w> <placeName ref="#chiesaSanLorenzo"><w>chiesa</w> <w>del</w> <w>predetto</w> <w>santo</w> <w>Lorenzo</w></placeName>, 
+  <w>presenti</w>: <w>il</w> <w>prete</w> <persName ref="#AlessandroBenevello"><w>Alessandro</w> <w>Benevello</w></persName>, <w>cappellano</w> <w>in</w> <w>detta</w> <w>chiesa</w>, 
+  <persName ref="#AntonioBerruto"><w>Antonio</w> <w>Berruti</w></persName>, <persName ref="#NicolinoMazzaburra"><w>Nicolino</w> <w>Mazzaburra</w></persName>,
+  <persName ref="#GiacomoBaduino"><w>Giacomo</w> <w>Bauduino</w></persName>, <persName ref="#ManfredinoBucino"><w>Manfredino</w> <w>Buzino</w></persName>,
+  <persName ref="#DanieleFerrario"><w>Daniele</w> <w>Ferrario</w></persName>,
+  <w>cittadini</w> <w>di</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>e</w> <w>molti</w> <w>altri</w> <w>testimoni</w> <w>chiamati</w> <w>e</w> <w>richiesti</w>,
+  <w>in</w> <w>presenza</w> <w>dei</w> <w>quali</w>, <persName ref="#ArnulfoAlbi"><w>Arnulfo</w> <w>Albi</w></persName>, <w>figlio</w> <w>del</w> <w>fu</w> <persName ref="#PietroAlbi"><w>Pietro</w> <w>Albi</w></persName>
+  <w>di</w> <placeName ref="#BastieNeuve"><w>Bastia</w> <w>Nova</w></placeName>
+  <w>e</w> <w>di</w> <persName ref="#Bermonda"><w>Bermunda</w></persName> <w>moglie</w> <w>di</w> <w>detto</w> <persName ref="#PietroAlbi"><w>Pietro</w></persName>
+  <w>della</w> <placeName ref="#diocesiGap"><w>diocesi</w> <w>di</w> <w>Gap</w></placeName>,
+  <w>costituito</w> <w>nella</w> <w>chiesa</w> <w>suddetta</w>, <w>davanti</w> <w>al</w> <w>rispettabile</w> <w>uomo</w> <w>signor</w> <persName ref="#GuglielmoGassa"><w>Guglielmo</w> <w>Gassa</w></persName> <w>arciprete</w> <w>di</w> <w>detta</w> <w>chiesa</w> <w>albese</w>
+  <w>e</w> <w>davanti</w> <w>a</w> <w>una</w> <w>grande</w> <w>moltitudine</w> <w>di</w> <w>uomini</w> <w>e</w> <w>di</w> <w>donne</w> <w>di</w> <w>detta</w> <w>città</w>,
+  <w>lì</w> <w>presenti</w> <w>ed</w> <w>espressamente</w> <w>riuniti</w> <w>nella</w> <w>chiesa</w> <w>anzidetta</w>,
+  <w>volendo</w> <w>divulgare</w> <w>e</w> <w>pubblicamente</w> <w>proclamare</w> <w>un</w> <w>miracolo</w> <w>e</w> <w>una</w> <w>grazia</w> <w>a</w> <w>lui</w>
+  <w>fatta</w> <w>da</w> <w>Dio</w> <w>per</w> <w>i</w> <w>meriti</w> <w>e</w> <w>per</w>
+  <w>l'</w><w>intercessione</w> <w>del</w> <persName ref="#SanTebaudo"><w>beato</w> <w>Teobaldo</w></persName> <w>predetto</w>, <w>disse</w> <w>e</w> <w>confermò</w>
+  <w>che</w> <w>detto</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName>, <w>nel</w> <w>tempo</w> <w>della</w> <w>sua</w> <w>infanzia</w>,
+  <w>era</w> <w>stato</w> <w>colpito</w> <w>da</w> <w>una</w> <w>grave</w> <w>anzi</w> <w>gravissima</w> <w>infermità</w>,
+  <w>tanto</w> <w>che</w> <w>da</w> <w>sette</w> <w>giorni</w> <w>e</w> <w>più</w> <w>non</w> <w>poteva</w> <w>affatto</w> <w>parlare</w><pc>.</pc> 
+  <w>Una</w> <w>donna</w>, <w>di</w> <w>nome</w> <persName ref="#Astruga"><w>Astruga</w></persName> <w>di</w> <placeName ref="#Alba"><w>Alba</w></placeName>,
+  <w>sua</w> <w>vicina</w> <w>di</w> <w>casa</w>, <w>venne</w> <w>da</w> <w>detta</w> <persName ref="#Bermonda"><w>Bermonda</w></persName>, 
+  <w>madre</w> <w>di</w> <w>detto</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> <w>dicendole</w> <w>di</w> <w>raccomandare</w> <w>il</w> <w>menzionato</w> <w>suo</w> <w>figlio</w>
+  <w>a</w> <w>predetto</w> <persName ref="#sanTebaudo"><w>san</w> <w>Teobaldo</w></persName>, 
+  <w>narrandole</w> <w>un</w> <w>altro</w> <w>miracolo</w> <w>che</w> <w>aveva</w> <w>fatto</w> <w>detto</w> <w>santo</w> <w>con</w> <w>queste</w> <w>parole</w>:
+  <q who="Astruga">
+  <w>Il</w> <w>figlio</w> <w>di</w> <persName ref="#GiraudoMartino"><w>Geraldo</w> <w>Martino</w></persName>, <w>nostro</w> <w>vicino</w>,
+  <w>ebbe</w> <w>un'</w><w>infermità</w> <w>simile</w> <w>a</w> <w>quella</w> <w>che</w> <w>ha</w> <w>vostro</w> <w>figlio</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName>,
+    <w>e</w> <w>si</w> <w>raccomandò</w> <w>a</w> <persName ref="#sanTebaudo"><w>San</w> <w>Teobaldo</w></persName> <w>predetto</w> <w>e</w> <w>promise</w>
+    <w>di</w> <w>recarsi</w> <w>ad</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>a</w> <w>visitare</w> <placeName ref="#altareSanTebaudo"><w>l'</w><w>altare</w> <w>di</w> <w>San</w> <w>Teobaldo</w></placeName>,
+    <w>obbligandosi</w> <w>a</w> <w>questo</w>, <w>e</w> <w>diede</w> <w>cauzione</w>, <w>donò</w> <w>e</w> <w>vincolò</w>
+    <w>in</w> <w>modo</w> <w>speciale</w> <w>una</w> <w>pezza</w> <w>di</w> <w>terra</w> <w>con</w> <w>alberi</w><pc>.</pc>
+    <w>E</w> <w>dopo</w> <w>avere</w> <w>fatto</w> <w>questa</w> <w>promessa</w> <w>e</w> <w>obbligo</w>, <w>proprio</w> <w>il</w> <w>figlio</w> <w>di</w> <w>detto</w><persName ref="#GiraudoMartino"><w>Geraldo</w></persName>
+   <w>immediatamente</w> <w>fu</w> <w>liberato</w> <w>da</w> <w>quella</w> <w>infermità</w><pc>.</pc></q> 
+  <w>Disse</w> <w>tuttavia</w> <w>lei</w> <w>stessa</w>
+  
+  <pb n="9" xml:id="ST_fol_09_r"/>
+  <w>che</w> <w>suddetto</w> <w>figlio</w> <w>di</w> <w>detto</w> <persName ref="#GiraudoMartino"><w>Geraldo</w></persName> <w>non</w> <w>mantenne</w>
+  <w>la</w> <w>ricordata</w> <w>promessa</w>, <w>né</w> <w>andò</w> <w>ad</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>come</w> <w>aveva</w> <w>promesso</w><pc>;</pc>
+  <w>e</w> <w>allora</w> <w>tutti</w> <w>gli</w> <w>alberi</w> <w>esistenti</w>
+  <w>in</w> <w>detta</w> <w>pezza</w> <w>di</w> <w>terra</w>,
+  <w>non</w> <w>appena</w> <w>fu</w> <w>trascorso</w> <w>il</w> <w>tempo</w> <w>di</w> <w>detta</w> <w>promessa</w>
+  <w>nel</w> <w>quale</w> <w>doveva</w> <w>andare</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName>, <w>seccarono</w>.
+  <w>Allora</w> <w>detta</w> <persName ref="#Bermonda"><w>Bermunda</w></persName>, <w>madre</w> <w>di</w> <w>detto</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName>,
+  <w>udite</w> <w>le</w> <w>cose</w> <w>anzidette</w> <w>disse</w>:
+  <q who="#Bermonda">
+  <w>Io</w> <w>non</w> <w>voglio</w> <w>dare</w> <w>come</w> <w>garanzia</w> <w>e</w> <w>come</w> <w>pegni</w> <w>gli</w> <w>alberi</w>,
+  <w>ma</w> <w>il</w> <w>padre</w> <w>di</w> <w>detto</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName>, <w>mio</w> <w>marito</w>, <w>e</w> <w>mio</w> <w>fratello</w>
+  <w>e</w> <w>prometto</w> <w>a</w> <w>Dio</w> <w>e</w> <w>al</w> <persName ref="#sanTebaudo"><w>beato</w> <w>Teobaldo</w></persName>
+  <w>che</w>, <w>se</w> <w>mio</w> <w>figlio</w> <w>sarà</w> <w>liberato</w> <w>dalla</w> <w>malattia</w> <w>dalla</w>
+  <w>quale</w> <w>è</w> <w>oppresso</w>, <w>andrà</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName> 
+  <w>a</w> <w>visitare</w> <placeName ref="#altareSanTebaudo"><w>l'</w><w>altare</w></placeName> <w>e</w> <placeName ref="#sepolcroSanTebaludo"><w>il</w> <w>sepolcro</w> <w>di</w> <w>detto</w> <w>San</w> <w>Teobaldo</w></placeName> 
+  <w>entro</w> <w>un</w> <w>anno</w><pc>.</pc></q>
+  <w>Essendo</w> <w>state</w> <w>dette</w> <w>e</w> <w>promesse</w> <w>queste</w> <w>cose</w> <w>dalla</w> <w>madre</w> <w>di</w> <w>detto</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName>,
+  <w>lo</w> <w>stesso</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> <w>immediatamente</w> <w>cominciò</w> <w>a</w> <w>parlare</w> <w>e</w> <w>disse</w> <w>a</w> <w>sua</w> <w>madre</w>:
+  <q who="#ArnulfoAlbi">
+  <w>O</w> <w>madre</w>, <w>questo</w> <w>non</w> <w>è</w> <w>possibile</w> <w>che</w> <w>io</w> <w>vada</w> <w>al</w> <w>santo</w> <w>predetto</w> <w>entro</w> <w>l'</w><w>anno</w>, <w>perché</w> <w>sono</w> <w>troppo</w> <w>piccolo</w>, <w>ma</w> <w>andrò</w> <w>fra</w>
+  5 <w>anni</w><pc>.</pc></q>
+  <w>E</w> <w>così</w> <w>fu</w> <w>stabilito</w><pc>.</pc>
+  <w>Pertanto</w> <w>le</w> <w>persone</w> <w>che</w> <w>erano</w> <w>presenti</w> <w>e</w> <w>che</w> <w>sapevano</w> <w>che</w>
+  <w>quell'</w><persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> <w>era</w> <w>stato</w> <w>tanti</w> <w>giorni</w>
+  <w>senza</w> <w>parlare</w> <w>e</w> <w>ora</w> <w>parlava</w> <w>ed</w> <w>era</w> <w>guarito</w>
+  <w>si</w> <w>stupivano</w> <w>e</w> <w>lodavano</w> <w>Dio</w> <w>e</w> <w>detto</w> <w>Santo</w>.
+  <w>Quando</w> <w>poi</w> <w>lo</w> <w>stesso</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> <w>ebbe</w> <w>raggiunto</w>
+  <w>l'</w><w>età</w> <w>di</w> <w>12</w> <w>anni</w>, <w>venne</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>con</w> <w>un</w> <w>uomo</w>
+  <w>che</w> <w>si</w> <w>chiamava</w> <persName ref="#ArenosoRestagno"><w>Arenoso</w> <w>Restagno</w></persName> <w>e</w> <w>visitò</w>
+  <placeName ref="#altareSanTebaudo"><w>l'</w><w>altare</w> <w>del</w> <w>Beato</w> <w>Teobaldo</w></placeName><pc>.</pc>
+  <w>Tuttavia</w> <w>non</w> <w>riconobbe</w> <w>bene</w> <w>la</w> <w>grazia</w> <w>a</w> <w>lui</w> <w>fatta</w>
+  <w>per</w> <w>i</w> <w>meriti</w> <w>di</w> <w>detto</w> <w>Santo</w> <w>e</w> <w>non</w> <w>adempì</w>
+  <w>ciò</w> <w>che</w> <w>era</w> <w>stato</w> <w>promesso</w>, <w>ma</w>, <w>da</w> <w>giovane</w>, <w>appunto</w> <w>ritornò</w> <w>a</w> <w>casa</w>.
+  <w>In</w> <w>seguito</w>, <w>poco</w> <w>prima</w> <w>della</w> <w>malattia</w> <w>mortale</w> <w>da</w> <w>poco</w> <w>scampata</w>, <w>lo</w> <w>stesso</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> 
+  <w>fu</w> <w>assalito</w> <w>dalla</w> <w>medesima</w> <w>malattia</w> <w>che</w> <w>già</w> <w>lo</w> <w>aveva</w> <w>tenuto</w>
+  <w>sette</w> <w>giorni</w> <w>senza</w> <w>parlare</w><pc>.</pc>
+  <w>Ed</w> <w>egli</w>, <w>rientrando</w> <w>in</w> <w>se</w> <w>stesso</w> <w>e</w> <w>ricordandosi</w>
+  <w>della</w> <w>prima</w> <w>grazia</w> <w>che</w> <w>gli</w> <w>era</w> <w>stata</w> <w>fatta</w>
+  <w>da</w> <w>Dio</w> <w>per</w> <w>i</w> <w>meriti</w> <w>del</w> <persName ref="#sanTebaudo"><w>beato</w> <w>Teobaldo</w></persName>,
+  <w>di</w> <w>nuovo</w> <w>si</w> <w>votò</w> <w>a</w> <w>detto</w> <w>santo</w> <w>e</w> <w>promise</w>
+  <w>di</w> <w>venire</w> <w>ad</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>e</w> <w>visitare</w> <w>detto</w> <w>santo</w><pc>;</pc>
+  <w>e</w> <w>immediatamente</w> <w>fu</w> <w>guarito</w><pc>.</pc>
+  <w>E</w> <w>così</w> <w>venne</w> <w>ad</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>ad</w> <w>adempiere</w> <w>il</w> <w>voto</w>
+  <w>e</w> <w>la</w> <w>promessa</w> <w>sopra</w> <w>detta</w><pc>.</pc>
+  <w>E</w> <w>lo</w> <w>stesso</w> <persName ref="#ArnulfoAlbi"><w>Arnulfo</w></persName> <w>giurò</w> <w>sopra</w> <w>ai</w> <w>santi</w> <w>Vangeli</w>
+  <w>del</w> <w>Signore</w>, <w>dopo</w> <w>aver</w> <w>toccato</w> <w>con</w> <w>le</w> <w>mani</w> <w>le</w> <w>scritture</w>,
+  <w>che</w> <w>le</w> <w>cose</w> <w>anzidette</w> <w>sono</w> <w>vere</w>,
+  <w>e</w> <w>così</w> <w>riferì</w> <w>in</w> <w>predetta</w> <w>chiesa</w><pc>;</pc>
+  <w>era</w> <date><w>l'</w><w>anno</w> <w>del</w> <w>Signore</w> <w>1354</w>, <w>l'</w><w>indizione</w> <w>settima</w>, <w>il</w> <w>9</w> <w>del</w> <w>mese</w> <w>di</w> <w>giugno</w></date><pc>.</pc>
+  </p>
+  
+  <p n="22" xml:id="STT_p_22">  
+  <date><w>L'</w><w>anno</w> <w>del</w> <w>Signore</w> <w>1354</w>, <w>l'</w><w>indizione</w> <w>settima</w>, <w>il</w> <w>giorno</w> <w>10</w> <w>del</w> <w>mese</w> <w>di</w> <w>giugno</w></date>,
+  <w>fatto</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>nella</w> <placeName ref="#chiesaSanLorenzo"><w>chiesa</w> <w>di</w> <w>San</w> <w>Lorenzo</w></placeName>,
+  <w>davanti</w> <w>all'</w><placeName ref="#altareSanTebaudo"><w>altare</w> <w>del</w> <w>beato</w> <w>Teobaldo</w></placeName>,
+  <w>presenti</w> <w>il</w> <w>signor</w> <persName ref="#GalvagnoArcidiacono"><w>Galvagno</w></persName> <w>di</w> <placeName ref="#Marcenasco"><w>Marcenasco</w></placeName>,
+  <w>arcidiacono</w> <w>di</w> <w>detta</w> <w>chiesa</w>, <persName ref="#StefanoNoce"><w>Pietro</w> <w>Stefano</w> <w>della</w> <w>Noce</w></persName> <w>cappellano</w> <w>nella</w> <w>stessa</w> <w>chiesa</w>,
+  <persName ref="#TebaudoMaleto"><w>Tebaudo</w> <w>Maleto</w></persName>, <persName ref="#GiovanniGorrino"><w>Giovanni</w> <w>di</w> <w>Gorrino</w></persName> <w>e</w> 
+  <persName ref="#GiovanniFerrario"><w>Giovanni</w> <w>Ferrario</w></persName> <w>cittadini</w> <w>di</w> <placeName ref="#Alba"><w>Alba</w></placeName>
+  <w>testimoni</w> <w>chiamati</w> <w>e</w> <w>richiesti</w>,
+  <w>in</w> <w>presenza</w> <w>dei</w> <w>quali</w> <persName ref="#PietroRenaco"><w>Pietro</w> <w>Renaco</w></persName> <w>di</w> <placeName ref="#Morra"><w>Morra</w></placeName>
+  <w>disse</w> <w>e</w> <w>confessò</w> <w>sui</w> <w>santi</w> <w>Vangeli</w>,
+  <w>dopo</w> <w>aver</w> <w>toccato</w> <w>le</w> <w>sacre</w> <w>scritture</w> <w>con</w> <w>le</w> <w>mani</w>,
+  
+ <pb n="10" xml:id="ST_fol_10_r"/> 
+  
+<w>giurò</w> <w>le</w> <w>cose</w> <w>che</w> <w>sono</w> <w>state</w> <w>scritte</w> <w>in</w> <w>seguito</w><pc>.</pc> 
+<w>Che</w> <w>mentre</w> <w>lo</w> <w>stesso</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName> <w>era</w> <w>oppresso</w> <w>da</w> <w>malattia</w> <w>grave</w>
+<w>e</w> <w>tale</w> <w>che</w> <w>non</w> <w>poteva</w> <w>servirsi</w> <w>né</w> <w>delle</w> <w>mani</w>, <w>né</w> <w>dei</w> <w>piedi</w>, <w>ma</w> <w>stava</w>
+<w>prostrato</w> <w>a</w> <w>letto</w>, <w>e</w> <w>rimase</w> <w>in</w> <w>questa</w> <w>infermità</w>
+<w>dalla</w> <w>domenica</w> <w>precedente</w> <w>la</w> <w>Quaresima</w> <w>appena</w> <w>trascorsa</w>,
+<w>che</w> <w>volgarmente</w> <w>si</w> <w>chiama</w> <w>domenica</w> "<w>grassa</w>", <w>fino</w> <w>al</w> <w>giorno</w> <w>di</w> <w>ieri</w>
+<w>9</w> <w>giugno</w> <w>corrente</w> <w>e</w>, <w>per</w> <w>essere</w> <w>liberato</w> <w>proprio</w> <w>dalla</w> <w>malattia</w>,
+<w>si</w> <w>diede</w> <w>da</w> <w>fare</w> <w>poiché</w> <w>mastro</w> <persName ref="#BetramodiMonteverde"><w>Bertramo</w> <w>di</w> <w>Monteverde</w></persName> <w>lo</w> <w>dovesse</w>
+<w>curare</w> <w>e</w> <w>a</w> <w>tal</w> <w>fine</w> <w>proprio</w> <persName ref="#BetramodiMonteverde"><w>il</w> <w>maestro</w> <w>Bertramo</w></persName>
+<w>venisse</w> <w>al</w> <w>luogo</w> <w>di</w> <placeName ref="#Morra"><w>Morra</w></placeName>,
+<w>insieme</w> <w>ad</w> <w>altri</w> <w>amici</w> <w>di</w> <w>detto</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName><pc>;</pc>
+<w>e</w> <w>lo</w> <w>stesso</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName> <w>si</w> <w>accordò</w> <w>con</w> <w>detto</w> <persName ref="#BetramodiMonteverde"><w>Bertramo</w></persName>
+<w>e</w> <w>si</w> <w>stabilì</w> <w>che</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName>
+<w>fosse</w> <w>condotto</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName><pc>.</pc>
+<w>Dopo</w> <w>che</w> <w>detto</w> <persName ref="#BetramodiMonteverde"><w>mastro</w> <w>Bertramo</w></persName> <w>e</w> <w>i</w> <w>suoi</w> <w>compagni</w>
+<w>furono</w> <w>discesi</w> <w>dal</w> <w>luogo</w> <w>della</w> <placeName ref="#Morra"><w>Morra</w></placeName>, <w>lo</w> <w>stesso</w> <persName ref="#PietroRenaco"><w>Pietro</w> <w>Renaco</w></persName>
+<w>fece</w> <w>voto</w> <w>e</w> <w>promise</w> <w>a</w> <w>Dio</w> <w>e</w> <w>a</w> <persName ref="#sanTebaudo"><w>San</w> <w>Teobaldo</w></persName>
+<w>che</w>, <w>se</w> <w>fosse</w> <w>stato</w> <w>liberato</w> <w>da</w> <w>quella</w> <w>infermità</w>,
+<w>sarebbe</w> <w>venuto</w> <w>a</w> <w>visitare</w> <placeName ref="#altareSanTebaudo"><w>l'</w><w>altare</w></placeName> <w>e</w> <w>il</w> <placeName ref="#sepolcroSanTebaudo"><w>sepolcro</w> <w>di</w> <w>San</w> <w>Teobaldo</w></placeName><pc>;</pc>
+<w>e</w> <w>fece</w> <w>detto</w> <w>voto</w> <w>con</w> <w>tale</w> <w>fervore</w> <w>che</w> <w>un</w> <w>sudore</w> <w>lo</w> <w>avvolse</w> <w>tutto</w>,
+<w>e</w>, <w>mentre</w> <w>era</w> <w>in</w> <w>questo</w> <w>sudore</w>,
+<w>le</w> <w>giunture</w> <w>delle</w> <w>mani</w> <w>e</w> <w>dei</w> <w>piedi</w> <w>scrocchiarono</w> <w>forte</w>,
+<w>quasi</w> <w>come</w> <w>se</w> <w>fossero</w> <w>stirate</w> <w>da</w> <w>qualcuno</w><pc>.</pc>
+<w>Alla</w> <w>fine</w> <w>lo</w> <w>stesso</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName>,
+<w>sempre</w> <w>immerso</w> <w>in</w> <w>quel</w> <w>sudore</w>, <w>si</w> <w>addormentò</w>,
+<w>e</w> <w>quando</w> <w>si</w> <w>svegliò</w> <w>dal</w> <w>suo</w> <w>sonno</w>,
+<w>fu</w> <w>liberato</w> <w>per</w> <w>virtù</w> <w>divina</w> <w>e</w> <w>per</w> <w>i</w> <w>meriti</w> <w>del</w> <persName ref="#sanTebaudo"><w>beato</w> <w>Teobaldo</w></persName> <w>predetto</w><pc>.</pc> 
+   
+</p>   
+  
+</div>
+
+    </body>
+  </text>
+   </TEI>
