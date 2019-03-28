@@ -360,10 +360,13 @@
           
           <person xml:id="GalvagnoArcidiacono">
            <persName>
-             <forename>Galvagno (arcidiacono)</forename>
+             <forename>Galvagno</forename>
+             <surname>di Marcenasco</surname>
            </persName>
             <sex>M</sex>
             <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
+              al f.5 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note>
           </person>
          
          <person xml:id="GiacomelloPorta">
@@ -376,10 +379,12 @@
          
           <person xml:id="GiacomoArcipresbitero">
            <persName>
-             <forename>Giacomo (arcipresbitero)</forename>
+             <forename>Giacomo de Mediolano</forename>
            </persName>
            <sex>M</sex>
-           <occupation>arcipresbitero della Chiesa di San Lorenzo</occupation> 
+           <occupation>arciprete della Chiesa di San Lorenzo</occupation>
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al
+              f.12 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note> 
           </person>
         
         <person xml:id="GiacomoBaduino">
@@ -458,10 +463,13 @@
         
          <person xml:id="GiobArcipresbitero">
           <persName>
-            <forename>Giob (arciprete)</forename>
+            <forename>Giacomo, detto Giob</forename>
           </persName>
            <sex>M</sex>
            <occupation>arciprete della Chiesa di San Lorenzo di Alba</occupation>
+           <note>citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.19 e f. 42 (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1), 
+             compare anche nel Minutario del notaio Allaria (collocazione)
+           </note>
          </person>
         
         <person xml:id="GiovanniCavalero">
@@ -512,7 +520,7 @@
               <surname>Rembaudo</surname>
             </persName>
             <sex>M</sex>
-            <occupation>zio del vescovo di Alba</occupation>
+            <occupation>zio del vescovo di Alba Alerino Rembaudi</occupation>
           </person>
           
           
@@ -560,6 +568,8 @@
            </persName> 
             <sex>M</sex>
             <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
+              al f.48 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note>
           </person>
           
           <person xml:id="GuglielmoVitrola">
@@ -1002,9 +1012,6 @@
          <settlement type="località">Lombriasco</settlement> 
         </place>
         
-        <place xml:id="Marcenasco">
-          <settlement type="località">Marcenasco</settlement>
-        </place>
         
         <place xml:id="Mentone">
           <settlement type="località">Mentone</settlement>
@@ -1070,9 +1077,19 @@
         
        <place xml:id="chiesaSantaMariadelPonte">
         <placeName type="edificio">chiesa di Santa Maria del Ponte di Alba</placeName> 
+         <note>una delle quattro antiche parrocchie albesi unita a quella di San Lorenzo nel XVII secolo. 
+           Presso l’archivio vescovile si conserva un disegno del conte Rangone di Montelupo il “Tipo regolare della piazza detta dellle armi […]” 
+           (Archivio storicodiocesano di Alba, Archivio storico del Vescovo cartella n. 1595) con raffigurazione della pianta e di un frammento di muro. 
+           Il disegno è datato 7 febbraio 1788. Bibliografia: <ref target="#COMBA_2010"/> <ref target="#ACCIGLIARO_BOFFA_MOLINO_2011"/> <ref target="#VERNAZZA_1788"/> <ref target="#LEVI_MOMIGLIANO_2004"/>
+         </note>
        </place>
 
-
+          <place xml:id="campanileSanLorenzo">
+            <placeName>antico campanile della chiesa di San Lorenzo di Alba</placeName>
+            <note>Antico campanile della chiesa di San Lorenzo. Bibliografia: <ref target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
+              "/> <ref target="#AAVV_2013"/></note>
+          </place>
+          
         <place xml:id="chiostroSanLorenzo">
          <placeName type="edificio">chiostro della chiesa di San Lorenzo di Alba</placeName> 
         </place>
@@ -1081,6 +1098,12 @@
          <placeName type="edificio">sepolcro di San Tebaudo</placeName> 
         </place>
         
+        
+          <place xml:id="voltechiesaSanTebaudo">
+            <placeName type="edificio">volte della chiesa di San Tebaudo</placeName> 
+            <note>volte della antica chiesa di San Tebaudo. Bibliografia: <ref target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
+              "/> <ref target="#AAVV_2013"/></note>
+          </place>
         
         <place xml:id="Sospello">
           <settlement type="località">Sospello</settlement>
@@ -1110,10 +1133,15 @@
         <!-- ########## Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)   ########## -->    
         <listOrg>
           <head>Istituti religiosi</head>
-          <org>
-           <orgName></orgName> 
-          <desc></desc>
-          </org>
+    
+            <org xml:id="OspedaleSanTebaudo">
+              <settlement type="edificio">ospedale di San Tebaudo</settlement>
+              <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne fuori della porta San Martino.
+                Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di Casanova, 
+                per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII sec. nell’Ospedale di San Lazzaro. Bibliografia: <ref target="#MELLINO_1988"/>
+                <ref target="#AUDENINO_COMBA_2007"/> <ref target="#GATTO_MONTICONE_2005"/> <ref target="#MILANO_1903"/>
+              </note>         
+                </org>
           
          
         </listOrg>
@@ -2742,7 +2770,7 @@
   <date><w>L'</w><w>anno</w> <w>del</w> <w>Signore</w> <w>1354</w>, <w>l'</w><w>indizione</w> <w>settima</w>, <w>il</w> <w>giorno</w> <w>10</w> <w>del</w> <w>mese</w> <w>di</w> <w>giugno</w></date>,
   <w>fatto</w> <w>in</w> <placeName ref="#Alba"><w>Alba</w></placeName> <w>nella</w> <placeName ref="#chiesaSanLorenzo"><w>chiesa</w> <w>di</w> <w>San</w> <w>Lorenzo</w></placeName>,
   <w>davanti</w> <w>all'</w><placeName ref="#altareSanTebaudo"><w>altare</w> <w>del</w> <w>beato</w> <w>Teobaldo</w></placeName>,
-  <w>presenti</w> <w>il</w> <w>signor</w> <persName ref="#GalvagnoArcidiacono"><w>Galvagno</w></persName> <w>di</w> <placeName ref="#Marcenasco"><w>Marcenasco</w></placeName>,
+  <w>presenti</w> <w>il</w> <w>signor</w> <persName ref="#GalvagnoArcidiacono"><w>Galvagno</w> <w>di</w> <w>Marcenasco</w></persName>,
   <w>arcidiacono</w> <w>di</w> <w>detta</w> <w>chiesa</w>, <persName ref="#StefanoNoce"><w>Pietro</w> <w>Stefano</w> <w>della</w> <w>Noce</w></persName> <w>cappellano</w> <w>nella</w> <w>stessa</w> <w>chiesa</w>,
   <persName ref="#TebaudoMaleto"><w>Tebaudo</w> <w>Maleto</w></persName>, <persName ref="#GiovanniGorrino"><w>Giovanni</w> <w>di</w> <w>Gorrino</w></persName> <w>e</w> 
   <persName ref="#GiovanniFerrario"><w>Giovanni</w> <w>Ferrario</w></persName> <w>cittadini</w> <w>di</w> <placeName ref="#Alba"><w>Alba</w></placeName>
@@ -2760,7 +2788,7 @@
 <w>dalla</w> <w>domenica</w> <w>precedente</w> <w>la</w> <w>Quaresima</w> <w>appena</w> <w>trascorsa</w>,
 <w>che</w> <w>volgarmente</w> <w>si</w> <w>chiama</w> <w>domenica</w> "<w>grassa</w>", <w>fino</w> <w>al</w> <w>giorno</w> <w>di</w> <w>ieri</w>
 <w>9</w> <w>giugno</w> <w>corrente</w> <w>e</w>, <w>per</w> <w>essere</w> <w>liberato</w> <w>proprio</w> <w>dalla</w> <w>malattia</w>,
-<w>si</w> <w>diede</w> <w>da</w> <w>fare</w> <w>poiché</w> <w>mastro</w> <persName ref="#BetramodiMonteverde"><w>Bertramo</w> <w>di</w> <w>Monteverde</w></persName> <w>lo</w> <w>dovesse</w>
+<w>si</w> <w>diede</w> <w>da</w> <w>fare</w> <w>poiché</w> <w>mastro</w> <persName ref="#BetramodiMonteverde"><w>Bertramo</w></persName> <w>di</w> <placeName ref="#Monteverde"><w>Monteverde</w></placeName> <w>lo</w> <w>dovesse</w>
 <w>curare</w> <w>e</w> <w>a</w> <w>tal</w> <w>fine</w> <w>proprio</w> <persName ref="#BetramodiMonteverde"><w>il</w> <w>maestro</w> <w>Bertramo</w></persName>
 <w>venisse</w> <w>al</w> <w>luogo</w> <w>di</w> <placeName ref="#Morra"><w>Morra</w></placeName>,
 <w>insieme</w> <w>ad</w> <w>altri</w> <w>amici</w> <w>di</w> <w>detto</w> <persName ref="#PietroRenaco"><w>Pietro</w></persName><pc>;</pc>
@@ -2786,5 +2814,50 @@
 </div>
 
     </body>
+
+<back>
+  <div type="biblCompleta">
+      <listBibl>
+        
+        <bibl xml:id="AIMASSO_BRUSA_2015"><emph>Il Rotulo di San Teobaldo. Nuovi studi paleografici e codicologici</emph>in
+          <emph>Alba Pompeia, n.s., a.XXXVI, fasc. I (2015)</emph>.</bibl>
+        
+        <bibl xml:id="ASJ"><emph>Acta Sanctorum junii, tomus I</emph>, Venezia, 1741.</bibl>
+        
+        <bibl xml:id="BUCCOLO_1989">M. Buccolo <emph>Un antico antifonario sul verso del Rotulo di San Teobaldo,</emph>, in <emph>Alba Pompeia, n.s.,
+          a. X, fasc. I</emph>, (1989).</bibl>
+        
+        <bibl xml:id="BUCCOLO_1996">M. Buccolo, <emph> “Documenti musicali gregoriani nella Diocesi di Alba”</emph>, 
+          in <emph>Alba e l’Albese nei secoli XII-XVI. Momenti di vita comunale di arte e cultura (“Bollettino della società per gli studi storici archeologici ed artistici
+            della provincia di Cuneo), 115.</emph>, Cuneo, 1996.</bibl>
+        
+        <bibl xml:id="GASTALDI_1993">M. Gastaldi, <emph>“San Teobaldo d’Alba nell’agiografia e nell’erudizione”</emph>
+          in <emph>Alba Pompeia,n.s.,  a. XIV, fasc. II (1993)</emph> pp. 63-73.</bibl>
+        
+        <bibl xml:id="GIORDANO_1929">L. Giordano, <emph>“Il Rotulo di San Teobaldo Roggeri”</emph>, Alba, 1929.</bibl>
+        
+        <bibl xml:id="GIORDANO_1929_B">L. Giordano, <emph>Storia di San Teobaldo Roggeri</emph>, in
+          <emph>Albori di vita francescana in Piemonte</emph>, Alba, 1929.</bibl>
+        
+        <bibl xml:id="MELLINO_1988">G. Mellino, <emph>L'Ospedale di San Lazzaro e l'opera sanitario-assistenziale in Alba</emph>, Alba, 1988.</bibl>
+        
+        <bibl xml:id="COMBA_2010">R. Comba, <emph>Fra religiosità delle opere e predicazione dell'ortodossia: dinamiche socio religiose ad Alba tra XII e XIV secolo</emph>, in
+          <emph>Alba Medievale: dall'Alto Medioevo alla dominazione Angioina. VI - XIV secolo</emph>, Alba, 2010.</bibl>
+        
+        <bibl xml:id="ACCIGLIARO_BOFFA_MOLINO_2011">W. Accigliaro, G. Boffa, B. Molino, <emph>Repertorio storico delle parrocchie e delle parrocchiali nella Diocesi di Alba</emph>, Alba, 2001.</bibl>
+        
+        <bibl xml:id="VERNAZZA_1788">G. Vernazza, <emph>Santa Maria del Ponte in Alba</emph>, Torino, 1788.</bibl>
+        
+        <bibl xml:id="LEVI_MOMIGLIANO_2004">L. Levi Momigliano, <emph>Giuseppe Vernazza e la storia dell'arte in Piemonte</emph>, Alba, 2004.</bibl>        
+        
+        <bibl xml:id="AAVV_2013">AAVV, <emph>La cattedrale di Alba, archeologia di un cantiere</emph>, Borgo San Lorenzo, 2013.</bibl>        
+        
+        
+      </listBibl>
+  </div>
+</back>
+    
   </text>
+  
+  
    </TEI>
