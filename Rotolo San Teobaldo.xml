@@ -574,7 +574,7 @@
            </persName> 
             <sex>M</sex>
             <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
-            <note>Con nota citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
+            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba
              al f.48 verso (presso Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).
             </note>
           </person>
@@ -1060,7 +1060,6 @@
         <place xml:id="chiesaSanLorenzo">
           <placeName>chiesa di San Lorenzo di Alba</placeName>
           <settlement type="edificio">chiesa</settlement>
-          <note><link/></note>
         </place>
         
         <place xml:id="chiesaSanSilvestro">
