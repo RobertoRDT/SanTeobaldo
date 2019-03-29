@@ -780,7 +780,7 @@
           <person xml:id="RaimondoRafaele">
             <persName>
               <forename>Raimondo</forename>
-              <surname>di Rafaele</surname>
+              <surname>di Raffaele</surname>
             </persName>
             <sex>M</sex>
             <occupation>vicario del vescovo di Ventimiglia</occupation>
@@ -2049,25 +2049,669 @@
       <zone ulx="673" uly="11944" lrx="2807" lry="12031" rendition="Line" xml:id="ST_line_03r_43"/>
       <zone ulx="573" uly="12029" lrx="2780" lry="12129" rendition="Line" xml:id="ST_line_03r_44"/>
       
-      <!-- FOLIO 04 -->
       
-      <!-- FOLIO 05 -->
+      <!--
       
-      <!-- FOLIO 06 -->
+       FOLIO 04
       
-      <!-- FOLIO 07 -->
+<zone xml:id='imtArea_0' points=' 469,12578  2778,12578  2778,12480  469,12480 ' rendition="default" />
+        
+            <zone xml:id='imtArea_1' points=' 469,12650  2826,12650  2826,12586  469,12586 ' rendition="default" />
+        
+            <zone xml:id='imtArea_2' points=' 475,12727  2831,12727  2831,12654  475,12654 ' rendition="default" />
+        
+            <zone xml:id='imtArea_3' points=' 618,12806  2881,12806  2881,12732  618,12732 ' rendition="default" />
+        
+            <zone xml:id='imtArea_4' points=' 623,12873  2872,12873  2872,12809  623,12809 ' rendition="default" />
+        
+            <zone xml:id='imtArea_5' points=' 482,12966  2803,12966  2803,12901  482,12901 ' rendition="default" />
+        
+            <zone xml:id='imtArea_6' points=' 482,13043  2879,13043  2879,12971  482,12971 ' rendition="default" />
+        
+            <zone xml:id='imtArea_7' points='' rendition="default" />
+        
+            <zone xml:id='imtArea_8' points=' 479,13129  2870,13129  2870,13053  479,13053 ' rendition="default" />
+        
+            <zone xml:id='imtArea_9' points=' 481,13218  2883,13218  2883,13133  481,13133 ' rendition="default" />
+        
+            <zone xml:id='imtArea_10' points=' 470,13295  2926,13295  2926,13216  470,13216 ' rendition="default" />
+        
+            <zone xml:id='imtArea_11' points=' 470,13366  3010,13366  3010,13298  470,13298 ' rendition="default" />
+        
+            <zone xml:id='imtArea_12' points=' 461,13441  2921,13441  2921,13377  461,13377 ' rendition="default" />
+        
+		<zone xml:id='imtArea_13' points=' 568,13516  2959,13516  2959,13447  568,13447 ' rendition="default" />
+        
+            <zone xml:id='imtArea_14' points=' 585,13600  2917,13600  2917,13535  585,13535 ' rendition="default" />
+        
+            <zone xml:id='imtArea_15' points=' 470,13681  2908,13681  2908,13612  470,13612 ' rendition="default" />
+        
+            <zone xml:id='imtArea_16' points=' 479,13774  2910,13774  2910,13690  479,13690 ' rendition="default" />
+        
+            <zone xml:id='imtArea_17' points=' 465,13840  2918,13840  2918,13781  465,13781 ' rendition="default" />
+        
+            <zone xml:id='imtArea_18' points='' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 452,13929  2877,13929  2877,13863  452,13863 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 456,14000  2922,14000  2922,13929  456,13929 ' rendition="default" />
+        
+            <zone xml:id='imtArea_21' points=' 452,14074  2910,14074  2910,14014  452,14014 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 463,14170  2850,14170  2850,14092  463,14092 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 457,14249  2909,14249  2909,14186  457,14186 ' rendition="default" />
+        
+            <zone xml:id='imtArea_24' points=' 468,14322  2922,14322  2922,14250  468,14250 ' rendition="default" />
+        
+            <zone xml:id='imtArea_28' points=' 473,14396  2902,14396  2902,14334  473,14334 ' rendition="default" />
+        
+            <zone xml:id='imtArea_29' points=' 471,14475  2877,14475  2877,14414  471,14414 ' rendition="default" />
+        
+            <zone xml:id='imtArea_30' points=' 474,14537  2128,14537  2128,14491  474,14491 ' rendition="default" />
+          <zone xml:id='imtArea_33' points=' 630,14629  2941,14629  2941,14570  630,14570 ' rendition="default" />
+        
+            <zone xml:id='imtArea_34' points=' 653,14706  2932,14706  2932,14662  653,14662 ' rendition="default" />
+        
+            <zone xml:id='imtArea_35' points=' 489,14781  2917,14781  2917,14725  489,14725 ' rendition="default" />
+        
+            <zone xml:id='imtArea_36' points=' 475,14876  2938,14876  2938,14807  475,14807 ' rendition="default" />
+        
+            <zone xml:id='imtArea_37' points=' 482,14954  2932,14954  2932,14902  482,14902 ' rendition="default" />
+        
+            <zone xml:id='imtArea_38' points=' 492,15037  2947,15037  2947,14971  492,14971 ' rendition="default" />
+        
+            <zone xml:id='imtArea_39' points=' 480,15103  2933,15103  2933,15053  480,15053 ' rendition="default" />
+        
+            <zone xml:id='imtArea_40' points=' 491,15187  2956,15187  2956,15129  491,15129 ' rendition="default" />
+        
+            <zone xml:id='imtArea_41' points=' 491,15278  2965,15278  2965,15204  491,15204 ' rendition="default" />
+        
+            <zone xml:id='imtArea_42' points=' 493,15383  2926,15383  2926,15290  493,15290 ' rendition="default" />
+        
+            <zone xml:id='imtArea_43' points=' 503,15467  2939,15467  2939,15366  503,15366 ' rendition="default" />
+        
+            <zone xml:id='imtArea_44' points=' 499,15544  2908,15544  2908,15463  499,15463 ' rendition="default" />
+        
+            <zone xml:id='imtArea_45' points=' 493,15613  2937,15613  2937,15533  493,15533 ' rendition="default" />
+        
+            <zone xml:id='imtArea_46' points=' 486,15698  2899,15698  2899,15609  486,15609 ' rendition="default" />
+              
       
-      <!-- FOLIO 08 -->
       
-      <!-- FOLIO 09 -->
+      FOLIO 05 
       
-      <!-- FOLIO 10 -->
+       <zone xml:id='imtArea_0' points=' 614,16145  2600,16145  2600,16033  614,16033 ' rendition="default" />
+        
+            <zone xml:id='imtArea_1' points=' 606,16218  2141,16218  2141,16131  606,16131 ' rendition="default" />
+        
+            <zone xml:id='imtArea_2' points=' 704,16302  2600,16302  2600,16179  704,16179 ' rendition="default" />
+        
+            <zone xml:id='imtArea_3' points=' 720,16380  2647,16380  2647,16254  720,16254 ' rendition="default" />
+        
+            <zone xml:id='imtArea_4' points=' 605,16491  2611,16491  2611,16355  605,16355 ' rendition="default" />
+        
+            <zone xml:id='imtArea_5' points=' 596,16547  2649,16547  2649,16444  596,16444 ' rendition="default" />
+        
+            <zone xml:id='imtArea_6' points=' 595,16636  2620,16636  2620,16519  595,16519 ' rendition="default" />
+        
+            <zone xml:id='imtArea_7' points=' 591,16706  2638,16706  2638,16593  591,16593 ' rendition="default" />
+        
+            <zone xml:id='imtArea_8' points=' 576,16798  2653,16798  2653,16688  576,16688 ' rendition="default" />
+        
+            <zone xml:id='imtArea_9' points=' 585,16885  2619,16885  2619,16786  585,16786 ' rendition="default" />
+        
+            <zone xml:id='imtArea_10' points=' 574,16960  2440,16960  2440,16862  574,16862 ' rendition="default" />
+ 
+			<zone xml:id='imtArea_11' points=' 679,17125  2634,17125  2634,17023  679,17023 ' rendition="default" />
+        
+            <zone xml:id='imtArea_12' points='' rendition="default" />
+        
+            <zone xml:id='imtArea_13' points=' 697,17215  2641,17215  2641,17114  697,17114 ' rendition="default" />
+        
+            <zone xml:id='imtArea_14' points=' 580,17299  2658,17299  2658,17203  580,17203 ' rendition="default" />
+        
+            <zone xml:id='imtArea_15' points=' 570,17385  2663,17385  2663,17292  570,17292 ' rendition="default" />
+        
+            <zone xml:id='imtArea_16' points=' 576,17467  2635,17467  2635,17366  576,17366 ' rendition="default" />
+        
+            <zone xml:id='imtArea_17' points=' 571,17561  2605,17561  2605,17456  571,17456 ' rendition="default" />
+        
+            <zone xml:id='imtArea_18' points=' 569,17647  2620,17647  2620,17544  569,17544 ' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 574,17720  2632,17720  2632,17629  574,17629 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 572,17816  2667,17816  2667,17706  572,17706 ' rendition="default" />
+        
+            <zone xml:id='imtArea_21' points=' 570,17886  2642,17886  2642,17798  570,17798 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 564,17981  2668,17981  2668,17888  564,17888 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 572,18069  2712,18069  2712,17966  572,17966 ' rendition="default" />
+        
+            <zone xml:id='imtArea_24' points=' 570,18154  2684,18154  2684,18060  570,18060 ' rendition="default" />
+        
+            <zone xml:id='imtArea_25' points=' 493,18248  2644,18248  2644,18134  493,18134 ' rendition="default" />
+        
+            <zone xml:id='imtArea_26' points=' 549,18329  2659,18329  2659,18235  549,18235 ' rendition="default" />
+        
+            <zone xml:id='imtArea_27' points=' 573,18409  2686,18409  2686,18315  573,18315 ' rendition="default" />
+        
+            <zone xml:id='imtArea_28' points=' 567,18494  2688,18494  2688,18411  567,18411 ' rendition="default" />
+        
+            <zone xml:id='imtArea_29' points=' 534,18595  1575,18595  1575,18494  534,18494 ' rendition="default" />
+                
+            <zone xml:id='imtArea_30' points=' 724,18668  2692,18668  2692,18594  724,18594 ' rendition="default" />
+        
+            <zone xml:id='imtArea_31' points=' 749,18759  2676,18759  2676,18659  749,18659 ' rendition="default" />
+        
+            <zone xml:id='imtArea_32' points=' 561,18832  2678,18832  2678,18745  561,18745 ' rendition="default" />
+        
+            <zone xml:id='imtArea_33' points=' 564,18909  2711,18909  2711,18825  564,18825 ' rendition="default" />
+        
+            <zone xml:id='imtArea_34' points=' 563,19005  2640,19005  2640,18916  563,18916 ' rendition="default" />
+        
+            <zone xml:id='imtArea_35' points=' 572,19082  2671,19082  2671,19001  572,19001 ' rendition="default" />
+        
+            <zone xml:id='imtArea_36' points=' 575,19176  2656,19176  2656,19101  575,19101 ' rendition="default" />
+        
+            <zone xml:id='imtArea_37' points=' 580,19271  2638,19271  2638,19156  580,19156 ' rendition="default" />
+        
+            <zone xml:id='imtArea_38' points='' rendition="default" />
+        
+            <zone xml:id='imtArea_39' points=' 567,19358  2663,19358  2663,19265  567,19265 ' rendition="default" />
+        
+            <zone xml:id='imtArea_40' points=' 519,19431  1331,19431  1331,19343  519,19343 ' rendition="default" />
+        
+            <zone xml:id='imtArea_41' points=' 700,19500  2584,19500  2584,19421  700,19421 ' rendition="default" />
+        
+            <zone xml:id='imtArea_42' points=' 721,19595  2638,19595  2638,19523  721,19523 ' rendition="default" />
+        
       
-      <!-- FOLIO 11 -->
       
-      <!-- FOLIO 12 -->
       
-      <!-- FOLIO 13 -->
+       FOLIO 06 
+      
+      <zone xml:id='imtArea_0' points=' 564,20007  2644,20007  2644,19872  564,19872 ' rendition="default" />
+        
+            <zone xml:id='imtArea_1' points=' 572,20095  2608,20095  2608,19953  572,19953 ' rendition="default" />
+        
+            <zone xml:id='imtArea_2' points=' 567,20194  2626,20194  2626,20028  567,20028 ' rendition="default" />
+        
+            <zone xml:id='imtArea_3' points=' 572,20262  2608,20262  2608,20122  572,20122 ' rendition="default" />
+        
+            <zone xml:id='imtArea_4' points=' 573,20348  2618,20348  2618,20217  573,20217 ' rendition="default" />
+        
+            <zone xml:id='imtArea_5' points=' 576,20430  2636,20430  2636,20311  576,20311 ' rendition="default" />
+        
+            <zone xml:id='imtArea_6' points=' 575,20508  2703,20508  2703,20374  575,20374 ' rendition="default" />
+        
+            <zone xml:id='imtArea_7' points=' 572,20586  2645,20586  2645,20471  572,20471 ' rendition="default" />
+        
+            <zone xml:id='imtArea_8' points=' 574,20663  2663,20663  2663,20553  574,20553 ' rendition="default" />
+        
+            <zone xml:id='imtArea_9' points=' 486,20754  2719,20754  2719,20644  486,20644 ' rendition="default" />
+			
+			<zone xml:id='imtArea_10' points=' 700,20852  2643,20852  2643,20717  700,20717 ' rendition="default" />
+        
+            <zone xml:id='imtArea_11' points=' 688,20941  2678,20941  2678,20810  688,20810 ' rendition="default" />
+        
+            <zone xml:id='imtArea_12' points=' 583,21017  2685,21017  2685,20908  583,20908 ' rendition="default" />
+        
+            <zone xml:id='imtArea_13' points=' 580,21089  2699,21089  2699,20987  580,20987 ' rendition="default" />
+        
+            <zone xml:id='imtArea_14' points=' 578,21178  2670,21178  2670,21073  578,21073 ' rendition="default" />
+        
+            <zone xml:id='imtArea_15' points=' 576,21268  2710,21268  2710,21154  576,21154 ' rendition="default" />
+        
+            <zone xml:id='imtArea_16' points=' 566,21350  2696,21350  2696,21227  566,21227 ' rendition="default" />
+        
+            <zone xml:id='imtArea_17' points=' 571,21432  2673,21432  2673,21321  571,21321 ' rendition="default" />
+        
+            <zone xml:id='imtArea_18' points=' 568,21522  2696,21522  2696,21388  568,21388 ' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 569,21603  2654,21603  2654,21484  569,21484 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 576,21680  1799,21680  1799,21579  576,21579 ' rendition="default" />
+        
+			<zone xml:id='imtArea_21' points=' 654,21760  2681,21760  2681,21623  654,21623 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 691,21846  2661,21846  2661,21730  691,21730 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 583,21935  2684,21935  2684,21809  583,21809 ' rendition="default" />
+        
+            <zone xml:id='imtArea_24' points=' 588,22017  2691,22017  2691,21888  588,21888 ' rendition="default" />
+        
+            <zone xml:id='imtArea_25' points=' 565,22101  2758,22101  2758,21978  565,21978 ' rendition="default" />
+        
+            <zone xml:id='imtArea_26' points=' 571,22192  2723,22192  2723,22077  571,22077 ' rendition="default" />
+        
+            <zone xml:id='imtArea_27' points=' 574,22265  2742,22265  2742,22147  574,22147 ' rendition="default" />
+        
+            <zone xml:id='imtArea_28' points=' 533,22366  2698,22366  2698,22230  533,22230 ' rendition="default" />
+        
+            <zone xml:id='imtArea_29' points=' 583,22447  2669,22447  2669,22315  583,22315 ' rendition="default" />
+        
+            <zone xml:id='imtArea_30' points=' 595,22523  2705,22523  2705,22402  595,22402 ' rendition="default" />
+        
+            <zone xml:id='imtArea_31' points=' 590,22613  2683,22613  2683,22482  590,22482 ' rendition="default" />
+        
+            <zone xml:id='imtArea_32' points=' 605,22690  2704,22690  2704,22554  605,22554 ' rendition="default" />
+        
+            <zone xml:id='imtArea_33' points=' 589,22769  2708,22769  2708,22635  589,22635 ' rendition="default" />
+        
+            <zone xml:id='imtArea_34' points=' 609,22847  2682,22847  2682,22714  609,22714 ' rendition="default" />
+        
+            <zone xml:id='imtArea_35' points=' 603,22947  2693,22947  2693,22812  603,22812 ' rendition="default" />
+        
+            <zone xml:id='imtArea_36' points=' 617,23008  2684,23008  2684,22873  617,22873 ' rendition="default" />
+        
+            <zone xml:id='imtArea_37' points=' 597,23094  2691,23094  2691,22970  597,22970 ' rendition="default" />
+        
+            <zone xml:id='imtArea_38' points=' 601,23178  2679,23178  2679,23040  601,23040 ' rendition="default" />
+        
+            <zone xml:id='imtArea_39' points=' 621,23271  2700,23271  2700,23136  621,23136 ' rendition="default" />
+        
+			      <zone xml:id='imtArea_40' points=' 609,23352  2689,23352  2689,23203  609,23203 ' rendition="default" />
+        
+            <zone xml:id='imtArea_41' points=' 2021,23356  2629,23356  2629,23283  2021,23283 ' rendition="default" />
+        
+            <zone xml:id='imtArea_42' points=' 735,23490  2688,23490  2688,23355  735,23355 ' rendition="default" />
+        
+            <zone xml:id='imtArea_43' points=' 745,23577  2674,23577  2674,23429  745,23429 ' rendition="default" />
+        
+      
+     
+      
+       FOLIO 07 
+     
+     <zone xml:id='imtArea_60' points=' 563,24165  2679,24165  2679,24104  563,24104 ' rendition="default" />
+        
+            <zone xml:id='imtArea_61' points=' 597,24245  2700,24245  2700,24196  597,24196 ' rendition="default" />
+        
+            <zone xml:id='imtArea_62' points=' 598,24330  2689,24330  2689,24273  598,24273 ' rendition="default" />
+        
+            <zone xml:id='imtArea_63' points='' rendition="default" />
+        
+            <zone xml:id='imtArea_64' points=' 531,24414  2693,24414  2693,24353  531,24353 ' rendition="default" />
+        
+            <zone xml:id='imtArea_65' points=' 579,24483  2697,24483  2697,24432  579,24432 ' rendition="default" />
+        
+            <zone xml:id='imtArea_66' points=' 577,24573  2694,24573  2694,24506  577,24506 ' rendition="default" />
+        
+            <zone xml:id='imtArea_67' points=' 567,24661  2691,24661  2691,24605  567,24605 ' rendition="default" />
+        
+            <zone xml:id='imtArea_68' points=' 571,24748  2699,24748  2699,24688  571,24688 ' rendition="default" />
+        
+            <zone xml:id='imtArea_69' points=' 562,24849  2698,24849  2698,24765  562,24765 ' rendition="default" />
+        
+            <zone xml:id='imtArea_70' points=' 587,24917  2688,24917  2688,24861  587,24861 ' rendition="default" />
+        
+            <zone xml:id='imtArea_71' points=' 571,24996  2693,24996  2693,24939  571,24939 ' rendition="default" />
+        
+            <zone xml:id='imtArea_72' points=' 577,25073  2722,25073  2722,25013  577,25013 ' rendition="default" />
+        
+            <zone xml:id='imtArea_73' points=' 562,25179  2719,25179  2719,25098  562,25098 ' rendition="default" />
+        
+            <zone xml:id='imtArea_74' points=' 580,25241  2722,25241  2722,25184  580,25184 ' rendition="default" />
+        
+            <zone xml:id='imtArea_75' points=' 566,25339  2694,25339  2694,25259  566,25259 ' rendition="default" />
+        
+            <zone xml:id='imtArea_76' points=' 558,25429  2683,25429  2683,25363  558,25363 ' rendition="default" />
+        
+            <zone xml:id='imtArea_77' points=' 543,25497  2711,25497  2711,25435  543,25435 ' rendition="default" />
+        
+            <zone xml:id='imtArea_78' points=' 551,25584  2687,25584  2687,25516  551,25516 ' rendition="default" />
+        
+            <zone xml:id='imtArea_80' points=' 539,25656  2685,25656  2685,25602  539,25602 ' rendition="default" />
+        
+            <zone xml:id='imtArea_81' points=' 543,25737  2682,25737  2682,25666  543,25666 ' rendition="default" />
+        
+            <zone xml:id='imtArea_82' points=' 539,25823  2676,25823  2676,25761  539,25761 ' rendition="default" />
+        
+            <zone xml:id='imtArea_83' points=' 540,25933  2705,25933  2705,25838  540,25838 ' rendition="default" />
+        
+            <zone xml:id='imtArea_84' points=' 545,25990  2730,25990  2730,25926  545,25926 ' rendition="default" />
+        
+            <zone xml:id='imtArea_85' points=' 521,26101  2736,26101  2736,26007  521,26007 ' rendition="default" />
+        
+            <zone xml:id='imtArea_86' points=' 521,26173  2692,26173  2692,26095  521,26095 ' rendition="default" />
+        
+            <zone xml:id='imtArea_87' points=' 525,26251  2715,26251  2715,26191  525,26191 ' rendition="default" />
+        
+            <zone xml:id='imtArea_88' points=' 506,26336  2701,26336  2701,26280  506,26280 ' rendition="default" />
+        
+            <zone xml:id='imtArea_89' points=' 533,26423  2739,26423  2739,26355  533,26355 ' rendition="default" />
+        
+            <zone xml:id='imtArea_90' points=' 523,26498  2703,26498  2703,26442  523,26442 ' rendition="default" />
+        
+            <zone xml:id='imtArea_91' points=' 528,26581  2688,26581  2688,26524  528,26524 ' rendition="default" />
+        
+            <zone xml:id='imtArea_92' points=' 521,26698  1297,26698  1297,26598  521,26598 ' rendition="default" />
+        
+
+     
+       FOLIO 08 
+
+
+            <zone xml:id='imtArea_47' points=' 471,28112  2772,28112  2772,28055  471,28055 ' rendition="default" />
+        
+            <zone xml:id='imtArea_48' points=' 477,28193  2776,28193  2776,28128  477,28128 ' rendition="default" />
+        
+            <zone xml:id='imtArea_49' points=' 473,28264  2788,28264  2788,28213  473,28213 ' rendition="default" />
+        
+            <zone xml:id='imtArea_50' points=' 396,28350  2770,28350  2770,28292  396,28292 ' rendition="default" />
+        
+            <zone xml:id='imtArea_51' points=' 386,28442  2774,28442  2774,28361  386,28361 ' rendition="default" />
+        
+            <zone xml:id='imtArea_52' points=' 392,28535  2781,28535  2781,28457  392,28457 ' rendition="default" />
+        
+            <zone xml:id='imtArea_53' points=' 388,28596  2807,28596  2807,28538  388,28538 ' rendition="default" />
+        
+            <zone xml:id='imtArea_54' points=' 362,28672  2836,28672  2836,28606  362,28606 ' rendition="default" />
+        
+            <zone xml:id='imtArea_55' points=' 390,28745  2844,28745  2844,28675  390,28675 ' rendition="default" />
+        
+            <zone xml:id='imtArea_56' points=' 370,28827  2869,28827  2869,28756  370,28756 ' rendition="default" />
+        
+            <zone xml:id='imtArea_57' points=' 375,28903  2835,28903  2835,28843  375,28843 ' rendition="default" />
+		
+            <zone xml:id='imtArea_58' points=' 382,28995  2826,28995  2826,28930  382,28930 ' rendition="default" />
+        
+            <zone xml:id='imtArea_59' points=' 368,29059  2848,29059  2848,29001  368,29001 ' rendition="default" />
+        
+            <zone xml:id='imtArea_60' points=' 374,29148  2834,29148  2834,29074  374,29074 ' rendition="default" />
+        
+            <zone xml:id='imtArea_61' points=' 359,29215  2833,29215  2833,29153  359,29153 ' rendition="default" />
+        
+            <zone xml:id='imtArea_62' points=' 358,29312  2844,29312  2844,29224  358,29224 ' rendition="default" />
+        
+            <zone xml:id='imtArea_63' points=' 363,29378  877,29378  877,29296  363,29296 ' rendition="default" />
+        
+            <zone xml:id='imtArea_64' points=' 425,29710  2832,29710  2832,29616  425,29616 ' rendition="default" />
+        
+            <zone xml:id='imtArea_65' points=' 440,29801  2819,29801  2819,29725  440,29725 ' rendition="default" />
+        
+            <zone xml:id='imtArea_67' points=' 431,29873  2813,29873  2813,29810  431,29810 ' rendition="default" />
+        
+            <zone xml:id='imtArea_68' points=' 372,29965  2811,29965  2811,29897  372,29897 ' rendition="default" />
+        
+            <zone xml:id='imtArea_69' points=' 302,30061  2821,30061  2821,29976  302,29976 ' rendition="default" />
+        
+            <zone xml:id='imtArea_70' points=' 340,30134  2833,30134  2833,30066  340,30066 ' rendition="default" />
+        
+            <zone xml:id='imtArea_71' points=' 354,30203  2830,30203  2830,30141  354,30141 ' rendition="default" />
+        
+            <zone xml:id='imtArea_73' points=' 339,30288  2816,30288  2816,30226  339,30226 ' rendition="default" />
+        
+            <zone xml:id='imtArea_74' points=' 308,30363  2807,30363  2807,30314  308,30314 ' rendition="default" />
+        
+            <zone xml:id='imtArea_75' points=' 330,30455  2833,30455  2833,30401  330,30401 ' rendition="default" />
+        
+            <zone xml:id='imtArea_76' points=' 357,30534  2778,30534  2778,30481  357,30481 ' rendition="default" />
+        
+            <zone xml:id='imtArea_77' points=' 339,30609  2833,30609  2833,30554  339,30554 ' rendition="default" />
+        
+            <zone xml:id='imtArea_78' points=' 332,30702  2828,30702  2828,30643  332,30643 ' rendition="default" />
+
+
+
+
+       FOLIO 09 
+
+
+
+<zone xml:id='imtArea_1' points=' 339,32129  2691,32129  2691,31972  339,31972 ' rendition="default" />
+        
+            <zone xml:id='imtArea_2' points=' 345,32243  2704,32243  2704,32085  345,32085 ' rendition="default" />
+        
+            <zone xml:id='imtArea_3' points=' 304,32350  2757,32350  2757,32211  304,32211 ' rendition="default" />
+        
+            <zone xml:id='imtArea_4' points=' 342,32445  2799,32445  2799,32324  342,32324 ' rendition="default" />
+        
+            <zone xml:id='imtArea_5' points=' 357,32554  2810,32554  2810,32395  357,32395 ' rendition="default" />
+        
+            <zone xml:id='imtArea_6' points=' 361,32648  2790,32648  2790,32522  361,32522 ' rendition="default" />
+        
+            <zone xml:id='imtArea_7' points=' 364,32746  2753,32746  2753,32604  364,32604 ' rendition="default" />
+        
+            <zone xml:id='imtArea_10' points=' 355,32841  2769,32841  2769,32692  355,32692 ' rendition="default" />
+        
+            <zone xml:id='imtArea_11' points=' 361,32934  2794,32934  2794,32771  361,32771 ' rendition="default" />
+        
+            <zone xml:id='imtArea_12' points=' 361,33018  2811,33018  2811,32879  361,32879 ' rendition="default" />
+        
+            <zone xml:id='imtArea_13' points=' 367,33109  2824,33109  2824,32967  367,32967 ' rendition="default" />
+        
+            <zone xml:id='imtArea_14' points=' 376,33193  2793,33193  2793,33048  376,33048 ' rendition="default" />
+        
+            <zone xml:id='imtArea_15' points=' 376,33282  2810,33282  2810,33116  376,33116 ' rendition="default" />
+        
+            <zone xml:id='imtArea_16' points=' 381,33383  2782,33383  2782,33229  381,33229 ' rendition="default" />
+        
+            <zone xml:id='imtArea_17' points=' 331,33482  2801,33482  2801,33323  331,33323 ' rendition="default" />
+        
+            <zone xml:id='imtArea_18' points=' 387,33569  2817,33569  2817,33394  387,33394 ' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 414,33667  2854,33667  2854,33476  414,33476 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 374,33743  2818,33743  2818,33573  374,33573 ' rendition="default" />
+        
+            <zone xml:id='imtArea_21' points=' 398,33815  2821,33815  2821,33652  398,33652 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 405,33932  2835,33932  2835,33737  405,33737 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 401,34026  2797,34026  2797,33874  401,33874 ' rendition="default" />
+        
+            <zone xml:id='imtArea_24' points=' 394,34119  2805,34119  2805,33995  394,33995 ' rendition="default" />
+        
+            <zone xml:id='imtArea_25' points=' 408,34220  2871,34220  2871,34094  408,34094 ' rendition="default" />
+        
+            <zone xml:id='imtArea_26' points=' 386,34371  2880,34371  2880,34206  386,34206 ' rendition="default" />
+        
+            <zone xml:id='imtArea_27' points=' 410,34445  2899,34445  2899,34302  410,34302 ' rendition="default" />
+        
+            <zone xml:id='imtArea_28' points=' 390,34558  1207,34558  1207,34464  390,34464 ' rendition="default" />
+        
+            <zone xml:id='imtArea_29' points=' 527,34759  2862,34759  2862,34598  527,34598 ' rendition="default" />
+        
+            <zone xml:id='imtArea_30' points=' 528,34850  2801,34850  2801,34706  528,34706 ' rendition="default" />
+        
+            <zone xml:id='imtArea_31' points=' 425,34952  2874,34952  2874,34795  425,34795 ' rendition="default" />
+        
+            <zone xml:id='imtArea_32' points=' 431,35043  2877,35043  2877,34889  431,34889 ' rendition="default" />
+        
+            <zone xml:id='imtArea_33' points=' 443,35139  2881,35139  2881,35012  443,35012 ' rendition="default" />
+        
+            <zone xml:id='imtArea_34' points=' 442,35229  2828,35229  2828,35114  442,35114 ' rendition="default" />
+        
+            <zone xml:id='imtArea_35' points=' 452,35355  2859,35355  2859,35222  452,35222 ' rendition="default" />
+
+
+
+       FOLIO 10 (prima riga visibile solo in modo insoddisfacente)
+       
+        <zone xml:id='imtArea_37' points=' 299,35914  2960,35914  2960,35842  299,35842 ' rendition="default" />
+        
+            <zone xml:id='imtArea_38' points=' 299,35828  2967,35828  2967,35771  299,35771 ' rendition="default" />
+        
+            <zone xml:id='imtArea_39' points=' 301,35980  2961,35980  2961,35922  301,35922 ' rendition="default" />
+        
+            <zone xml:id='imtArea_40' points=' 300,36049  2935,36049  2935,35983  300,35983 ' rendition="default" />
+        
+            <zone xml:id='imtArea_41' points=' 300,36125  2990,36125  2990,36040  300,36040 ' rendition="default" />
+        
+            <zone xml:id='imtArea_42' points=' 312,36185  2986,36185  2986,36131  312,36131 ' rendition="default" />
+        
+            <zone xml:id='imtArea_43' points=' 301,36276  3014,36276  3014,36198  301,36198 ' rendition="default" />
+        
+            <zone xml:id='imtArea_44' points=' 305,36342  3014,36342  3014,36282  305,36282 ' rendition="default" />
+        
+            <zone xml:id='imtArea_45' points=' 303,36413  3009,36413  3009,36350  303,36350 ' rendition="default" />
+        
+            <zone xml:id='imtArea_46' points=' 301,36496  2994,36496  2994,36418  301,36418 ' rendition="default" />
+        
+            <zone xml:id='imtArea_47' points=' 305,35760  2988,35760  2988,35705  305,35705 ' rendition="default" />
+        
+			      <zone xml:id='imtArea_48' points=' 307,36569  3028,36569  3028,36492  307,36492 ' rendition="default" />
+        
+            <zone xml:id='imtArea_49' points=' 315,36631  2687,36631  2687,36558  315,36558 ' rendition="default" />
+        
+		  
+       FOLIO 11
+    
+            <zone xml:id='imtArea_50' points=' 300,37667  2907,37667  2907,37552  300,37552 ' rendition="default" />
+        
+            <zone xml:id='imtArea_51' points=' 387,37722  2928,37722  2928,37669  387,37669 ' rendition="default" />
+        
+            <zone xml:id='imtArea_52' points=' 375,37781  2958,37781  2958,37730  375,37730 ' rendition="default" />
+        
+            <zone xml:id='imtArea_53' points=' 345,37856  2930,37856  2930,37796  345,37796 ' rendition="default" />
+        
+            <zone xml:id='imtArea_54' points=' 355,37938  2950,37938  2950,37863  355,37863 ' rendition="default" />
+        
+            <zone xml:id='imtArea_55' points=' 360,38010  2935,38010  2935,37941  360,37941 ' rendition="default" />
+        
+            <zone xml:id='imtArea_56' points=' 365,38075  2947,38075  2947,38003  365,38003 ' rendition="default" />
+        
+            <zone xml:id='imtArea_57' points=' 365,38140  2964,38140  2964,38082  365,38082 ' rendition="default" />
+        
+            <zone xml:id='imtArea_58' points=' 366,38228  2972,38228  2972,38154  366,38154 ' rendition="default" />
+        
+            <zone xml:id='imtArea_59' points=' 362,38281  2949,38281  2949,38218  362,38218 ' rendition="default" />
+        
+			      <zone xml:id='imtArea_60' points=' 354,38347  2989,38347  2989,38276  354,38276 ' rendition="default" />
+        
+            <zone xml:id='imtArea_61' points=' 353,38427  2960,38427  2960,38363  353,38363 ' rendition="default" />
+        
+            <zone xml:id='imtArea_62' points=' 354,38490  2973,38490  2973,38425  354,38425 ' rendition="default" />
+        
+            <zone xml:id='imtArea_63' points=' 354,38562  2964,38562  2964,38503  354,38503 ' rendition="default" />
+        
+            <zone xml:id='imtArea_64' points=' 357,38651  2987,38651  2987,38566  357,38566 ' rendition="default" />
+        
+            <zone xml:id='imtArea_65' points=' 349,38709  2971,38709  2971,38638  349,38638 ' rendition="default" />
+        
+            <zone xml:id='imtArea_66' points=' 342,38765  2994,38765  2994,38709  342,38709 ' rendition="default" />
+        
+            <zone xml:id='imtArea_67' points=' 341,38831  2971,38831  2971,38771  341,38771 ' rendition="default" />
+        
+            <zone xml:id='imtArea_68' points=' 349,38916  2947,38916  2947,38847  349,38847 ' rendition="default" />
+        
+            <zone xml:id='imtArea_69' points=' 341,38980  2956,38980  2956,38915  341,38915 ' rendition="default" />
+        
+            <zone xml:id='imtArea_70' points=' 338,39049  2953,39049  2953,38987  338,38987 ' rendition="default" />
+        
+            <zone xml:id='imtArea_71' points=' 335,39109  2938,39109  2938,39053  335,39053 ' rendition="default" />
+        
+            <zone xml:id='imtArea_72' points=' 335,39177  2932,39177  2932,39111  335,39111 ' rendition="default" />
+         
+    
+    
+       FOLIO 12
+  
+   <zone xml:id='imtArea_0' points=' 286,39515  2978,39515  2978,39440  286,39440 ' rendition="default" />
+        
+            <zone xml:id='imtArea_2' points=' 289,39583  2972,39583  2972,39523  289,39523 ' rendition="default" />
+        
+            <zone xml:id='imtArea_3' points=' 313,39675  2952,39675  2952,39593  313,39593 ' rendition="default" />
+        
+            <zone xml:id='imtArea_4' points=' 301,39754  2913,39754  2913,39676  301,39676 ' rendition="default" />
+        
+            <zone xml:id='imtArea_5' points=' 287,39804  2982,39804  2982,39748  287,39748 ' rendition="default" />
+        
+            <zone xml:id='imtArea_6' points=' 293,39870  2970,39870  2970,39814  293,39814 ' rendition="default" />
+        
+            <zone xml:id='imtArea_9' points=' 287,39959  2968,39959  2968,39904  287,39904 ' rendition="default" />
+        
+            <zone xml:id='imtArea_10' points=' 299,40027  2957,40027  2957,39973  299,39973 ' rendition="default" />
+        
+            <zone xml:id='imtArea_11' points=' 307,40106  2963,40106  2963,40045  307,40045 ' rendition="default" />
+        
+            <zone xml:id='imtArea_12' points=' 304,40182  2985,40182  2985,40126  304,40126 ' rendition="default" />
+        
+			      <zone xml:id='imtArea_13' points=' 291,40254  2984,40254  2984,40191  291,40191 ' rendition="default" />
+        
+            <zone xml:id='imtArea_14' points=' 292,40335  2959,40335  2959,40267  292,40267 ' rendition="default" />
+        
+            <zone xml:id='imtArea_15' points=' 303,40403  2994,40403  2994,40349  303,40349 ' rendition="default" />
+        
+            <zone xml:id='imtArea_16' points=' 310,40471  2979,40471  2979,40419  310,40419 ' rendition="default" />
+        
+            <zone xml:id='imtArea_17' points=' 296,40558  2998,40558  2998,40492  296,40492 ' rendition="default" />
+        
+            <zone xml:id='imtArea_18' points=' 305,40628  2989,40628  2989,40569  305,40569 ' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 282,40711  3005,40711  3005,40650  282,40650 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 292,40778  3027,40778  3027,40720  292,40720 ' rendition="default" />
+        
+            <zone xml:id='imtArea_21' points=' 289,40851  3012,40851  3012,40809  289,40809 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 287,40900  2981,40900  2981,40864  287,40864 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 278,40987  2989,40987  2989,40933  278,40933 ' rendition="default" />
+       
+  
+ 
+       FOLIO 13
+   
+<graphic url='Rotulo-Stitched_70_verticale_100dpi_10quality.jpg' width='3501' height='55056' />
+		
+		<zone xml:id='imtArea_18' points=' 305,40628  2989,40628  2989,40569  305,40569 ' rendition="default" />
+        
+            <zone xml:id='imtArea_19' points=' 282,40711  3005,40711  3005,40650  282,40650 ' rendition="default" />
+        
+            <zone xml:id='imtArea_20' points=' 292,40778  3027,40778  3027,40720  292,40720 ' rendition="default" />
+        
+            <zone xml:id='imtArea_21' points=' 289,40851  3012,40851  3012,40809  289,40809 ' rendition="default" />
+        
+            <zone xml:id='imtArea_22' points=' 287,40900  2981,40900  2981,40864  287,40864 ' rendition="default" />
+        
+            <zone xml:id='imtArea_23' points=' 278,40987  2989,40987  2989,40933  278,40933 ' rendition="default" />
+        
+            <zone xml:id='imtArea_24' points=' 362,41324  2947,41324  2947,41229  362,41229 ' rendition="default" />
+        
+            <zone xml:id='imtArea_25' points=' 382,41404  2926,41404  2926,41302  382,41302 ' rendition="default" />
+        
+            <zone xml:id='imtArea_26' points=' 370,41484  2911,41484  2911,41380  370,41380 ' rendition="default" />
+        
+            <zone xml:id='imtArea_27' points=' 378,41566  2923,41566  2923,41458  378,41458 ' rendition="default" />
+        
+            <zone xml:id='imtArea_28' points=' 370,41644  2910,41644  2910,41521  370,41521 ' rendition="default" />
+        
+            <zone xml:id='imtArea_29' points=' 383,41706  2913,41706  2913,41608  383,41608 ' rendition="default" />
+        
+            <zone xml:id='imtArea_30' points=' 389,41790  2907,41790  2907,41679  389,41679 ' rendition="default" />
+        
+            <zone xml:id='imtArea_31' points=' 390,41870  2934,41870  2934,41750  390,41750 ' rendition="default" />
+        
+            <zone xml:id='imtArea_32' points=' 386,41953  2944,41953  2944,41845  386,41845 ' rendition="default" />
+        
+            <zone xml:id='imtArea_33' points=' 386,42037  2922,42037  2922,41919  386,41919 ' rendition="default" />
+        
+            <zone xml:id='imtArea_34' points=' 383,42099  2920,42099  2920,42000  383,42000 ' rendition="default" />
+        
+      			<zone xml:id='imtArea_35' points=' 380,42194  2943,42194  2943,42088  380,42088 ' rendition="default" />
+        
+            <zone xml:id='imtArea_36' points=' 379,42274  2912,42274  2912,42161  379,42161 ' rendition="default" />
+        
+            <zone xml:id='imtArea_37' points=' 392,42327  2922,42327  2922,42231  392,42231 ' rendition="default" />
+        
+            <zone xml:id='imtArea_38' points=' 389,42411  2969,42411  2969,42309  389,42309 ' rendition="default" />
+        
+            <zone xml:id='imtArea_39' points=' 385,42508  2984,42508  2984,42392  385,42392 ' rendition="default" />
+        
+            <zone xml:id='imtArea_40' points=' 388,42568  2961,42568  2961,42473  388,42473 ' rendition="default" />
+        
+            <zone xml:id='imtArea_41' points=' 392,42658  2974,42658  2974,42550  392,42550 ' rendition="default" />
+        
+            <zone xml:id='imtArea_42' points=' 393,42731  2963,42731  2963,42638  393,42638 ' rendition="default" />
+        
+            <zone xml:id='imtArea_43' points=' 381,42811  2981,42811  2981,42696  381,42696 ' rendition="default" />
+           
+      
+      -->
       
       <!-- FOLIO 14 -->
       
