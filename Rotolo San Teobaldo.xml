@@ -12,7 +12,7 @@
       <publicationStmt>
         <p>Progetto dell'Archivio diocesano di Alba (CN)</p>
       </publicationStmt>
-      <sourceDesc default="false">
+      <sourceDesc>
         
         <msDesc>
 
@@ -2728,7 +2728,7 @@
     </surface>
   </facsimile>
   
-  <text xml:id="ST_text" type="prose">
+  <text xml:id="ST_global_text" type="prose">
 
     <!-- ############  NOTE VARIE  #############   -->
     <!-- - i <del> devono avere @rend, non @type   -->
@@ -2740,25 +2740,13 @@
     <!-- - specificare la mano per <add> moderne con @hand="modern" (o simili)  -->
     <!-- - marcare i punti dell'edizione con <reg> -->
     
-    <body>
-      
-      <!-- 
-      
-      <text n="Prima vita di San Teobaldo e miracoli" xml:id="ST_text_01">
-      
-      <text n="Miracoli di San Teobaldo" xml:id="ST_text_02">
-      
-      <text n="Seconda vita di San Teobaldo e miracoli" xml:id="ST_text_03">
-      
-      <text n="Indice dei contenuti" xml:id="ST_text_04">
-      
-      <text n="Reliquie e miracoli di San Teobaldo" xml:id="ST_text_05">
-      
-      -->
+    <group>
       
       <!-- #######################################  folio 01r  ####################################### -->
       
-      <div n="1" type="section">
+      <text n="Prima vita di San Teobaldo e miracoli" xml:id="ST_text_01">
+        
+        <body>
 
         <pb n="1" xml:id="ST_fol_01r"/>
 
@@ -10009,12 +9997,16 @@
           <w>perpetuam</w>
           <w>laudem</w><pc><g ref="#colmidcomposit"/></pc>
         </p>
+          
+        </body>
 
-        </div><!--- fine prima parte del rotulo -->
+        </text><!--- fine prima parte del rotulo -->
 
-        <!-- #######################################  folio 08r  ####################################### -->
+      <!-- #######################################  folio 08r  ####################################### -->
         
-        <div n="2" type="section">
+      <text  n="Miracoli di San Teobaldo" xml:id="ST_text_02">
+        
+        <body>
 
         <pb n="8" xml:id="ST_fol_08r"/>
 
@@ -12697,14 +12689,18 @@
               <expan>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i</expan>
           </choice></w><pc>.</pc>
         </p>
+          
+        </body>
 
-        </div>
+        </text>
 
-        <!-- #######################################  folio 11r  ####################################### -->
+      <!-- #######################################  folio 11r  ####################################### -->
         
-        <!-- Terza Parte del Rotulo, seconda narrazione vita di San Teobaldo e miracoli -->
+      <!-- Terza Parte del Rotulo, seconda narrazione vita di San Teobaldo e miracoli -->
       
-        <div n="3" type="section">
+      <text n="Seconda vita di San Teobaldo e miracoli" xml:id="ST_text_03">
+        
+        <body>
 
         <pb n="11" xml:id="ST_fol_11r"/>
 
@@ -18432,9 +18428,14 @@
             </choice></w>
           <w>ame<g ref="#nrdes"/></w><pc><g ref="#middot"/></pc>
         </p>
-        </div>
+          
+        </body>
+        
+        </text>
       
-        <div n="4" type="section">
+      <text n="Indice dei contenuti" xml:id="ST_text_04">
+        
+        <body>
 
         <p n="53" xml:id="ST_p_53">
           <lb facs="#ST_line_17r_06" xml:id="ST_lb_017_06" n="6"/>
@@ -18980,12 +18981,16 @@
           <w>folio</w>
           <w>undecimo</w><pc>.</pc>
         </p>
+          
+        </body>
 
-      </div>
+      </text>
       
       <!-- #######################################  folio 18r  ####################################### -->
       
-      <div n="5" type="section">
+      <text n="Reliquie e miracoli di San Teobaldo" xml:id="ST_text_05">
+        
+        <body>
 
         <pb n="18" xml:id="ST_fol_18r"/>
 
@@ -24172,10 +24177,12 @@
               </choice></w>
             <w>reddigi</w><reg>.</reg> </p>
         </div>
+          
+        </body>
 
-      </div>
+      </text>
      
-    </body>
+    </group>
 
     <back>
       
