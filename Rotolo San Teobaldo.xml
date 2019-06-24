@@ -13697,7 +13697,7 @@
         <p n="26" xml:id="ST_p_26"><!-- CHECK -->
           <w><choice>
               <abbr>Quo<am>mͦ</am></abbr>
-              <expan>Quo<ex/>m</expan>
+              <expan>Quo<ex>nia</ex>m</expan>
             </choice></w>
           <w><choice>
               <abbr>a<am><g ref="#utildevert"/></am>m</abbr>
@@ -16079,7 +16079,7 @@
           <w>or<lb facs="#ST_line_14r_11" xml:id="ST_lb_014_11" n="11"/>dinaret</w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="38" xml:id="ST_p_38">
+        <p n="37" xml:id="ST_p_37">
           <w><choice>
               <orig>tante</orig>
               <reg>Tante</reg>
@@ -16151,7 +16151,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="39" xml:id="ST_p_39">
+        <p n="38" xml:id="ST_p_38">
           <lb facs="#ST_line_14r_13" xml:id="ST_lb_014_13" n="13"/>
           <w><choice>
               <abbr><hi rend="cap1.0">Q</hi>u<am><g ref="#atilde"/></am>tum</abbr>
@@ -16283,7 +16283,7 @@
             </choice></w><pc>.</pc>
         </p>
 
-        <p n="40" xml:id="ST_p_40">
+        <p n="39" xml:id="ST_p_39">
           <w><choice>
               <orig><abbr><am><g ref="#qslstrok"/></am></abbr></orig>
               <reg><expan>Q<ex>uod</ex></expan></reg>
@@ -16759,7 +16759,7 @@
           </damage>
         </p>
 
-        <p n="41" xml:id="ST_p_41">
+        <p n="40" xml:id="ST_p_40">
           <w><choice>
               <abbr><damage extent="3char">Qu<am><g ref="#atilde"/></am></damage>tum</abbr>
               <expan>Qua<ex>n</ex>tum</expan>
@@ -16866,7 +16866,7 @@
           <w>vita</w><pc>.</pc>
         </p>
 
-        <p n="42" xml:id="ST_p_42">
+        <p n="41" xml:id="ST_p_41">
           <damage extent="9char" type="N">
             <w>Nam</w>
             <w>videns</w>
@@ -17035,7 +17035,7 @@
           </q>
         </p>
 
-        <p n="43" xml:id="ST_p_43">
+        <p n="42" xml:id="ST_p_42">
           <w><choice>
               <orig><abbr>t<am><g ref="#utilde"/></am>c</abbr></orig>
               <reg><expan>Tu<ex>n</ex>c</expan></reg>
@@ -17298,7 +17298,7 @@
             /></pc>
         </p>
 
-        <p n="44" xml:id="ST_p_44">
+        <p n="43" xml:id="ST_p_43">
           <w><hi rend="double"><g ref="#esh"/></hi>cien<g ref="#esh"/></w>
           <label n="48"/>
           <label>
@@ -17426,7 +17426,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="45" xml:id="ST_p_45">
+        <p n="44" xml:id="ST_p_44">
           <lb facs="#ST_line_16r_04" xml:id="ST_lb_016_04" n="4"/>
           <w><hi rend="cap.1.1">I</hi>n</w>
           <w>morte</w>
@@ -17554,7 +17554,7 @@
           </q>
         </p>
 
-        <p n="46" xml:id="ST_p_46">
+        <p n="45" xml:id="ST_p_45">
           <w><choice>
               <abbr>t<am><g ref="#utilde"/></am>c</abbr>
               <expan>tu<ex>n</ex>c</expan>
@@ -17650,7 +17650,7 @@
           </q>
         </p>
 
-        <p n="47" xml:id="ST_p_47">
+        <p n="46" xml:id="ST_p_46">
           <w><choice>
               <orig><abbr>t<am><g ref="#utilde"/></am>c</abbr></orig>
               <reg><expan>Tu<ex>n</ex>c</expan></reg>
@@ -17749,7 +17749,7 @@
           <w><g ref="#slong"/>epellire</w><pc>.</pc>
         </p>
 
-        <p n="48" xml:id="ST_p_48">
+        <p n="47" xml:id="ST_p_47">
           <w><choice>
               <orig><abbr><g ref="#slongbarslash"/></abbr></orig>
               <reg><expan>s<ex>ed</ex></expan></reg>
@@ -17807,7 +17807,7 @@
           </q><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="49" xml:id="ST_p_49">
+        <p n="48" xml:id="ST_p_48">
           <w><choice>
               <orig><abbr>t<am><g ref="#utilde"/></am>c</abbr></orig>
               <reg><expan>Tu<ex>n</ex>c</expan></reg>
@@ -18007,7 +18007,7 @@
               <expan>sepelieru<ex>n</ex>t</expan>
             </choice></w><reg>.</reg> </p>
 
-        <p n="50" xml:id="ST_p_50">
+        <p n="49" xml:id="ST_p_49">
           <w>Tunc</w>
           <w>fama</w>
           <w><g ref="#slong"/>ue</w>
@@ -18236,7 +18236,7 @@
         </label>
 
         <fw place="top"><add><w>pag</w><g ref="#middot"/>17<g ref="#middot"/></add></fw>
-        <p n="51" xml:id="ST_p_51">
+        <p n="50" xml:id="ST_p_50">
           <lb facs="#ST_line_17r_01" xml:id="ST_lb_017_01" n="1"/>
           <w>De</w>
           <w>miraculis</w>
@@ -18335,7 +18335,7 @@
           <w>rotuli</w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="52" xml:id="ST_p_52">
+        <p n="51" xml:id="ST_p_51">
           <lb facs="#ST_line_17r_04" xml:id="ST_lb_017_04" n="4"/>
           <w><damage extent="4char" type="N"><g ref="#Muncdes"/>ort</damage>uus</w>
           <w><choice>
@@ -18437,7 +18437,7 @@
         
         <body>
 
-        <p n="53" xml:id="ST_p_53">
+        <p n="52" xml:id="ST_p_52">
           <lb facs="#ST_line_17r_06" xml:id="ST_lb_017_06" n="6"/>
           <w><choice>
               <abbr><hi rend="cap1.1">P</hi>ri<damage extent="2char" type="N">m<am><g ref="#utilde"
@@ -18490,7 +18490,7 @@
               ref="#middot"/></damage>
         </p>
 
-        <p n="54" xml:id="ST_p_54">
+        <p n="53" xml:id="ST_p_53">
           <lb facs="#ST_line_17r_07" xml:id="ST_lb_017_07" n="7"/>
           <w><choice>
               <abbr><am>S</am>cm</abbr>
@@ -18557,7 +18557,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="55" xml:id="ST_p_55">
+        <p n="54" xml:id="ST_p_54">
           <lb facs="#ST_line_17r_08" xml:id="ST_lb_017_08" n="8"/>
           <w><choice>
               <abbr>Tertiu<am><g ref="#etfin"/></am></abbr>
@@ -18607,7 +18607,7 @@
             </choice></w><g ref="#middot"/>
         </p>
 
-        <p n="56" xml:id="ST_p_56">
+        <p n="55" xml:id="ST_p_55">
           <lb facs="#ST_line_17r_09" xml:id="ST_lb_017_09" n="9"/>
           <w><choice>
               <abbr>Qu<am>a<g ref="rrotsup"/></am>tum</abbr>
@@ -18642,7 +18642,7 @@
           <damage extent="6char" type="N"><w><g ref="#slong"/>upra</w><g ref="#middot"/></damage>
         </p>
 
-        <p n="57" xml:id="ST_p_57">
+        <p n="56" xml:id="ST_p_56">
           <lb facs="#ST_line_17r_10" xml:id="ST_lb_017_10" n="10"/>
           <w>Quintum</w>
           <w><choice>
@@ -18671,7 +18671,7 @@
           <w><g ref="#slong"/>upra</w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="58" xml:id="ST_p_58">
+        <p n="57" xml:id="ST_p_57">
           <lb facs="#ST_line_17r_11" xml:id="ST_lb_017_11" n="11"/>
           <w><choice>
               <abbr>Sext<am><g ref="#utilde"/></am></abbr>
@@ -18705,7 +18705,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="59" xml:id="ST_P-59">
+        <p n="58" xml:id="ST_p_58">
           <lb facs="#ST_line_17r_12" xml:id="ST_lb_017_12" n="12"/>
           <w><choice>
               <abbr>Septim<am><g ref="#utilde"/></am></abbr>
@@ -18756,7 +18756,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="60" xml:id="ST_p_60">
+        <p n="59" xml:id="ST_p_59">
           <lb facs="#ST_line_17r_13" xml:id="ST_lb_017_13" n="13"/>
           <w><choice>
               <abbr>Octav<am><g ref="#utilde"/></am></abbr>
@@ -18784,7 +18784,7 @@
           <w><g ref="#slong"/>upra</w><pc>.</pc>
         </p>
 
-        <p n="61" xml:id="ST_p_61">
+        <p n="60" xml:id="ST_p_60">
           <lb facs="#ST_line_17r_14" xml:id="ST_lb_017_14" n="14"/>
           <w>Nonum</w>
           <w><g ref="#muncdes"/>iraculum</w><pc><g ref="#middot"/></pc>
@@ -18812,7 +18812,7 @@
           <w><g ref="#slong"/>upra</w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="62" xml:id="ST_p_62">
+        <p n="61" xml:id="ST_p_61">
           <lb facs="#ST_line_17r_15" xml:id="ST_lb_017_15" n="15"/>
           <w><choice>
               <abbr>Deci<am><g ref="#mtilde"/><g ref="#utilde"/></am></abbr>
@@ -18853,7 +18853,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
         <label n="50"/>
-        <p n="63" xml:id="ST_p_63">
+        <p n="62" xml:id="ST_p_62">
           <lb facs="#ST_line_17r_16" xml:id="ST_lb_017_16" n="16"/>
           <w><choice>
               <abbr><damage extent="6char" type="N">Undeci</damage>m<am><g ref="#utilde"/></am></abbr>
@@ -18883,7 +18883,7 @@
           <w><g ref="#slong"/>upra</w>
         </p>
 
-        <p n="64" xml:id="ST_p_64">
+        <p n="63" xml:id="ST_p_63">
           <lb facs="#ST_line_17r_18" xml:id="ST_lb_017_18" n="18"/>
           <w><choice>
               <abbr><damage extent="4char" type="N">Duod</damage>ecim<am><g ref="#utilde"/></am></abbr>
@@ -18927,7 +18927,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="65" xml:id="ST_p_65">
+        <p n="64" xml:id="ST_p_64">
           <lb facs="#ST_line_17r_19" xml:id="ST_lb_017_19" n="19"/>
           <damage extent="14char" type="N"><w><choice>
                 <abbr>Tertiumdecimu<am><g ref="#etfin"/></am></abbr>
@@ -18959,7 +18959,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
         </p>
 
-        <p n="66" xml:id="ST_p_66">
+        <p n="65" xml:id="ST_p_65">
           <lb facs="#ST_line_17r_20" xml:id="ST_lb_017_20" n="20"/>
           <damage extent="6char" type="N"><w>Optima</w></damage>
           <w><choice>
@@ -18999,7 +18999,7 @@
         <label> [<w>Pergamena</w>
           <w>XVII</w>] </label>
 
-        <p n="67" xml:id="ST_p_67">
+        <p n="66" xml:id="ST_p_66">
           <lb facs="#ST_line_18r_01" n="1" xml:id="ST_lb_18r_01"/>
           <w><hi rend="cap4.4">J</hi>ubila</w>
             <w><choice>
@@ -19197,7 +19197,7 @@
             </choice></w><pc>.</pc>
         </p>
 
-        <p n="68" xml:id="ST_p_68">
+        <p n="67" xml:id="ST_p_67">
           <w>Qui<g ref="#esh"/></w>
           <w>igitur</w>
           <w>ita</w>
@@ -19394,7 +19394,7 @@
           <w><g ref="#slong"/>anavit</w><pc>.</pc>
         </p>
 
-        <p n="69" xml:id="ST_p_69">
+        <p n="68" xml:id="ST_p_68">
           <w><choice>
               <orig><w>Sic</w><w><abbr><g ref="#qslstrok"/></abbr></w></orig>
               <reg><w><expan>Sicq<ex>ue</ex></expan></w></reg>
@@ -19821,7 +19821,7 @@
           <w>civitate</w>
         </p>
 
-        <p n="70" xml:id="ST_p_70">
+        <p n="69" xml:id="ST_p_69">
           <lb facs="#ST_line_18r_16" n="16" xml:id="ST_lb_018r_16"/>
           <w><choice>
               <orig>honorabili</orig>
@@ -19886,7 +19886,7 @@
           <w>manife<g ref="#slong"/>tum</w><pc>.</pc>
         </p>
         
-        <p n="71" xml:id="ST_p_71">
+        <p n="70" xml:id="ST_p_70">
           <w><choice>
               <abbr>Civib<am><g ref="#usbase"/></am></abbr>
               <expan>Civib<ex>us</ex></expan>
@@ -20230,7 +20230,7 @@
           
           <lb facs="#ST_line_18r_26" n="26" xml:id="ST_lb_018r_26"/>
 
-          <p n="72" xml:id="ST_p_72">
+          <p n="71" xml:id="ST_p_71">
             <lb facs="#ST_line_18r_27" n="27" xml:id="ST_lb_018r_27"/>
             <w><choice>
                 <orig><abbr><hi rend="cap2.4">I</hi><hi rend="cap1.0">N</hi>tend<am><g ref="#etilde"
@@ -20496,7 +20496,7 @@
               </choice></w><reg>.</reg>
           </p>
 
-          <p n="73" xml:id="ST_p_73">
+          <p n="72" xml:id="ST_p_72">
             <lb facs="#ST_line_18r_31" n="31" xml:id="ST_lb_018r_31"/>
             <w><damage extent="1char" type="N"><g ref="#Eunc"/></damage>t</w>
             <w>uni</w>
@@ -21278,7 +21278,7 @@
 
           <lb facs="#ST_line_18r_44" n="44" xml:id="ST_lb_018r_44"/>
 
-          <p n="74" xml:id="ST_p_74">
+          <p n="73" xml:id="ST_p_73">
             <lb facs="#ST_line_18r_45" n="45" xml:id="ST_lb_018r_45"/>
             <w>Decur<g ref="#slong"/>is</w>
             <w>vero</w>
@@ -21712,7 +21712,7 @@
             <w>corpu<g ref="#slong"/></w><reg>.</reg> <w>Dixit</w>
             <damage extent="5char"><w>alii<g ref="#slong"/></w></damage>
             <w>a<g ref="#slong"/>tantibu<g ref="#slong"/></w>
-            <q who="N">
+            <q who="#GiovannaIncisa">
               <w>s<damage extent="1char">i</damage></w>
               <w>vobis</w>
               <w><choice>
@@ -22236,7 +22236,7 @@
 
           <lb facs="#ST_line_18r_60" n="60" xml:id="ST_lb_018r_60"/>
 
-          <p n="75" xml:id="ST_p_75">
+          <p n="74" xml:id="ST_p_74">
             <lb facs="#ST_line_18r_61" n="61" xml:id="ST_lb_018r_61"/>
             <w><choice>
                 <abbr><hi rend="cap1.1">P</hi>o<g ref="#slong"/>t<am><g ref="#qslstroktilde"/></am></abbr>
@@ -23125,7 +23125,7 @@
           </head>
 
           <lb facs="#ST_line_18r_75" n="75" xml:id="ST_lb_018r_75"/>
-          <p n="76" xml:id="ST_p_76">
+          <p n="75" xml:id="ST_p_75">
             <damage extent="31char" type="N">
               <w><choice>
                   <abbr><hi rend="cap1.0">D</hi>em<am><g ref="#utilde"/></am></abbr>
@@ -23707,7 +23707,7 @@
             <w>vocife<damage extent="5char" type="N">rando</damage></w>
             <w><unclear extent="3char" reason="N"/><supplied resp="N">dic</supplied><damage extent="3char" type="N">en<g
                   ref="#slong"/></damage></w>
-            <q who="N">
+            <q who="#GiacomodeCarmagnola">
               <damage extent="4char" type="N">
                 <w><g ref="#slong"/>i</w>
                 <w>ab</w>
@@ -24111,7 +24111,7 @@
         <lb facs="#ST_line_18r_91" n="91" xml:id="ST_lb_018r_91"/>
 
         <div>
-          <p n="77" xml:id="ST_p_77">
+          <p n="76" xml:id="ST_p_76">
             <w>Ego</w>
             <persName ref="#PietroBaresano">
               <w><choice>
