@@ -11061,7 +11061,7 @@
           <w><g ref="#slong"/>anctus</w>
           <w><g ref="#slong"/>ic</w>
           <w>dicens</w>
-          <q who="N">
+          <q who="#Astruga">
             <w>filius</w>
             <persName ref="#GiraudoMartino">
               <w><choice>
@@ -11332,7 +11332,7 @@
               <expan>p<ex>re</ex>dictis</expan>
             </choice></w>
           <w>dixit</w>
-          <q who="N">
+          <q who="#Bermonda">
             <w><choice>
                 <abbr><am>e</am></abbr>
                 <expan>e<ex>go</ex></expan>
@@ -11498,7 +11498,7 @@
               <expan>mat<ex>r</ex>i</expan>
             </choice></w>
           <w><g ref="#slong"/>ue</w>
-          <q who="N">
+          <q who="#ArnulfoAlbi">
             <w><hi rend="double">O</hi></w>
             <w>mater</w>
             <w>hoc</w>
@@ -15175,7 +15175,7 @@
           <w>dilector</w><pc><g ref="#middot"/></pc>
           <w><g ref="#Eunc"/>t</w>
           <w>dicens</w>
-          <q>
+          <q who="#sanTebaudo">
             <w><choice>
                 <abbr><am><g ref="#itilde"/></am></abbr>
                 <expan>i<ex>n</ex></expan>
@@ -16373,7 +16373,7 @@
           <w>iacui<g ref="#slong"/><g ref="#slong"/>e</w><pc><g ref="#middot"/></pc>
           <w>Qui</w>
           <w>re<g ref="#slong"/>pondit</w>
-          <q who="N">
+          <q who="#sanTebaudo">
             <w><g ref="#slong"/>i</w>
             <w>in</w>
             <w>vita</w>
@@ -16508,7 +16508,7 @@
               <expan>invenit<ex>ur</ex></expan>
             </choice></w>
           <w>re<g ref="#slong"/>pondi<g ref="#slong"/><g ref="#slong"/>e</w><g ref="#middot"/>
-          <q who="N">
+          <q who="#sanTebaudo">
             <w>Si</w>
             <w><choice>
                 <abbr>can<am><g ref="#otilde"/></am>ici</abbr>
@@ -16994,7 +16994,7 @@
               <expan>a<ex>n</ex>i<ex>m</ex>o</expan>
             </choice></w>
           <w>re<g ref="#slong"/>pondit</w>
-          <q who="N">
+          <q who="#sanTebaudo">
             <w><choice>
                 <abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>to</abbr>
                 <expan>p<ex>re</ex>sto</expan>
@@ -20507,7 +20507,7 @@
                 <expan>transeuntib<ex>us</ex></expan>
               </choice></w>
             <w>dixit</w>
-            <q who="N">
+            <q who="#AntonioGhemme">
               <w>quid</w>
               <w>e<g ref="#slong"/>t</w>
               <w>hoc</w>
@@ -20806,7 +20806,7 @@
                 <abbr>prorump<am><g ref="#etilde"/></am><g ref="#slong"/></abbr>
                 <expan>prorumpe<ex>n</ex>s</expan>
               </choice></w><pc>.</pc>
-            <q who="N">
+            <q who="#AntonioGhemme">
               <w>Sicut</w>
               <w>vere</w>
               <w>corpu<g ref="#slong"/></w>
@@ -22642,7 +22642,7 @@
                 <abbr><damage>dic<am>e<g ref="#combovl"/>s<g ref="#combovl"/></am></damage></abbr>
                 <expan>dice<ex>n</ex>s</expan>
               </choice></w><pc>.</pc>
-            <q who="N">
+            <q who="#CatalanoFalletti">
               <persName ref="#sanTebaudo">
                 <w><choice>
                     <abbr>B<am>t<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
