@@ -2656,7 +2656,6 @@
  
        FOLIO 13
    
-<graphic url='Rotulo-Stitched_70_verticale_100dpi_10quality.jpg' width='3501' height='55056' />
 		
 		<zone xml:id='imtArea_18' points=' 305,40628  2989,40628  2989,40569  305,40569 ' rendition="default" />
         
@@ -2714,12 +2713,121 @@
       -->
       
       <!-- FOLIO 14 -->
-      
+  
+     
+      <zone ulx="360" uly="43043" lrx="2973" lry="43092" />
+      <zone ulx="377" uly="43119" lrx="2961" lry="43167" />
+      <zone ulx="379" uly="43209" lrx="2968" lry="43245" />
+      <zone ulx="381" uly="43282" lrx="2952" lry="43320" />
+      <zone ulx="380" uly="43363" lrx="3033" lry="43405" />
+      <zone ulx="376" uly="43436" lrx="3033" lry="43485" />
+      <zone ulx="381" uly="43515" lrx="3063" lry="43588" />
+      <zone ulx="382" uly="43585" lrx="3005" lry="43639" />
+      <zone ulx="389" uly="43671" lrx="2984" lry="43714" />
+      <zone ulx="397" uly="43758" lrx="2979" lry="43796" />
+      <zone ulx="383" uly="43854" lrx="2963" lry="43888" />
+      <zone ulx="386" uly="43913" lrx="2808" lry="43958" />
+      <zone ulx="377" uly="43969" lrx="3014" lry="44048" />
+      <zone ulx="377" uly="44064" lrx="3025" lry="44131" />
+      <zone ulx="381" uly="44142" lrx="3017" lry="44210" />
+      <zone ulx="384" uly="44224" lrx="3023" lry="44280" />
+      <zone ulx="399" uly="44308" lrx="3022" lry="44365" />
+      <zone ulx="400" uly="44385" lrx="3020" lry="44443" />
+      <zone ulx="400" uly="44474" lrx="3032" lry="44548" />
+  
+  
+  
       <!-- FOLIO 15 -->
+      <zone ulx="401" uly="44757" lrx="3021" lry="44860" />
+      <zone ulx="419" uly="44838" lrx="3024" lry="44942" />
+      <zone ulx="404" uly="44929" lrx="3024" lry="45026" />
+      <zone ulx="407" uly="45008" lrx="3070" lry="45112" />
+      <zone ulx="351" uly="45076" lrx="3055" lry="45176" />
+      <zone ulx="399" uly="45165" lrx="3037" lry="45258" />
+      <zone ulx="391" uly="45247" lrx="3054" lry="45333" />
+      <zone ulx="390" uly="45324" lrx="3038" lry="45416" />
+      <zone ulx="396" uly="45395" lrx="3023" lry="45498" />
+      <zone ulx="392" uly="45457" lrx="3019" lry="45565" />
+      <zone ulx="390" uly="45532" lrx="3015" lry="45642" />
+      <zone ulx="384" uly="45628" lrx="3031" lry="45717" />
+      <zone ulx="392" uly="45685" lrx="3026" lry="45797" />
+      <zone ulx="396" uly="45769" lrx="3030" lry="45877" />
+      <zone ulx="394" uly="45835" lrx="3019" lry="45947" />
+      <zone ulx="396" uly="45912" lrx="3022" lry="46021" />
+      <zone ulx="395" uly="45994" lrx="3009" lry="46095" />
+      <zone ulx="391" uly="46070" lrx="3032" lry="46175" />
+      <zone ulx="381" uly="46154" lrx="3028" lry="46254" />
+      <zone ulx="380" uly="46222" lrx="3023" lry="46324" />
+      <zone ulx="388" uly="46298" lrx="3049" lry="46413" />
+      
       
       <!-- FOLIO 16 -->
+      <zone points = ' 409,47718 2948,47815 2948,47815 ' /><zone ulx="401" uly="44757" lrx="3021" lry="44860" />
+      <zone ulx="419" uly="44838" lrx="3024" lry="44942" />
+      <zone ulx="404" uly="44929" lrx="3024" lry="45026" />
+      <zone ulx="407" uly="45008" lrx="3070" lry="45112" />
+      <zone ulx="351" uly="45076" lrx="3055" lry="45176" />
+      <zone ulx="399" uly="45165" lrx="3037" lry="45258" />
+      <zone ulx="391" uly="45247" lrx="3054" lry="45333" />
+      <zone ulx="390" uly="45324" lrx="3038" lry="45416" />
+      <zone ulx="396" uly="45395" lrx="3023" lry="45498" />
+      <zone ulx="392" uly="45457" lrx="3019" lry="45565" />
+      <zone ulx="390" uly="45532" lrx="3015" lry="45642" />
+      <zone ulx="384" uly="45628" lrx="3031" lry="45717" />
+      <zone ulx="392" uly="45685" lrx="3026" lry="45797" />
+      <zone ulx="396" uly="45769" lrx="3030" lry="45877" />
+      <zone ulx="394" uly="45835" lrx="3019" lry="45947" />
+      <zone ulx="396" uly="45912" lrx="3022" lry="46021" />
+      <zone ulx="395" uly="45994" lrx="3009" lry="46095" />
+      <zone ulx="391" uly="46070" lrx="3032" lry="46175" />
+      <zone ulx="381" uly="46154" lrx="3028" lry="46254" />
+      <zone ulx="380" uly="46222" lrx="3023" lry="46324" />
+      <zone ulx="388" uly="46298" lrx="3049" lry="46413" />
+      <zone ulx="429" uly="46620" lrx="2991" lry="46717" />
+      <zone ulx="435" uly="46694" lrx="2993" lry="46795" />
+      <zone ulx="435" uly="46774" lrx="1794" lry="46841" />
+      <zone ulx="372" uly="46805" lrx="2996" lry="46935" />
+      <zone ulx="452" uly="46916" lrx="2990" lry="47003" />
+      <zone ulx="437" uly="46979" lrx="2976" lry="47074" />
+      <zone ulx="433" uly="47058" lrx="2984" lry="47159" />
+      <zone ulx="413" uly="47122" lrx="2971" lry="47224" />
+      <zone ulx="417" uly="47208" lrx="2989" lry="47307" />
+      <zone ulx="429" uly="47274" lrx="2969" lry="47366" />
+      <zone ulx="392" uly="47355" lrx="2972" lry="47446" />
+      <zone ulx="409" uly="47414" lrx="2965" lry="47517" />
+      <zone ulx="417" uly="47490" lrx="2957" lry="47593" />
+      <zone ulx="385" uly="47567" lrx="2965" lry="47668" />
+      <zone ulx="412" uly="47639" lrx="2959" lry="47739" />
+      <zone ulx="404" uly="47715" lrx="2955" lry="47815" />
+      <zone ulx="406" uly="47772" lrx="2953" lry="47880" />
+      <zone ulx="419" uly="47860" lrx="2981" lry="47956" />
+      <zone ulx="414" uly="47930" lrx="2988" lry="48033" />
+      <zone ulx="410" uly="48000" lrx="2992" lry="48108" />
+      <zone ulx="411" uly="48072" lrx="3012" lry="48206" />
+      
       
       <!-- FOLIO 17 -->
+      <zone ulx="385" uly="48377" lrx="3016" lry="48571" />
+      <zone ulx="419" uly="48483" lrx="3037" lry="48649" />
+      <zone ulx="432" uly="48570" lrx="1312" lry="48645" />
+      <zone ulx="431" uly="48655" lrx="3006" lry="48793" />
+      <zone ulx="436" uly="48728" lrx="2751" lry="48872" />
+      <zone ulx="371" uly="48794" lrx="2718" lry="48948" />
+      <zone ulx="410" uly="48875" lrx="2713" lry="49032" />
+      <zone ulx="327" uly="48965" lrx="2625" lry="49114" />
+      <zone ulx="382" uly="49031" lrx="2442" lry="49181" />
+      <zone ulx="381" uly="49092" lrx="2231" lry="49249" />
+      <zone ulx="373" uly="49190" lrx="2224" lry="49342" />
+      <zone ulx="385" uly="49254" lrx="2662" lry="49448" />
+      <zone ulx="389" uly="49344" lrx="2109" lry="49491" />
+      <zone ulx="350" uly="49419" lrx="2360" lry="49583" />
+      <zone ulx="349" uly="49493" lrx="2429" lry="49658" />
+      <zone ulx="317" uly="49553" lrx="2362" lry="49738" />
+      <zone ulx="338" uly="49644" lrx="2361" lry="49827" />
+      <zone ulx="318" uly="49718" lrx="2412" lry="49910" />
+      <zone ulx="350" uly="49795" lrx="2112" lry="49971" />
+      
+      
       
       <!-- FOLIO 18 -->
       
