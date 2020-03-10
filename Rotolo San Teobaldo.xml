@@ -2587,8 +2587,8 @@
 
         <pb n="1" xml:id="ST_fol_01r"/>
 
-        <fw place="top-left" type="N"><add>Pagina I<g ref="#middot"/></add></fw>
-        <fw place="top-left" type="N"><add>n<g ref="#middot"/>I<g ref="#middot"/></add></fw>
+        <fw place="top-left"><add>Pagina I<g ref="#middot"/></add></fw>
+        <fw place="top-left"><add>n<g ref="#middot"/>I<g ref="#middot"/></add></fw>
 
         <p n="1" xml:id="ST_p_01">
           <label n="29"/>
@@ -2627,14 +2627,14 @@
           <placeName ref="#Alba">
             <w>
               <choice>
-                <orig><damage type="N">albam</damage></orig>
+                <orig><damage>albam</damage></orig>
                 <reg>Albam</reg>
               </choice></w></placeName>
           <w>misit</w>
           <w>virum</w>
           <w>
             <choice>
-              <abbr><damage extent="5char" type="N">sancti</damage>ssim<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="5char">sancti</damage>ssim<am><g ref="#utilde"/></am></abbr>
               <expan>sanctissimu<ex>m</ex></expan>
             </choice></w>
           <lb facs="#ST_line_01r_03" xml:id="ST_lb_01r_03" n="3"/>
@@ -2659,16 +2659,16 @@
               <abbr><am><g ref="#ppflourlig"/></am>hante</abbr>
               <reg>p<ex>ro</ex>ph<ex>et</ex>ante</reg>
             </choice></w>
-          <w>carmin<damage extent="1char" type="N">e</damage></w><reg>.</reg>
+          <w>carmin<damage extent="1char">e</damage></w><reg>.</reg>
           <quote>
             <w><hi rend="N">N</hi>i<g ref="#slong"/>i</w>
               <w><choice>
                   <abbr>d<am><g ref="#ntilde"/></am>s</abbr>
                   <expan>D<ex>omi</ex>n<ex>u</ex>s</expan>
                 </choice></w>
-            <w>cu<damage extent="1char" type="N"><g ref="#slong"/></damage>todierit</w>
+            <w>cu<damage extent="1char"><g ref="#slong"/></damage>todierit</w>
             <lb facs="#ST_line_01r_04" xml:id="ST_lb_01r_04" n="4"/>
-            <space dim="horizontal" extent="3char"/><w>civ<damage extent="4char" type="N">itat</damage>em</w>
+            <space dim="horizontal" extent="3char"/><w>civ<damage extent="4char">itat</damage>em</w>
             <w>fru<g ref="#slong"/>tra</w>
             <w>vigilat</w>
             <w>qui</w>
@@ -2714,7 +2714,7 @@
                 </choice></w></placeName>
           </add>
           <w>exis<g ref="#slong"/>tens</w>
-          <w>pa<damage extent="2" type="N">rv</damage>ulus</w><choice>
+          <w>pa<damage extent="2">rv</damage>ulus</w><choice>
             <orig>.</orig>
             <reg>,</reg>
           </choice>
@@ -2797,7 +2797,7 @@
           <lb facs="#ST_line_01r_08" xml:id="ST_lb_01r_08" n="8"/>
           <w>vinculo</w>
           <w>acerbe</w>
-          <del type="expunction"><w>mortis</w></del>
+          <del rend="expunction"><w>mortis</w></del>
           <w>egritudinis</w>
           <w><choice>
               <abbr>ten<am><g ref="#etilde"/></am></abbr>
@@ -2829,8 +2829,8 @@
               <reg><expan>Thebaldu<ex>m</ex></expan></reg>
               </choice></w>
           </persName>
-          <del type="N"><w>nomine</w></del>
-          <add place="margin-right"><del type="N"><w><choice>
+          <del><w>nomine</w></del>
+          <add place="margin-right"><del><w><choice>
                   <abbr><am><g ref="#slong"/>u<g ref="#ptilde"/>d<g ref="#ttilde"/>m</am></abbr>
                   <expan>sup<ex>ra</ex>d<ex>ic</ex>t<ex>u</ex>m</expan>
                 </choice></w></del></add>
@@ -2950,7 +2950,7 @@
           </persName>.
           <q><!-- CHECK @who -->
             <w><hi rend="N">E</hi>t</w>
-            <w><damage extent="5char" type="N"><choice>
+            <w><damage extent="5char"><choice>
                   <abbr>in<am><g ref="#ttildevert"/></am></abbr>
                   <expan>int<ex>er</ex></expan>
                 </choice>ea</damage></w>
@@ -2978,7 +2978,7 @@
                 <expan>mea<ex>m</ex></expan>
               </choice></w>
             <choice>
-              <orig><w><damage extent="5char" type="N"><abbr><am><g ref="#itilde"/></am><g ref="#slong"/>pon<lb facs="#ST_line_01r_14" xml:id="ST_lb_01r_14_orig" n="14"/><g ref="#slong"/>am</abbr></damage></w></orig>
+              <orig><w><damage extent="5char"><abbr><am><g ref="#itilde"/></am><g ref="#slong"/>pon<lb facs="#ST_line_01r_14" xml:id="ST_lb_01r_14_orig" n="14"/><g ref="#slong"/>am</abbr></damage></w></orig>
               <reg><w><expan>i<ex>n</ex></expan></w><w>spon<lb facs="#ST_line_01r_14" xml:id="ST_lb_01r_14_reg" n="14"/>sam</w></reg>
             </choice>
             <w>habeas</w>
@@ -3047,7 +3047,7 @@
           </q>
           <w><hi rend="N">C</hi>ui</w>
           <w>vir</w>
-          <w><damage extent="3" type="N">
+          <w><damage extent="3">
                 <choice>
                   <orig>dei</orig>
                   <reg>Dei</reg>
@@ -3472,7 +3472,7 @@
           <w>a<g ref="#slong"/>inis</w>
           <w>et</w>
           <w>mulis</w>
-          <del type="N">
+          <del>
             <w>honus</w>
             <w><choice>
                 <abbr><am><g ref="#et"/></am></abbr>
@@ -3884,7 +3884,7 @@
               <abbr>dicent<am><g ref="#etilde"/></am></abbr>
               <expan>dicente<ex>m</ex></expan>
             </choice></w><reg>.</reg> <quote>
-            <w>Dil<damage extent="4char" type="N">exit</damage></w>
+            <w>Dil<damage extent="4char">exit</damage></w>
             <lb facs="#ST_line_02r_02" xml:id="ST_lb_02r_02" n="2"/>
             <w><choice>
                 <orig><abbr>maledition<am><g ref="#etilde"/></am></abbr></orig>
@@ -3911,10 +3911,10 @@
             <w>eo</w><pc>.</pc>
           </quote>
           <w><choice>
-            <abbr><damage extent="3char" type="N">C<am><g ref="#otilde"/></am><lb facs="#ST_line_02r_03" n="3" xml:id="ST_lb_02r_03_abbr"/><g ref="#slong"/></damage>iderans</abbr>
+            <abbr><damage extent="3char">C<am><g ref="#otilde"/></am><lb facs="#ST_line_02r_03" n="3" xml:id="ST_lb_02r_03_abbr"/><g ref="#slong"/></damage>iderans</abbr>
             <expan>Co<ex>n</ex><lb facs="#ST_line_02r_03" n="3" xml:id="ST_lb_02r_03_expan"/>siderans</expan>
             </choice></w>
-          <damage extent="7char" type="N"><w>in</w>
+          <damage extent="7char"><w>in</w>
             <w><g ref="#slong"/>e</w>
             <w><choice>
                 <abbr>i<am><g ref="#ptilde"/></am>o</abbr>
@@ -3933,7 +3933,7 @@
               <expan>i<am>n</am></expan>
             </choice></w>
           <w>bla<g ref="#slong"/>phemando</w><pc>.</pc>
-          <damage extent="2char" type="N">
+          <damage extent="2char">
             <w><choice>
                 <abbr><am><g ref="#et"/></am></abbr>
                 <expan><ex>et</ex></expan>
@@ -3944,7 +3944,7 @@
               </choice></w>
           </damage>
           <lb facs="#ST_line_02r_04" xml:id="ST_lb_02r_04" n="4"/>
-          <damage extent="2char" type="N"><w><choice>
+          <damage extent="2char"><w><choice>
                 <abbr>n<am><g ref="#otilde"/></am></abbr>
                 <expan>no<ex>n</ex></expan>
               </choice></w></damage>
@@ -3963,7 +3963,7 @@
           <w>requirit</w><g ref="#middot"/>
           <w><g ref="#slong"/>eu</w>
           <w>requirebat</w>
-          <w><damage extent="3char" type="N">pre</damage><lb facs="#ST_line_02r_05" n="5" xml:id="ST_lb_02r_05"/>mi<g ref="#slong"/><g
+          <w><damage extent="3char">pre</damage><lb facs="#ST_line_02r_05" n="5" xml:id="ST_lb_02r_05"/>mi<g ref="#slong"/><g
               ref="#slong"/>a</w>
           <w>confe<g ref="#slong"/><g ref="#slong"/>ione</w>
           <w>de</w>
@@ -3978,7 +3978,7 @@
             </choice></w><pc><g ref="#middot"/></pc>
           <w>amplius</w>
           <w>iacere</w>
-          <w><damage extent="1char" type="N"><choice>
+          <w><damage extent="1char"><choice>
                 <abbr><am><g ref="#ninodotsup"/></am></abbr>
                 <expan>n<ex>isi</ex></expan>
               </choice></damage></w>
@@ -4081,8 +4081,8 @@
           <w>magi<g ref="#slong"/>tra</w>
           <w><g ref="#slong"/>ua</w><pc><g ref="#middot"/></pc>
           <w><g ref="#slong"/>ive</w>
-          <w>q<damage extent="2char" type="N">ue</damage></w>
-          <w><damage extent="2char" type="N">fu</damage><lb facs="#ST_line_02r_10" n="10" xml:id="ST_lb_02r_10"/>erat</w>
+          <w>q<damage extent="2char">ue</damage></w>
+          <w><damage extent="2char">fu</damage><lb facs="#ST_line_02r_10" n="10" xml:id="ST_lb_02r_10"/>erat</w>
           <w><choice>
               <abbr>magis<am><g ref="#tinodotsup"/></am></abbr>
               <expan>magist<ex>ri</ex></expan>
@@ -4233,7 +4233,7 @@
               <expan>cui<ex>us</ex></expan>
             </choice></w>
           <w>erat</w>
-          <w>far<damage extent="3" type="N">ina</damage></w>
+          <w>far<damage extent="3">ina</damage></w>
           <lb facs="#ST_line_02r_16" xml:id="ST_lb_02r_16" n="16"/>
           <w><choice>
               <abbr><g ref="#slong"/><am><g ref="#etfin"/></am></abbr>
@@ -4280,7 +4280,7 @@
         <p n="5" xml:id="ST_p_05">
           <lb facs="#ST_line_02r_18" xml:id="ST_lb_02r_18" n="18"/>
           <lb facs="#ST_line_02r_19" xml:id="ST_lb_02r_19" n="19"/>
-          <fw place="margin-left" type="N"><add>p</add></fw>
+          <fw place="margin-left"><add>p</add></fw>
           <space dim="horizontal" extent="4char"/><w><choice>
               <orig><abbr><supplied>P</supplied><hi rend="double">a</hi>u<am><g ref="#pbardes"/></am>ibus</abbr></orig>
               <reg><expan>Paup<ex>er</ex>ibus</expan></reg>
@@ -4571,7 +4571,7 @@
           <w>de</w>
           <placeName ref="#Roddi">
             <w><choice>
-                <orig>ro<damage extent="2char" type="N">do</damage></orig>
+                <orig>ro<damage extent="2char">do</damage></orig>
                 <reg>Rodo</reg>
               </choice></w>
           </placeName><pc><g ref="#hidot"/></pc>
@@ -4971,7 +4971,7 @@
           
           <pb n="3" xml:id="ST_fol_03r"/>
 
-          <fw place="top-left" type="N"><add>pag<g ref="#middot"/>3</add></fw>
+          <fw place="top-left"><add>pag<g ref="#middot"/>3</add></fw>
           
           <lb facs="#ST_line_03r_01" xml:id="ST_lb_03r_01" n="1"/>
           <w>Anima</w>
@@ -5078,7 +5078,7 @@
           <w>nuptu</w>
           <w>et</w>
           <w>volun<lb facs="#ST_line_03r_06" n="6" xml:id="ST_lb_03r_06"/>tate</w>
-          <fw place="top-left" type="N"><add><w>n°</w><g ref="#middot"/>2</add></fw>
+          <fw place="top-left"><add><w>n°</w><g ref="#middot"/>2</add></fw>
           <w>divina</w><pc><g ref="#middot"/></pc>
           <w><choice>
               <abbr>inceper<am><g ref="#utilde"/></am>t</abbr>
@@ -5499,7 +5499,7 @@
           <w><g ref="#slong"/>atis</w>
           <w>magna</w><pc><g ref="#middot"/></pc>
           <w><g ref="#Eunc"/>t</w>
-          <del type="N">i</del>
+          <del>i</del>
           <lb facs="#ST_line_03r_24" n="24" xml:id="ST_lb_03r_24"/>
           <w><choice>
               <abbr><am><g ref="#condes"/></am>ver<g ref="#slong"/>i</abbr>
@@ -5611,7 +5611,7 @@
         <lb facs="#ST_line_03r_30" xml:id="ST_lb_03r_30" n="30"/>
 
        
-       <fw place="margin-left" type="N"><add>f</add></fw>
+       <fw place="margin-left"><add>f</add></fw>
 
         <p n="9" xml:id="ST_p_09">
           <space dim="horizontal" extent="4char"/>
@@ -5634,7 +5634,7 @@
           <w>exequie</w>
           <w>celebrare</w><pc><g ref="#middot"/></pc>
           <w>ut</w>
-          <damage extent="3char" type="N"><w><choice>
+          <damage extent="3char"><w><choice>
                   <orig><abbr>d<am><g ref="#ntilde"/></am>s</abbr></orig>
                   <reg><expan>D<ex>omi</ex>n<ex>u</ex>s</expan></reg>
                 </choice></w></damage>
@@ -5679,8 +5679,8 @@
               <expan>sua<ex>m</ex></expan>
             </choice></w>
           <w>tot</w>
-          <w>mir<damage extent="2char" type="N">ac</damage>ula</w><pc><g ref="#middot"/></pc>
-          <damage extent="1char" type="N"><choice>
+          <w>mir<damage extent="2char">ac</damage>ula</w><pc><g ref="#middot"/></pc>
+          <damage extent="1char"><choice>
               <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>ue</ex></expan>
             </choice></damage>
@@ -5772,7 +5772,7 @@
               <expan>p<ex>ro</ex><lb facs="#ST_line_03r_36" xml:id="ST_lb_03r_36_expan" n="36"/>vintias</expan>
             </choice></w>
           <w>illi</w>
-          <w>cir<damage extent="1char" type="N">c</damage>un<g ref="#slong"/>tantes</w><pc>.</pc>
+          <w>cir<damage extent="1char">c</damage>un<g ref="#slong"/>tantes</w><pc>.</pc>
           <w><g ref="#Eunc"/>t</w>
           <w><choice>
               <abbr>fact<am><g ref="#utilde"/></am></abbr>
@@ -5793,7 +5793,7 @@
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am><expan>p<ex>re</ex></expan></abbr>
             </choice></w>
-          <w>multitud<damage extent="3char" type="N">ine</damage></w>
+          <w>multitud<damage extent="3char">ine</damage></w>
           <w><choice>
               <abbr>miraculo<am><g ref="#rum"/></am></abbr>
               <expan>miraculo<ex>rum</ex></expan>
@@ -5865,14 +5865,14 @@
               </choice></w>
             <w><choice>
                 <abbr>t<damage extent="4char">erra<am><g ref="#atilde"/></am></damage></abbr>
-                <expan>t<damage extent="4" type="N">erra<ex>m</ex></damage></expan>
+                <expan>t<damage extent="4">erra<ex>m</ex></damage></expan>
               </choice></w>
-            <w><damage extent="2char" type="N"><g ref="#slong"/>o</damage>nus</w>
+            <w><damage extent="2char"><g ref="#slong"/>o</damage>nus</w>
             <w>eiu<g ref="#esh"/></w>
             <lb facs="#ST_line_03r_40" xml:id="ST_lb_03r_40" n="40"/>
             <w>exivit</w>
           </quote><pc>.</pc>
-          <w>I<damage extent="5" type="N">gitur</damage></w>
+          <w>I<damage extent="5">gitur</damage></w>
           <choice>
             <orig><w><abbr>exoblationib<am><g ref="#etfin"/></am></abbr></w></orig>
             <reg><w>ex</w><w><expan>oblationib<ex>us</ex></expan></w></reg>
@@ -6096,7 +6096,7 @@
               <expan>d<ex>omi</ex>ni</expan>
             </choice></w>
           <persName ref="#GiacomoArcipresbitero"><w>Jacobi</w></persName>
-          <del type="N">Arbi</del>
+          <del>Arbi</del>
           <w><choice>
               <abbr>Ard<damage extent="6char">hipb<am><g ref="#usmod"/></am>ri</damage></abbr>
               <expan>Archip<ex>res</ex>b<ex>ite</ex>ri</expan>
@@ -6114,7 +6114,7 @@
                 <expan>p<ex>er</ex>hibuit</expan>
               </choice></w></damage></p>
 
-        <p><del type="N"><gap/></del></p><!-- CHECK è un <add> cancellato e illeggibile, inserire dentro il <p> -->
+        <p><del><gap/></del></p><!-- CHECK è un <add> cancellato e illeggibile, inserire dentro il <p> -->
 
         <p n="11" xml:id="ST_p_11">
           <lb facs="#ST_line_04r_05" xml:id="ST_lb_04r_05" n="5"/>
@@ -6149,7 +6149,7 @@
                 <expan>poss<ex>et</ex></expan>
               </choice></w>
           </damage>
-          <del type="N"><gap/></del>
+          <del><gap/></del>
           <lb facs="#ST_line_04r_06" xml:id="ST_lb_04r_06" n="6"/>
           <unclear extent="2char"><w>in</w></unclear>
           <w>tanto</w>
@@ -6174,14 +6174,14 @@
           <unclear extent="5char"><w>detentus</w></unclear>
           <w>fuit</w><pc><g ref="#middot"/></pc>
           <w>et</w>
-          <del type="N"><gap/></del>
+          <del><gap/></del>
           <lb facs="#ST_line_04r_07" xml:id="ST_lb_04r_07" n="7"/>
           <w><damage extent="2char">ca</damage>rceri</w>
           <w>ob<g ref="#slong"/>curi<g ref="#slong"/><g ref="#slong"/>imo</w>
           <w>mancipatus</w><pc>.</pc>
           <w>Qui</w>
           <w>recolens</w>
-          <w>fe<damage extent="3char" type="N"><g ref="#slong"/>ti</damage></w>
+          <w>fe<damage extent="3char"><g ref="#slong"/>ti</damage></w>
           <w><choice>
               <abbr>reveren<unclear extent="3char">ti<am><g ref="#atilde"/></am></unclear></abbr>
               <expan>reverent<ex>iam</ex></expan>
@@ -6397,7 +6397,7 @@
             <w>Thebaudi</w>
           </persName>
           <lb facs="#ST_line_04r_14" xml:id="ST_lb_04r_14" n="14"/>
-          <fw place="margin-left" type="N"><add>n<g ref="#middot"/>3<g ref="#middot"/></add></fw>
+          <fw place="margin-left"><add>n<g ref="#middot"/>3<g ref="#middot"/></add></fw>
           <space dim="horizontal" extent="4char"/>
           <w>furtim</w>
           <w>accepit</w><pc>.</pc>
@@ -6521,7 +6521,7 @@
               <expan>p<ex>er</ex>mane<ex>re</ex>t</expan>
             </choice></w><pc>.</pc>
           <w>Qui</w>
-          <del type="N"><w>vidit</w></del>
+          <del><w>vidit</w></del>
           <w><g ref="#slong"/>anctitate</w>
           <persName>
             <w><g ref="#slong"/>ancti</w>
@@ -6913,7 +6913,7 @@
           </choice>
           <w>con<g ref="#slong"/>utus</w>
           <w><g ref="#slong"/>icut</w>
-          <del type="N">mortus</del>
+          <del>mortus</del>
           <w>mortuus</w>
           <choice>
             <orig><w><abbr>ad<g ref="#slong"/>epelliend<am><g ref="#utilde"/></am></abbr></w></orig>
@@ -7847,7 +7847,7 @@
             </choice></w>
           <w>sub</w>
           <w>quadam</w>
-          <del type="N"><w>i</w></del>
+          <del><w>i</w></del>
           <lb facs="#ST_line_05r_32" xml:id="ST_lb_05r_32" n="32"/>
           <space dim="horizontal" extent="5char"/>
           <w>ripa</w>
@@ -7921,7 +7921,7 @@
               <expan>existima<ex>n</ex>s</expan>
             </choice></w>
           <lb facs="#ST_line_05r_35" xml:id="ST_lb_05r_35" n="35"/>
-          <del type="N"><w>ns</w></del>
+          <del><w>ns</w></del>
           <w><choice>
               <abbr>a<am><g ref="#utilde"/></am>t</abbr>
               <expan>aut<ex>em</ex></expan>
@@ -8249,7 +8249,7 @@
           <w><choice>
               <abbr><am><g ref="#qslstrok"/></am><expan>q<ex>uod</ex></expan></abbr>
             </choice></w>
-          <w>pa<del type="N">u</del>rum</w>
+          <w>pa<del>u</del>rum</w>
           <w><choice>
               <abbr>vl<am><g ref="#usmod"/></am></abbr>
               <expan>v<ex>e</ex>l</expan>
@@ -8360,7 +8360,7 @@
           <w>de</w>
           <placeName ref="#Giaveno">
             <w><choice>
-                <orig>iau<del type="N">t</del><add place="above">e</add>no</orig>
+                <orig>iau<del>t</del><add place="above">e</add>no</orig>
                 <reg>Iaueno</reg>
               </choice></w></placeName>
           <w><choice>
@@ -8864,7 +8864,7 @@
           <persName ref="#sanTebaudo">
             <w>beato</w>
             <lb facs="#ST_line_06r_32" xml:id="ST_lb_06r_32" n="32"/>
-            <w><del extent="4" type="N">laur</del></w>
+            <w><del extent="4">laur</del></w>
             <w><choice>
                 <orig>thebaudo</orig>
                 <reg>Thebaudo</reg>
@@ -9293,7 +9293,7 @@
               </choice></w>
           <w>timore</w>
           <w>postpo<lb facs="#ST_line_07r_05" xml:id="ST_lb_07r_05" n="5"/><g ref="#slong"/>ito</w><pc>:</pc>
-          <damage extent="2char" type="N"><w>et</w></damage>
+          <damage extent="2char"><w>et</w></damage>
           <w><choice>
               <abbr>a<am><g ref="#itilde"/></am>a<am><g ref="#rum"/></am></abbr>
               <expan>a<ex>n</ex>i<ex>m</ex>a<ex>rum</ex></expan>
@@ -9314,20 +9314,20 @@
               <expan>p<ex>re</ex>sentia</expan>
             </choice></w>
           <w><choice>
-              <abbr>pa<am><g ref="#tinodotsup"/></am><damage extent="1char" type="N">s</damage></abbr>
-              <expan>pat<ex>r</ex>i<damage extent="1" type="N">s</damage></expan>
+              <abbr>pa<am><g ref="#tinodotsup"/></am><damage extent="1char">s</damage></abbr>
+              <expan>pat<ex>r</ex>i<damage extent="1">s</damage></expan>
             </choice></w>
-          <w><damage extent="3char" type="N">cru</damage>de<lb facs="#ST_line_07r_06" xml:id="ST_lb_07r_06" n="6"/>liter</w>
+          <w><damage extent="3char">cru</damage>de<lb facs="#ST_line_07r_06" xml:id="ST_lb_07r_06" n="6"/>liter</w>
           <w><choice>
               <orig><abbr>Jugulaver<am><g ref="#utilde"/></am>t</abbr></orig>
               <reg><expan>jugulaveru<ex>n</ex>t</expan></reg>
             </choice></w>
-          <w>p<damage extent="5char" type="N">atrem</damage></w>
-          <damage extent="1char" type="N"><w><choice>
+          <w>p<damage extent="5char">atrem</damage></w>
+          <damage extent="1char"><w><choice>
                 <abbr><am><g ref="#uosup"/></am></abbr>
                 <expan>v<ex>ero</ex></expan>
               </choice></w></damage>
-          <w><damage extent="3char" type="N">acr</damage>iter</w>
+          <w><damage extent="3char">acr</damage>iter</w>
           <w><choice>
               <abbr>verberat<am><g ref="#utilde"/></am></abbr>
               <expan>verberatu<ex>m</ex></expan>
@@ -9348,9 +9348,9 @@
             </choice></w>
           <w>quadam</w>
           <w>ob<g ref="#slong"/>cura</w>
-          <w><g ref="#slong"/>pellun<damage extent="2char" type="N">ca</damage></w>
+          <w><g ref="#slong"/>pellun<damage extent="2char">ca</damage></w>
           <w><choice>
-              <abbr><damage extent="4char" type="N">recl</damage>u<g ref="#slong"/><g ref="#slong"/>er<am><g
+              <abbr><damage extent="4char">recl</damage>u<g ref="#slong"/><g ref="#slong"/>er<am><g
                     ref="#utilde"/></am>t</abbr>
               <expan><damage extent="4">recl</damage>usseru<ex>n</ex>t</expan>
             </choice></w><pc>.</pc>
@@ -9494,7 +9494,7 @@
           <w>in</w>
           <w>qua</w>
           <w>dictus</w>
-          <w>ca<lb facs="#ST_line_07r_16" xml:id="ST_lb_07r_16" n="16"/><damage extent="3char" type="N">pti</damage>vus</w>
+          <w>ca<lb facs="#ST_line_07r_16" xml:id="ST_lb_07r_16" n="16"/><damage extent="3char">pti</damage>vus</w>
           <w>detinebatur</w>
           <w><choice>
               <abbr><am><g ref="#itilde"/></am>clu<g ref="#slong"/><g ref="#slong"/>us</abbr>
@@ -9847,8 +9847,8 @@
 
         <pb n="8" xml:id="ST_fol_08r"/>
 
-        <fw place="top-left" type="N"><add><w>pag</w><g ref="#middot"/>8</add></fw>
-        <fw place="top-left" type="N"><add><w>n</w><g ref="#middot"/>1</add></fw>
+        <fw place="top-left"><add><w>pag</w><g ref="#middot"/>8</add></fw>
+        <fw place="top-left"><add><w>n</w><g ref="#middot"/>1</add></fw>
           
         <p n="20" xml:id="ST_p_20">
           <lb facs="#ST_line_08r_01" n="1" xml:id="ST_lb_08r_01"/>
@@ -9858,7 +9858,7 @@
               <orig><supplied>A</supplied>nno</orig>
               <reg>Anno</reg>
             </choice></w>
-          <w>do<damage extent="1char" type="N">m</damage>ini</w>
+          <w>do<damage extent="1char">m</damage>ini</w>
           <w>mille<g ref="#slong"/><g ref="#slong"/>imo</w>
           <date when="1336">
             <w>tercente<g ref="#slong"/><g ref="#slong"/>imo</w>
@@ -10096,7 +10096,7 @@
               <abbr>ca<g ref="#slong"/><am><g ref="#tinodotsup"/></am></abbr>
               <expan>cast<ex>ri</ex></expan>
             </choice></w>
-          <damage extent="4char" type="N"><w><choice>
+          <damage extent="4char"><w><choice>
                 <abbr>ca<am><g ref="#pbardes"/></am>e</abbr>
                 <expan>cap<ex>er</ex>e</expan>
               </choice></w></damage>
@@ -10350,7 +10350,7 @@
           <lb facs="#ST_line_08r_20" xml:id="ST_lb_08r_20" n="20"/> 
           <add place="margin-left">I</add>
           <choice>
-            <orig><space dim="horizontal" extent="2char"/><w><hi rend="double">n</hi>nomi<damage extent="2char" type="N"
+            <orig><space dim="horizontal" extent="2char"/><w><hi rend="double">n</hi>nomi<damage extent="2char"
                   >ne</damage></w></orig>
             <reg><w>In</w>
               <w>nomine</w></reg>
@@ -10825,7 +10825,7 @@
                 <reg>Alba</reg>
               </choice></w>
           </placeName>
-          <w>vicin<damage extent="1char" type="N">a</damage></w>
+          <w>vicin<damage extent="1char">a</damage></w>
           <w><choice>
               <abbr>ei<am><g ref="#usmod"/></am></abbr>
               <expan>ei<ex>us</ex></expan>
@@ -10867,11 +10867,11 @@
             </choice></w>
           <lb facs="#ST_line_08r_36" xml:id="ST_lb_08r_36" n="36"/>
           <w><choice>
-              <abbr><damage extent="3char" type="N">fil</damage>i<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="3char">fil</damage>i<am><g ref="#utilde"/></am></abbr>
               <expan>filiu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><damage extent="2char" type="N"><g ref="#slong"/>u</damage><am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="2char"><g ref="#slong"/>u</damage><am><g ref="#utilde"/></am></abbr>
               <expan>suu<ex>m</ex></expan>
             </choice></w>
           <w>dicto</w>
@@ -10879,10 +10879,10 @@
             <w><g ref="#slong"/>ancto</w>
             <w>Thebaudo</w>
           </persName>
-          <w>narran<damage extent="2char" type="N">do</damage></w>
-          <w><damage extent="2char" type="N">al</damage>iud</w>
+          <w>narran<damage extent="2char">do</damage></w>
+          <w><damage extent="2char">al</damage>iud</w>
           <w><choice>
-              <abbr><damage extent="2char" type="N">mi</damage>racul<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="2char">mi</damage>racul<am><g ref="#utilde"/></am></abbr>
               <expan>miraculu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
@@ -10918,7 +10918,7 @@
             <w>habuit</w>
             <w><g ref="#slong"/>imilem</w>
             <w>egri<lb facs="#ST_line_08r_38" xml:id="ST_lb_08r_38" n="38"/>tudinem</w>
-            <damage extent="3char" type="N"><w><choice>
+            <damage extent="3char"><w><choice>
                   <abbr>qu<am><g ref="#atilde"/></am></abbr>
                   <expan>qua<ex>m</ex></expan>
                 </choice></w></damage>
@@ -10936,7 +10936,7 @@
             </persName>
             <w>et</w>
             <w><g ref="#slong"/>e</w>
-            <w>vo<damage extent="3char" type="N">vit</damage></w>
+            <w>vo<damage extent="3char">vit</damage></w>
             <persName ref="#sanTebaudo">
               <w><choice>
                   <abbr><g ref="#slong"/>c<am><g ref="#otilde"/></am></abbr>
@@ -10959,15 +10959,15 @@
                   <reg>Albam</reg>
                 </choice></w>
             </placeName>
-            <w>a<damage extent="1char" type="N">d</damage></w>
+            <w>a<damage extent="1char">d</damage></w>
             <w><choice>
-                <abbr>vi<g ref="#slong"/>ita<damage extent="3char" type="N">nd<am><g ref="#utilde"
+                <abbr>vi<g ref="#slong"/>ita<damage extent="3char">nd<am><g ref="#utilde"
                   /></am></damage></abbr>
                 <expan>visitandu<ex>m</ex></expan>
               </choice></w>
             <placeName ref="#altareSanTeobaldo">
               <w>altare</w>
-              <w><g ref="#slong"/><damage extent="2char" type="N">an</damage>cti</w>
+              <w><g ref="#slong"/><damage extent="2char">an</damage>cti</w>
               <w>Thebaudi</w>
             </placeName>
             <w><choice>
@@ -11019,7 +11019,7 @@
               <w>Giraldi</w>
             </persName>
             <lb facs="#ST_line_08r_42" xml:id="ST_lb_08r_42" n="42"/>
-            <del extent="2words" type="N">
+            <del extent="2words">
               <w><choice>
                   <abbr>n<am><g ref="#otilde"/></am></abbr>
                   <expan>no<ex>n</ex></expan>
@@ -11386,7 +11386,7 @@
           </q>
           <w>et</w>
           <w><g ref="#slong"/>ic</w>
-          <w>firm<damage extent="1char" type="N">a</damage>tum</w>
+          <w>firm<damage extent="1char">a</damage>tum</w>
           <lb facs="#ST_line_09r_12" xml:id="ST_lb_09r_12" n="12"/>
           <w>fuit</w>
           <w>gentes</w>
@@ -11456,13 +11456,13 @@
               <abbr>a<am><g ref="#utilde"/></am>t</abbr>
               <expan>aut<ex>em</ex></expan>
             </choice></w>
-          <damage extent="3char" type="N"><w><choice>
+          <damage extent="3char"><w><choice>
                 <abbr>i<am><g ref="#ptilde"/></am>e</abbr>
                 <expan>ip<ex>s</ex>e</expan>
               </choice></w></damage>
           <persName ref="#ArnulfoAlbi">
             <w><choice>
-                <orig>arn<damage extent="2char" type="N">ul</damage><lb facs="#ST_line_09r_15" xml:id="ST_lb_09r_15_orig" n="15"/>fus</orig>
+                <orig>arn<damage extent="2char">ul</damage><lb facs="#ST_line_09r_15" xml:id="ST_lb_09r_15_orig" n="15"/>fus</orig>
                 <reg>Arnul<lb facs="#ST_line_09r_15" xml:id="ST_lb_09r_15_reg" n="15"/>fus</reg>
               </choice></w>
           </persName>
@@ -11484,7 +11484,7 @@
               <abbr>c<am><g ref="#utilde"/></am></abbr>
               <expan>cu<ex>m</ex></expan>
             </choice></w>
-          <damage extent="5char" type="N"><w><choice>
+          <damage extent="5char"><w><choice>
                 <abbr>quod<am><g ref="#atilde"/></am></abbr>
                 <expan>quoda<ex>m</ex></expan>
               </choice></w></damage>
@@ -11581,7 +11581,7 @@
               <expan>aute<ex>m</ex></expan>
             </choice></w>
           <lb facs="#ST_line_09r_19" xml:id="ST_lb_09r_19" n="19"/>
-          <w>pa<damage extent="3char" type="N">ulo</damage></w>
+          <w>pa<damage extent="3char">ulo</damage></w>
           <w>ante</w>
           <w><choice>
               <abbr>mortalita<am><g ref="#etilde"/></am></abbr>
@@ -12313,7 +12313,7 @@
           </placeName><pc>.</pc>
           <w>di<g ref="#slong"/><g ref="#slong"/>e<g ref="#slong"/><g ref="#slong"/>it</w>
           <choice>
-            <orig><w><damage extent="1char" type="N">a</damage>loco</w></orig>
+            <orig><w><damage extent="1char">a</damage>loco</w></orig>
             <reg><w>a</w>
               <w>loco</w></reg>
           </choice><w>a</w>
@@ -12640,7 +12640,7 @@
           <w>et</w>
           <w>narrare</w>
           <w><choice>
-              <abbr>n<damage extent="1char" type="N"><am><g ref="#otilde"/></am></damage></abbr>
+              <abbr>n<damage extent="1char"><am><g ref="#otilde"/></am></damage></abbr>
               <expan>no<ex>n</ex></expan>
             </choice></w>
           <w><choice>
@@ -12653,8 +12653,8 @@
             </choice></w>
           <w><g ref="#slong"/>ui</w>
           <w><choice>
-              <abbr><am><g ref="#condes"/></am>m<damage extent="1char" type="N"><am><g ref="#etilde"
-                  /></am></damage>dation<damage extent="1char" type="N"><am><g ref="#etilde"/></am></damage></abbr>
+              <abbr><am><g ref="#condes"/></am>m<damage extent="1char"><am><g ref="#etilde"
+                  /></am></damage>dation<damage extent="1char"><am><g ref="#etilde"/></am></damage></abbr>
               <expan><ex>com</ex>me<ex>n</ex>datione<ex>m</ex></expan>
             </choice></w>
           <w><choice>
@@ -12670,7 +12670,7 @@
               <expan>audentiu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>a<damage extent="1char" type="N"><am><g ref="#itilde"/></am>ationem</damage></abbr>
+              <abbr>a<damage extent="1char"><am><g ref="#itilde"/></am>ationem</damage></abbr>
               <expan>a<ex>n</ex>imationem</expan>
             </choice></w>
           <w>ad</w>
@@ -12683,7 +12683,7 @@
           <persName ref="#sanGregorio">
             <lb facs="#ST_line_11r_04" xml:id="ST_lb_11r_04" n="4"/>
             <w><choice>
-                <abbr><g ref="#slong"/>anct<damage extent="1char" type="N"><am><g ref="#usmod"/></am></damage></abbr>
+                <abbr><g ref="#slong"/>anct<damage extent="1char"><am><g ref="#usmod"/></am></damage></abbr>
                 <expan>sanctu<ex>s</ex></expan>
               </choice></w>
             <w><choice>
@@ -12944,7 +12944,7 @@
             <w>vade</w>
             <w>et</w>
             <w>vende</w>
-            <del type="N">o</del>
+            <del>o</del>
             <lb facs="#ST_line_11r_10" xml:id="ST_lb_11r_10" n="10"/>
             <w><choice>
                 <abbr>om<am><g ref="#itilde"/></am>ia</abbr>
@@ -12993,10 +12993,10 @@
                 <abbr><am><g ref="#pbardes"/></am></abbr>
                 <expan>p<ex>er</ex></expan>
               </choice></w>
-            <w><damage extent="1char" type="N"><g ref="#slong"/></damage>ingulas</w>
-            <w>nocte<damage extent="1char" type="N">s</damage></w>
+            <w><damage extent="1char"><g ref="#slong"/></damage>ingulas</w>
+            <w>nocte<damage extent="1char">s</damage></w>
             <w><choice>
-                <abbr><damage extent="1char" type="N">l</damage>ect<damage extent="1char" type="N"><am><g ref="#utilde"
+                <abbr><damage extent="1char">l</damage>ect<damage extent="1char"><am><g ref="#utilde"
                       /></am></damage></abbr>
                 <expan>lectu<ex>m</ex></expan>
               </choice></w>
@@ -13041,7 +13041,7 @@
                 <w>iuventute</w></reg>
             </choice>
             <w>mea</w>
-            <w>e<damage extent="1char" type="N">t</damage></w>
+            <w>e<damage extent="1char">t</damage></w>
             <w><choice>
                 <abbr><am>ꝣ</am></abbr>
                 <expan><ex>cetera</ex></expan>
@@ -13445,7 +13445,7 @@
             </choice></w>
           <w>agro</w>
           <w><choice>
-              <abbr>d<damage extent="1char" type="N"><am><g ref="#ntilde"/></am></damage>ico</abbr>
+              <abbr>d<damage extent="1char"><am><g ref="#ntilde"/></am></damage>ico</abbr>
               <expan>d<ex>omi</ex>nico</expan>
             </choice></w>
           <lb facs="#ST_line_11r_22" xml:id="ST_lb_11r_22" n="22"/>
@@ -15359,7 +15359,7 @@
               <reg>non</reg>
             </choice></w>
           <w><choice>
-              <abbr>cur<damage extent="2char" type="N">ci</damage>tr<am><g ref="#atilde"/></am></abbr>
+              <abbr>cur<damage extent="2char">ci</damage>tr<am><g ref="#atilde"/></am></abbr>
               <expan>curcitra<ex>m</ex></expan>
             </choice></w>
           <w><choice>
@@ -15435,7 +15435,7 @@
               <expan>habe<ex>re</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><damage extent="1char" type="N"><am><g ref="#ptilde"/></am>elegit</damage></abbr>
+              <abbr><damage extent="1char"><am><g ref="#ptilde"/></am>elegit</damage></abbr>
               <expan>p<ex>r</ex>elegit</expan>
             </choice></w><pc>.</pc>
           <w>ubi</w>
@@ -15451,7 +15451,7 @@
           <w>di<g ref="#slong"/>ciplinas</w>
           <w>vix</w>
           <w><choice>
-              <abbr><damage extent="3char" type="N">cor</damage>p<am><g ref="#usmod"/></am></abbr>
+              <abbr><damage extent="3char">cor</damage>p<am><g ref="#usmod"/></am></abbr>
               <expan>corp<ex>us</ex></expan>
             </choice></w>
           <w><choice>
@@ -15891,7 +15891,7 @@
           <w><g ref="#slong"/>ibi</w>
           <w>dederat</w>
           <w>ut</w>
-          <del extent="4char" type="N">
+          <del extent="4char">
               <w>deus</w>
           </del>
           <w>eas</w>
@@ -16295,7 +16295,7 @@
           <q>
             <w><g ref="#slong"/>i</w>
               <w><choice>
-                  <orig>deu<damage extent="1char" type="N">s</damage></orig>
+                  <orig>deu<damage extent="1char">s</damage></orig>
                   <reg>Deus</reg>
                 </choice></w>
             <w><choice>
@@ -16413,12 +16413,12 @@
             <w>qui</w>
             <w>e<g ref="#slong"/>t</w>
             <w><choice>
-                <abbr>i<damage extent="2char" type="N">n<am><g ref="#ttildevert"/></am></damage></abbr>
+                <abbr>i<damage extent="2char">n<am><g ref="#ttildevert"/></am></damage></abbr>
                 <expan>int<ex>er</ex></expan>
               </choice></w>
             <placeName ref="#chiesaSanLorenzo">
               <w><choice>
-                  <abbr><damage extent="1char" type="N">e</damage>ccl<am><g ref="#combhook"/></am>iam</abbr>
+                  <abbr><damage extent="1char">e</damage>ccl<am><g ref="#combhook"/></am>iam</abbr>
                   <expan>eccl<ex>es</ex>iam</expan>
                 </choice></w>
               <w><choice>
@@ -16555,7 +16555,7 @@
             <w>hoc</w>
           </supplied>
           <w><unclear extent="4char" reason="N"/><supplied>corp</supplied>u<g ref="#slong"/>culo</w>
-          <damage extent="21char" type="N">
+          <damage extent="21char">
             <w>po<g ref="#slong"/><g ref="#slong"/>itus</w>
             <w><g ref="#slong"/>e</w>
             <w><choice>
@@ -16565,7 +16565,7 @@
             <w>amore</w>
           </damage>
           <w><choice>
-              <abbr>m<am><g ref="#utilde"/></am><damage extent="2char" type="N">di</damage></abbr>
+              <abbr>m<am><g ref="#utilde"/></am><damage extent="2char">di</damage></abbr>
               <expan>mu<ex>n</ex>di</expan>
             </choice></w>
           <w>retraxerat</w>
@@ -16577,20 +16577,20 @@
               <expan>sanctu<ex>m</ex></expan>
             </choice></w>
           <lb facs="#ST_line_15r_08" xml:id="ST_lb_015_08" n="8"/>
-          <w>emi<g ref="#slong"/><g ref="#slong"/><damage extent="2char" type="N">it</damage></w>
-          <w><damage extent="3char" type="N"><choice>
+          <w>emi<g ref="#slong"/><g ref="#slong"/><damage extent="2char">it</damage></w>
+          <w><damage extent="3char"><choice>
                 <abbr><g ref="#slong"/>p<am><g ref="#mtilde"/></am></abbr>
                 <expan>sp<ex>iritu</ex>m</expan>
               </choice></damage></w><pc>.</pc>
           <w><g ref="#Eunc"/>t</w>
           <w>hec</w>
-          <damage extent="2char" type="N"><w>de</w></damage>
+          <damage extent="2char"><w>de</w></damage>
           <w><g ref="#slong"/>uo</w>
           <w><choice>
-              <abbr>e<am>gͤ</am><damage extent="3char" type="N"><g ref="#slong"/><g ref="#slong"/>u</damage></abbr>
+              <abbr>e<am>gͤ</am><damage extent="3char"><g ref="#slong"/><g ref="#slong"/>u</damage></abbr>
               <expan>eg<ex>r</ex>essu</expan>
             </choice></w>
-          <damage extent="15char" type="N">
+          <damage extent="15char">
             <w>dicta</w>
             <w><g ref="#slong"/>uffitiant</w><pc>.</pc>
           </damage>
@@ -16603,15 +16603,15 @@
             </choice></w>
           <w>ad</w>
           <w><choice>
-              <abbr>quart<damage extent="1char" type="N"><am><g ref="#utilde"/></am></damage></abbr>
+              <abbr>quart<damage extent="1char"><am><g ref="#utilde"/></am></damage></abbr>
               <expan>quartu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>arti<damage extent="4char" type="N">cul<am><g ref="#utilde"/></am></damage></abbr>
+              <abbr>arti<damage extent="4char">cul<am><g ref="#utilde"/></am></damage></abbr>
               <expan>articulu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><damage extent="1char" type="N"><am><g ref="#middot"/><g ref="#slong"/><g ref="#middot"
+              <abbr><damage extent="1char"><am><g ref="#middot"/><g ref="#slong"/><g ref="#middot"
                   /></am></damage></abbr>
               <expan>s<ex>cilicet</ex></expan>
             </choice></w>
@@ -16620,10 +16620,10 @@
               <abbr>miraculo<am><g ref="#rum"/></am></abbr>
               <expan>miraculo<ex>rum</ex></expan>
             </choice></w>
-          <w>ope<lb facs="#ST_line_15r_09" xml:id="ST_lb_015_09" n="9"/><damage extent="4char" type="N">rati</damage>one</w>
-          <damage extent="3char" type="N"><w>e<g ref="#slong"/>t</w></damage>
+          <w>ope<lb facs="#ST_line_15r_09" xml:id="ST_lb_015_09" n="9"/><damage extent="4char">rati</damage>one</w>
+          <damage extent="3char"><w>e<g ref="#slong"/>t</w></damage>
           <w><choice>
-              <abbr><damage extent="4char" type="N"><g ref="#slong"/>cie</damage>nd<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="4char"><g ref="#slong"/>cie</damage>nd<am><g ref="#utilde"/></am></abbr>
               <expan>sciendu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
@@ -16635,17 +16635,17 @@
                 <reg>Deus</reg>
               </choice></w>
           <w><choice>
-              <abbr>m<damage extent="1char" type="N">e</damage><am><g ref="#itilde"/></am>tis</abbr>
+              <abbr>m<damage extent="1char">e</damage><am><g ref="#itilde"/></am>tis</abbr>
               <expan>me<ex>r</ex>itis</expan>
             </choice></w>
-          <damage extent="3char" type="N"><w><choice>
+          <damage extent="3char"><w><choice>
                 <abbr>hui<am><g ref="#usmod"/></am></abbr>
                 <expan>hui<ex>us</ex></expan>
               </choice></w></damage>
-          <w><damage extent="10char" type="N"><g ref="#slong"/>ancti<g ref="#slong"/><g ref="#slong"/>im</damage>i</w>
+          <w><damage extent="10char"><g ref="#slong"/>ancti<g ref="#slong"/><g ref="#slong"/>im</damage>i</w>
           <w>viri</w>
-          <w>mu<damage extent="1char" type="N">l</damage>ta</w>
-          <w>mirac<damage extent="1char" type="N">u</damage>la</w>
+          <w>mu<damage extent="1char">l</damage>ta</w>
+          <w>mirac<damage extent="1char">u</damage>la</w>
           <w>e<g ref="#slong"/>t</w>
           <w><choice>
               <abbr>o<am><g ref="#pbardes"/></am>atus</abbr>
@@ -16665,7 +16665,7 @@
               <abbr><am><g ref="#itilde"/></am></abbr>
               <expan>i<ex>n</ex></expan>
             </choice></w>
-          <w><damage extent="3char" type="N">vit</damage>a</w>
+          <w><damage extent="3char">vit</damage>a</w>
           <w>aliqua</w>
           <w><choice>
               <abbr><am><g ref="#itilde"/></am></abbr>
@@ -16678,7 +16678,7 @@
               <abbr>mort<am><g ref="#etilde"/></am></abbr>
               <expan>morte<ex>m</ex></expan>
             </choice></w>
-          <w><damage extent="3char" type="N">fui</damage><g ref="#slong"/><g ref="#slong"/>e</w>
+          <w><damage extent="3char">fui</damage><g ref="#slong"/><g ref="#slong"/>e</w>
           <w>facta</w>
           <w>fidelibus</w>
           <w>te<g ref="#slong"/>timoniis</w>
@@ -16694,7 +16694,7 @@
           <w>primo</w>
           <lb facs="#ST_line_15r_11" xml:id="ST_lb_015_11" n="11"/>
           <w><choice>
-              <orig><abbr><damage extent="1char" type="N"><am><g ref="#ptildevert"/></am>mititur</damage></abbr></orig>
+              <orig><abbr><damage extent="1char"><am><g ref="#ptildevert"/></am>mititur</damage></abbr></orig>
               <reg>p<ex>re</ex>mittitur</reg>
             </choice></w>
           <w>de</w>
@@ -16704,12 +16704,12 @@
         </p>
 
         <p n="41" xml:id="ST_p_41">
-          <damage extent="9char" type="N">
+          <damage extent="9char">
             <w>Nam</w>
             <w>videns</w>
           </damage>
-          <w><damage extent="5char" type="N">mulie</damage>r</w>
-          <damage extent="21char" type="N">
+          <w><damage extent="5char">mulie</damage>r</w>
+          <damage extent="21char">
             <w>que</w>
             <w><choice>
                 <abbr>i<am><g ref="#ptilde"/></am>m</abbr>
@@ -16733,11 +16733,11 @@
             </choice></w>
           <lb facs="#ST_line_15r_12" xml:id="ST_lb_015_12" n="12"/>
           <w><choice>
-              <abbr><unclear extent="6char"/><supplied>indige</supplied><damage extent="4char" type="N">ntib<am><g
+              <abbr><unclear extent="6char"/><supplied>indige</supplied><damage extent="4char">ntib<am><g
                       ref="#usmod"/></am></damage></abbr>
               <expan>indigentib<ex>us</ex></expan>
             </choice></w>
-          <damage extent="29char" type="N">
+          <damage extent="29char">
             <w><g ref="#slong"/>o</w>
             <w><choice>
                 <abbr>corpusc<am><g ref="#lstrok"/></am>o</abbr>
@@ -16793,7 +16793,7 @@
               </choice></w>
             <lb facs="#ST_line_15r_13" xml:id="ST_lb_015_13" n="13"/>
             <w><choice>
-                <abbr><damage extent="4char" type="N">libe</damage>n<am><g ref="#ttildevert"/></am></abbr>
+                <abbr><damage extent="4char">libe</damage>n<am><g ref="#ttildevert"/></am></abbr>
                 <expan>libent<ex>er</ex></expan>
               </choice></w>
             <w>impendis</w>
@@ -16844,10 +16844,10 @@
               </choice></w>
             <w>vis</w>
             <w>nam</w>
-            <w>ti<damage extent="2char" type="N">bi</damage></w>
+            <w>ti<damage extent="2char">bi</damage></w>
             <w>libentius</w>
             <w><choice>
-                <abbr>o<damage extent="1char" type="N"><am><g ref="#mtilde"/></am></damage>ib<am><g ref="#usmod"
+                <abbr>o<damage extent="1char"><am><g ref="#mtilde"/></am></damage>ib<am><g ref="#usmod"
                   /></am></abbr>
                 <expan>om<ex>n</ex>ib<ex>us</ex></expan>
               </choice></w>
@@ -16878,18 +16878,18 @@
               <reg><expan>Tu<ex>n</ex>c</expan></reg>
             </choice></w>
           <w><choice>
-              <orig>ill<del type="N">e</del><damage extent="1char" type="N">a</damage></orig>
+              <orig>ill<del>e</del><damage extent="1char">a</damage></orig>
               <reg>illa</reg>
             </choice></w>
-          <damage extent="3char" type="N"><w>ait</w></damage>
+          <damage extent="3char"><w>ait</w></damage>
           <q>
-            <w><damage extent="2char" type="N">ac</damage>cipe</w>
+            <w><damage extent="2char">ac</damage>cipe</w>
             <w><choice>
-                <abbr>ill<damage extent="2char" type="N"><am><g ref="#combhook"/></am></damage></abbr>
+                <abbr>ill<damage extent="2char"><am><g ref="#combhook"/></am></damage></abbr>
                 <expan>ill<ex>u</ex>d</expan>
               </choice></w>
             <w><choice>
-                <abbr><damage extent="2char" type="N"><am><g ref="#gtilde"/></am>n</damage>um</abbr>
+                <abbr><damage extent="2char"><am><g ref="#gtilde"/></am>n</damage>um</abbr>
                 <expan>g<ex>ra</ex>num</expan>
               </choice></w>
             <w>et</w>
@@ -16918,7 +16918,7 @@
               <abbr>qd<am><g ref="#combhook"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
-          <w>j<damage extent="2char" type="N">u<g ref="#slong"/></damage><lb facs="#ST_line_15r_16" xml:id="ST_lb_015_16" n="16"/><g ref="#slong"/>erat</w>
+          <w>j<damage extent="2char">u<g ref="#slong"/></damage><lb facs="#ST_line_15r_16" xml:id="ST_lb_015_16" n="16"/><g ref="#slong"/>erat</w>
           <w>ho<g ref="#slong"/>piti<g ref="#slong"/><g ref="#slong"/>a</w>
           <w>et</w>
           <w><choice>
@@ -16955,7 +16955,7 @@
                 <reg>Dei</reg>
               </choice></w>
           <w><choice>
-              <abbr>in<damage extent="4char" type="N">flam</damage>at<am><g ref="#usmod"/></am></abbr>
+              <abbr>in<damage extent="4char">flam</damage>at<am><g ref="#usmod"/></am></abbr>
               <expan>inflamat<ex>us</ex></expan>
             </choice></w>
           <w><choice>
@@ -17128,10 +17128,10 @@
               <expan>int<ex>er</ex>venientib<ex>us</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr>m<damage extent="2char" type="N">e<am><g ref="#itilde"/></am></damage>tis</abbr>
+              <abbr>m<damage extent="2char">e<am><g ref="#itilde"/></am></damage>tis</abbr>
               <expan>me<ex>r</ex>itis</expan>
             </choice></w>
-          <w>glorio<g ref="#slong"/><g ref="#slong"/><damage extent="1char" type="N">i</damage>s</w><pc><g ref="#middot"
+          <w>glorio<g ref="#slong"/><g ref="#slong"/><damage extent="1char">i</damage>s</w><pc><g ref="#middot"
             /></pc>
         </p>
 
@@ -17379,7 +17379,7 @@
                 <expan>s<ex>ib</ex>i</expan>
               </choice>sibi</w>
             <lb facs="#ST_line_16r_07" xml:id="ST_lb_016_07" n="7"/>
-            <w><damage extent="2char" type="N">vu</damage>lt</w>
+            <w><damage extent="2char">vu</damage>lt</w>
             <w>hoc</w>
             <w><choice>
                 <abbr>qd<am><g ref="#combhook"/></am></abbr>
@@ -17541,7 +17541,7 @@
               <orig><abbr><am><g ref="#ptilde"/></am>tio<g ref="#slong"/><g ref="#slong"/>um</abbr></orig>
               <reg>p<ex>re</ex>tiosum</reg>
             </choice></w>
-          <del extent="8char" type="N"><w>tau<g ref="#slong"/>arum</w></del>
+          <del extent="8char"><w>tau<g ref="#slong"/>arum</w></del>
           <add place="above"><w>the<g ref="#slong"/>aurum</w></add>
           <w>ad</w>
           <placeName ref="#chiesaSanLorenzo">
@@ -17776,7 +17776,7 @@
                 <reg>Dei</reg>
               </choice></w>
           <persName ref="#sanTebaudo">
-            <damage extent="3char" type="N"><w><choice>
+            <damage extent="3char"><w><choice>
                   <orig><abbr><g ref="#slong"/><am><g ref="#ctilde"/></am>o</abbr></orig>
                   <reg><expan>S<ex>an</ex>c<ex>t</ex>o</expan></reg>
                 </choice></w></damage>
@@ -17877,7 +17877,7 @@
               <expan>cu<ex>r</ex>runt</expan>
             </choice></w>
           <w><choice>
-              <abbr><am><g ref="#itilde"/></am>numerabile<damage extent="1char" type="N">s</damage></abbr>
+              <abbr><am><g ref="#itilde"/></am>numerabile<damage extent="1char">s</damage></abbr>
               <expan>i<ex>n</ex>numerabiles</expan>
             </choice></w>
           <w><choice>
@@ -17925,7 +17925,7 @@
               <abbr>portaver<am><g ref="#utilde"/></am>t</abbr>
               <expan>portaveru<ex>n</ex>t</expan>
             </choice></w>
-          <damage extent="5char" type="N"><w><choice>
+          <damage extent="5char"><w><choice>
                 <abbr><am><g ref="#condes"/></am>pedes</abbr>
                 <expan><ex>com</ex>pedes</expan>
               </choice></w></damage>
@@ -18123,7 +18123,7 @@
           <w>Quidam</w>
           <w>homo</w>
           <choice>
-            <orig><w>inp<damage extent="4char" type="N">ara</damage><g ref="#slong"/>ceve</w></orig>
+            <orig><w>inp<damage extent="4char">ara</damage><g ref="#slong"/>ceve</w></orig>
             <reg><w>in</w>
               <w>parasceve</w></reg>
           </choice>
@@ -18138,7 +18138,7 @@
           <w><choice>
               <abbr><am>.etꝣ</am></abbr>
               <expan>etc<ex>aetera</ex></expan>
-            </choice></w><damage extent="1char" type="N"><g ref="#middot"/></damage>
+            </choice></w><damage extent="1char"><g ref="#middot"/></damage>
           <w>qui<add place="below"><g ref="#logand"/></add><add place="above">a</add></w>
           <w>i<g ref="#slong"/>tud</w>
           <w><choice>
@@ -18158,7 +18158,7 @@
               <expan>sup<ex>ra</ex></expan>
             </choice></w>
           <w>in</w>
-          <w>qua<damage extent="3char" type="N">rta</damage></w>
+          <w>qua<damage extent="3char">rta</damage></w>
           <lb facs="#ST_line_17r_03" xml:id="ST_lb_017_03" n="3"/>
           <w>carta</w>
           <w><g ref="#slong"/>eu</w>
@@ -18174,7 +18174,7 @@
 
         <p n="51" xml:id="ST_p_51">
           <lb facs="#ST_line_17r_04" xml:id="ST_lb_017_04" n="4"/>
-          <w><damage extent="4char" type="N"><g ref="#Muncdes"/>ort</damage>uus</w>
+          <w><damage extent="4char"><g ref="#Muncdes"/>ort</damage>uus</w>
           <w><choice>
               <abbr><am><g ref="#etilde"/></am></abbr>
               <expan>e<ex>st</ex></expan>
@@ -18194,19 +18194,19 @@
           <w>circa</w>
           <w>annum</w>
           <name>
-            <damage extent="3char" type="N"><w><choice>
+            <damage extent="3char"><w><choice>
                   <orig><abbr>d<am><g ref="#ntilde"/></am>i</abbr></orig>
                   <reg>D<ex>omi</ex>ni</reg>
                 </choice></w></damage>
           </name>
           <date when="1050">
-            <damage extent="5char" type="N"><choice>
+            <damage extent="5char"><choice>
                 <abbr>mill<am><g ref="#combhook"/></am>m</abbr>
                 <expan>mill<ex>esi</ex>m<ex>o</ex></expan>
               </choice></damage>
-            <damage extent="4char" type="N"><abbr><am>cl</am></abbr></damage>
+            <damage extent="4char"><abbr><am>cl</am></abbr></damage>
           </date>
-          <w><damage extent="1char" type="N">e</damage>t</w>
+          <w><damage extent="1char">e</damage>t</w>
           <w>ex</w>
           <w><choice>
               <abbr>t<am><g ref="#utilde"/></am>c</abbr>
@@ -18277,18 +18277,18 @@
         <p n="52" xml:id="ST_p_52">
           <lb facs="#ST_line_17r_06" xml:id="ST_lb_017_06" n="6"/>
           <w><choice>
-              <abbr><hi rend="cap1.1">P</hi>ri<damage extent="2char" type="N">m<am><g ref="#utilde"
+              <abbr><hi rend="cap1.1">P</hi>ri<damage extent="2char">m<am><g ref="#utilde"
                 /></am></damage></abbr>
               <expan>Primu<ex>m</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><damage extent="1char" type="N">m</damage>irac<damage extent="4char" type="N">ulu<am><g ref="#etfin"
+              <abbr><damage extent="1char">m</damage>irac<damage extent="4char">ulu<am><g ref="#etfin"
                     /></am></damage></abbr>
               <expan>miraculu<ex>m</ex></expan>
             </choice></w>
           <persName ref="#sanTebaudo">
             <w><choice>
-                <orig><damage extent="5char" type="N">sancti</damage></orig>
+                <orig><damage extent="5char">sancti</damage></orig>
                 <reg>Sancti</reg>
               </choice></w>
             <w>Thebaudi</w>
@@ -18297,13 +18297,13 @@
               <orig>Incipit</orig>
               <reg>incipit</reg>
             </choice></w><pc><g ref="#middot"/></pc>
-          <w><damage extent="1char" type="N">Q</damage>uidam</w>
+          <w><damage extent="1char">Q</damage>uidam</w>
           <w>hono</w>
           <choice>
             <orig><w>Inparasceve</w></orig>
             <reg><w>in</w><w>parasceve</w></reg>
           </choice><pc><g ref="#middot"/></pc>
-          <damage extent="5char" type="N">
+          <damage extent="5char">
             <w>et</w>
             <w>e<g ref="#slong"/>t</w>
           </damage>
@@ -18315,15 +18315,15 @@
               <expan>v<ex>e</ex>l</expan>
             </choice></w>
           <w>in</w>
-          <w>foli<damage extent="1char" type="N">o</damage></w>
+          <w>foli<damage extent="1char">o</damage></w>
           <w><choice>
               <abbr><am><g ref="#middot"/>IIII<add place="above">to</add><g ref="#middot"/></am></abbr>
               <expan><ex>quar</ex>to</expan>
             </choice></w>
-          <damage extent="3char" type="N"><w><choice>
+          <damage extent="3char"><w><choice>
                 <abbr><g ref="#slong"/>u<am><g ref="#ptilde"/></am></abbr>
                 <expan>sup<ex>erius</ex></expan>
-              </choice></w></damage><damage extent="1char" type="N"><g
+              </choice></w></damage><damage extent="1char"><g
               ref="#middot"/></damage>
         </p>
 
@@ -18334,7 +18334,7 @@
               <expan>S<ex>e</ex>c<ex>undu</ex>m</expan>
             </choice></w>
           <w><choice>
-              <abbr>mirac<damage extent="3char" type="N"><am>u<g ref="combovl"/>l<g ref="combovl"/>u<g ref="combovl"
+              <abbr>mirac<damage extent="3char"><am>u<g ref="combovl"/>l<g ref="combovl"/>u<g ref="combovl"
                     /></am></damage></abbr>
               <expan>miraculu<ex>m</ex></expan>
             </choice></w>
@@ -18407,7 +18407,7 @@
               <abbr><am>t<g ref="combovl"/>p<g ref="combovl"/>r<g ref="combovl"/></am></abbr>
               <expan>t<ex>em</ex>p<ex>o</ex>r<ex>e</ex></expan>
             </choice></w>
-          <w>acci<damage extent="3char" type="N">dit</damage></w>
+          <w>acci<damage extent="3char">dit</damage></w>
           <w><choice>
               <abbr><am>q<g ref="combovl"/>d<g ref="combovl"/></am></abbr>
               <expan>q<ex>uo</ex>d</expan>
@@ -18415,7 +18415,7 @@
           <w>In</w>
           <placeName ref="#Besançon">
             <w><choice>
-                <orig>be<del type="N">n</del><g ref="#slong"/>en<damage extent="2char" type="N">ço</damage>no</orig>
+                <orig>be<del>n</del><g ref="#slong"/>en<damage extent="2char">ço</damage>no</orig>
                 <reg>Besençono</reg>
               </choice></w>
           </placeName>
@@ -18450,25 +18450,25 @@
               <abbr>Qu<am>a<g ref="rrotsup"/></am>tum</abbr>
               <expan>Qua<ex>r</ex>tum</expan>
             </choice></w>
-          <damage extent="9char" type="N"><w>miraculum</w></damage>
+          <damage extent="9char"><w>miraculum</w></damage>
           <w>Incipit</w>
           <w>Item</w>
           <w>in</w>
           <placeName ref="#Rodello">
             <w>Rodello</w>
           </placeName>
-          <w><damage extent="5char" type="N">accid</damage>it</w>
+          <w><damage extent="5char">accid</damage>it</w>
           <w><choice>
               <abbr><am>q<g ref="combovl"/>d<g ref="combovl"/></am></abbr>
               <expan>q<ex>uo</ex>d</expan>
             </choice></w>
-          <damage extent="5char" type="N"><w><choice>
+          <damage extent="5char"><w><choice>
                 <abbr>qu<am>e<g ref="combovl"/>d<g ref="combovl"/>a<g ref="combovl"/></am></abbr>
                 <expan>queda<ex>m</ex></expan>
               </choice></w></damage>
           <w>baiula</w><pc>.</pc>
-          <damage extent="2char" type="N"><w>et</w></damage>
-          <w><damage extent="1char" type="N">e</damage><g ref="#slong"/>t</w>
+          <damage extent="2char"><w>et</w></damage>
+          <w><damage extent="1char">e</damage><g ref="#slong"/>t</w>
           <w>in</w>
           <w>folio</w>
           <w><choice>
@@ -18476,24 +18476,24 @@
               <expan>q<ex>ui</ex>nto</expan>
             </choice></w>
           <w>ut</w>
-          <damage extent="6char" type="N"><w><g ref="#slong"/>upra</w><g ref="#middot"/></damage>
+          <damage extent="6char"><w><g ref="#slong"/>upra</w><g ref="#middot"/></damage>
         </p>
 
         <p n="56" xml:id="ST_p_56">
           <lb facs="#ST_line_17r_10" xml:id="ST_lb_017_10" n="10"/>
           <w>Quintum</w>
           <w><choice>
-              <abbr><g ref="#muncdes"/>iracu<damage extent="2char" type="N"><am><g ref="#lbar"/></am></damage></abbr>
+              <abbr><g ref="#muncdes"/>iracu<damage extent="2char"><am><g ref="#lbar"/></am></damage></abbr>
               <expan>miraculu<ex>m</ex></expan>
             </choice></w><pc>.</pc>
-          <w><damage extent="1char" type="N">I</damage>ncipit</w>
+          <w><damage extent="1char">I</damage>ncipit</w>
           <w>accidit</w>
           <w><choice>
               <orig>In</orig>
               <reg>in</reg>
             </choice></w>
           <placeName ref="#Cissone">
-            <w>Ca<g ref="#slong"/>tro<del type="N">ay</del></w>
+            <w>Ca<g ref="#slong"/>tro<del>ay</del></w>
             <w>Cixoni</w>
           </placeName>
           <w>et</w>
@@ -18514,7 +18514,7 @@
               <abbr>Sext<am><g ref="#utilde"/></am></abbr>
               <expan>Sextu<ex>m</ex></expan>
             </choice></w>
-          <w><damage extent="4char" type="N">mira</damage>culum</w><pc>.</pc>
+          <w><damage extent="4char">mira</damage>culum</w><pc>.</pc>
           <w><choice>
               <abbr>Inci<am><g ref="#ptsup"/></am></abbr>
               <expan>Incip<ex>i</ex>t</expan>
@@ -18555,13 +18555,13 @@
               <abbr>t<am>p<g ref="combovl"/>r<g ref="combovl"/></am></abbr>
               <expan>t<ex>em</ex>p<ex>o</ex>re</expan>
             </choice></w>
-          <damage extent="7char" type="N"><w>accidit</w></damage>
+          <damage extent="7char"><w>accidit</w></damage>
           <w><choice>
               <abbr><am><g ref="#qslstrok"/></am></abbr>
               <expan>q<ex>uod</ex></expan>
             </choice></w>
           <w><choice>
-              <abbr><damage extent="1char" type="N"><am><g ref="#qbardes"/></am>dam</damage></abbr>
+              <abbr><damage extent="1char"><am><g ref="#qbardes"/></am>dam</damage></abbr>
               <expan>q<ex>ui</ex>dam</expan>
             </choice></w>
           <w><choice>
@@ -18582,7 +18582,7 @@
           <w>e<g ref="#slong"/>t</w>
           <supplied resp="N"><w>in</w></supplied>
           <w>folio</w>
-          <damage extent="4char" type="N"><w><choice>
+          <damage extent="4char"><w><choice>
                 <abbr><am><g ref="#qbardes"/></am>nto</abbr>
                 <expan>q<ex>ui</ex>nto</expan>
               </choice></w></damage>
@@ -18693,7 +18693,7 @@
         <p n="62" xml:id="ST_p_62">
           <lb facs="#ST_line_17r_16" xml:id="ST_lb_017_16" n="16"/>
           <w><choice>
-              <abbr><damage extent="6char" type="N">Undeci</damage>m<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="6char">Undeci</damage>m<am><g ref="#utilde"/></am></abbr>
               <expan>Undecimu<ex>m</ex></expan>
             </choice></w>
           <w><g ref="#muncdes"/>iraculum</w>
@@ -18723,7 +18723,7 @@
         <p n="63" xml:id="ST_p_63">
           <lb facs="#ST_line_17r_18" xml:id="ST_lb_017_18" n="18"/>
           <w><choice>
-              <abbr><damage extent="4char" type="N">Duod</damage>ecim<am><g ref="#utilde"/></am></abbr>
+              <abbr><damage extent="4char">Duod</damage>ecim<am><g ref="#utilde"/></am></abbr>
               <expan>Duodecimu<ex>m</ex></expan>
             </choice></w>
           <w>miraculu<g ref="#muncdes"/></w>
@@ -18766,11 +18766,11 @@
 
         <p n="64" xml:id="ST_p_64">
           <lb facs="#ST_line_17r_19" xml:id="ST_lb_017_19" n="19"/>
-          <damage extent="14char" type="N"><w><choice>
+          <damage extent="14char"><w><choice>
                 <abbr>Tertiumdecimu<am><g ref="#etfin"/></am></abbr>
                 <expan>Tertiumdecimu<ex>m</ex></expan>
               </choice></w></damage>
-          <w><g ref="#muncdes"/>iracul<damage extent="2char" type="N">um</damage></w><pc><g ref="#middot"/></pc>
+          <w><g ref="#muncdes"/>iracul<damage extent="2char">um</damage></w><pc><g ref="#middot"/></pc>
           <w>Incipit</w><pc><g ref="#middot"/></pc>
           <w>Anno</w>
             <w><choice>
@@ -18798,7 +18798,7 @@
 
         <p n="65" xml:id="ST_p_65">
           <lb facs="#ST_line_17r_20" xml:id="ST_lb_017_20" n="20"/>
-          <damage extent="6char" type="N"><w>Optima</w></damage>
+          <damage extent="6char"><w>Optima</w></damage>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>dicatio</abbr>
               <expan>p<ex>re</ex>dicatio</expan>
@@ -18811,7 +18811,7 @@
             <w>sancti</w>
             <w>Thebaudi</w>
           </persName>
-          <w><damage extent="2char" type="N">In</damage>cipit</w>
+          <w><damage extent="2char">In</damage>cipit</w>
           <w>et</w>
           <w>e<g ref="#slong"/>t</w>
           <w>i<g ref="#nrdes"/></w>
@@ -18903,7 +18903,7 @@
                 <reg>Thebaudi</reg>
               </choice></w>
           </persName>
-          <w><damage extent="5char" type="N">propa</damage>lando</w><pc>.</pc>
+          <w><damage extent="5char">propa</damage>lando</w><pc>.</pc>
           <w>Quod</w>
           <w>in</w>
           <w>primis</w>
@@ -18926,7 +18926,7 @@
               <expan>fructu<ex>m</ex></expan>
             </choice></w>
           <w>in</w>
-          <w><damage extent="3char" type="N">tem</damage>pore</w>
+          <w><damage extent="3char">tem</damage>pore</w>
           <w>afferens</w>
           <w>in</w>
           <w>habundantia</w>
@@ -19061,7 +19061,7 @@
               <abbr>n<am><g ref="#otilde"/></am></abbr>
               <expan>no<ex>n</ex></expan>
             </choice></w>
-          <w>firmi<damage extent="3char" type="N">ter</damage></w>
+          <w>firmi<damage extent="3char">ter</damage></w>
           <w>fidem</w>
           <w><choice>
               <abbr>plen<am><g ref="#atilde"/></am></abbr>
@@ -19069,7 +19069,7 @@
             </choice></w>
           <w>gerat</w>
           <w><choice>
-              <orig><g ref="#slong"/>up<damage extent="2char" type="N">le</damage></orig>
+              <orig><g ref="#slong"/>up<damage extent="2char">le</damage></orig>
               <reg>suplex</reg>
             </choice></w>
           <w>nullus</w>
@@ -19083,7 +19083,7 @@
                 <reg>Dei</reg>
               </choice></w>
           <w><choice>
-              <abbr>mi<g ref="#slong"/><am><g ref="#slongbarslash"/></am>icordi<damage extent="1char" type="N"
+              <abbr>mi<g ref="#slong"/><am><g ref="#slongbarslash"/></am>icordi<damage extent="1char"
                   >e</damage></abbr>
               <expan>miss<ex>er</ex>icordie</expan>
             </choice></w>
@@ -19203,7 +19203,7 @@
               </choice></w>
           <w>qui</w>
           <w><choice>
-              <abbr>mu<damage extent="2char" type="N">i<am><g ref="#etilde"/><g ref="#etfin"/></am></damage></abbr>
+              <abbr>mu<damage extent="2char">i<am><g ref="#etilde"/><g ref="#etfin"/></am></damage></abbr>
               <expan>mulie<ex>rem</ex></expan>
             </choice></w>
           <w><choice>
@@ -19359,7 +19359,7 @@
           <w>diferret</w>
           <w>ut</w>
           <w>per</w>
-          <w>fie<damage extent="2char" type="N">ri</damage></w>
+          <w>fie<damage extent="2char">ri</damage></w>
           <w>po<g ref="#slong"/><g ref="#slong"/>et</w>
           <w><choice>
               <abbr>om<am><g ref="#itilde"/></am>bus</abbr>
@@ -19652,7 +19652,7 @@
           <w>honorabilibu<g ref="#esh"/></w>
           <w>et</w>
           <w>fide</w>
-          <w>digni<damage extent="1char" type="N"><g ref="#slong"/></damage></w>
+          <w>digni<damage extent="1char"><g ref="#slong"/></damage></w>
           <w>de</w>
           <w>dicta</w>
           <w>civitate</w>
@@ -19736,7 +19736,7 @@
               <abbr><g ref="#slong"/>on<am><g ref="#utilde"/></am></abbr>
               <expan>sonu<ex>m</ex></expan>
             </choice></w>
-          <del extent="1char" type="N"><g ref="#slong"/></del>
+          <del extent="1char"><g ref="#slong"/></del>
           <w><choice>
               <abbr>campana<am><g ref="#rum"/></am></abbr>
               <expan>campana<ex>rum</ex></expan>
@@ -19831,7 +19831,7 @@
           <w>eos</w>
           <w>tanto</w>
           <w><g ref="#slong"/>plendore</w>
-          <del extent="8char" type="N"><w>dignatu<g ref="#esh"/></w></del>
+          <del extent="8char"><w>dignatu<g ref="#esh"/></w></del>
           <w>participes</w>
           <w>fieri</w>
           <w>dignatu<g ref="#esh"/></w>
@@ -19849,7 +19849,7 @@
               </choice></w>
           </persName>
           <w>oblitus</w>
-          <del extent="5char" type="N">cives</del>
+          <del extent="5char">cives</del>
           <w>mi<g ref="#slong"/>ericordia</w>
           <w>con<g ref="#slong"/>ueta</w><pc>.</pc>
           <w>cives</w>
@@ -19941,7 +19941,7 @@
           </choice>
           <w>menti<g ref="#esh"/></w>
           <w><choice>
-              <abbr><am><g ref="#pbardes"/></am><g ref="#slong"/>pi<damage extent="3char" type="N">cat</damage>ia</abbr>
+              <abbr><am><g ref="#pbardes"/></am><g ref="#slong"/>pi<damage extent="3char">cat</damage>ia</abbr>
               <expan>p<ex>er</ex>spicatia</expan>
             </choice></w>
           <w>ad</w>
@@ -20004,7 +20004,7 @@
           <w>ore</w>
           <w>fari</w>
           <w>nec</w>
-          <w>ope<damage extent="2char" type="N">re</damage></w>
+          <w>ope<damage extent="2char">re</damage></w>
           <lb facs="#ST_line_18r_23" n="23" xml:id="ST_lb_018r_23"/>
           <w>conpilare</w>
           <w>que</w>
@@ -20335,10 +20335,10 @@
 
           <p n="72" xml:id="ST_p_72">
             <lb facs="#ST_line_18r_31" n="31" xml:id="ST_lb_018r_31"/>
-            <w><damage extent="1char" type="N"><g ref="#Eunc"/></damage>t</w>
+            <w><damage extent="1char"><g ref="#Eunc"/></damage>t</w>
             <w>uni</w>
             <w>ex</w>
-            <del extent="2char" type="N">ex</del>
+            <del extent="2char">ex</del>
             <w><choice>
                 <abbr>tran<g ref="#slong"/>euntib<am><g ref="#usbase"/></am></abbr>
                 <expan>transeuntib<ex>us</ex></expan>
@@ -20660,7 +20660,7 @@
               <w>e<g ref="#slong"/>t</w>
               <w>i<g ref="#slong"/>tud</w>
               <w>quod</w>
-              <w><damage extent="1char" type="N">i</damage>n</w>
+              <w><damage extent="1char">i</damage>n</w>
               <w><choice>
                   <abbr><g ref="#slong"/>epl<am><g ref="#combhook"/></am>cro</abbr>
                   <expan>sep<ex>u</ex>lcro</expan>
@@ -20846,7 +20846,7 @@
                 <expan>restitut<ex>us</ex></expan>
               </choice></w>
             <lb facs="#ST_line_18r_39" n="39" xml:id="ST_lb_018r_39"/>
-            <w>Lau<damage extent="3char" type="N">de<g ref="#slong"/></damage></w>
+            <w>Lau<damage extent="3char">de<g ref="#slong"/></damage></w>
               <w><choice>
                   <orig>deo</orig>
                   <reg>Deo</reg>
@@ -20922,7 +20922,7 @@
             <w>In</w>
             <lb facs="#ST_line_18r_40" n="40" xml:id="ST_lb_018r_40"/>
             <w><choice>
-                <abbr>mani<damage extent="2char" type="N">b<am><g ref="#usbase"/></am></damage></abbr>
+                <abbr>mani<damage extent="2char">b<am><g ref="#usbase"/></am></damage></abbr>
                 <expan>manib<ex>us</ex></expan>
               </choice></w>
             <w><choice>
@@ -20956,7 +20956,7 @@
                 <abbr><am><g ref="#ptilde"/></am>po<am><g ref="#itilde"/></am>to</abbr>
                 <expan>p<ex>re</ex>po<ex>s</ex>ito</expan>
               </choice></w>
-            <del extent="2char" type="N">in</del>
+            <del extent="2char">in</del>
             <w><choice>
                 <abbr><am>s<g ref="#combovl"/><g ref="#slongbarslash"/>t</am>o</abbr>
                 <expan>s<ex>upradic</ex>to</expan>
@@ -20968,7 +20968,7 @@
                   <reg>Stephano</reg>
                 </choice></w>
               <w><choice>
-                  <orig><damage extent="1char" type="N">r</damage>ubo</orig>
+                  <orig><damage extent="1char">r</damage>ubo</orig>
                   <reg>Rubo</reg>
                 </choice></w>
             </persName>
@@ -21101,7 +21101,7 @@
             <lb facs="#ST_line_18r_43" n="43" xml:id="ST_lb_018r_43"/>
             <w><hi rend="cap1.0">D</hi>e</w>
             <w>miraculo</w>
-            <del extent="3char" type="N"><g ref="#ptilde"/><g ref="#slong"/>t</del>
+            <del extent="3char"><g ref="#ptilde"/><g ref="#slong"/>t</del>
             <add place="above"><w><choice>
                   <abbr>part<am><g ref="#usbase"/></am></abbr>
                   <expan>part<ex>us</ex></expan>
@@ -21124,7 +21124,7 @@
             <w>po<g ref="#slong"/>t</w>
             <w>prelibati</w>
             <w>corpori<g ref="#slong"/></w>
-            <w>invention<damage extent="2char" type="N">em</damage></w><pc>.</pc>
+            <w>invention<damage extent="2char">em</damage></w><pc>.</pc>
             <w>Quedam</w>
             <w>mulier</w>
             <w><choice>
@@ -21158,7 +21158,7 @@
             </placeName>
             <w>maxima</w>
             <w>infirmitate</w>
-            <w>p<damage extent="1char" type="N">a</damage>rt<damage extent="2char" type="N">u<g ref="#slong"
+            <w>p<damage extent="1char">a</damage>rt<damage extent="2char">u<g ref="#slong"
               /></damage></w>
             <w>detenta</w>
             <w>et</w>
@@ -21213,8 +21213,8 @@
                 <abbr><am><g ref="#et"/></am></abbr>
                 <expan><ex>et</ex></expan>
               </choice></w>
-            <damage extent="5char" type="N"><w>certo</w></damage>
-            <w><damage extent="6char" type="N"><g ref="#slong"/>cient</damage>ibu<g ref="#slong"/></w>
+            <damage extent="5char"><w>certo</w></damage>
+            <w><damage extent="6char"><g ref="#slong"/>cient</damage>ibu<g ref="#slong"/></w>
             <lb facs="#ST_line_18r_47" n="47" xml:id="ST_lb_018r_47"/>
             <w>morti<g ref="#slong"/></w>
             <w><g ref="#slong"/>ibi</w>
@@ -21285,7 +21285,7 @@
                 <expan>no<ex>n</ex></expan>
               </choice></w>
             <w><choice>
-                <abbr><g ref="#slong"/><damage extent="1char" type="N">u</damage>me<am><g ref="#ttilde"/></am></abbr>
+                <abbr><g ref="#slong"/><damage extent="1char">u</damage>me<am><g ref="#ttilde"/></am></abbr>
                 <expan>sume<ex>re</ex>t</expan>
               </choice></w>
             <w><choice>
@@ -21298,7 +21298,7 @@
                     <expan>i<ex>n</ex></expan>
                   </choice></w></supplied></unclear>
             <w>ea</w>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w>vite</w>
               <w><g ref="#slong"/>pe<g ref="#slong"/></w>
             </damage>
@@ -21325,8 +21325,8 @@
                 <expan>no<ex>n</ex></expan>
               </choice></w>
             <w>valentibu<g ref="#slong"/></w>
-            <w>ver<damage extent="3char" type="N">bi<g ref="#slong"/></damage></w>
-            <damage extent="9char" type="N">
+            <w>ver<damage extent="3char">bi<g ref="#slong"/></damage></w>
+            <damage extent="9char">
               <w>a<g ref="#slong"/>peri<g ref="#slong"/></w>
               <w>et</w>
             </damage>
@@ -21362,7 +21362,7 @@
               </choice>penitus</w>
             <w>et</w>
             <w>a<g ref="#slong"/>en<g ref="#slong"/>um</w><pc>.</pc>
-            <damage extent="17char" type="N">
+            <damage extent="17char">
               <w>Quo</w>
               <w><choice>
                   <abbr><am><g ref="#pbardes"/></am>pen<g ref="#slong"/>o</abbr>
@@ -22150,7 +22150,7 @@
             </persName>
             <space dim="horizontal" extent="N"/>
             <lb facs="#ST_line_18r_62" n="62" xml:id="ST_lb_018r_62"/>          
-            <del extent="4char" type="N">rec<g ref="#otilde"/></del>
+            <del extent="4char">rec<g ref="#otilde"/></del>
             <w><choice>
                 <abbr>rec<am><g ref="#otilde"/></am>ciliati<am>o<g ref="#combovl"/>e<g ref="#combovl"/></am></abbr>
                 <expan>reco<ex>n</ex>ciliatio<ex>n</ex>e</expan>
@@ -22354,7 +22354,7 @@
             <space dim="horizontal" extent="N"/>
             <lb facs="#ST_line_18r_65" n="65" xml:id="ST_lb_018r_65"/>
             <unclear extent="2char" reason="N"><w>ut</w></unclear>
-            <w><damage extent="1char" type="N">m</damage>ori<g ref="#slong"/></w>
+            <w><damage extent="1char">m</damage>ori<g ref="#slong"/></w>
             <w>e<g ref="#slong"/>t</w>
             <w><choice>
                 <abbr>q<am><g ref="#ntilde"/></am></abbr>
@@ -22393,12 +22393,12 @@
             <w>filiu<g ref="#slong"/></w>
             <space dim="horizontal" extent="N"/>
             <lb facs="#ST_line_18r_66" n="66" xml:id="ST_lb_018r_66"/>
-            <damage extent="6char" type="N"><w><g ref="#slong"/>ubito</w></damage>
+            <damage extent="6char"><w><g ref="#slong"/>ubito</w></damage>
             <w><choice>
                 <abbr><g ref="#slong"/>i<am>gͦ</am></abbr>
                 <expan>sig<ex>n</ex>o</expan>
               </choice></w>
-            <w><damage extent="2char" type="N"><g ref="#slong"/>u</damage>per</w>
+            <w><damage extent="2char"><g ref="#slong"/>u</damage>per</w>
             <w><choice>
                 <abbr>e<am><g ref="#utilde"/></am></abbr>
                 <expan>eu<ex>m</ex></expan>
@@ -22433,7 +22433,7 @@
                 <expan>mortuu<ex>m</ex></expan>
               </choice></w>
             <w>recordatu<g ref="#slong"/></w>
-            <w>d<damage extent="1char" type="N">e</damage></w>
+            <w>d<damage extent="1char">e</damage></w>
             <persName ref="#sanTebaudo">
               <w><choice>
                   <abbr>bt<am><g ref="#otilde"/></am></abbr>
@@ -22460,7 +22460,7 @@
               <space dim="horizontal" extent="N"/>
               <lb facs="#ST_line_18r_67" n="67" xml:id="ST_lb_018r_67"/>
               <w><choice>
-                  <orig><damage extent="7char" type="N">thebaud</damage>um</orig>
+                  <orig><damage extent="7char">thebaud</damage>um</orig>
                   <reg>Thebaudum</reg>
                 </choice></w>
             </persName>
@@ -22529,7 +22529,7 @@
                   <expan>mi<ex>sericordi</ex>a<ex>m</ex></expan>
                 </choice></w><space dim="horizontal" extent="N"/>
               <lb facs="#ST_line_18r_68" n="68" xml:id="ST_lb_018r_68"/>
-              <damage extent="8char" type="N"><w>succurre</w></damage>
+              <damage extent="8char"><w>succurre</w></damage>
               <w>michi</w>
               <w><choice>
                   <abbr><am><g ref="#slongbarslash"/></am>vo</abbr>
@@ -22539,10 +22539,10 @@
               <w>et</w>
               <w>tui<g ref="#slong"/></w>
               <w><choice>
-                  <abbr><am><g ref="#ptilde"/></am><damage extent="3char" type="N">cib</damage>us</abbr>
+                  <abbr><am><g ref="#ptilde"/></am><damage extent="3char">cib</damage>us</abbr>
                   <expan>p<ex>re</ex>cibus</expan>
                 </choice></w>
-              <damage extent="2char" type="N"><w>et</w></damage>
+              <damage extent="2char"><w>et</w></damage>
               <w>meriti<g ref="#slong"/></w>
               <w>letitia</w>
               <w>cor</w>
@@ -22587,18 +22587,18 @@
               <w>qui</w>
               <w>hodie</w><space dim="horizontal" extent="N"/>
               <lb facs="#ST_line_18r_69" n="69" xml:id="ST_lb_018r_69"/>
-              <damage extent="2char" type="N"><w>in</w></damage>
+              <damage extent="2char"><w>in</w></damage>
               <w><choice>
                   <abbr><am>p<g ref="#combovl"/>n<g ref="#combovl"/>t<g ref="#combovl"/>i<g ref="#combovl"/></am></abbr>
                   <expan>p<ex>rese</ex>nti</expan>
                 </choice></w>
-              <w><damage extent="4char" type="N">migr</damage>avit</w>
+              <w><damage extent="4char">migr</damage>avit</w>
               <w>ad</w>
                 <w><choice>
                     <abbr>x<am><g ref="#ptilde"/></am>m</abbr>
                     <expan><ex>Christu</ex>m</expan>
                   </choice></w>
-              <damage extent="11char" type="N"><w>re<g ref="#slong"/>u<g ref="#slong"/>citari</w></damage>
+              <damage extent="11char"><w>re<g ref="#slong"/>u<g ref="#slong"/>citari</w></damage>
               <w>et</w>
               <w>michi</w>
               <w><choice>
@@ -22664,7 +22664,7 @@
               <w>et</w>
               <w>a</w>
               <w>mortui<g ref="#slong"/></w>
-              <w>re<damage extent="1char" type="N"><g ref="#slong"/></damage>urgat</w>
+              <w>re<damage extent="1char"><g ref="#slong"/></damage>urgat</w>
               <w>tibi</w>
               <w>dabo</w>
               <w><choice>
@@ -22717,8 +22717,8 @@
                 <reg>Quo</reg>
               </choice></w>
             <w>voto</w>
-            <w><damage extent="1char" type="N">e</damage>mi<g ref="#slong"/><g ref="#slong"/>o</w>
-            <damage extent="13char" type="N">
+            <w><damage extent="1char">e</damage>mi<g ref="#slong"/><g ref="#slong"/>o</w>
+            <damage extent="13char">
               <w>po<g ref="#slong"/>tea</w>
               <w><choice>
                   <abbr>deven<am>i<g ref="#combovl"/>e<g ref="#combovl"/></am><g ref="#slong"/></abbr>
@@ -22742,7 +22742,7 @@
               </choice></w>
             <w>jam</w>
             <w>pro</w>
-            <w><damage extent="1char" type="N">a</damage>d</w>
+            <w><damage extent="1char">a</damage>d</w>
             <w><g ref="#slong"/>epulturam</w>
             <w><choice>
                 <abbr>por<am>t<g ref="#combovl"/>a<g ref="#combovl"/>d<g ref="#combovl"/></am>o</abbr>
@@ -22776,11 +22776,11 @@
             <w>de</w>
             <w>morte</w>
             <w>dict<unclear extent="1char" reason="N"/><supplied resp="N">i</supplied></w>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w>filij</w>
               <w><g ref="#slong"/>ui</w>
             </damage><pc>.</pc>
-            <damage extent="2char" type="N">
+            <damage extent="2char">
               <w>In</w>
             </damage>
             <w><choice>
@@ -22788,7 +22788,7 @@
                 <expan>filiu<ex>m</ex></expan>
               </choice></w>
             <w><choice>
-                <abbr><damage extent="6char" type="N"><am><g ref="#ptilde"/></am>dict<am><g ref="#utilde"
+                <abbr><damage extent="6char"><am><g ref="#ptilde"/></am>dict<am><g ref="#utilde"
                     /></am></damage></abbr>
                 <expan>p<ex>re</ex>dictu<ex>m</ex></expan>
               </choice></w>
@@ -22797,7 +22797,7 @@
                 <expan>fi<ex>r</ex>mit<ex>er</ex></expan>
               </choice></w>
             <lb facs="#ST_line_18r_72" n="72" xml:id="ST_lb_018r_72"/>
-            <damage extent="14char" type="N">
+            <damage extent="14char">
               <w><choice>
                   <abbr>re<g ref="#slong"/>pit<am>i<g ref="#combovl"/>e<g ref="#combovl"/></am>s</abbr>
                   <expan>respitie<ex>n</ex>s</expan>
@@ -22813,11 +22813,11 @@
                 <abbr>oculo<am><g ref="#rum"/></am></abbr>
                 <expan>oculo<ex>rum</ex></expan>
               </choice></w>
-            <w>mov<damage extent="4char" type="N">erit</damage></w>
+            <w>mov<damage extent="4char">erit</damage></w>
             <w>et</w>
             <w>oculo<g ref="#slong"/></w>
             <w><choice>
-                <abbr><damage extent="2char" type="N"><g ref="#slong"/>u</damage>avi<am><g ref="#ttildevert"
+                <abbr><damage extent="2char"><g ref="#slong"/>u</damage>avi<am><g ref="#ttildevert"
                   /></am></abbr>
                 <expan>suavit<ex>er</ex></expan>
               </choice></w>
@@ -22868,13 +22868,13 @@
             <w>c<unclear extent="2char" reason="N"/><supplied resp="N">or</supplied>di<g ref="#slong"/></w>
             <w>leticia</w>
             <lb facs="#ST_line_18r_73" n="73" xml:id="ST_lb_018r_73"/>
-            <damage extent="6char" type="N">
+            <damage extent="6char">
               <w><choice>
                   <abbr><am><g ref="#ptilde"/></am>fu<g ref="#slong"/>u<g ref="#slong"/></abbr>
                   <expan>p<ex>ro</ex>fusus</expan>
                 </choice></w>
             </damage><pc>.</pc>
-            <w><damage extent="2char" type="N">ce</damage>pit</w>
+            <w><damage extent="2char">ce</damage>pit</w>
             <w>laude<g ref="#slong"/></w>
             <choice>
               <orig><w>in</w><w><abbr>m<am><g ref="#etilde"/></am><g ref="#slong"/>a<g ref="#slong"/></abbr></w></orig>
@@ -22934,7 +22934,7 @@
                 <expan>suu<ex>m</ex></expan>
               </choice></w>
             <choice>
-              <orig><w>ad</w><w>Inplevi<damage extent="1char" type="N">t</damage></w></orig>
+              <orig><w>ad</w><w>Inplevi<damage extent="1char">t</damage></w></orig>
               <reg><w>adimplevit</w></reg>
             </choice><pc><g ref="#middot"/></pc>
           </p>
@@ -22963,7 +22963,7 @@
 
           <lb facs="#ST_line_18r_75" n="75" xml:id="ST_lb_018r_75"/>
           <p n="75" xml:id="ST_p_75">
-            <damage extent="31char" type="N">
+            <damage extent="31char">
               <w><choice>
                   <abbr><hi rend="cap1.0">D</hi>em<am><g ref="#utilde"/></am></abbr>
                   <expan>Demu<ex>m</ex></expan>
@@ -23039,7 +23039,7 @@
                 <expan>sup<ex>er</ex></expan>
               </choice></w>
             <w>equo</w><pc><g ref="#middot"/></pc>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w><choice>
                   <abbr>Dict<am><g ref="#usmod"/></am></abbr>
                   <expan>Dict<ex>us</ex></expan>
@@ -23050,7 +23050,7 @@
                 </choice></w>
             </damage>
             <lb facs="#ST_line_18r_76" n="76" xml:id="ST_lb_018r_76"/>
-            <damage extent="9 char" type="N">
+            <damage extent="9 char">
               <w><choice>
                   <orig>perge<g ref="#slong"/></orig>
                   <reg>pergens</reg>
@@ -23065,7 +23065,7 @@
                 <abbr><am><g ref="#qslstrok"/></am></abbr>
                 <expan>q<ex>uod</ex></expan>
               </choice></w>
-            <damage extent="29char" type="N">
+            <damage extent="29char">
               <w>freni<g ref="#slong"/></w>
               <w><choice>
                   <abbr>n<am><g ref="#otilde"/></am></abbr>
@@ -23133,7 +23133,7 @@
                   /></am></abbr>
                 <expan>asce<ex>n</ex>sore<ex>m</ex></expan>
               </choice></w>
-            <damage extent="14char" type="N">
+            <damage extent="14char">
               <w><choice>
                   <abbr><am><g ref="#pflour"/></am><g ref="#slong"/>travit</abbr>
                   <expan>p<ex>ro</ex>stravit</expan>
@@ -23142,7 +23142,7 @@
               <w>pede</w>
             </damage>
             <lb facs="#ST_line_18r_77" n="77" xml:id="ST_lb_018r_77"/>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w><choice>
                   <abbr>i<am>p<g ref="#combovl"/>i<g ref="#combovl"/>u<g ref="#combovl"/></am>s</abbr>
                   <expan>ip<ex>s</ex>ius</expan>
@@ -23159,12 +23159,12 @@
                 <expan>remane<ex>n</ex>te</expan>
               </choice></w>
             <w>in</w>
-            <w><damage extent="3char" type="N"><g ref="#slong"/>ta</damage>pha</w>
-            <del extent="2char" type="N"><g ref="#slong"/>e</del>
+            <w><damage extent="3char"><g ref="#slong"/>ta</damage>pha</w>
+            <del extent="2char"><g ref="#slong"/>e</del>
             <w><g ref="#slong"/>ele</w>
             <w>dicti</w>
             <w>equi</w>
-            <damage extent="3char" type="N">
+            <damage extent="3char">
               <w><choice>
                   <abbr><am><g ref="#pflour"/></am>p<am><g ref="#ttildevert"/></am></abbr>
                   <expan>p<ex>ro</ex>pt<ex>er</ex></expan>
@@ -23207,7 +23207,7 @@
             <w>pedem</w>
             <w>de</w>
             <w>dicta</w>
-            <damage extent="12char" type="N">
+            <damage extent="12char">
               <w><g ref="#slong"/>tapha</w>
               <w><choice>
                   <abbr>e<am>x͂</am>here</abbr>
@@ -23221,7 +23221,7 @@
                 <expan>dictu<ex>m</ex></expan>
               </choice></w>
             <w>calcar</w>
-            <damage extent="4char" type="N"><w><g ref="#slong"/>ive</w></damage>
+            <damage extent="4char"><w><g ref="#slong"/>ive</w></damage>
             <w><choice>
                 <abbr><g ref="#slong"/>peronu<am><g ref="#etfin"/></am></abbr>
                 <expan>speronu<ex>m</ex></expan>
@@ -23231,7 +23231,7 @@
             <w>pede</w>
             <w><g ref="#slong"/>uo</w>
             <w>po<g ref="#slong"/><g ref="#slong"/>et</w>
-            <damage extent="2char" type="N"><w>et</w></damage>
+            <damage extent="2char"><w>et</w></damage>
             <w><choice>
                 <abbr>vehem<am><g ref="#etilde"/></am>tiu<g ref="#slong"/></abbr>
                 <expan>veheme<ex>n</ex>tius</expan>
@@ -23247,10 +23247,10 @@
                 <expan>audie<ex>n</ex>s</expan>
               </choice></w>
             <w><choice>
-                <abbr><damage extent="4char" type="N"><g ref="#slong"/>tre</damage>pit<am><g ref="#utilde"/></am></abbr>
+                <abbr><damage extent="4char"><g ref="#slong"/>tre</damage>pit<am><g ref="#utilde"/></am></abbr>
                 <expan>strepitu<ex>m</ex></expan>
               </choice></w>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w>dicti</w>
               <persName ref="#GiacomodeCarmagnola">
                 <w><choice>
@@ -23282,8 +23282,8 @@
                   <expan>Ja<ex>cobu</ex>m</expan>
                 </choice></w>
             </persName>
-            <w><g ref="#slong"/>i<damage extent="1char" type="N">c</damage></w>
-            <damage extent="7char" type="N"><w><choice>
+            <w><g ref="#slong"/>i<damage extent="1char">c</damage></w>
+            <damage extent="7char"><w><choice>
                   <abbr><am><g ref="#ptilde"/></am><g ref="#slong"/>trat<am><g ref="#utilde"/></am></abbr>
                   <expan>p<ex>ro</ex>stratu<ex>m</ex></expan>
                 </choice></w></damage>
@@ -23293,7 +23293,7 @@
                 <expan><ex>et</ex></expan>
               </choice></w>
             <w>pede</w>
-            <damage extent="44char" type="N">
+            <damage extent="44char">
               <w><choice>
                   <abbr><am><g ref="#itilde"/></am></abbr>
                   <expan>i<ex>n</ex></expan>
@@ -23342,7 +23342,7 @@
                 </choice></w>
             </persName>
             <w>potiu<g ref="#slong"/></w>
-            <damage extent="7char" type="N">
+            <damage extent="7char">
               <w>de</w>
               <w>morte</w>
             </damage>
@@ -23370,12 +23370,12 @@
                 <abbr>equ<am><g ref="#utilde"/></am></abbr>
                 <expan>equu<ex>m</ex></expan>
               </choice></w>
-            <damage extent="8char" type="N">
+            <damage extent="8char">
               <w>retinere</w>
             </damage>
             <lb facs="#ST_line_18r_80" n="80" xml:id="ST_lb_018r_80"/>
             <w>po<g ref="#slong"/><g ref="#slong"/>et</w><pc>.</pc>
-            <damage extent="5char" type="N">
+            <damage extent="5char">
               <w><choice>
                   <abbr>S<am><g ref="#etfin"/></am></abbr>
                   <expan>S<ex>ed</ex></expan>
@@ -23387,7 +23387,7 @@
                 <expan><ex>et</ex></expan>
               </choice></w>
             <w>fortiu<g ref="#slong"/></w>
-            <damage extent="30char" type="N">
+            <damage extent="30char">
               <w>dictu<g ref="#slong"/></w>
               <w>equus</w>
               <w><choice>
@@ -23432,7 +23432,7 @@
               </choice></w>
             <w>viderat</w>
             <w>corpu<g ref="#slong"/></w>
-            <damage extent="15char" type="N">
+            <damage extent="15char">
               <persName ref="#sanTebaudo">
                 <w><choice>
                     <abbr>b<am>t<g ref="#combovl"/>i<g ref="#combovl"/></am></abbr>
@@ -23457,7 +23457,7 @@
                 <abbr>re<am><g ref="#pbardes"/></am>t<am><g ref="#utilde"/></am></abbr>
                 <expan>rep<ex>er</ex>tu<ex>m</ex></expan>
               </choice></w>
-            <damage extent="39char" type="N">
+            <damage extent="39char">
               <w>a</w>
               <w>modico</w>
               <w><choice>
@@ -23484,7 +23484,7 @@
               <w>et</w>
             </damage>
             <persName ref="#sanTebaudo">
-              <damage extent="3char" type="N"><w><choice>
+              <damage extent="3char"><w><choice>
                     <abbr>bt<am><g ref="#itilde"/></am></abbr>
                     <expan>b<ex>ea</ex>ti</expan>
                   </choice></w></damage>
@@ -23514,15 +23514,15 @@
             <w>tota</w>
             <w><g ref="#slong"/>ui</w>
             <w><choice>
-                <abbr>m<damage extent="4char" type="N"><am><g ref="#etilde"/></am>ti<g ref="#slong"/></damage></abbr>
+                <abbr>m<damage extent="4char"><am><g ref="#etilde"/></am>ti<g ref="#slong"/></damage></abbr>
                 <expan>me<ex>n</ex>tis</expan>
               </choice></w>
-            <damage extent="9char" type="N"><w><choice>
+            <damage extent="9char"><w><choice>
                   <abbr>affectio<am><g ref="#etilde"/></am></abbr>
                   <expan>affectio<ex>n</ex>e</expan>
                 </choice></w></damage>
             <w><choice>
-                <abbr>vo<damage extent="2char" type="N">t<am><g ref="#utilde"/></am></damage></abbr>
+                <abbr>vo<damage extent="2char">t<am><g ref="#utilde"/></am></damage></abbr>
                 <expan>votu<ex>m</ex></expan>
               </choice></w>
             <w>vovit</w>
@@ -23541,24 +23541,24 @@
                   <reg>Thebaudo</reg>
                 </choice></w>
             </persName>
-            <w>vocife<damage extent="5char" type="N">rando</damage></w>
-            <w><unclear extent="3char" reason="N"/><supplied resp="N">dic</supplied><damage extent="3char" type="N">en<g
+            <w>vocife<damage extent="5char">rando</damage></w>
+            <w><unclear extent="3char" reason="N"/><supplied resp="N">dic</supplied><damage extent="3char">en<g
                   ref="#slong"/></damage></w>
             <q who="#GiacomodeCarmagnola">
-              <damage extent="4char" type="N">
+              <damage extent="4char">
                 <w><g ref="#slong"/>i</w>
                 <w>ab</w>
               </damage>
               <lb facs="#ST_line_18r_82" n="82" xml:id="ST_lb_018r_82"/>
               <w>hiis</w>
               <w>meis</w>
-              <w>infortuni<damage extent="1char" type="N">o</damage></w>
+              <w>infortuni<damage extent="1char">o</damage></w>
               <w>et</w>
               <w><choice>
                   <abbr>ad<am><g ref="#utildevert"/></am><g ref="#slong"/>itate</abbr>
                   <expan>adv<ex>er</ex>sitate</expan>
                 </choice></w>
-              <damage extent="10char" type="N">
+              <damage extent="10char">
                 <w>me</w>
                 <w>liberare</w>
               </damage>
@@ -23570,12 +23570,12 @@
                   <abbr>q<am><g ref="#etfin"/></am></abbr>
                   <expan>q<ex>ue</ex></expan>
                 </choice></w>
-              <damage extent="4char" type="N">
+              <damage extent="4char">
                 <w>mali</w>
               </damage>
               <w><g ref="#slong"/>ic</w>
               <w><choice>
-                  <abbr><damage extent="2char" type="N">In</damage>frena<am><g ref="#ttilde"/></am></abbr>
+                  <abbr><damage extent="2char">In</damage>frena<am><g ref="#ttilde"/></am></abbr>
                   <expan>infrenat<ex>um</ex></expan>
                 </choice></w>
               <w><choice>
@@ -23590,19 +23590,19 @@
               <w>dignatu<g ref="#slong"/></w>
               <w>fueris</w>
               <w>promitto</w>
-              <w><damage extent="2char" type="N">ti</damage>bi</w>
+              <w><damage extent="2char">ti</damage>bi</w>
               <persName ref="#sanTebaudo">
                 <w><choice>
-                    <abbr>b<damage extent="2char" type="N"><am>t<g ref="#combovl"/>o<g ref="#combovl"
+                    <abbr>b<damage extent="2char"><am>t<g ref="#combovl"/>o<g ref="#combovl"
                       /></am></damage></abbr>
                     <expan>b<ex>ea</ex>to</expan>
                   </choice></w>
                 <w><choice>
-                    <orig><damage extent="2char" type="N">th</damage>ebaudo</orig>
+                    <orig><damage extent="2char">th</damage>ebaudo</orig>
                     <reg>Thebaudo</reg>
                   </choice></w>
               </persName>
-              <damage extent="3char" type="N">
+              <damage extent="3char">
                 <choice>
                   <orig><w><abbr>a<am><g ref="#ntilde"/></am></abbr></w><w><abbr><am><g ref="#qslstroktilde"
                         /></am></abbr></w></orig>
@@ -23613,7 +23613,7 @@
                   <abbr>ul<am><g ref="#ttilde"/></am></abbr>
                   <expan>ult<ex>ra</ex></expan>
                 </choice></w>
-              <damage extent="8char" type="N"><w><choice>
+              <damage extent="8char"><w><choice>
                     <abbr><am><g ref="#ptilde"/></am>tr<am><g ref="#atilde"/><g ref="#slong"/>eam</am></abbr>
                     <expan>p<ex>er</ex>tra<ex>n</ex>seam</expan>
                   </choice></w></damage>
@@ -23627,13 +23627,13 @@
                     <expan>sepulcru<ex>m</ex></expan>
                   </choice></w>
               </placeName>
-              <damage extent="3char" type="N"><w>ubi</w></damage>
+              <damage extent="3char"><w>ubi</w></damage>
               <w><choice>
                   <abbr>tu<am><g ref="#utilde"/></am></abbr>
                   <expan>tuu<ex>m</ex></expan>
                 </choice></w>
               <label n="57"/>
-              <damage extent="12char" type="N">
+              <damage extent="12char">
                 <w>quie<g ref="#slong"/>cit</w>
                 <w><choice>
                     <abbr>corp<am><g ref="#usmod"/></am></abbr>
@@ -23642,7 +23642,7 @@
               </damage>
               <lb facs="#ST_line_18r_83" n="83" xml:id="ST_lb_018r_83"/>
               <w>ob</w>
-              <damage extent="11char" type="N">
+              <damage extent="11char">
                 <w><choice>
                     <abbr>re<am><g ref="#utildevert"/></am>ntia<am><g ref="#etfin"/></am></abbr>
                     <expan>rev<ex>er</ex>entia<ex>m</ex></expan>
@@ -23653,21 +23653,21 @@
                   </choice></w>
               </damage>
               <w>vi<g ref="#slong"/><g ref="#slong"/>itare</w>
-              <damage extent="2char" type="N"><w>ac</w></damage>
+              <damage extent="2char"><w>ac</w></damage>
               <w><choice>
-                  <abbr><damage extent="2char" type="N">ce</damage>re<am><g ref="#utilde"/></am></abbr>
+                  <abbr><damage extent="2char">ce</damage>re<am><g ref="#utilde"/></am></abbr>
                   <expan>cereu<ex>m</ex></expan>
                 </choice></w>
               <w><choice>
-                  <abbr>un<damage extent="1char" type="N"><am><g ref="#utilde"/></am></damage></abbr>
+                  <abbr>un<damage extent="1char"><am><g ref="#utilde"/></am></damage></abbr>
                   <expan>unu<ex>m</ex></expan>
                 </choice></w>
               <w>libre</w>
-              <damage extent="9char" type="N">
+              <damage extent="9char">
                 <w>uniu<g ref="#slong"/></w>
                 <w>dare</w><pc>.</pc></damage>
             </q>
-            <damage extent="2char" type="N"><w><g ref="#Eunc"/>t</w></damage>
+            <damage extent="2char"><w><g ref="#Eunc"/>t</w></damage>
             <w><choice>
                 <abbr><am><g ref="#q2app"/></am></abbr>
                 <expan>q<ex>uia</ex></expan>
@@ -23699,26 +23699,26 @@
                   <expan>b<ex>ea</ex>ti</expan>
                 </choice></w>
               <w><choice>
-                  <orig>theba<damage extent="1char" type="N">u</damage>di</orig>
+                  <orig>theba<damage extent="1char">u</damage>di</orig>
                   <reg>Thebaudi</reg>
                 </choice></w>
             </persName>
-            <damage extent="5char" type="N">
+            <damage extent="5char">
               <w>ad</w>
               <w>cor</w>
             </damage>
-            <w><damage extent="2char" type="N">ei</damage>us</w>
-            <w><damage extent="3char" type="N">re<g ref="#slong"/></damage>pexit</w>
+            <w><damage extent="2char">ei</damage>us</w>
+            <w><damage extent="3char">re<g ref="#slong"/></damage>pexit</w>
             <w>et</w>
             <w><choice>
-                <abbr>peccator<damage extent="1char" type="N"><am><g ref="#etilde"/></am></damage></abbr>
+                <abbr>peccator<damage extent="1char"><am><g ref="#etilde"/></am></damage></abbr>
                 <expan>peccatore<ex>m</ex></expan>
               </choice></w>
             <w><choice>
                 <abbr><am><g ref="#ptilde"/></am>cibus</abbr>
                 <expan>p<ex>re</ex>cibus</expan>
               </choice></w>
-            <damage extent="14char" type="N">
+            <damage extent="14char">
               <w><choice>
                   <abbr><g ref="#slong"/>uplicant<am><g ref="#etilde"/></am></abbr>
                   <expan>suplicante<ex>m</ex></expan>
@@ -23730,19 +23730,19 @@
                 </choice></w>
             </damage>
             <lb facs="#ST_line_18r_84" n="84" xml:id="ST_lb_018r_84"/>
-            <w><damage extent="3char" type="N">inf</damage>ortunio</w>
+            <w><damage extent="3char">inf</damage>ortunio</w>
             <w>et</w>
             <w><choice>
                 <abbr>ad<am><g ref="#utildevert"/></am><g ref="#slong"/>itate</abbr>
                 <expan>adv<ex>er</ex>sitate</expan>
               </choice></w>
-            <damage extent="7char" type="N">
+            <damage extent="7char">
               <w><choice>
                   <abbr>li<am><g ref="#bstrok"/></am>avit</abbr>
                   <expan>lib<ex>er</ex>avit</expan>
                 </choice></w>
             </damage>
-            <damage extent="7char" type="N">
+            <damage extent="7char">
               <w><choice>
                   <abbr><g ref="#Eunc"/>q<am><g ref="#utilde"/></am></abbr>
                   <expan>Eq<ex>uum</ex></expan>
@@ -23757,7 +23757,7 @@
                 <abbr>h<am>u<g ref="#combovl"/>i<g ref="#combovl"/>l<g ref="#combovl"/>i<g ref="#combovl"/></am>a</abbr>
                 <expan>hu<ex>m</ex>ilia</expan>
               </choice></w>
-            <damage extent="11char" type="N">
+            <damage extent="11char">
               <w><choice>
                   <abbr>reduce<g ref="#nrdes"/><am><g ref="#usmod"/></am></abbr>
                   <expan>reducen<ex>s</ex></expan>
@@ -23789,11 +23789,11 @@
                 <abbr>liga<am>m<g ref="#combovl"/>i<g ref="#combovl"/>b<g ref="#combovl"/><g ref="#usbase"/></am></abbr>
                 <expan>ligami<ex>ni</ex>b<ex>us</ex></expan>
               </choice></w>
-            <damage extent="13char" type="N">
+            <damage extent="13char">
               <w>fui<g ref="#slong"/><g ref="#slong"/>et</w>
               <w>ligatu<g ref="#slong"/></w>
             </damage><pc>.</pc>
-            <damage extent="14char" type="N">
+            <damage extent="14char">
               <w>Vi<g ref="#slong"/><g ref="#slong"/>a</w>
               <w><choice>
                   <abbr>ita<am><g ref="#qslstrok"/></am></abbr>
@@ -23813,7 +23813,7 @@
                 <abbr><am><g ref="#ptilde"/></am>cibus</abbr>
                 <expan>p<ex>re</ex>cibus</expan>
               </choice></w>
-            <damage extent="8chat" type="N">
+            <damage extent="8chat">
               <w><choice>
                   <abbr><am><g ref="#et"/></am></abbr>
                   <expan><ex>et</ex></expan>
@@ -23821,9 +23821,9 @@
               <w>meriti<g ref="#slong"/></w>
             </damage>
             <persName ref="#sanTebaudo">
-              <damage extent="5char" type="N"><w>beati</w></damage>
+              <damage extent="5char"><w>beati</w></damage>
               <lb facs="#ST_line_18r_85" n="85" xml:id="ST_lb_018r_85"/>
-              <damage extent="8char" type="N"><w><choice>
+              <damage extent="8char"><w><choice>
                     <orig>thebaudi</orig>
                     <reg>Thebaudi</reg>
                   </choice></w></damage>
@@ -23838,7 +23838,7 @@
                   <reg>Albam</reg>
                 </choice></w>
             </placeName>
-            <damage extent="35char" type="N">
+            <damage extent="35char">
               <w><choice>
                   <orig>aplicuit</orig>
                   <reg>applicuit</reg>
@@ -23894,7 +23894,7 @@
                 <abbr>vot<am><g ref="#utilde"/></am></abbr>
                 <expan>votu<ex>m</ex></expan>
               </choice></w>
-            <damage extent="10char" type="N">
+            <damage extent="10char">
               <choice>
                 <orig><w>ad</w><w>implevit</w></orig>
                 <reg><w>adimplevit</w></reg>
@@ -23919,21 +23919,21 @@
                   <expan>beatu<ex>m</ex></expan>
                 </choice></w>
               <w><choice>
-                  <orig><abbr>thebau<damage extent="2char" type="N">d<am><g ref="#utilde"/></am></damage></abbr></orig>
+                  <orig><abbr>thebau<damage extent="2char">d<am><g ref="#utilde"/></am></damage></abbr></orig>
                   <reg><expan>Thebaudu<ex>m</ex></expan></reg>
                 </choice></w>
             </persName>
-            <damage extent="11char" type="N">
+            <damage extent="11char">
               <w>cui</w>
               <w>refferre</w>
             </damage>
             <lb facs="#ST_line_18r_86" n="86" xml:id="ST_lb_018r_86"/>
-            <damage extent="7char" type="N">
+            <damage extent="7char">
               <w>gratia<g ref="#slong"/></w>
             </damage>
             <w>debita<g ref="#slong"/></w>
             <w>po<g ref="#slong"/><g ref="#slong"/>ibilitas</w>
-            <damage extent="13char" type="N">
+            <damage extent="13char">
               <w>extendi</w>
               <w>po<g ref="#slong"/><g ref="#slong"/>et</w>
             </damage><pc>.</pc>
@@ -23984,7 +23984,7 @@
                 </choice></w>
               <w>Carinianu<g ref="#slong"/></w>
             </persName>
-            <damage extent="1char" type="N"><w><choice>
+            <damage extent="1char"><w><choice>
                   <abbr><am><g ref="#pflour"/></am></abbr>
                   <expan>p<ex>ublicus</ex></expan>
                 </choice></w></damage>
