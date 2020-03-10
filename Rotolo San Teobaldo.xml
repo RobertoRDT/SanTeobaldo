@@ -2568,14 +2568,17 @@
   <text xml:id="ST_global_text" type="prose">
 
     <!-- ############  NOTE VARIE  #############   -->
-    <!-- - i <del> devono avere @rend, non @type   -->
-    <!-- - aggiungere un @place per ogni <add>     -->
-    <!-- - inserire @place per <fw> o per <add>?   -->
-    <!-- - controllare e uniformare tutti i @place -->
-    <!-- - marcatura uniforme per tutte le [ ]     -->
-    <!-- - spostare tutti i marginalia in hotspot? -->
-    <!-- - specificare la mano per <add> moderne con @hand="modern" (o simili)  -->
-    <!-- - marcare i punti dell'edizione con <reg> -->
+    <!-- RAF: come premessa alle risposte che darò alle NOTE VARIE, va messo in evidenza che dobbiamo decidere cosa ci interessa che 
+      sia visualizzabile in EVT 2; nulla va perso, è vero, però magari riempire tag che poi non usiamo non è cosa buona; 
+      riflettiamo su cose come del e add; e per le cose non necessarie rimandiamo a un secondo momento; o no? -->
+    <!-- - i <del> devono avere @rend, non @type; RAF: conviene fare la sostituzione ma solo se decidiamo di tenere i del per visualizzare le cose   -->
+    <!-- - aggiungere un @place per ogni <add>     RAF: vedi sopra, -->
+    <!-- - inserire @place per <fw> o per <add>?   RAF: qui si era detto inizialmente di non farlo, si potrebbe-->
+    <!-- - controllare e uniformare tutti i @place RAF: ok, mi parevano uniformi ma mi sbaglio-->
+    <!-- - marcatura uniforme per tutte le [ ]  RAF: non comprendo   -->
+    <!-- - spostare tutti i marginalia in hotspot? RAF: mi pareva che si fosse inziato a farlo, ma anche qui non so -->
+    <!-- - specificare la mano per <add> moderne con @hand="modern" (o simili)  RAF: questo lo farei, veloce e utile-->
+    <!-- - marcare i punti dell'edizione con <reg> RAF: anche questo potrebbe tornare utile-->
     
     <group>
       
