@@ -1436,7 +1436,9 @@
           <persName ref="#Davide">
             <w>Davide</w>
           </persName>
+          <cit>
           <quote>
+            <bibl>Sal 127, 1b</bibl>
             <w>Se</w>
             <w>il</w>
             <w>Signore</w>
@@ -1449,7 +1451,7 @@
             <w>chi</w>
             <w>la</w>
             <w>custodisce</w>
-          </quote><pc>.</pc>
+          </quote></cit><pc>.</pc>
           <w>E</w>
           <w>quest'</w><w>uomo</w>
           <w>santissimo</w>
@@ -1923,14 +1925,21 @@
           <w>Signore</w>
           <w>è</w>
           <w>questo</w>
+          <cit>
           <quote>
+            <bibl>Lc 14, 11</bibl>
             <w>chi</w>
             <w>si</w>
             <w>umilia</w>
             <w>sarà</w>
             <w>esaltato</w>
+          </quote>
+          </cit> 
             <w>e</w>
             <w>ancora</w>
+          <cit>  
+          <quote>
+            <bibl>Mt 18, 3</bibl>
             <w>chi</w>
             <w>non</w>
             <w>sarà</w>
@@ -1948,6 +1957,7 @@
             <w>regno</w>
             <w>dei</w>
             <w>cieli</w><pc>.</pc></quote>
+            </cit>
           <w>Rivolse</w>
           <w>gli</w>
           <w>occhi</w>
@@ -2129,7 +2139,9 @@
           <w>profeta</w>
           <w>che</w>
           <w>diceva</w>
+          <cit>
           <quote>
+           <bibl>Sal 109(108), 17</bibl> 
             <w>amò</w>
             <w>la</w>
             <w>maledizione</w>
@@ -2149,7 +2161,8 @@
             <w>lui</w>
             <w>lontana</w><pc>.</pc>
           </quote>
-          <w>Il</w>
+          </cit>
+            <w>Il</w>
           <w>santo</w><pc>,</pc>
           <w>pensando</w>
           <w>in</w>
@@ -2355,11 +2368,14 @@
           </persName>
           <w>che</w>
           <w>dice</w>
+          <cit>
           <quote>
+            <bibl>Sal 112(111), 9</bibl>
             <w>distribuì</w>
             <w>ai</w>
             <w>poveri</w>
-          </quote><pc>.</pc>
+          </quote>
+          </cit><pc>.</pc>
         </p>
 
         <p n="5" corresp="SanTeobaldo.xml/#ST_p_05" xml:id="STIT_p_05">
@@ -2720,7 +2736,9 @@
           <w>da</w>
           <w>colui</w>
           <w>che</w>
+          <cit>
           <quote>
+            <bibl>Sal 110(109), 4</bibl>
           <w>è</w>
           <w>sacerdote</w>
           <w>per</w>
@@ -2730,7 +2748,8 @@
           <w>di</w>
           <persName ref="#Melchisedec">
             <w>Melchisedec</w>
-          </persName></quote><pc>.</pc>
+          </persName></quote>
+            </cit><pc>.</pc>
           <w>Offriva</w>
           <w>a</w>
           <w>Dio</w>
@@ -3271,7 +3290,9 @@
           <w>profeta</w>
           <w>che</w>
           <w>dice</w>
+          <cit>
           <quote>
+            <bibl>Sal 18(17), 14</bibl>
             <w>risuonò</w>
             <w>dal</w>
             <w>cielo</w>
@@ -3284,8 +3305,13 @@
             <w>la</w>
             <w>sua</w>
             <w>voce</w>
+          </quote>
+          </cit>
             <w>e</w>
             <w>ancora</w>
+          <cit>
+            <quote>
+              <bibl>Sal 19, 5a</bibl>
             <w>per</w>
             <w>tutta</w>
             <w>la</w>
@@ -3296,6 +3322,7 @@
             <w>sua</w>
             <w>voce</w><pc>.</pc>
           </quote>
+          </cit>
           <w>Con</w>
           <w>le</w>
           <w>offerte</w>
@@ -6815,7 +6842,10 @@
           <w>di</w>
           <w>un</w>
           <w>salmo</w>
-          <quote><w>Io</w>
+          <cit>
+          <quote>
+            <bibl>Sal 88, 16</bibl>
+            <w>Io</w>
             <w>sono</w>
             <w>povero</w>
             <w>e</w>
@@ -6825,7 +6855,8 @@
             <w>dalla</w>
             <w>mia</w>
             <w>gioventù</w><pc>.</pc></quote>
-          <w>Noi</w>
+          </cit>
+            <w>Noi</w>
           <w>vediamo</w>
           <w>per</w>
           <w>esperienza</w>
@@ -6972,7 +7003,9 @@
           <w>della</w>
           <w>perfezione</w>, <w>perché</w>
           <w>povero</w><pc>.</pc>
+          <cit>
           <quote>
+            <bibl>Mt 19, 21</bibl>
             <w>Se</w>
             <w>vuoi</w>
             <w>essere</w>
@@ -6987,13 +7020,19 @@
             <w>e</w>
             <w>dà</w>
             <w>ai</w>
-            <w>poveri</w></quote>
-          <w>Quanto</w>
+            <w>poveri</w>
+          <pc>.</pc>
+          </quote>
+          </cit>
+            <w>Quanto</w>
           <w>all'</w><w>esercizio</w>
           <w>delle</w>
           <w>buone</w>
           <w>opere</w>
-          <quote><w>perché</w>
+          <cit>
+          <quote>
+            <bibl>Sal 6, 6</bibl>
+            <w>perché</w>
             <w>nelle</w>
             <w>fatiche</w>
             <w>ho</w>
@@ -7011,6 +7050,7 @@
             <w>il</w>
             <w>mio</w>
             <w>giaciglio</w><pc>.</pc></quote>
+          </cit>
         </p>
 
         <p n="24" corresp="SanTeobaldo.xml/#ST_p_24" xml:id="STIT_p_24">
@@ -7061,7 +7101,11 @@
           <w>quel</w>
           <w>passo</w>
           <w>del</w>
-          <w>Vangelo</w>: <quote><w>Beati</w>
+          <w>Vangelo</w>: 
+          <cit>
+          <quote>
+           <bibl>Mt 5, 3</bibl> 
+            <w>Beati</w>
             <w>i</w>
             <w>poveri</w>
             <w>in</w>
@@ -7072,7 +7116,9 @@
             <w>il</w>
             <w>regno</w>
             <w>dei</w>
-            <w>cieli</w><pc>.</pc></quote>
+            <w>cieli</w><pc>.</pc>
+          </quote>
+          </cit>  
           <w>E</w>
           <w>perciò</w>
           <w>poteva</w>
@@ -7082,7 +7128,11 @@
           <w>parlando</w>
           <w>di</w>
           <w>se</w>
-          <w>stesso</w>: <quote><w>perdonerà</w>
+          <w>stesso</w>: 
+          <cit>
+          <quote>
+           <bibl>Sal 71, 13</bibl> 
+            <w>perdonerà</w>
             <w>al</w>
             <w>povero</w>
             <w>e</w>
@@ -7094,8 +7144,13 @@
             <w>le</w>
             <w>anime</w>
             <w>dei</w>
-            <w>poveri</w><pc>.</pc></quote>
-          <w>Cristo</w>
+            <w>poveri</w><pc>.</pc>
+          </quote>
+          </cit>
+            <w>Cristo</w>
+          <cit>
+            <quote>
+              <bibl>Sal 108, 31</bibl>
           <w>che</w>
           <w>stette</w>
           <w>alla</w>
@@ -7110,7 +7165,9 @@
           <w>quelli</w>
           <w>che</w>
           <w>la</w>
-          <w>perseguitano</w>, <w>salva</w>
+          <w>perseguitano</w>
+          </quote></cit>,
+            <w>salva</w>
           <w>le</w>
           <w>anime</w><pc>.</pc>
           <w>Il</w>
@@ -7178,7 +7235,7 @@
           <w>Cristo</w>
           <cit>
           <quote>
-          <bibl/>  
+          <bibl>Sap 10, 10</bibl>  
           <w>lo</w>
           <w>allietò</w>
           <w>nelle</w>
@@ -7188,9 +7245,10 @@
           <w>completò</w>
           <w>i</w>
           <w>suoi</w>
-          <w>lavori</w> (<w>Sapienza</w>, <w>capitolo</w>
-          <w>X</w>).</quote>
-          </cit> <w>In</w>
+          <w>lavori</w>
+          </quote>
+          </cit><pc>.</pc>
+          <w>In</w>
           <w>terzo</w>
           <w>luogo</w>
           <w>si</w>
@@ -7251,7 +7309,10 @@
           <w>detto</w>
           <w>del</w>
           <w>salmo</w>
-          <quote><w>la</w>
+          <cit>
+          <quote>
+            <bibl>Sal 103, 5</bibl>
+            <w>la</w>
             <w>mia</w>
             <w>giovinezza</w>
             <w>o</w>
@@ -7262,6 +7323,7 @@
             <w>come</w>
             <w>quella</w>
             <w>dell</w>’<w>aquila</w><pc>.</pc></quote>
+          </cit>
         </p>
         <p n="26" corresp="SanTeobaldo.xml/#ST_p_26" xml:id="STIT_p_26">
           <w>Come</w>, <w>poi</w>, <w>tutte</w>
@@ -7541,7 +7603,11 @@
           <w>fu</w>
           <w>detto</w>
           <w>ad</w>
-          <persName ref="#Abramo"><w>Abramo</w></persName>, <quote><w>esci</w>
+          <persName ref="#Abramo"><w>Abramo</w></persName>, 
+          <cit>
+          <quote>
+          <bibl>Gen 12, 1</bibl>  
+          <w>esci</w>
           <w>dalla</w>
           <w>tua</w>
           <w>terra</w>, <w>e</w>
@@ -7551,7 +7617,7 @@
           <w>dalla</w>
           <w>casa</w>
           <w>del</w>
-          <w>padre</w> </quote>, <w>abbandonando</w>
+          <w>padre</w> </quote></cit>, <w>abbandonando</w>
           <w>il</w>
           <w>luogo</w>
           <w>della</w>
@@ -8103,7 +8169,10 @@
           <w>imparato</w>
           <w>quel</w>
           <w>detto</w>
-          <w>dell</w>’<w>apostolo</w>: <quote>
+          <w>dell</w>’<w>apostolo</w>: 
+          <cit>
+          <quote>
+            <bibl>Rm. 8, 18</bibl>
             <w>Le</w>
             <w>passioni</w>
             <w>di</w>
@@ -8121,6 +8190,7 @@
             <w>in</w>
             <w>noi</w><pc>.</pc>
           </quote>
+          </cit>
         </p>
 
         <p n="36" corresp="SanTeobaldo.xml/#ST_p_36" xml:id="STIT_p_36">
@@ -9946,7 +10016,8 @@
           <w>nella</w>
           <w>misericordia</w>
           <w>di</w>
-          <w>Dio</w>, <w>come</w>
+          <w>Dio</w>, 
+          <w>come</w>
           <persName ref="#GiudaIscariota"><w>Giuda</w>
             <w>Iscariota</w></persName>, <w>che</w>
           <w>diffidando</w>
@@ -9958,7 +10029,7 @@
           <w>appiccò</w>
           <w>a</w>
           <w>un</w>
-          <w>laccio</w><pc>.</pc>
+          <w>laccio</w><pc>.</pc><note>Mt. 27, 5</note>
           <w>Dunque</w>, <w>o</w>
           <w>cittadini</w>
           <w>di</w>
@@ -10016,7 +10087,7 @@
           <w>sangue</w>, <w>per</w>
           <w>la</w>
           <w>sua</w>
-          <w>fede</w><pc>.</pc>
+          <w>fede</w><pc>.</pc><note>Mt. 5, 25-34</note>
         </p>
 
         <p n="68" corresp="SanTeobaldo.xml/#ST_p_68" xml:id="STIT_p_68">
