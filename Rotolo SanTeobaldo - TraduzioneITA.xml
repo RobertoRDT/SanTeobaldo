@@ -2720,6 +2720,7 @@
           <w>da</w>
           <w>colui</w>
           <w>che</w>
+          <quote>
           <w>è</w>
           <w>sacerdote</w>
           <w>per</w>
@@ -2729,7 +2730,7 @@
           <w>di</w>
           <persName ref="#Melchisedec">
             <w>Melchisedec</w>
-          </persName><pc>.</pc>
+          </persName></quote><pc>.</pc>
           <w>Offriva</w>
           <w>a</w>
           <w>Dio</w>
@@ -7175,6 +7176,9 @@
           <w>E</w>
           <w>perciò</w>
           <w>Cristo</w>
+          <cit>
+          <quote>
+          <bibl/>  
           <w>lo</w>
           <w>allietò</w>
           <w>nelle</w>
@@ -7185,7 +7189,8 @@
           <w>i</w>
           <w>suoi</w>
           <w>lavori</w> (<w>Sapienza</w>, <w>capitolo</w>
-          <w>X</w>). <w>In</w>
+          <w>X</w>).</quote>
+          </cit> <w>In</w>
           <w>terzo</w>
           <w>luogo</w>
           <w>si</w>
@@ -7536,7 +7541,7 @@
           <w>fu</w>
           <w>detto</w>
           <w>ad</w>
-          <persName ref="#Abramo"><w>Abramo</w></persName>, <w>esci</w>
+          <persName ref="#Abramo"><w>Abramo</w></persName>, <quote><w>esci</w>
           <w>dalla</w>
           <w>tua</w>
           <w>terra</w>, <w>e</w>
@@ -7546,7 +7551,7 @@
           <w>dalla</w>
           <w>casa</w>
           <w>del</w>
-          <w>padre</w>, <w>abbandonando</w>
+          <w>padre</w> </quote>, <w>abbandonando</w>
           <w>il</w>
           <w>luogo</w>
           <w>della</w>
@@ -9472,10 +9477,11 @@
           <persName ref="#sanTebaudo"><w>san</w>
             <w>Teobaldo</w></persName>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>un</w>
           <w>uomo</w>
           <w>in</w>
-          <w>parasceve</w><pc>.</pc>
+          <w>parasceve</w></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nella</w>
@@ -9491,7 +9497,7 @@
           <w>secondo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
-          <w>in</w>
+          <quote><w>in</w>
           <w>altro</w>
           <w>tempo</w>
           <w>accadde</w>
@@ -9502,7 +9508,7 @@
           <placeName ref="#chiesaSanLorenzo"><w>chiesa</w>
             <w>di</w>
             <w>San</w>
-            <w>Lorenzo</w></placeName><pc>.</pc>
+            <w>Lorenzo</w></placeName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>in</w>
@@ -9518,7 +9524,7 @@
           <w>terzo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
-          <w>in</w>
+          <quote><w>in</w>
           <w>altro</w>
           <w>tempo</w>
           <w>accadde</w>
@@ -9526,7 +9532,7 @@
           <w>in</w>
           <placeName ref="#Besançon"><w>Besançon</w></placeName>
           <w>di</w>
-          <placeName ref="#Borgogna"><w>Borgogna</w></placeName><pc>.</pc>
+          <placeName ref="#Borgogna"><w>Borgogna</w></placeName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>in</w>
@@ -9542,6 +9548,7 @@
           <w>quarto</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>allo</w>
           <w>stesso</w>
           <w>modo</w>
@@ -9551,7 +9558,7 @@
           <w>che</w>
           <w>una</w>
           <w>certa</w>
-          <w>nutrice</w><pc>.</pc>
+          <w>nutrice</w></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9566,10 +9573,10 @@
           <w>quinto</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
-          <w>nel</w>
+          <quote><w>nel</w>
           <w>castello</w>
           <w>di</w>
-          <placeName ref="#Cissone"><w>Cissone</w></placeName><pc>.</pc>
+          <placeName ref="#Cissone"><w>Cissone</w></placeName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9584,9 +9591,10 @@
           <w>sesto</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>in</w>
           <placeName ref="#Castellinaldo"><w>Castellinaldo</w></placeName>
-          <w>accadde</w><pc>.</pc>
+          <w>accadde</w></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9601,6 +9609,7 @@
           <w>settimo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>in</w>
           <w>altro</w>
           <w>tempo</w>
@@ -9611,7 +9620,7 @@
           <w>di</w>
           <w>nome</w>
           <persName ref="#EnricoTagliarino"><w>Enrico</w>
-            <w>Tagliarino</w></persName><pc>.</pc>
+            <w>Tagliarino</w></persName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9625,8 +9634,9 @@
           <w>L'</w><w>ottavo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <persName ref="#GuglielminoGiusiberto"><w>Guglielmo</w>
-            <w>Giusberto</w></persName><pc>.</pc>
+            <w>Giusberto</w></persName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9641,9 +9651,10 @@
           <w>nono</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>l'</w><w>anno</w>
           <w>del</w>
-          <w>Signore</w><date when="1331"><w>1331</w></date><pc>.</pc>
+          <w>Signore</w><date when="1331"><w>1331</w></date></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9658,13 +9669,14 @@
           <w>decimo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>un</w>
           <w>certo</w>
           <persName ref="#GuglielmoVitrola"><w>Guglielmo</w>
             <w>di</w>
             <w>nome</w>
             <w>de</w>
-            <w>Vitrola</w></persName><pc>.</pc>
+            <w>Vitrola</w></persName></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9678,10 +9690,11 @@
           <w>L'</w><w>undicesimo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>l'</w><w>anno</w>
           <w>del</w>
-          <w>signore</w>
-          <date when="1336"><w>1336</w></date><pc>.</pc>
+          <w>Signore</w>
+          <date when="1336"><w>1336</w></date></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9696,13 +9709,14 @@
           <w>dodicesimo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>nel</w>
           <w>nome</w>
           <w>di</w>
           <w>Nostro</w>
           <w>Signore</w>
           <w>Gesù</w>
-          <w>Cristo</w><pc>.</pc>
+          <w>Cristo</w></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
@@ -9717,10 +9731,11 @@
           <w>tredicesimo</w>
           <w>miracolo</w>
           <w>incomincia</w><pc>:</pc>
+          <quote>
           <w>l'</w><w>anno</w>
           <w>del</w>
           <w>Signore</w>
-          <date when="1354"><w>1354</w></date><pc>.</pc>
+          <date when="1354"><w>1354</w></date></quote><pc>.</pc>
           <w>Ed</w>
           <w>è</w>
           <w>nel</w>
