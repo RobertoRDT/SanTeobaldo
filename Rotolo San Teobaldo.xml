@@ -2663,7 +2663,9 @@
               <reg>p<ex>ro</ex>ph<ex>et</ex>ante</reg>
             </choice></w>
           <w>carmin<damage extent="1char">e</damage></w><reg>.</reg>
+          <cit>
           <quote>
+            <bibl>Sal. 127,1b</bibl>
             <w><hi rend="N">N</hi>i<g ref="#slong"/>i</w>
               <w><choice>
                   <abbr>d<am><g ref="#ntilde"/></am>s</abbr>
@@ -2678,7 +2680,8 @@
             <w>cu<g ref="#slong"/>todit</w>
             <w>eam</w><pc>.</pc>
           </quote>
-          <w><hi rend="double">Q</hi>ui</w>
+          </cit>
+            <w><hi rend="double">Q</hi>ui</w>
           <w>quidem</w>
           <w>vir</w>
           <w><choice>
@@ -3500,7 +3503,9 @@
           </persName>
           <w>hoc</w>
           <w>e<g ref="#slong"/>t</w><pc>.</pc>
+          <cit>
           <quote>
+            <bibl>Lc. 14,11</bibl>
             <w>Qui</w>
             <w><g ref="#slong"/>e</w>
             <w><choice>
@@ -3509,8 +3514,12 @@
               </choice></w>
             <w><damage extent="6char">exalta</damage>bitur</w><pc><g ref="#middot"/></pc>
           </quote>
-          <w><g ref="#Eunc"/>t</w>
-          <w>iterum</w><reg>.</reg> <quote>
+          </cit>
+            <w><g ref="#Eunc"/>t</w>
+          <w>iterum</w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Mt. 18,3</bibl>
             <w><hi rend="N">S</hi>i</w>
             <w><choice>
                 <abbr><am><g ref="#qbardes"/></am><g ref="#esh"/></abbr>
@@ -3547,7 +3556,9 @@
                 <abbr>celo<am><g ref="#rum"/></am></abbr>
                 <expan>celo<ex>rum</ex></expan>
               </choice></w>
-          </quote><pc>.</pc>
+          </quote>
+            </cit>
+          <pc>.</pc>
           <w>Inclinavit</w>
           <w><choice>
               <abbr>a<am><g ref="#utilde"/></am>t</abbr>
@@ -3886,7 +3897,10 @@
           <w><choice>
               <abbr>dicent<am><g ref="#etilde"/></am></abbr>
               <expan>dicente<ex>m</ex></expan>
-            </choice></w><reg>.</reg> <quote>
+            </choice></w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Sal 109(108),17</bibl>
             <w>Dil<damage extent="4char">exit</damage></w>
             <lb facs="#ST_line_02r_02" xml:id="ST_lb_02r_02" n="2"/>
             <w><choice>
@@ -3913,6 +3927,7 @@
             <w>ab</w>
             <w>eo</w><pc>.</pc>
           </quote>
+          </cit>
           <w><choice>
             <abbr><damage extent="3char">C<am><g ref="#otilde"/></am><lb facs="#ST_line_02r_03" n="3" xml:id="ST_lb_02r_03_abbr"/><g ref="#slong"/></damage>iderans</abbr>
             <expan>Co<ex>n</ex><lb facs="#ST_line_02r_03" n="3" xml:id="ST_lb_02r_03_expan"/>siderans</expan>
@@ -4260,7 +4275,10 @@
               <abbr><am><g ref="#utildevert"/></am>bum</abbr>
               <expan><ex>ver</ex>bum</expan>
             </choice></w>
-          <w>daviticum</w><reg>.</reg> <quote>
+          <w>daviticum</w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Sal. 112(111),9</bibl>
             <w><choice>
                 <abbr><am><g ref="#qslstrok"/></am></abbr>
                 <expan>q<ex>uod</ex></expan>
@@ -4275,7 +4293,8 @@
             <w><choice>
                 <abbr>pau<am><g ref="#pbardes"/></am>ibus</abbr>
                 <expan>paup<ex>er</ex>ibus</expan>
-              </choice></w><reg>.</reg> </quote><pc>.</pc>
+              </choice></w><reg>.</reg> </quote>
+            </cit><pc>.</pc>
         </p>
 
        
@@ -4898,6 +4917,9 @@
           <w>didicerat</w>
           <w>ab</w>
           <w>ille</w>
+          <cit>
+            <quote>
+              <bibl>Sal. 110(109),4</bibl>
           <w><choice>
               <abbr><am><g ref="#qbardes"/></am></abbr>
               <expan>q<ex>ui</ex></expan>
@@ -4922,6 +4944,8 @@
           <persName ref="#Melchisedec">
             <w><choice><orig>melchisedec</orig><reg>Melchisedec</reg></choice></w>
           </persName><pc><g ref="#middot"/></pc>
+            </quote>
+          </cit>
           <lb facs="#ST_line_02r_45" xml:id="ST_lb_02r_45" n="45"/>
           <w>Offerebat</w>
             <w><choice>
@@ -5837,7 +5861,9 @@
               <expan>p<ex>ro</ex>ph<ex>et</ex>e</expan>
             </choice></w>
           <w>dicentis</w>
+          <cit>
           <quote>
+            <bibl>Sal 18(17),14</bibl>
             <w>Intonuit</w>
             <w>de</w>
             <w>celo</w>
@@ -5854,13 +5880,17 @@
             <w>dedit</w>
             <w>vocem</w>
             <w><g ref="#slong"/>uam</w>
-          </quote><pc>.</pc>
+          </quote>
+            </cit>
+          <pc>.</pc>
           <w><g ref="#Eunc"/>t</w>
           <w><choice>
               <abbr><damage extent="1char">i</damage><am><g ref="#ttildevert"/></am>um</abbr>
               <expan>it<ex>er</ex>um</expan>
             </choice></w><pc><g ref="#middot"/></pc>
+          <cit>
           <quote>
+            <bibl>Sal. 19,5a</bibl>
             <w>In</w>
             <w><choice>
                 <abbr>oe<am><g ref="#mtilde"/></am></abbr>
@@ -5874,7 +5904,8 @@
             <w>eiu<g ref="#esh"/></w>
             <lb facs="#ST_line_03r_40" xml:id="ST_lb_03r_40" n="40"/>
             <w>exivit</w>
-          </quote><pc>.</pc>
+          </quote>
+            </cit><pc>.</pc>
           <w>I<damage extent="5">gitur</damage></w>
           <choice>
             <orig><w><abbr>exoblationib<am><g ref="#etfin"/></am></abbr></w></orig>
@@ -12586,7 +12617,10 @@
             </choice></w>
           <w>dicatur</w>
           <w>illud</w>
-          <w>p<g ref="#slong"/>almi</w><reg>.</reg> <q who="N">
+          <w>p<g ref="#slong"/>almi</w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Sal. 88,16</bibl>
             <w><choice>
                 <orig><hi rend="Cap1.0">P</hi>auper</orig>
                 <reg>Pauper</reg>
@@ -12606,7 +12640,8 @@
                 <w>iuventute</w></reg>
             </choice>
             <w>mea</w><reg>.</reg>
-          </q>
+          </quote>
+          </cit>
           <w><choice>
               <abbr>Videm<am><g ref="#usmod"/></am></abbr>
               <expan>videm<ex>us</ex></expan>
@@ -12933,7 +12968,9 @@
               <abbr>capit<am><g ref="#ltailstrok"/></am>o</abbr>
               <expan>capit<ex>u</ex>lo</expan>
             </choice></w><reg>.</reg>
+          <cit>
           <quote><!-- CHECK -->
+            <bibl>Mt. 19,21</bibl>
             <choice>
               <orig><w>sivis</w></orig>
               <reg><w>Si</w>
@@ -12963,6 +13000,7 @@
                 <expan>paup<ex>er</ex>ib<ex>us</ex></expan>
               </choice></w><pc><g ref="#middot"/></pc>
           </quote>
+          </cit>
           <w>Ad</w>
           <w>exercitium</w>
           <w>bone</w>
@@ -12983,7 +13021,9 @@
               <abbr><am><g ref="#ptilde"/></am>s</abbr>
               <expan>ps<ex>alm</ex></expan>
             </choice></w>
-          <quote><!-- CHECK -->
+          <cit>
+          <quote>
+           <bibl>Sal. 6,6</bibl> <!-- CHECK -->
             <w>laboravi</w>
             <choice>
               <orig><w><abbr><am><g ref="#itilde"/></am>gemi<lb n="11" xml:id="ST_lb_11r_11_orig"/>tu</abbr></w></orig>
@@ -13019,6 +13059,7 @@
               </choice></w>
             <w>rigabo</w><pc>.</pc>
           </quote>
+          </cit>
         </p>
 
         <p n="24" xml:id="ST_p_24">
@@ -13107,7 +13148,10 @@
           <w><choice>
               <abbr>ev<am><g ref="#atilde"/></am>g<am><g ref="#ltailstrok"/></am>ic<am><g ref="#utilde"/></am></abbr>
               <expan>eva<ex>n</ex>g<ex>e</ex>licu<ex>m</ex></expan>
-            </choice></w><reg>.</reg> <quote>
+            </choice></w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Mt. 5,3</bibl>
             <w>Beati</w>
             <w><choice>
                 <abbr>pau<am><g ref="#pbardes"/></am>es</abbr>
@@ -13134,7 +13178,8 @@
                 <abbr>celo<am><g ref="#rum"/></am></abbr>
                 <expan>celo<ex>rum</ex></expan>
               </choice></w>
-          </quote><pc><g ref="#middot"/></pc>
+          </quote>
+           </cit> <pc><g ref="#middot"/></pc>
           <w><g ref="#Eunc"/>t</w>
           <w>ideo</w>
           <w>poterat</w>
@@ -13155,7 +13200,9 @@
               <abbr>i<am><g ref="#ptilde"/></am>o</abbr>
               <expan>ip<ex>s</ex>o</expan>
             </choice></w><reg>.</reg> <lb facs="#ST_line_11r_15" xml:id="ST_lb_11r_15" n="15"/>
+          <cit>
           <quote>
+            <bibl>Sal. 71,13</bibl>
             <w><choice>
                 <orig>parcet</orig>
                 <reg>Parcet</reg>
@@ -13180,7 +13227,8 @@
               </choice></w>
             <w><g ref="#slong"/>alvas</w>
             <w>fatiet</w>
-          </quote><pc>.</pc>
+          </quote>
+           </cit> <pc>.</pc>
           <w><choice>
               <abbr><am><g ref="#ptilde"/></am>s</abbr>
               <expan>ps<ex>alm</ex></expan>
@@ -13200,6 +13248,9 @@
           <w><g ref="#slong"/>alvat</w><pc><g ref="#middot"/></pc>
           <quote>
             <w>Qui</w>
+            <cit>
+              <quote>
+                <bibl>Sal. 108,31</bibl>
             <w>a<g ref="#slong"/>titit</w>
             <choice>
               <orig><abbr><w>adex<am><g ref="#tinodotsup"/></am><g ref="#esh"/></w></abbr></orig>
@@ -13223,6 +13274,8 @@
               <reg><w>a</w>
                 <w>p<ex>er</ex>seque<ex>n</ex>tib<ex>us</ex></w></reg>
             </choice>
+              </quote>
+            </cit>
             <w><choice>
                 <orig><abbr>annim<am><g ref="#atilde"/></am></abbr></orig>
                 <reg><expan>anima<ex>m</ex></expan></reg>
@@ -13366,7 +13419,9 @@
                 <orig><abbr>x<am><g ref="#ptilde"/></am>s</abbr></orig>
                 <reg><expan><ex>Christu</ex>s</expan></reg>
               </choice></w>
+          <cit>
           <quote>
+            <bibl>Sap. 10,10</bibl>
             <w>hone<g ref="#slong"/>tavit</w>
             <w>illum</w>
             <w><choice>
@@ -13385,6 +13440,7 @@
             <w>labores</w>
             <w>illius</w>
           </quote>
+          </cit>
           <pc><g ref="#middot"/></pc>
           <w><g ref="#slong"/>apiens</w>
           <pc><g ref="#middot"/></pc>
@@ -13511,7 +13567,10 @@
           <w><choice>
               <abbr><am><g ref="#pinodotsup"/></am>s</abbr>
               <expan>ps<ex>alm</ex>i</expan>
-            </choice></w><reg>.</reg> <quote>
+            </choice></w><reg>.</reg> 
+          <cit>
+          <quote>
+            <bibl>Sal. 103,5</bibl>
             <w><choice>
                 <abbr>Renovabi<am><g ref="#ttilde"/></am></abbr>
                 <expan>Renovabit<ex>ur</ex></expan>
@@ -13532,6 +13591,7 @@
               </choice></w>
             <w>tua</w><pc>.</pc>
           </quote>
+          </cit>
         </p>
 
         <p n="26" xml:id="ST_p_26"><!-- CHECK -->
@@ -14187,7 +14247,9 @@
               <expan>d<ex>ictu</ex>m</expan>
             </choice></w>
           <w>e<g ref="#slong"/>t</w>
+          <cit>
           <quote>
+            <bibl>Gen. 12,1</bibl>
             <w><choice>
                 <abbr><g ref="#Eunc"/>gred<am><g ref="#emacr"/></am></abbr>
                 <expan>Egrede<ex>re</ex></expan>
@@ -14211,8 +14273,10 @@
             <w><choice>
                 <abbr>pa<am><g ref="#tinodotsup"/></am><g ref="#esh"/></abbr>
                 <expan>pat<ex>r</ex>is</expan>
-              </choice></w><reg>.</reg> </quote>
-          <lb facs="#ST_line_12r_14" xml:id="ST_lb_012_14" n="14"/>
+              </choice></w><reg>.</reg> 
+          </quote>
+          </cit>
+            <lb facs="#ST_line_12r_14" xml:id="ST_lb_012_14" n="14"/>
           <w><g ref="#slong"/>ue</w>
           <w>originis</w>
           <w><choice>
@@ -15487,7 +15551,10 @@
               <abbr>apl<am><g ref="#combhook"/></am>icum</abbr>
               <expan>ap<ex>osto</ex>licum</expan>
             </choice></w>
-          <w><choice>
+          <cit>
+          <quote>
+            <bibl>Rom. 8,18</bibl>
+            <w><choice>
               <abbr>n<am><g ref="#otilde"/></am></abbr>
               <expan>no<ex>n</ex></expan>
             </choice></w>
@@ -15526,7 +15593,10 @@
           <w><choice>
               <abbr>nob<am><g ref="#combhook"/></am></abbr>
               <expan>nob<ex>is</ex></expan>
-            </choice></w><pc>.</pc>
+            </choice></w>
+          </quote>  
+          </cit>
+          <pc>.</pc>
         </p>
 
         <p n="36" xml:id="ST_p_36">
@@ -19119,7 +19189,7 @@
           <w><g ref="#slong"/>e</w>
           <lb facs="#ST_line_18r_07" n="7" xml:id="ST_lb_18r_07"/>
           <w>laqueo</w>
-          <w><g ref="#slong"/>uspendit</w><pc>.</pc>
+          <w><g ref="#slong"/>uspendit</w><pc>.</pc><note>Mt. 27,5</note>
           <w>Igitur</w>
           <w>o</w>
           <w>cive<g ref="#slong"/></w>
@@ -19220,7 +19290,7 @@
           <w><choice>
               <abbr>patient<am><g ref="#etilde"/></am></abbr>
               <expan>patiente<ex>m</ex></expan>
-            </choice></w><pc>.</pc>
+            </choice></w><pc>.</pc><note>Mt. 5,25-34</note>
           <w>propter</w>
           <lb facs="#ST_line_18r_09" n="9" xml:id="ST_lb_18r_09"/>
           <w><choice>
