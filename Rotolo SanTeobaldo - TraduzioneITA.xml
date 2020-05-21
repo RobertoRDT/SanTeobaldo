@@ -1400,7 +1400,7 @@
     <body>
 
 
-        <pb n="1" corresp="SanTeobaldo.xml/#ST_fol_01_r" xml:id="STIT_fol_01_r"/>
+        <pb n="1" corresp="SanTeobaldo.xml/#ST_fol_01r" xml:id="STIT_fol_01r"/>
 
         <p n="1" corresp="SanTeobaldo.xml/#ST_p_01" xml:id="STIT_p_01">
           <w>Nel</w>
@@ -2126,7 +2126,7 @@
           </q>
         </p>
 
-        <pb n="2" corresp="SanTeobaldo.xml/#ST_fol_02_r" xml:id="STIT_fol_02_r"/>
+        <pb n="2" corresp="SanTeobaldo.xml/#ST_fol_02r" xml:id="STIT_fol_02r"/>
 
         <p n="4" corresp="SanTeobaldo.xml/#ST_p_04" xml:id="STIT_p_04">
           <w>E</w>
@@ -2785,7 +2785,7 @@
           <w>della</w>
           <w>natura</w><pc>,</pc>
 
-          <pb n="3" corresp="SanTeobaldo.xml/#ST_fol_03_r" xml:id="STIT_fol_03_r"/>
+          <pb n="3" corresp="SanTeobaldo.xml/#ST_fol_03r" xml:id="STIT_fol_03r"/>
 
           <!-- [<w>morte</w> <w>di</w> <w>San</w> <w>Tebaudo</w>] -->
           <w>la</w>
@@ -3406,7 +3406,7 @@
           <w>egli</w>
           <w>è</w>
           <w>custode</w>
-          <pb n="4" corresp="SanTeobaldo.xml/#ST_fol_04_r" xml:id="STIT_fol_04_r"/>
+          <pb n="4" corresp="SanTeobaldo.xml/#ST_fol_04r" xml:id="STIT_fol_04r"/>
           <w>della</w>
           <w>città</w>
           <w>poiché</w>
@@ -4089,7 +4089,7 @@
           <w>sé</w>
           <w>un</w>
           <w>istrumento</w><pc>,</pc>
-          <pb n="5" corresp="SanTeobaldo.xml/#ST_fol_05_r" xml:id="STIT_fol_05_r"/>
+          <pb n="5" corresp="SanTeobaldo.xml/#ST_fol_05r" xml:id="STIT_fol_05r"/>
           <w>confermato</w>
           <w>da</w>
           <w>sette</w>
@@ -4658,7 +4658,7 @@
           <w>San</w>
           <w>Martino</w>
           <!-- CHECK -->
-          <pb n="6" corresp="SanTeobaldo.xml/#ST_fol_06_r" xml:id="STIT_fol_06_r"/>
+          <pb n="6" corresp="SanTeobaldo.xml/#ST_fol_06r" xml:id="STIT_fol_06r"/>
           <w>ultimo</w>
           <w>scorso</w><pc>,</pc>
           <w>soffriva</w>
@@ -5283,7 +5283,7 @@
             <w>di</w>
             <w>Raffaele</w>
           </persName>
-          <pb n="7" corresp="SanTeobaldo.xml/#ST_fol_07_r" xml:id="STIT_fol_07_r"/>
+          <pb n="7" corresp="SanTeobaldo.xml/#ST_fol_07r" xml:id="STIT_fol_07r"/>
           <w>vicario</w>
           <w>del</w>
           <w>signor</w>
@@ -5691,7 +5691,7 @@
         <!--<w>Parte</w> <w>seconda</w> <w>del</w> <w>Rotolo</w>  -->
 
      
-        <pb n="8" corresp="SanTeobaldo.xml/#ST_fol_08_r" xml:id="STIT_fol_08_r"/>
+        <pb n="8" corresp="SanTeobaldo.xml/#ST_fol_08r" xml:id="STIT_fol_08r"/>
 
         <p n="20" corresp="SanTeobaldo.xml/#ST_p_20" xml:id="STIT_p_20">
           <w>L'</w><w>anno</w>
@@ -6175,7 +6175,7 @@
           <w>tuttavia</w>
           <w>lei</w>
           <w>stessa</w>
-          <pb n="9" corresp="SanTeobaldo.xml/#ST_fol_09_r" xml:id="STIT_fol_09_r"/>
+          <pb n="9" corresp="SanTeobaldo.xml/#ST_fol_09r" xml:id="STIT_fol_09r"/>
           <w>che</w>
           <w>suddetto</w>
           <w>figlio</w>
@@ -6603,7 +6603,7 @@
           <w>con</w>
           <w>le</w>
           <w>mani</w>,
-          <pb n="10" corresp="SanTeobaldo.xml/#ST_fol_10_r" xml:id="STIT_fol_10_r"/>
+          <pb n="10" corresp="SanTeobaldo.xml/#ST_fol_10r" xml:id="STIT_fol_10r"/>
           <w>giurò</w>
           <w>le</w>
           <w>cose</w>
@@ -6828,7 +6828,7 @@
          <body> 
            <!-- <w>Parte</w> <w>terza</w> <w>del</w> <w>Rotulo</w> -->
            
-        <pb n="11" corresp="SanTeobaldo.xml/#ST_fol_11r" xml:id="STIT_fol_11_r"/>
+        <pb n="11" corresp="SanTeobaldo.xml/#ST_fol_11r" xml:id="STIT_fol_11r"/>
 
         <p n="23" corresp="SanTeobaldo.xml/#ST_p_23" xml:id="STIT_p_23">
           <w>Qui</w>
@@ -7345,7 +7345,7 @@
           <w>nel</w>
           <persName ref="#sanTebaudo"><w>beato</w>
             <w>Teobaldo</w></persName>
-          <pb n="12" corresp="SanTeobaldo.xml/#ST_fol_12_r" xml:id="STIT_fol_12_r"/>
+          <pb n="12" corresp="SanTeobaldo.xml/#ST_fol_12r" xml:id="STIT_fol_12r"/>
           <w>si</w>
           <w>siano</w>
           <w>compiute</w>, <w>è</w>
@@ -7786,7 +7786,7 @@
             <w>ora</w>, <w>essendo</w>
             <w>io</w>
             <w>vicino</w>
-            <pb n="13" corresp="SanTeobaldo.xml/#ST_fol_13_r" xml:id="STIT_fol_13_r"/>
+            <pb n="13" corresp="SanTeobaldo.xml/#ST_fol_13r" xml:id="STIT_fol_13r"/>
             <w>alla</w>
             <w>morte</w>, <w>dolcemente</w>
             <w>ti</w>
@@ -8220,7 +8220,7 @@
           <w>e</w>
           <w>i</w>
           <w>deboli</w>,
-          <pb n="14" corresp="SanTeobaldo.xml/#ST_fol_14_r" xml:id="STIT_fol_14_r"/>
+          <pb n="14" corresp="SanTeobaldo.xml/#ST_fol_14r" xml:id="STIT_fol_14r"/>
           <w>visitava</w>
           <w>gli</w>
           <w>infermi</w><pc>;</pc>
@@ -8589,7 +8589,7 @@
             <w>denudato</w>
             <w>sulla</w>
             <w>croce</w><pc>.</pc></q>
-          <pb n="15" corresp="SanTeobaldo.xml/#ST_fol_15_r" xml:id="STIT_fol_15_r"/>
+          <pb n="15" corresp="SanTeobaldo.xml/#ST_fol_15r" xml:id="STIT_fol_15r"/>
           <w>Ma</w>
           <w>la</w>
           <w>donna</w>, <w>non</w>
@@ -9031,7 +9031,7 @@
         </p>
 
 
-        <pb n="16" corresp="SanTeobaldo.xml/#ST_fol_16_r" xml:id="STIT_fol_16_r"/>
+        <pb n="16" corresp="SanTeobaldo.xml/#ST_fol_16r" xml:id="STIT_fol_16r"/>
 
         <p n="43" corresp="SanTeobaldo.xml/#ST_p_43" xml:id="STIT_p_43">
           <w>Ma</w>
@@ -9466,7 +9466,7 @@
 
       
 
-        <pb n="17" corresp="SanTeobaldo.xml/#ST_fol_17_r" xml:id="STIT_fol_17_r"/>
+        <pb n="17" corresp="SanTeobaldo.xml/#ST_fol_17r" xml:id="STIT_fol_17r"/>
 
         <p n="50" corresp="SanTeobaldo.xml/#ST_p_50" xml:id="STIT_p_50">
           <w>Quanto</w>
@@ -9856,7 +9856,7 @@
         <text corresp="SanTeobaldo.xml/#ST_text_05" xml:id="STIT_text_05">
           <body>
            <!-- <w>Parte</w> <w>Quinta</w> <w>del</w> <w>Rotulo</w> --> 
-        <pb n="18" corresp="SanTeobaldo.xml/#ST_fol_18_r" xml:id="STIT_fol_18_r"/>
+        <pb n="18" corresp="SanTeobaldo.xml/#ST_fol_18r" xml:id="STIT_fol_18r"/>
 
         <p n="66" corresp="SanTeobaldo.xml/#ST_p_66" xml:id="STIT_p_66">
           <w>Esulta</w>
