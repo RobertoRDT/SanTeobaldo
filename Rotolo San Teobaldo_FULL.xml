@@ -14,7 +14,7 @@
         <p>Progetto dell'Archivio diocesano di Alba (CN)</p>
       </publicationStmt>
       <sourceDesc>
-        
+
         <msDesc>
 
           <!-- Informazioni sulla collocazione fisica del manoscritto -->
@@ -23,15 +23,15 @@
             <repository>Archivio Diocesano di Alba, fondo del Capitolo della cattedrale, ASCap n. 19</repository>
             <msName>Rotulo di San Teobaldo</msName>
           </msIdentifier>
-          
+
           <!-- Informazioni su autore e lingua -->
           <msContents>
-            <summary>Il <title>Rotulo di San Teobaldo</title> è un manoscritto pergamenaceo palinsesto sul recto, esso riporta due
-              “vite” di San Teobaldo, compatrono della città di Alba, la narrazione di diversi miracoli a lui attribuiti
-              ed infine il racconto del ritrovamento delle sue spoglie.</summary>
+            <summary>Il <title>Rotulo di San Teobaldo</title> è un manoscritto pergamenaceo palinsesto sul recto, esso
+              riporta due “vite” di San Teobaldo, compatrono della città di Alba, la narrazione di diversi miracoli a
+              lui attribuiti ed infine il racconto del ritrovamento delle sue spoglie.</summary>
             <textLang>Latino</textLang>
           </msContents>
-          
+
           <!-- Descrizione fisica del manoscritto.-->
           <physDesc>
             <objectDesc>
@@ -80,11 +80,11 @@
                 altre Vite che furono redatte tra il sei ed il settecento.</p>
             </summary>
           </history>
-          
+
         </msDesc>
-        
+
         <!-- ########## Lista Persone ########## -->
-        
+
         <listPerson>
 
           <!-- ##########
@@ -869,10 +869,10 @@
           </person>
 
         </listPerson>
-        
-        
+
+
         <!-- ########## Lista dei luoghi ########## -->
-        
+
         <listPlace>
 
           <place xml:id="Agliano">
@@ -1098,113 +1098,117 @@
           </place>
 
         </listPlace>
-        
-        
-        <!-- ########## Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)   ########## -->    
+
+
+        <!-- ########## Lista Enti (abbatia, capella, cella, diocesis, ecclesia, hopitalis, monasterium)   ########## -->
 
         <listOrg>
 
           <head>Istituti religiosi e ospedali</head>
 
           <org xml:id="OspedaleSanTebaudo">
-              <settlement type="edificio">ospedale di San Tebaudo</settlement>
-              <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne fuori della porta San Martino.
-                Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di Casanova, 
-                per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII sec. nell’Ospedale di San Lazzaro. Bibliografia: <ref target="#MELLINO_1988"/>
-                <ref target="#AUDENINO_COMBA_2007"/> <ref target="#GATTO_MONTICONE_2005"/> <ref target="#MILANO_1903"/>
-              </note>         
+            <settlement type="edificio">ospedale di San Tebaudo</settlement>
+            <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne
+              fuori della porta San Martino. Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di
+              Casanova, per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII
+              sec. nell’Ospedale di San Lazzaro. Bibliografia: <ref target="#MELLINO_1988"></ref>
+              <ref target="#AUDENINO_COMBA_2007"></ref>
+              <ref target="#GATTO_MONTICONE_2005"></ref>
+              <ref target="#MILANO_1903"></ref>
+            </note>
           </org>
         </listOrg>
-        
+
       </sourceDesc>
     </fileDesc>
-    
+
     <encodingDesc>
       <projectDesc>
-        <p/>
+        <p></p>
       </projectDesc>
       <editorialDecl>
-        <correction status="unknown" method="silent">
-          <p/>
+        <correction method="silent" status="unknown">
+          <p></p>
         </correction>
         <normalization method="silent">
-          <p/>
+          <p></p>
         </normalization>
         <segmentation>
-          <p/>
+          <p></p>
         </segmentation>
         <hyphenation eol="all">
           <p>Physical line breaks are rigidly observed.</p>
         </hyphenation>
       </editorialDecl>
-      
+
       <charDecl>
-        
+
         <!-- ######################################################################## -->
         <!-- NB: è INDISPENSABILE usare il font Junicode per visualizzare i caratteri -->
         <!-- ######################################################################## -->
 
         <char xml:id="xxx">
           <charName></charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </char>
-        
+
         <!-- regular letters -->
-        
+
         <char xml:id="ucap">
           <charName>LATIN CAPITAL LETTER U</charName>
           <mapping type="codepoint">U+0055</mapping>
           <mapping type="diplomatic">U</mapping>
           <mapping type="normalized">U</mapping>
         </char>
-        
+
         <char xml:id="vcap">
           <charName>LATIN CAPITAL LETTER V</charName>
           <mapping type="codepoint">U+0056</mapping>
           <mapping type="diplomatic">V</mapping>
           <mapping type="normalized">V</mapping>
         </char>
-        
+
         <char xml:id="u">
           <charName>LATIN SMALL LETTER U</charName>
           <mapping type="codepoint">U+0075</mapping>
           <mapping type="diplomatic">u</mapping>
           <mapping type="normalized">u</mapping>
         </char>
-        
+
         <char xml:id="v">
           <charName>LATIN SMALL LETTER V</charName>
           <mapping type="codepoint">U+0076</mapping>
           <mapping type="diplomatic">v</mapping>
           <mapping type="normalized">v</mapping>
         </char>
-        
+
         <char xml:id="esh">
           <charName>LATIN SMALL LETTER ESH</charName>
           <mapping type="codepoint">U+0283</mapping>
           <mapping type="diplomatic">ʃ</mapping>
           <mapping type="normalized">s</mapping>
-        </char>       <!-- QUESTO O sins; per il carattere di folio 1, riga 7 al fondo -->
-        
+        </char>
+        <!-- QUESTO O sins; per il carattere di folio 1, riga 7 al fondo -->
+
         <char xml:id="slong">
           <charName>LATIN SMALL LETTER LONG S</charName>
           <mapping type="codepoint">U+017F</mapping>
           <mapping type="diplomatic">ſ</mapping>
           <mapping type="normalized">s</mapping>
         </char>
-        
-        
+
+
         <char xml:id="romnumsix">
           <charName>ROMAN NUMERAL SIX LATE FORM</charName>
           <mapping subtype="MUFI-PUA" type="codepoint">U+EEFD</mapping>
           <mapping type="diplomatic">ↅ</mapping>
           <mapping type="normalized">VI</mapping>
         </char>
-        
+
         <!-- variant forms -->
-        
+
         <char xml:id="amacr">
           <charName>LATIN SMALL LETTER A WITH MACRON</charName>
           <mapping type="codepoint">U+0101</mapping>
@@ -1241,98 +1245,98 @@
           <mapping type="diplomatic">ȳ</mapping>
           <mapping type="normalized">y</mapping>
         </char>
-        
+
         <char xml:id="atilde">
           <charName>LATIN SMALL LETTER A WITH TILDE</charName>
           <mapping type="codepoint">U+00E3</mapping>
           <mapping type="diplomatic">ã</mapping>
           <mapping type="normalized">a</mapping>
         </char>
-       
+
         <char xml:id="otilde">
           <charName>LATIN SMALL LETTER O WITH TILDE</charName>
           <mapping type="codepoint">U+00F5</mapping>
           <mapping type="diplomatic">õ</mapping>
           <mapping type="normalized">o</mapping>
         </char>
-        
+
         <char xml:id="utilde">
           <charName>LATIN SMALL LETTER U WITH TILDE</charName>
           <mapping type="codepoint">U+0169</mapping>
           <mapping type="diplomatic">ũ</mapping>
           <mapping type="normalized">u</mapping>
         </char>
-        
+
         <char xml:id="uosup">
           <charName>LATIN SMALL LETTER U WITH LATIN SMALL LETTER O ABOVE</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+E72D</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+E72D</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">u</mapping>
         </char>
-        
+
         <char xml:id="bstrok">
           <charName>LATIN SMALL LETTER B WITH STROKE</charName>
           <mapping type="codepoint">U+0180</mapping>
           <mapping type="diplomatic">ƀ</mapping>
           <mapping type="normalized">b</mapping>
         </char>
-        
+
         <char xml:id="cdot">
           <charName>LATIN SMALL LETTER C WITH DOT ABOVE</charName>
           <mapping type="codepoint">U+010B</mapping>
           <mapping type="diplomatic">ċ</mapping>
           <mapping type="normalized">c</mapping>
         </char>
-        
+
         <char xml:id="cdotbl">
           <charName>LATIN SMALL LETTER C WITH DOT BELOW</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+E466</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+E466</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">c</mapping>
         </char>
-        
+
         <char xml:id="gdot">
-         <charName>LATIN SMALL LETTER G WITH DOT ABOVE</charName>
+          <charName>LATIN SMALL LETTER G WITH DOT ABOVE</charName>
           <mapping type="codepoint">U+0121</mapping>
           <mapping type="diplomatic">ġ</mapping>
           <mapping type="normalized">g</mapping>
         </char>
-        
+
         <char xml:id="hrdes">
           <charName>LATIN SMALL LETTER H WITH RIGHT DESCENDER</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+F23A</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+F23A</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">h</mapping>
         </char>
-        
+
         <char xml:id="ntilde">
           <charName>LATIN SMALL LETTER N WITH TILDE</charName>
           <mapping type="codepoint">U+00F1</mapping>
           <mapping type="diplomatic">ñ</mapping>
           <mapping type="normalized">n</mapping>
         </char>
-        
+
         <char xml:id="lbar">
           <charName>LATIN SMALL LETTER L WITH BAR</charName>
           <mapping type="codepoint">U+019A</mapping>
           <mapping type="diplomatic">ƚ</mapping>
           <mapping type="normalized">l</mapping>
         </char>
-        
+
         <char xml:id="lstrok">
           <charName>LATIN SMALL LETTER L WITH STROKE</charName>
           <mapping type="codepoint">U+0142</mapping>
           <mapping type="diplomatic">ł</mapping>
           <mapping type="normalized">l</mapping>
         </char>
-        
+
         <char xml:id="ltailstrok">
           <charName>LATIN SMALL LETTER LUM</charName>
           <mapping type="codepoint">U+A772</mapping>
           <mapping type="diplomatic">ꝲ</mapping>
           <mapping type="normalized">l</mapping>
         </char>
-        
+
         <char xml:id="pbardes">
           <charName>LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER</charName>
           <mapping type="codepoint">U+A751</mapping>
@@ -1346,451 +1350,456 @@
           <mapping type="diplomatic">ꝓ</mapping>
           <mapping type="normalized">p</mapping>
         </char>
-        
+
         <char xml:id="q2app">
           <charName>LATIN SMALL LETTER Q WITH LIGATED WITH R ROTUNDA</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+E8B3</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+E8B3</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">q</mapping>
         </char>
-        
+
         <char xml:id="qbardes">
           <charName>LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER</charName>
           <mapping type="codepoint">U+A757</mapping>
           <mapping type="diplomatic">ꝗ</mapping>
           <mapping type="normalized">q</mapping>
         </char>
-        
+
         <char xml:id="qslstrok">
           <charName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE</charName>
           <mapping type="codepoint">U+A759</mapping>
           <mapping type="diplomatic">ꝙ</mapping>
           <mapping type="normalized">q</mapping>
         </char>
-        
+
         <char xml:id="qslstroktilde">
           <charName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE AND TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+A759 + U+0303</mapping>
-          <mapping type="diplomatic">ꝙ̃</mapping>   
+          <mapping subtype="composed" type="codepoint">U+A759 + U+0303</mapping>
+          <mapping type="diplomatic">ꝙ̃</mapping>
         </char>
-        
+
         <char xml:id="slongbarslash">
           <charName>LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE</charName>
           <mapping type="codepoint">U+1E9C</mapping>
           <mapping type="diplomatic">ẜ</mapping>
           <mapping type="normalized">s</mapping>
         </char>
-        
+
         <!-- LIGATURES -->
-        
+
         <char xml:id="ijlig">
           <charName>LATIN SMALL LIGATURE IJ</charName>
           <mapping subtype="MUFI-PUA" type="ligature">U+0132</mapping>
           <mapping type="normalized">ij</mapping>
         </char>
-        
+
         <glyph xml:id="ppflourlig">
           <glyphName>LATIN SMALL LIGATURE PP WITH FLOURISH</glyphName>
           <mapping subtype="MUFI-PUA" type="ligature">U+EED7</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">pro</mapping>
         </glyph>
-        
+
         <char xml:id="q3app">
           <charName>LATIN SMALL LETTER Q LIGATED WITH FINAL ET</charName>
           <mapping subtype="MUFI-PUA" type="ligature">U+E8BF</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">q</mapping>
         </char>
-        
+
         <glyph xml:id="uslig">
           <glyphName>LATIN SMALL LIGATURE US</glyphName>
-          <mapping type="ligature" subtype="composed">U+0075 + U+017F</mapping>
+          <mapping subtype="composed" type="ligature">U+0075 + U+017F</mapping>
           <mapping type="diplomatic">us</mapping>
           <mapping type="normalized">us</mapping>
         </glyph>
-        
+
         <!-- ABBREVIATIONS -->
-        
-<!--
+
+        <!--
         <char xml:id="amp">
           <charName>AMPERSAND</charName>
           <mapping type="codepoint">U+0026</mapping>
           <mapping type="diplomatic"></mapping>
         </char>
 -->
-        
+
         <char xml:id="asup">
-         <charName>COMBINING LATIN SMALL LETTER A</charName>
+          <charName>COMBINING LATIN SMALL LETTER A</charName>
           <mapping type="codepoint">U+0363</mapping>
           <mapping type="diplomatic">ͣ</mapping>
         </char>
-        
+
         <char xml:id="condes">
           <charName>LATIN SMALL LETTER CON</charName>
           <mapping type="codepoint">U+A76F</mapping>
           <mapping type="diplomatic">ꝯ</mapping>
         </char>
-       
-       <char xml:id="combhook">
-         <charName>COMBINING HOOK ABOVE</charName>
-         <mapping type="codepoint">U+0309</mapping>
-         <mapping type="diplomatic">̉</mapping>
-       </char>
-       
+
+        <char xml:id="combhook">
+          <charName>COMBINING HOOK ABOVE</charName>
+          <mapping type="codepoint">U+0309</mapping>
+          <mapping type="diplomatic">̉</mapping>
+        </char>
+
         <char xml:id="ercurl">
           <charName>COMBINING ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">F1C8</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">F1C8</mapping>
           <mapping type="diplomatic">◌</mapping>
-        </char>                     <!-- NB: fatto per semplificare i caratteri #ercurl; Se lo si sostituiamo con &combhook; va meglio ancora -->
-        
+        </char>
+        <!-- NB: fatto per semplificare i caratteri #ercurl; Se lo si sostituiamo con &combhook; va meglio ancora -->
+
         <char xml:id="et">
           <charName>LATIN ABBREVIATION SIGN SMALL ET</charName>
           <mapping type="codepoint">U+204A</mapping>
           <mapping type="diplomatic">⁊</mapping>
         </char>
-        
+
         <char xml:id="etfin">
           <charName>LATIN SMALL LETTER ET</charName>
           <mapping type="codepoint">U+A76B</mapping>
           <mapping type="diplomatic">ꝫ</mapping>
         </char>
-        
+
         <char xml:id="rrotsup">
           <charName>COMBINING LATIN SMALL LETTER R ROTUNDA</charName>
           <mapping type="codepoint">U+1DE3</mapping>
-          <mapping type="diplomatic">ᷣ</mapping>      
+          <mapping type="diplomatic">ᷣ</mapping>
         </char>
-        
+
         <char xml:id="rum">
           <charName>LATIN SMALL LETTER RUM ROTUNDA</charName>
           <mapping type="codepoint">U+A75D</mapping>
           <mapping type="diplomatic">ꝝ</mapping>
         </char>
-        
+
         <char xml:id="usbase">
           <charName>LATIN ABBREVIATION SIGN SPACING BASE-LINE US</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">F1A6</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">F1A6</mapping>
           <mapping type="diplomatic"></mapping>
         </char>
-        
+
         <char xml:id="usmod">
           <charName>MODIFIER LETTER US</charName>
           <mapping type="codepoint">U+A770</mapping>
           <mapping type="diplomatic">ꝰ</mapping>
-          <!--<mapping type="normalized">:</mapping>-->   <!-- ####CHECK### -->
+          <!--<mapping type="normalized">:</mapping>-->
+          <!-- ####CHECK### -->
         </char>
-        
+
         <!-- COMPOSED CHARACTERS NOT IN MUFI -->
-       
+
         <char xml:id="ctilde">
           <charName>LATIN SMALL LETTER C WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0065 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0065 + U+0303</mapping>
           <mapping type="diplomatic">c̃</mapping>
           <mapping type="normalized">c</mapping>
         </char>
-       
-       <char xml:id="gtilde">
-         <charName>LATIN SMALL LETTER G WITH TILDE</charName>
-         <mapping type="codepoint" subtype="composed">U+0067 + U+0303</mapping>
-         <mapping type="diplomatic">g̃</mapping>
-         <mapping type="normalized">g</mapping>
-       </char>
-       
+
+        <char xml:id="gtilde">
+          <charName>LATIN SMALL LETTER G WITH TILDE</charName>
+          <mapping subtype="composed" type="codepoint">U+0067 + U+0303</mapping>
+          <mapping type="diplomatic">g̃</mapping>
+          <mapping type="normalized">g</mapping>
+        </char>
+
         <char xml:id="etilde">
           <charName>LATIN SMALL LETTER E WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0065 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0065 + U+0303</mapping>
           <mapping type="diplomatic">ẽ</mapping>
           <mapping type="normalized">e</mapping>
         </char>
-        
+
         <char xml:id="itilde">
           <charName>LATIN SMALL LETTER I WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0069 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0069 + U+0303</mapping>
           <mapping type="diplomatic">ĩ</mapping>
           <mapping type="normalized">i</mapping>
         </char>
- 
+
         <char xml:id="mtilde">
           <charName>LATIN SMALL LETTER M WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+006D + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+006D + U+0303</mapping>
           <mapping type="diplomatic">m̃</mapping>
           <mapping type="normalized">m</mapping>
         </char>
- 
+
         <char xml:id="ptilde">
           <charName>LATIN SMALL LETTER P WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0070 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0070 + U+0303</mapping>
           <mapping type="diplomatic">p̃</mapping>
           <mapping type="normalized">p</mapping>
         </char>
-        
+
         <char xml:id="qtilde">
           <charName>LATIN SMALL LETTER Q WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0071 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0071 + U+0303</mapping>
           <mapping type="diplomatic">q̃</mapping>
           <mapping type="normalized">q</mapping>
         </char>
- 
+
         <char xml:id="rtilde">
           <charName>LATIN SMALL LETTER R WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0072 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0072 + U+0303</mapping>
           <mapping type="diplomatic">r̃</mapping>
           <mapping type="normalized">r</mapping>
         </char>
-        
+
         <char xml:id="stilde">
           <charName>LATIN SMALL LETTER S WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0073 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0073 + U+0303</mapping>
           <mapping type="diplomatic">s̃</mapping>
           <mapping type="normalized">s</mapping>
         </char>
-        
+
         <char xml:id="ttilde">
           <charName>LATIN SMALL LETTER T WITH TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0074 + U+0303</mapping>
+          <mapping subtype="composed" type="codepoint">U+0074 + U+0303</mapping>
           <mapping type="diplomatic">t̃</mapping>
           <mapping type="normalized">t</mapping>
         </char>
-       
-       <char xml:id="gtildevert">
-         <charName>LATIN SMALL LETTER G WITH VERTICAL TILDE</charName>
-         <mapping type="codepoint" subtype="composed">U+0067 + U+033E</mapping>
-         <mapping type="diplomatic">g̾</mapping>
-         <mapping type="normalized">g</mapping>
-       </char>
-       
+
+        <char xml:id="gtildevert">
+          <charName>LATIN SMALL LETTER G WITH VERTICAL TILDE</charName>
+          <mapping subtype="composed" type="codepoint">U+0067 + U+033E</mapping>
+          <mapping type="diplomatic">g̾</mapping>
+          <mapping type="normalized">g</mapping>
+        </char>
+
         <char xml:id="otildevert">
           <charName>LATIN SMALL LETTER O WITH VERTICAL TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+006F + U+033E</mapping>
+          <mapping subtype="composed" type="codepoint">U+006F + U+033E</mapping>
           <mapping type="diplomatic">o̾</mapping>
           <mapping type="normalized">o</mapping>
         </char>
-        
+
         <char xml:id="ptildevert">
           <charName>LATIN SMALL LETTER P WITH VERTICAL TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0070 + U+033E</mapping>
+          <mapping subtype="composed" type="codepoint">U+0070 + U+033E</mapping>
           <mapping type="diplomatic">p̾</mapping>
           <mapping type="normalized">p</mapping>
         </char>
-        
+
         <char xml:id="utildevert">
           <charName>LATIN SMALL LETTER U WITH VERTICAL TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0075 + U+033E</mapping>
+          <mapping subtype="composed" type="codepoint">U+0075 + U+033E</mapping>
           <mapping type="diplomatic">u̾</mapping>
           <mapping type="normalized">u</mapping>
         </char>
-        
-        <char xml:id="bercurl"><!-- CHECK potrebbe essere semplicmente combcurl; nel caso si cambia il nome -->
+
+        <char xml:id="bercurl">
+          <!-- CHECK potrebbe essere semplicmente combcurl; nel caso si cambia il nome -->
           <charName>LATIN SMALL LETTER B WITH ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</charName>
-          <mapping type="codepoint" subtype="composed">U+0062 + U+F1C8</mapping>
+          <mapping subtype="composed" type="codepoint">U+0062 + U+F1C8</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">b</mapping>
         </char>
-        
+
         <char xml:id="drotercurl">
           <charName>LATIN SMALL LETTER INSULAR D WITH ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</charName>
-          <mapping type="codepoint" subtype="composed">U+A77A + U+F1C8</mapping>
+          <mapping subtype="composed" type="codepoint">U+A77A + U+F1C8</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">d</mapping>
         </char>
-        
-        <char xml:id="hercurl"><!-- CHECK -->
+
+        <char xml:id="hercurl">
+          <!-- CHECK -->
           <charName>LATIN SMALL LETTER H WITH ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</charName>
-          <mapping type="codepoint" subtype="composed">U+0068 + U+F1C8</mapping>
+          <mapping subtype="composed" type="codepoint">U+0068 + U+F1C8</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">h</mapping>
         </char>
- 
+
         <char xml:id="Eunc">
           <charName>LATIN CAPITAL LETTER E UNCIAL FORM</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+F10A</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+F10A</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">E</mapping>
         </char>
-        
+
         <char xml:id="Muncdes">
           <charName>LATIN MEDIUSCULE METTER M UNCIAL FORM WITH RIGHT DESCENDER</charName>
-        <mapping type="codepoint">U+F224</mapping>
+          <mapping type="codepoint">U+F224</mapping>
           <mapping type="diplomatic"></mapping>
         </char>
-        
+
         <char xml:id="muncdes">
           <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGH DESCENDER</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+F23D</mapping>
+          <mapping subtype="MUFI-PUA" type="codepoint">U+F23D</mapping>
           <mapping type="diplomatic">&#62013;</mapping>
           <mapping type="normalized">m</mapping>
         </char>
-        
+
         <char xml:id="Muncdesosup">
           <charName>LATIN MEDIUSCULE LETTER M UNCIAL FORM WITH RIGH DESCENDER AND RING ABOVE</charName>
-          <mapping type="codepoint" subtype="composed">U+F224 + U+02DA</mapping>
+          <mapping subtype="composed" type="codepoint">U+F224 + U+02DA</mapping>
           <mapping type="diplomatic">˚</mapping>
           <mapping type="normalized">M</mapping>
         </char>
-        
+
         <char xml:id="muncdesosup">
           <charName>LATIN SMALL LETTER M UNCIAL FORM WITH RIGHT DESCENDER AND RING ABOVE</charName>
-        <mapping type="codepoint" subtype="composed">U+F23D + U+02DA</mapping>
+          <mapping subtype="composed" type="codepoint">U+F23D + U+02DA</mapping>
           <mapping type="diplomatic">&#62013;&#730;</mapping>
         </char>
-        
+
         <char xml:id="mring">
           <charName>LATIN SMALL LETTER M WITH RING ABOVE</charName>
-          <mapping type="codepoint" subtype="composed">U+006D + U+02DA</mapping>
+          <mapping subtype="composed" type="codepoint">U+006D + U+02DA</mapping>
           <mapping type="diplomatic">m˚</mapping>
           <mapping type="normalized">m</mapping>
         </char>
-        
+
         <char xml:id="nrdes">
           <charName>LATIN SMALL LETTER N WITH RIGHT DESCENDER</charName>
-          <mapping type="codepoint" subtype="MUFI-PUA">U+F228</mapping>
-          <mapping type="diplomatic"></mapping><!-- non sembra ma c'è -->
+          <mapping subtype="MUFI-PUA" type="codepoint">U+F228</mapping>
+          <mapping type="diplomatic"></mapping>
+          <!-- non sembra ma c'è -->
           <mapping type="normalized">n</mapping>
         </char>
-        
+
         <char xml:id="inodotsup">
           <charName>COMBINING LATIN SMALL LETTER DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+F02F</mapping>
           <mapping type="diplomatic">&#61487;</mapping>
         </char>
-        
+
         <char xml:id="cinodotsup">
           <charName>LATIN SMALL LETTER C WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0063 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0063 + U+F02F</mapping>
           <mapping type="diplomatic">c</mapping>
           <mapping type="normalized">c</mapping>
         </char>
-        
+
         <char xml:id="ginodotsup">
           <charName>LATIN SMALL LETTER G WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0067 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0067 + U+F02F</mapping>
           <mapping type="diplomatic">g</mapping>
           <mapping type="normalized">g</mapping>
         </char>
-        
+
         <char xml:id="ninodotsup">
           <charName>LATIN SMALL LETTER N WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+006E + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+006E + U+F02F</mapping>
           <mapping type="diplomatic">n</mapping>
           <mapping type="normalized">n</mapping>
         </char>
-        
+
         <char xml:id="minodotsup">
           <charName>LATIN SMALL LETTER M WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+006D + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+006D + U+F02F</mapping>
           <mapping type="diplomatic">m</mapping>
           <mapping type="normalized">m</mapping>
         </char>
-        
+
         <char xml:id="pinodotsup">
           <charName>LATIN SMALL LETTER P WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0070 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0070 + U+F02F</mapping>
           <mapping type="diplomatic">p</mapping>
           <mapping type="normalized">p</mapping>
         </char>
-        
+
         <char xml:id="sinodotsup">
-          <charName>LATIN SMALL LETTER S WITH VERTICAL DOTLESS I</charName>   
-          <mapping type="codepoint" subtype="composed">U+0073 + U+F02F</mapping>
+          <charName>LATIN SMALL LETTER S WITH VERTICAL DOTLESS I</charName>
+          <mapping subtype="composed" type="codepoint">U+0073 + U+F02F</mapping>
           <mapping type="diplomatic">s</mapping>
           <mapping type="normalized">s</mapping>
         </char>
-        
+
         <char xml:id="qinodotsup">
           <charName>LATIN SMALL LETTER Q WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0071 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0071 + U+F02F</mapping>
           <mapping type="diplomatic">q</mapping>
           <mapping type="normalized">q</mapping>
         </char>
-       
+
         <char xml:id="tinodotsup">
           <charName>LATIN SMALL LETTER T WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0074 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0074 + U+F02F</mapping>
           <mapping type="diplomatic">t</mapping>
           <mapping type="normalized">t</mapping>
         </char>
-        
+
         <char xml:id="ptsup">
           <charName>LATIN SMALL LETTER P WITH LATIN SMALL LETTER T ABOVE</charName>
-          <mapping type="codepoint" subtype="composed">U+0069 + U+036D</mapping>
+          <mapping subtype="composed" type="codepoint">U+0069 + U+036D</mapping>
           <mapping type="diplomatic">pͭ</mapping>
         </char>
-        
+
         <char xml:id="ttildevert">
           <charName>LATIN SMALL LETTER T WITH VERTICAL TILDE</charName>
-          <mapping type="codepoint" subtype="composed">U+0074 + U+033E</mapping>
+          <mapping subtype="composed" type="codepoint">U+0074 + U+033E</mapping>
           <mapping type="diplomatic">t̾</mapping>
           <mapping type="normalized">t</mapping>
         </char>
-        
+
         <char xml:id="uinodotsup">
           <charName>LATIN SMALL LETTER U WITH VERTICAL DOTLESS I</charName>
-          <mapping type="codepoint" subtype="composed">U+0075 + U+F02F</mapping>
+          <mapping subtype="composed" type="codepoint">U+0075 + U+F02F</mapping>
           <mapping type="diplomatic">u</mapping>
           <mapping type="normalized">u</mapping>
         </char>
-        
+
         <!-- PUNCTUATION -->
-        
+
         <char xml:id="dblsol">
           <charName>PUNCTUATION MARK DOUBLE SOLIDUS</charName>
           <mapping type="codepoint">2AFD</mapping>
           <mapping type="diplomatic">⫽</mapping>
         </char>
-        
+
         <char xml:id="ductsimpl">
           <charName>HIGH COMMA POSITURA (SIMPLEX DUCTUS)</charName>
           <mapping type="codepoint">U+F1E3</mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">:</mapping>
         </char>
-        
+
         <char xml:id="colmidcomposit">
           <charName>COLON WITH MIDDLE COMMA POSITURA</charName>
           <mapping subtype="MUFI-PUA" type="codepoint">U+F1E5</mapping>
           <mapping type="diplomatic"></mapping>
           <!--<mapping type="normalized"></mapping>-->
         </char>
-        
+
         <char xml:id="middot">
           <charName>MIDDLE DOT</charName>
           <mapping type="codepoint">U+00B7</mapping>
           <mapping type="diplomatic">·</mapping>
           <!--<mapping type="normalized"></mapping>-->
         </char>
-        
+
         <char xml:id="hidot">
           <charName>DISTINCTIO</charName>
           <mapping subtype="MUFI-PUA" type="codepoint">U+F1F8</mapping>
           <mapping type="diplomatic"></mapping>
           <!--<mapping type="normalized"></mapping>-->
         </char>
-        
+
         <char xml:id="logand">
           <charName>ADDENDA</charName>
           <mapping type="codepoint">U+2227</mapping>
           <mapping type="diplomatic">∧</mapping>
         </char>
-        
+
         <char xml:id="combovl">
-         <charName>COMBINING OVERLINE</charName>
+          <charName>COMBINING OVERLINE</charName>
           <mapping type="diplomatic">̅</mapping>
         </char>
-        
+
       </charDecl>
     </encodingDesc>
-    
+
     <profileDesc>
       <langUsage>
         <language ident="lat">Latin</language>
       </langUsage>
     </profileDesc>
-    
+
     <revisionDesc status="draft">
-      <change when="2014-08" who="RRDT" status="draft">First TEI encoding.</change>
+      <change status="draft" when="2014-08" who="RRDT">First TEI encoding.</change>
     </revisionDesc>
-    
+
   </teiHeader>
     
   <facsimile>
@@ -2485,7 +2494,7 @@
 
       <div n="Vita e miracoli di San Teobaldo" type="prose" xml:id="ST_text_transIT">
 
-        <div n="1" type="section">
+        <div n="1" type="section" corresp="#ST_text_01" xml:id="STIT_sect_01">
 
           <pb corresp="#ST_fol_01r" n="1" xml:id="STIT_fol_01r"/>
 
@@ -6772,7 +6781,7 @@
 
         <!--<w>Parte</w> <w>seconda</w> <w>del</w> <w>Rotolo</w>  -->
 
-        <div n="2" type="section">
+        <div n="2" type="section" corresp="#ST_text_02" xml:id="STIT_sect_02">
 
           <pb corresp="#ST_fol_08r" n="8" xml:id="STIT_fol_08r"/>
 
@@ -7901,6 +7910,10 @@
               <w>Teobaldo</w></persName>
             <w>predetto</w><pc>.</pc>
           </p>
+          
+        </div>
+        
+        <div n="3" type="section" corresp="#ST_text_03" xml:id="STIT_sect_03">
 
           <pb corresp="#ST_fol_11r" n="11" xml:id="STIT_fol_11r"/>
 
@@ -8290,6 +8303,7 @@
             <w>imitare</w>
             <w>Cristo</w><pc>.</pc>
           </p>
+
           <p corresp="#ST_p_25" n="25" xml:id="STIT_p_25">
             <w>A</w>
             <w>noi</w>
@@ -8410,6 +8424,7 @@
                 <w>dell</w>’<w>aquila</w><pc>.</pc></quote>
             </cit>
           </p>
+
           <p corresp="#ST_p_26" n="26" xml:id="STIT_p_26">
             <w>Come</w>, <w>poi</w>, <w>tutte</w>
             <w>queste</w>
@@ -8788,7 +8803,6 @@
             <w>nel</w>
             <w>corpo</w><pc>.</pc>
           </p>
-
 
           <p corresp="#ST_p_32" n="32" xml:id="STIT_p_32">
             <w>Accadde</w>
@@ -10101,7 +10115,6 @@
               <w>Teobaldo</w></persName><pc>.</pc>
           </p>
 
-
           <pb corresp="#ST_fol_16r" n="16" xml:id="STIT_fol_16r"/>
 
           <p corresp="#ST_p_43" n="43" xml:id="STIT_p_43">
@@ -10228,6 +10241,7 @@
               <w>grande</w>
               <w>segnale</w><pc>?</pc></q>
           </p>
+
           <p corresp="#ST_p_45" n="45" xml:id="STIT_p_45">
             <w>Allora</w>
             <w>si</w>
@@ -10582,6 +10596,7 @@
             <w>o</w>
             <w>rotolo</w><pc>.</pc>
           </p>
+
           <p corresp="#ST_p_51" n="51" xml:id="STIT_p_51">
             <w>Morì</w>
             <w>poi</w>
@@ -10621,6 +10636,10 @@
             <w>Amen</w><pc>.</pc>
           </p>
 
+        </div>
+        
+        <div n="4" type="section" corresp="#ST_text_04" xml:id="STIT_sect_04">
+          
           <!--  <w xmlns="">Parte</w> <w xmlns="">quarta</w> <w xmlns="">del</w> <w xmlns="">rotulo</w>. -->
 
           <p corresp="#ST_p_52" n="52" xml:id="STIT_p_52">
@@ -10646,6 +10665,7 @@
             <w>quarto</w>
             <w>sopra</w><pc>.</pc>
           </p>
+
           <p corresp="#ST_p_53" n="53" xml:id="STIT_p_53">
             <w>Il</w>
             <w>secondo</w>
@@ -10912,6 +10932,10 @@
             <w>nel</w>
             <w>foglio</w>
             <w>undicesimo</w>. </p>
+          
+        </div>
+        
+        <div n="5" type="section" corresp="#ST_text_05" xml:id="STIT_sect_05">
 
           <pb corresp="#ST_fol_18r" n="18" xml:id="STIT_fol_18r"/>
 
@@ -13418,6 +13442,7 @@
         </div>
 
       </div>
+
     </front>
     
     <group>
