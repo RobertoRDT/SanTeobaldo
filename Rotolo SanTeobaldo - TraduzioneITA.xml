@@ -1388,14 +1388,17 @@
     </surface>
   </facsimile>
   
+  
   <text n="Vita e miracoli di San Teobaldo" xml:id="ST_text_transIT" type="prose">
 
     <!-- ############  NOTE VARIE  #############   -->
     <!-- - STIT = San Teobaldo Italian Translation   -->
     
+    <group>
+      
+      <text corresp="SanTeobaldo.xml/ST_text_01" xml:id="STIT_text_01">
     <body>
 
-      <div n="1" type="section">
 
         <pb n="1" corresp="SanTeobaldo.xml/#ST_fol_01_r" xml:id="STIT_fol_01_r"/>
 
@@ -5679,13 +5682,15 @@
             <w>Teobaldo</w>
           </persName><pc>.</pc>
         </p>
-      </div>
+      
+    </body>
+      </text>
 
+      <text corresp="SanTeobaldo.xml/#ST_text_02" xml:id="STIT_text_02">
+      <body>
+        <!--<w>Parte</w> <w>seconda</w> <w>del</w> <w>Rotolo</w>  -->
 
-
-      <!--<w>Parte</w> <w>seconda</w> <w>del</w> <w>Rotolo</w>  -->
-
-      <div n="2" type="section">
+     
         <pb n="8" corresp="SanTeobaldo.xml/#ST_fol_08_r" xml:id="STIT_fol_08_r"/>
 
         <p n="20" corresp="SanTeobaldo.xml/#ST_p_20" xml:id="STIT_p_20">
@@ -6815,6 +6820,14 @@
           <w>predetto</w><pc>.</pc>
         </p>
 
+      </body>
+      </text>
+
+
+        <text corresp="SanTeobaldo.xml/#ST_text_03" xml:id="STIT_text_03">
+         <body> 
+           <!-- <w>Parte</w> <w>terza</w> <w>del</w> <w>Rotulo</w> -->
+           
         <pb n="11" corresp="SanTeobaldo.xml/#ST_fol_11r" xml:id="STIT_fol_11_r"/>
 
         <p n="23" corresp="SanTeobaldo.xml/#ST_p_23" xml:id="STIT_p_23">
@@ -9451,6 +9464,8 @@
           <w>giorni</w><pc>.</pc>
         </p>
 
+      
+
         <pb n="17" corresp="SanTeobaldo.xml/#ST_fol_17_r" xml:id="STIT_fol_17_r"/>
 
         <p n="50" corresp="SanTeobaldo.xml/#ST_p_50" xml:id="STIT_p_50">
@@ -9536,7 +9551,12 @@
           <w>secoli</w><pc>.</pc>
           <w>Amen</w><pc>.</pc>
         </p>
-
+         </body>
+        </text>
+      
+      
+      <text corresp="SanTeobaldo.xml/#ST_text_04" xml:id="STIT_text_04">
+        <body>
         <!--  <w xmlns="">Parte</w> <w xmlns="">quarta</w> <w xmlns="">del</w> <w xmlns="">rotulo</w>. -->
 
         <p n="52" corresp="SanTeobaldo.xml/#ST_p_52" xml:id="STIT_p_52">
@@ -9828,7 +9848,14 @@
           <w>nel</w>
           <w>foglio</w>
           <w>undicesimo</w>. </p>
+        </body>
+      </text>
 
+
+
+        <text corresp="SanTeobaldo.xml/#ST_text_05" xml:id="STIT_text_05">
+          <body>
+           <!-- <w>Parte</w> <w>Quinta</w> <w>del</w> <w>Rotulo</w> --> 
         <pb n="18" corresp="SanTeobaldo.xml/#ST_fol_18_r" xml:id="STIT_fol_18_r"/>
 
         <p n="66" corresp="SanTeobaldo.xml/#ST_p_66" xml:id="STIT_p_66">
@@ -12332,9 +12359,13 @@
             <w>pubblica</w>. </p>
         </div>
 
-      </div>
+      
 
     </body>
+
+    </text>
+    </group>
+
 
 <back>
   <div type="biblCompleta">
