@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" 
+  schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML"
   xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
@@ -2486,9 +2487,9 @@
 
         <div n="1" type="section">
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_01_r" n="1" xml:id="STIT_fol_01_r"/>
+          <pb corresp="#ST_fol_01r" n="1" xml:id="STIT_fol_01r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_01" n="1" xml:id="STIT_p_01">
+          <p corresp="#ST_p_01" n="1" xml:id="STIT_p_01">
             <w>Nel</w>
             <w>nome</w>
             <w>del</w>
@@ -2572,7 +2573,7 @@
             <w>calzolaio</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_02" n="2" xml:id="STIT_p_02">
+          <p corresp="#ST_p_02" n="2" xml:id="STIT_p_02">
             <w>Quando</w>
             <w>era</w>
             <w>già</w>
@@ -2906,7 +2907,7 @@
             </placeName><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_03" n="3" xml:id="STIT_p_03">
+          <p corresp="#ST_p_03" n="3" xml:id="STIT_p_03">
             <w>Dopo</w>
             <w>che</w>
             <w>ebbe</w>
@@ -3213,9 +3214,9 @@
             </q>
           </p>
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_02_r" n="2" xml:id="STIT_fol_02_r"/>
+          <pb corresp="#ST_fol_02r" n="2" xml:id="STIT_fol_02r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_04" n="4" xml:id="STIT_p_04">
+          <p corresp="#ST_p_04" n="4" xml:id="STIT_p_04">
             <w>E</w>
             <w>in</w>
             <w>lui</w>
@@ -3468,7 +3469,7 @@
             </cit><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_05" n="5" xml:id="STIT_p_05">
+          <p corresp="#ST_p_05" n="5" xml:id="STIT_p_05">
             <w>Dopo</w>
             <w>aver</w>
             <w>dato</w>
@@ -3785,7 +3786,7 @@
             <w>diede</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_06" n="6" xml:id="STIT_p_06">
+          <p corresp="#ST_p_06" n="6" xml:id="STIT_p_06">
             <w>Dopo</w>
             <w>che</w>
             <w>la</w>
@@ -3857,7 +3858,7 @@
             <w>all'</w><w>immortalità</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_07" n="7" xml:id="STIT_p_07">
+          <p corresp="#ST_p_07" n="7" xml:id="STIT_p_07">
             <w>Dopo</w>
             <w>avere</w>
             <w>dunque</w>
@@ -3871,7 +3872,7 @@
             <w>legame</w>
             <w>della</w>
             <w>natura</w><pc>,</pc>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_03_r" n="3" xml:id="STIT_fol_03_r"/>
+            <pb corresp="#ST_fol_03r" n="3" xml:id="STIT_fol_03r"/>
             <!-- [<w>morte</w> <w>di</w> <w>San</w> <w>Tebaudo</w>] -->
             <w>la</w>
             <w>sua</w>
@@ -3897,7 +3898,7 @@
             </date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_08" n="8" xml:id="STIT_p_08">
+          <p corresp="#ST_p_08" n="8" xml:id="STIT_p_08">
             <w>Cadde</w>
             <w>pertanto</w>
             <w>il</w>
@@ -4255,7 +4256,7 @@
             <w>suonare</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_09" n="9" xml:id="STIT_p_09">
+          <p corresp="#ST_p_09" n="9" xml:id="STIT_p_09">
             <w>Accadde</w>
             <w>poi</w>
             <w>che</w><pc>,</pc>
@@ -4491,7 +4492,7 @@
             <w>egli</w>
             <w>è</w>
             <w>custode</w>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_04_r" n="4" xml:id="STIT_fol_04_r"/>
+            <pb corresp="#ST_fol_04r" n="4" xml:id="STIT_fol_04r"/>
             <w>della</w>
             <w>città</w>
             <w>poiché</w>
@@ -4542,7 +4543,7 @@
             <w>posseduto</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_10" n="10" xml:id="STIT_p_10">
+          <p corresp="#ST_p_10" n="10" xml:id="STIT_p_10">
             <w>Si</w>
             <w>trova</w>
             <w>che</w>
@@ -4692,7 +4693,7 @@
             <w>circa</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_11" n="11" xml:id="STIT_p_11">
+          <p corresp="#ST_p_11" n="11" xml:id="STIT_p_11">
             <w>In</w>
             <w>altro</w>
             <w>tempo</w>
@@ -4923,7 +4924,7 @@
             <w>devozione</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_12" n="12" xml:id="STIT_p_12">
+          <p corresp="#ST_p_12" n="12" xml:id="STIT_p_12">
             <w>In</w>
             <w>altro</w>
             <w>tempo</w>
@@ -5174,7 +5175,7 @@
             <w>sé</w>
             <w>un</w>
             <w>istrumento</w><pc>,</pc>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_05_r" n="5" xml:id="STIT_fol_05_r"/>
+            <pb corresp="#ST_fol_05r" n="5" xml:id="STIT_fol_05r"/>
             <w>confermato</w>
             <w>da</w>
             <w>sette</w>
@@ -5196,7 +5197,7 @@
             </date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_13" n="13" xml:id="STIT_p_13">
+          <p corresp="#ST_p_13" n="13" xml:id="STIT_p_13">
             <w>Così</w>
             <w>pure</w>
             <w>in</w>
@@ -5338,7 +5339,7 @@
             </date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_14" n="14" xml:id="STIT_p_14">
+          <p corresp="#ST_p_14" n="14" xml:id="STIT_p_14">
             <w>Accadde</w><pc>,</pc>
             <w>nel</w>
             <w>castello</w>
@@ -5579,7 +5580,7 @@
             <w>testimoni</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_15" n="15" xml:id="STIT_p_15">
+          <p corresp="#ST_p_15" n="15" xml:id="STIT_p_15">
             <w>In</w>
             <placeName ref="#Castellinaldo">
               <w>Castellinaldo</w>
@@ -5704,7 +5705,7 @@
             </date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_16" n="16" xml:id="STIT_p_16">
+          <p corresp="#ST_p_16" n="16" xml:id="STIT_p_16">
             <w>In</w>
             <w>altro</w>
             <w>tempo</w>
@@ -5743,7 +5744,7 @@
             <w>San</w>
             <w>Martino</w>
             <!-- CHECK -->
-            <pb corresp="SanTeobaldo.xml/#ST_fol_06_r" n="6" xml:id="STIT_fol_06_r"/>
+            <pb corresp="#ST_fol_06r" n="6" xml:id="STIT_fol_06r"/>
             <w>ultimo</w>
             <w>scorso</w><pc>,</pc>
             <w>soffriva</w>
@@ -5889,7 +5890,7 @@
             </date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_17" n="17" xml:id="STIT_p_17">
+          <p corresp="#ST_p_17" n="17" xml:id="STIT_p_17">
             <persName ref="#GuglielminoGiusiberto">
               <w>Guglielmino</w>
               <w>Giusberto</w>
@@ -6031,7 +6032,7 @@
             </placeName><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_18" n="18" xml:id="STIT_p_18">
+          <p corresp="#ST_p_18" n="18" xml:id="STIT_p_18">
             <w>L'</w><w>anno</w>
             <w>del</w>
             <w>Signore</w>
@@ -6335,7 +6336,7 @@
             <w>giuramento</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_19" n="19" xml:id="STIT_p_19">
+          <p corresp="#ST_p_19" n="19" xml:id="STIT_p_19">
             <w>Un</w>
             <w>certo</w>
             <persName ref="#GuglielmoVitrola">
@@ -6368,7 +6369,7 @@
               <w>di</w>
               <w>Raffaele</w>
             </persName>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_07_r" n="7" xml:id="STIT_fol_07_r"/>
+            <pb corresp="#ST_fol_07r" n="7" xml:id="STIT_fol_07r"/>
             <w>vicario</w>
             <w>del</w>
             <w>signor</w>
@@ -6773,9 +6774,9 @@
 
         <div n="2" type="section">
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_08_r" n="8" xml:id="STIT_fol_08_r"/>
+          <pb corresp="#ST_fol_08r" n="8" xml:id="STIT_fol_08r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_20" n="20" xml:id="STIT_p_20">
+          <p corresp="#ST_p_20" n="20" xml:id="STIT_p_20">
             <w>L'</w><w>anno</w>
             <w>del</w>
             <w>signore</w>
@@ -6984,7 +6985,7 @@
               <w>Teobaldo</w></persName><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_21" n="21" xml:id="STIT_p_21">
+          <p corresp="#ST_p_21" n="21" xml:id="STIT_p_21">
             <w>Nel</w>
             <w>nome</w>
             <w>del</w>
@@ -7257,7 +7258,7 @@
             <w>tuttavia</w>
             <w>lei</w>
             <w>stessa</w>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_09_r" n="9" xml:id="STIT_fol_09_r"/>
+            <pb corresp="#ST_fol_09r" n="9" xml:id="STIT_fol_09r"/>
             <w>che</w>
             <w>suddetto</w>
             <w>figlio</w>
@@ -7613,7 +7614,7 @@
               <w>giugno</w></date><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_22" n="22" xml:id="STIT_p_22">
+          <p corresp="#ST_p_22" n="22" xml:id="STIT_p_22">
             <date><w>L'</w><w>anno</w>
               <w>del</w>
               <w>Signore</w>
@@ -7684,7 +7685,7 @@
             <w>scritture</w>
             <w>con</w>
             <w>le</w>
-            <w>mani</w>, <pb corresp="SanTeobaldo.xml/#ST_fol_10_r" n="10" xml:id="STIT_fol_10_r"/>
+            <w>mani</w>, <pb corresp="#ST_fol_10r" n="10" xml:id="STIT_fol_10r"/>
             <w>giurò</w>
             <w>le</w>
             <w>cose</w>
@@ -7901,9 +7902,9 @@
             <w>predetto</w><pc>.</pc>
           </p>
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_11r" n="11" xml:id="STIT_fol_11_r"/>
+          <pb corresp="#ST_fol_11r" n="11" xml:id="STIT_fol_11r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_23" n="23" xml:id="STIT_p_23">
+          <p corresp="#ST_p_23" n="23" xml:id="STIT_p_23">
             <w>Qui</w>
             <w>incomincia</w>
             <w>la</w>
@@ -8139,7 +8140,7 @@
             </cit>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_24" n="24" xml:id="STIT_p_24">
+          <p corresp="#ST_p_24" n="24" xml:id="STIT_p_24">
             <w>Quanto</w>
             <w>all'</w><w>inizio</w>
             <w>della</w>
@@ -8289,7 +8290,7 @@
             <w>imitare</w>
             <w>Cristo</w><pc>.</pc>
           </p>
-          <p corresp="SanTeobaldo.xml/#ST_p_25" n="25" xml:id="STIT_p_25">
+          <p corresp="#ST_p_25" n="25" xml:id="STIT_p_25">
             <w>A</w>
             <w>noi</w>
             <w>anche</w>
@@ -8409,14 +8410,14 @@
                 <w>dell</w>’<w>aquila</w><pc>.</pc></quote>
             </cit>
           </p>
-          <p corresp="SanTeobaldo.xml/#ST_p_26" n="26" xml:id="STIT_p_26">
+          <p corresp="#ST_p_26" n="26" xml:id="STIT_p_26">
             <w>Come</w>, <w>poi</w>, <w>tutte</w>
             <w>queste</w>
             <w>cose</w>
             <w>nel</w>
             <persName ref="#sanTebaudo"><w>beato</w>
               <w>Teobaldo</w></persName>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_12_r" n="12" xml:id="STIT_fol_12_r"/>
+            <pb corresp="#ST_fol_12r" n="12" xml:id="STIT_fol_12r"/>
             <w>si</w>
             <w>siano</w>
             <w>compiute</w>, <w>è</w>
@@ -8453,7 +8454,7 @@
             <w>mondo</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_27" n="27" xml:id="STIT_p_27">
+          <p corresp="#ST_p_27" n="27" xml:id="STIT_p_27">
             <w>In</w>
             <w>secondo</w>
             <w>luogo</w>, <w>del</w>
@@ -8466,7 +8467,7 @@
             <w>santità</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_28" n="28" xml:id="STIT_p_28">
+          <p corresp="#ST_p_28" n="28" xml:id="STIT_p_28">
             <w>In</w>
             <w>terzo</w>
             <w>luogo</w>, <w>della</w>
@@ -8477,7 +8478,7 @@
             <w>di</w>
             <w>Dio</w>, </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_29" n="29" xml:id="STIT_p_29">
+          <p corresp="#ST_p_29" n="29" xml:id="STIT_p_29">
             <w>in</w>
             <w>quarto</w>
             <w>luogo</w>
@@ -8490,7 +8491,7 @@
             <w>miracoli</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_30" n="30" xml:id="STIT_p_30">
+          <p corresp="#ST_p_30" n="30" xml:id="STIT_p_30">
             <w>Quanto</w>
             <w>al</w>
             <w>primo</w>
@@ -8661,7 +8662,7 @@
             <w>carne</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_31" n="31" xml:id="STIT_p_31">
+          <p corresp="#ST_p_31" n="31" xml:id="STIT_p_31">
             <w>Quanto</w>
             <w>al</w>
             <w>secondo</w>
@@ -8789,7 +8790,7 @@
           </p>
 
 
-          <p corresp="SanTeobaldo.xml/#ST_p_32" n="32" xml:id="STIT_p_32">
+          <p corresp="#ST_p_32" n="32" xml:id="STIT_p_32">
             <w>Accadde</w>
             <w>poi</w>, <w>quando</w>
             <w>ormai</w>
@@ -8858,7 +8859,7 @@
               <w>ora</w>, <w>essendo</w>
               <w>io</w>
               <w>vicino</w>
-              <pb corresp="SanTeobaldo.xml/#ST_fol_13_r" n="13" xml:id="STIT_fol_13_r"/>
+              <pb corresp="#ST_fol_13r" n="13" xml:id="STIT_fol_13r"/>
               <w>alla</w>
               <w>morte</w>, <w>dolcemente</w>
               <w>ti</w>
@@ -8954,7 +8955,7 @@
               <w>mondo</w><pc>.</pc>
             </q></p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_33" n="33" xml:id="STIT_p_33">
+          <p corresp="#ST_p_33" n="33" xml:id="STIT_p_33">
             <w>Ma</w>
             <persName ref="#sanTebaudo"><w>San</w>
               <w>Teobaldo</w></persName>, <w>già</w>
@@ -8996,7 +8997,7 @@
             <w>cuore</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_34" n="34" xml:id="STIT_p_34">
+          <p corresp="#ST_p_34" n="34" xml:id="STIT_p_34">
             <w>Ma</w>
             <w>il</w>
             <w>suo</w>
@@ -9170,7 +9171,7 @@
             <w>Signore</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_35" n="35" xml:id="STIT_p_35">
+          <p corresp="#ST_p_35" n="35" xml:id="STIT_p_35">
             <w>E</w>
             <w>quella</w>
             <w>donna</w>
@@ -9277,7 +9278,7 @@
             </cit>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_36" n="36" xml:id="STIT_p_36">
+          <p corresp="#ST_p_36" n="36" xml:id="STIT_p_36">
             <w>Durante</w>
             <w>il</w>
             <w>giorno</w>, <w>poi</w>, <w>con</w>
@@ -9290,7 +9291,7 @@
             <w>poveri</w>
             <w>e</w>
             <w>i</w>
-            <w>deboli</w>, <pb corresp="SanTeobaldo.xml/#ST_fol_14_r" n="14" xml:id="STIT_fol_14_r"/>
+            <w>deboli</w>, <pb corresp="#ST_fol_14r" n="14" xml:id="STIT_fol_14r"/>
             <w>visitava</w>
             <w>gli</w>
             <w>infermi</w><pc>;</pc>
@@ -9471,7 +9472,7 @@
             <w>dei</w>
             <w>deboli</w>. </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_37" n="37" xml:id="STIT_p_37">
+          <p corresp="#ST_p_37" n="37" xml:id="STIT_p_37">
             <w>Di</w>
             <w>tanta</w>
             <w>astinenza</w>
@@ -9509,7 +9510,7 @@
             <w>ai</w>
             <w>poveri</w>. </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_38" n="38" xml:id="STIT_p_38">
+          <p corresp="#ST_p_38" n="38" xml:id="STIT_p_38">
             <w>Quando</w>
             <w>al</w>
             <w>terzo</w>
@@ -9578,7 +9579,7 @@
             <w>nella</w>
             <w>mente</w>. </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_39" n="39" xml:id="STIT_p_39">
+          <p corresp="#ST_p_39" n="39" xml:id="STIT_p_39">
             <w>Il</w>
             <w>che</w>
             <w>scorgendo</w>
@@ -9659,7 +9660,7 @@
               <w>denudato</w>
               <w>sulla</w>
               <w>croce</w><pc>.</pc></q>
-            <pb corresp="SanTeobaldo.xml/#ST_fol_15_r" n="15" xml:id="STIT_fol_15_r"/>
+            <pb corresp="#ST_fol_15r" n="15" xml:id="STIT_fol_15r"/>
             <w>Ma</w>
             <w>la</w>
             <w>donna</w>, <w>non</w>
@@ -9822,7 +9823,7 @@
             <w>cose</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_40" n="40" xml:id="STIT_p_40">
+          <p corresp="#ST_p_40" n="40" xml:id="STIT_p_40">
             <w>Quanto</w>
             <w>all</w>’<w>articolo</w>
             <w>quarto</w>, <w>cioè</w>
@@ -9868,7 +9869,7 @@
             <w>in</w>
             <w>vita</w>. </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_41" n="41" xml:id="STIT_p_41">
+          <p corresp="#ST_p_41" n="41" xml:id="STIT_p_41">
             <w>La</w>
             <w>donna</w>
             <w>che</w>
@@ -9960,7 +9961,7 @@
               <w>benefici</w><pc>.</pc></q>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_42" n="42" xml:id="STIT_p_42">
+          <p corresp="#ST_p_42" n="42" xml:id="STIT_p_42">
             <w>Allora</w>
             <w>quella</w>
             <w>disse</w><pc>:</pc>
@@ -10101,9 +10102,9 @@
           </p>
 
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_16_r" n="16" xml:id="STIT_fol_16_r"/>
+          <pb corresp="#ST_fol_16r" n="16" xml:id="STIT_fol_16r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_43" n="43" xml:id="STIT_p_43">
+          <p corresp="#ST_p_43" n="43" xml:id="STIT_p_43">
             <w>Ma</w>
             <w>sapendo</w>
             <w>la</w>
@@ -10139,7 +10140,7 @@
             <w>bianchissima</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_44" n="44" xml:id="STIT_p_44">
+          <p corresp="#ST_p_44" n="44" xml:id="STIT_p_44">
             <w>E</w>
             <w>questi</w>, <w>ritornando</w>
             <w>con</w>
@@ -10227,7 +10228,7 @@
               <w>grande</w>
               <w>segnale</w><pc>?</pc></q>
           </p>
-          <p corresp="SanTeobaldo.xml/#ST_p_45" n="45" xml:id="STIT_p_45">
+          <p corresp="#ST_p_45" n="45" xml:id="STIT_p_45">
             <w>Allora</w>
             <w>si</w>
             <w>fece</w>
@@ -10272,7 +10273,7 @@
               <persName ref="#sanTebaudo"><w>Teobaldo</w></persName><pc>.</pc></q>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_46" n="46" xml:id="STIT_p_46">
+          <p corresp="#ST_p_46" n="46" xml:id="STIT_p_46">
             <w>Allora</w>
             <w>il</w>
             <w>vescovo</w>
@@ -10316,7 +10317,7 @@
             <w>chiesa</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_47" n="47" xml:id="STIT_p_47">
+          <p corresp="#ST_p_47" n="47" xml:id="STIT_p_47">
             <w>Ma</w>
             <w>la</w>
             <w>benefattrice</w>
@@ -10348,7 +10349,7 @@
               <w>spine</w><pc>.</pc></q>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_48" n="48" xml:id="STIT_p_48">
+          <p corresp="#ST_p_48" n="48" xml:id="STIT_p_48">
             <w>Ma</w>
             <w>essi</w>
             <w>per</w>
@@ -10434,7 +10435,7 @@
             <w>popolo</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_49" n="49" xml:id="STIT_p_49">
+          <p corresp="#ST_p_49" n="49" xml:id="STIT_p_49">
             <w>Allora</w>
             <w>la</w>
             <w>fama</w>
@@ -10534,9 +10535,9 @@
             <w>giorni</w><pc>.</pc>
           </p>
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_17_r" n="17" xml:id="STIT_fol_17_r"/>
+          <pb corresp="#ST_fol_17r" n="17" xml:id="STIT_fol_17r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_50" n="50" xml:id="STIT_p_50">
+          <p corresp="#ST_p_50" n="50" xml:id="STIT_p_50">
             <w>Quanto</w>
             <w>ai</w>
             <w>miracoli</w>
@@ -10581,7 +10582,7 @@
             <w>o</w>
             <w>rotolo</w><pc>.</pc>
           </p>
-          <p corresp="SanTeobaldo.xml/#ST_p_51" n="51" xml:id="STIT_p_51">
+          <p corresp="#ST_p_51" n="51" xml:id="STIT_p_51">
             <w>Morì</w>
             <w>poi</w>
             <w>questo</w>
@@ -10622,7 +10623,7 @@
 
           <!--  <w xmlns="">Parte</w> <w xmlns="">quarta</w> <w xmlns="">del</w> <w xmlns="">rotulo</w>. -->
 
-          <p corresp="SanTeobaldo.xml/#ST_p_52" n="52" xml:id="STIT_p_52">
+          <p corresp="#ST_p_52" n="52" xml:id="STIT_p_52">
             <w>Il</w>
             <w>primo</w>
             <w>miracolo</w>
@@ -10645,7 +10646,7 @@
             <w>quarto</w>
             <w>sopra</w><pc>.</pc>
           </p>
-          <p corresp="SanTeobaldo.xml/#ST_p_53" n="53" xml:id="STIT_p_53">
+          <p corresp="#ST_p_53" n="53" xml:id="STIT_p_53">
             <w>Il</w>
             <w>secondo</w>
             <w>miracolo</w>
@@ -10672,7 +10673,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_54" n="54" xml:id="STIT_p_54">
+          <p corresp="#ST_p_54" n="54" xml:id="STIT_p_54">
             <w>Il</w>
             <w>terzo</w>
             <w>miracolo</w>
@@ -10696,7 +10697,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_55" n="55" xml:id="STIT_p_55">
+          <p corresp="#ST_p_55" n="55" xml:id="STIT_p_55">
             <w>Il</w>
             <w>quarto</w>
             <w>miracolo</w>
@@ -10721,7 +10722,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_56" n="56" xml:id="STIT_p_56">
+          <p corresp="#ST_p_56" n="56" xml:id="STIT_p_56">
             <w>Il</w>
             <w>quinto</w>
             <w>miracolo</w>
@@ -10739,7 +10740,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_57" n="57" xml:id="STIT_p_57">
+          <p corresp="#ST_p_57" n="57" xml:id="STIT_p_57">
             <w>Il</w>
             <w>sesto</w>
             <w>miracolo</w>
@@ -10757,7 +10758,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_58" n="58" xml:id="STIT_p_58">
+          <p corresp="#ST_p_58" n="58" xml:id="STIT_p_58">
             <w>Il</w>
             <w>settimo</w>
             <w>miracolo</w>
@@ -10783,7 +10784,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_59" n="59" xml:id="STIT_p_59">
+          <p corresp="#ST_p_59" n="59" xml:id="STIT_p_59">
             <w>L'</w><w>ottavo</w>
             <w>miracolo</w>
             <w>incomincia</w><pc>:</pc>
@@ -10799,7 +10800,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_60" n="60" xml:id="STIT_p_60">
+          <p corresp="#ST_p_60" n="60" xml:id="STIT_p_60">
             <w>Il</w>
             <w>nono</w>
             <w>miracolo</w>
@@ -10817,7 +10818,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_61" n="61" xml:id="STIT_p_61">
+          <p corresp="#ST_p_61" n="61" xml:id="STIT_p_61">
             <w>Il</w>
             <w>decimo</w>
             <w>miracolo</w>
@@ -10839,7 +10840,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_62" n="62" xml:id="STIT_p_62">
+          <p corresp="#ST_p_62" n="62" xml:id="STIT_p_62">
             <w>L'</w><w>undicesimo</w>
             <w>miracolo</w>
             <w>incomincia</w><pc>:</pc>
@@ -10857,7 +10858,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_63" n="63" xml:id="STIT_p_63">
+          <p corresp="#ST_p_63" n="63" xml:id="STIT_p_63">
             <w>Il</w>
             <w>dodicesimo</w>
             <w>miracolo</w>
@@ -10879,7 +10880,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_64" n="64" xml:id="STIT_p_64">
+          <p corresp="#ST_p_64" n="64" xml:id="STIT_p_64">
             <w>Il</w>
             <w>tredicesimo</w>
             <w>miracolo</w>
@@ -10898,7 +10899,7 @@
             <w>sopra</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_65" n="65" xml:id="STIT_p_65">
+          <p corresp="#ST_p_65" n="65" xml:id="STIT_p_65">
             <w>L'</w><w>ottima</w>
             <w>predicazione</w>
             <w>di</w>
@@ -10912,9 +10913,9 @@
             <w>foglio</w>
             <w>undicesimo</w>. </p>
 
-          <pb corresp="SanTeobaldo.xml/#ST_fol_18_r" n="18" xml:id="STIT_fol_18_r"/>
+          <pb corresp="#ST_fol_18r" n="18" xml:id="STIT_fol_18r"/>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_66" n="66" xml:id="STIT_p_66">
+          <p corresp="#ST_p_66" n="66" xml:id="STIT_p_66">
             <w>Esulta</w>
             <w>in</w>
             <w>Dio</w>, <w>o</w>
@@ -11057,7 +11058,7 @@
             <w>perseveranza</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_67" n="67" xml:id="STIT_p_67">
+          <p corresp="#ST_p_67" n="67" xml:id="STIT_p_67">
             <w>Chi</w>
             <w>dunque</w>
             <w>è</w>
@@ -11172,7 +11173,7 @@
             <w>fede</w><pc>.</pc><note>Mt. 5, 25-34</note>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_68" n="68" xml:id="STIT_p_68">
+          <p corresp="#ST_p_68" n="68" xml:id="STIT_p_68">
             <w>Siccome</w>
             <w>per</w>
             <w>279</w>
@@ -11369,7 +11370,7 @@
             <w>stessa</w>
             <w>città</w><pc>.</pc></p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_69" n="69" xml:id="STIT_p_69">
+          <p corresp="#ST_p_69" n="69" xml:id="STIT_p_69">
             <w>Lo</w>
             <w>trovò</w>
             <w>nascosto</w>
@@ -11411,7 +11412,7 @@
             <w>miracoli</w><pc>.</pc>
           </p>
 
-          <p corresp="SanTeobaldo.xml/#ST_p_70" n="70" xml:id="STIT_p_70">
+          <p corresp="#ST_p_70" n="70" xml:id="STIT_p_70">
             <w>I</w>
             <w>cittadini</w>, <w>udendo</w>
             <w>il</w>
@@ -11615,7 +11616,7 @@
                 <w>di</w>
                 <w>Ghemme</w></persName></head>
 
-            <p corresp="SanTeobaldo.xml/#ST_p_71" n="71" xml:id="STIT_p_71">
+            <p corresp="#ST_p_71" n="71" xml:id="STIT_p_71">
               <w>Volendo</w>
               <w>il</w>
               <w>predetto</w>
@@ -11731,7 +11732,7 @@
               <w>via</w><pc>.</pc>
             </p>
 
-            <p corresp="SanTeobaldo.xml/#ST_p_72" n="72" xml:id="STIT_p_72">
+            <p corresp="#ST_p_72" n="72" xml:id="STIT_p_72">
               <w>E</w>
               <w>a</w>
               <w>uno</w>
@@ -12111,7 +12112,7 @@
               <w>una</w>
               <w>donna</w>
               <w>incinta</w></head>
-            <p corresp="SanTeobaldo.xml/#ST_p_73" n="73" xml:id="STIT_p_73">
+            <p corresp="#ST_p_73" n="73" xml:id="STIT_p_73">
               <w>Trascorsi</w>
               <w>poi</w>
               <w>tre</w>
@@ -12568,7 +12569,7 @@
               <w>in</w>
               <placeName ref="#Borgomale"><w>Borgomale</w></placeName></head>
 
-            <p corresp="SanTeobaldo.xml/#ST_p_74" n="74" xml:id="STIT_p_74">
+            <p corresp="#ST_p_74" n="74" xml:id="STIT_p_74">
               <w>Dopo</w>
               <w>che</w>
               <w>fu</w>
@@ -12993,7 +12994,7 @@
               <w>cadde</w>
               <w>da</w>
               <w>cavallo</w>.</head>
-            <p corresp="SanTeobaldo.xml/#ST_p_75" n="75" xml:id="STIT_p_75">
+            <p corresp="#ST_p_75" n="75" xml:id="STIT_p_75">
               <w>Trascorsi</w>
               <w>poi</w>
               <w>all'</w><w>incirca</w>
@@ -13383,7 +13384,7 @@
               <w>dovute</w>
               <w>grazie</w>. </p>
 
-            <p corresp="SanTeobaldo.xml/#ST_p_76" n="76" xml:id="STIT_p_76">
+            <p corresp="#ST_p_76" n="76" xml:id="STIT_p_76">
               <w>Io</w>
               <persName ref="#PietroBaresano"><w>Pietro</w>
                 <w>Baresano</w></persName>
