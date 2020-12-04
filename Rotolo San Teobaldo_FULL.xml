@@ -16978,8 +16978,7 @@
         </p>
 
         
-          <!-- [<w>Pergamena</w>
-          <w>IV</w>] --> 
+          <!-- Pergamena IV --> 
         
         
         <p n="10" xml:id="ST_p_10">
@@ -19033,10 +19032,7 @@
               </choice></w>
           </persName>
           
-          <!--
-            [<w>Pergamena</w>
-            <w>VI</w>]
-          -->
+          <!-- Pergamena VI -->
           
           <w>proxime</w>
           <w><choice>
@@ -19771,9 +19767,8 @@
           <persName ref="#sanTebaudo">
             <w>beato</w>
             <lb facs="#ST_line_06r_32" xml:id="ST_lb_06r_32" n="32"/>
-            <w><del extent="4">laur</del></w>
             <w><choice>
-                <orig>thebaudo</orig>
+                <orig>laur thebaudo</orig>
                 <reg>Thebaudo</reg>
               </choice></w>
           </persName>
@@ -21963,10 +21958,7 @@
 
           <fw place="top-left"><add>pag <g ref="#middot"/>9</add></fw>
           
-          <!-- 
-            [<w>Pergamena</w>
-            <w>IX</w>]
-             -->
+          <!-- Pergamena IX -->
           
           <lb facs="#ST_line_09r_01" xml:id="ST_lb_09r_01" n="1"/>
           <w>dictus</w>
@@ -22953,8 +22945,7 @@
               <abbr><g ref="#slong"/><am><g ref="#cinodotsup"/></am>pturis</abbr>
               <expan>sc<ex>r</ex>ipturis</expan>
             </choice></w>
-          <!-- [<w>Pergamena</w>
-            <w>X</w>] -->
+          <!-- Pergamena X -->
            
           
           <!-- #######################################  folio 10r  ####################################### -->
@@ -23446,9 +23437,7 @@
         <fw place="above"><add><w>pagina</w>
             <num>11</num></add></fw>
         
-          <!--  [<w>Pergamena</w>
-          <w>XI</w>]
-         -->
+          <!-- Pergamena XI -->
          
 
         <!-- qui inizia la seconda narrazione della vita di San Teobaldo, segnalarlo in marcatura-->
@@ -24494,8 +24483,7 @@
           
           <pb n="12" xml:id="ST_fol_12r"/>
           
-          <!-- [<w>Pergamena</w>
-            <w>XII</w>] -->
+          <!-- Pergamena XII -->
             
           
           
@@ -24542,7 +24530,7 @@
           <w>quator</w>
           <w><choice>
               <abbr>decl<am><g ref="#atilde"/></am><lb facs="#ST_line_12r_02" xml:id="ST_lb_12r_02_abbr" n="2"/>da</abbr>
-              <expan>declara<ex>n</ex><lb facs="#ST_line_12r_02" xml:id="ST_lb_12r_02_expan" n="2"/></expan>
+              <expan>declara<ex>n</ex><lb facs="#ST_line_12r_02" xml:id="ST_lb_12r_02_expan" n="2"/>da</expan>
             </choice></w>
           <w>ut</w>
           <w><choice>
@@ -25479,8 +25467,7 @@
             
             <pb n="13" xml:id="ST_fol_13r"/>
 
-            <!-- [<w>Pergamena</w>
-              <w>XIII</w>] -->
+            <!-- Pergamena XIII -->
               
             
             <lb facs="#ST_line_13r_01" xml:id="ST_lb_013_01" n="1"/>
@@ -26496,8 +26483,7 @@
           
           <pb n="14" xml:id="ST_fol_014r"/>
 
-          <!-- [<w>Pergamena</w>
-            <w>XIV</w>] -->
+          <!-- Pergamena XIV -->
          
 
           <lb facs="#ST_line_14r_01" xml:id="ST_lb_014_01" n="1"/>
@@ -27204,8 +27190,7 @@
             
             <pb n="15" xml:id="ST_fol_15r"/>
             
-            <!-- [<w>Pergamena</w>
-              <w>XV</w>] -->
+            <!-- Pergamena XV -->
             
             
             <fw place="top"><add><w>pag</w><g ref="#middot"/>15<g ref="#middot"/></add></fw>
@@ -28071,13 +28056,8 @@
 
         <p n="43" xml:id="ST_p_43">
           <w><hi rend="double"><g ref="#esh"/></hi>cien<g ref="#esh"/></w>
-          <label n="48"/>
-          <label>
-            [<w>Pergamena</w>
-            <w>XVI</w>]
-          </label>
           
-          <w><hi rend="cap1.1">S</hi>ciens</w>
+          
 
           <!-- #######################################  folio 16r  ####################################### -->
 
@@ -29002,8 +28982,7 @@
         
         <pb n="17" xml:id="ST_fol_017r"/>
           
-          <!--[<w>Pergamena</w>
-          <w>XVII</w>] -->
+          <!-- Pergamena XVII -->
           
 
         <fw place="top"><add><w>pag</w><g ref="#middot"/>17<g ref="#middot"/></add></fw>
@@ -29763,8 +29742,7 @@
 
         <fw><add place="top"><w>pag</w><g ref="#middot"/>18<g ref="#middot"/></add></fw>
       
-        <label> [<w>Pergamena</w>
-          <w>XVII</w>] </label>
+      
 
         <p n="66" xml:id="ST_p_66">
           <lb facs="#ST_line_18r_01" n="1" xml:id="ST_lb_18r_01"/>
