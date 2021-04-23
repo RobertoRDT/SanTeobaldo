@@ -360,8 +360,9 @@
             </persName>
             <sex>M</sex>
             <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
-            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.5 verso (presso Archivio
-              Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note>
+            <note>Arciprete della Cattedrale, è citato nel <emph>Liber mortuorum</emph>. Per approfondire, si veda: Liber
+              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte seconda
+              f.5v)</note>
           </person>
 
           <person xml:id="GiacomelloPorta">
@@ -378,8 +379,8 @@
             </persName>
             <sex>M</sex>
             <occupation>arciprete della Chiesa di San Lorenzo</occupation>
-            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.12 verso (presso Archivio
-              Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1).</note>
+            <note>Secondo il Giordano si tratta del primo biografo di San Teobaldo. Il nome viene
+              citato nel <emph>Liber mortuorum</emph> ovvero Obituario della Cattedrale di Alba. Per approfondire si veda: <ref target="#ASCap">ASCap n. 1, parte prima folio 12 verso</ref>; <ref target="#GIORDANO_1929">Giordano 1929, p. 10</ref></note>
           </person>
 
           <person xml:id="GiacomoBaduino">
@@ -461,9 +462,12 @@
             </persName>
             <sex>M</sex>
             <occupation>arciprete della Chiesa di San Lorenzo di Alba</occupation>
-            <note>citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.19 e f. 42 (presso Archivio
-              Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1), compare anche nel Minutario
-              del notaio Allaria (collocazione) </note>
+            <note>L’arciprete Giacomo detto Giob compare in numerosi atti nel Minutario dei notai
+              Anzario e Allaria, nelle pergamene del Capitolo si conserva il suo testamento e nel
+              <emph>Liber mortuorum</emph> è registrato il suo decesso. Per approfondire, si veda: Liber
+              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte prima f.
+              19r e parte seconda f. 42r); Minutario degli atti di Manuel Alaria e Pietrino Anzario,
+              fondo del Capitolo della Cattedrale di Alba (ASCap n. 7); <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
           </person>
 
           <person xml:id="GiovanniCavalero">
@@ -559,8 +563,11 @@
             </persName>
             <sex>M</sex>
             <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
-            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f.48 verso (presso Archivio
-              Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1). </note>
+            <note>Guglielmo Gassa è il successore dell’arciprete Giacomo detto Giob. Il suo nome
+              compare nel <emph>Liber mortuoruma</emph>, dove si trova la data della sua morte avvenuta nel
+              1368, oltre che nel Minutario dei notai Anzario e Allaria. Per approfondire, si veda: Liber
+              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte seconda
+              f.48v); al f.36; <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
           </person>
 
           <person xml:id="GuglielmoVitrola">
@@ -730,9 +737,9 @@
             <sex>M</sex>
             <occupation>massaro della chiesa di San Lorenzo di Alba e sottoscrittore della pergamena del 1456 (fol.
               18)</occupation>
-            <note>Citato nel Liber mortuorum ovvero Obituario della Cattedrale di Alba al f. 10 verso (presso Archivio
-              Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo n. 1) per la traslazione delle
-              reliquie di san Frontiniano presso la Cattedrale di Alba nel 1455.</note>
+            <note>Viene citato nel <emph>Liber Mortuorum</emph> per la sua partecipazione alla traslazione delle
+              reliquie di San Frontiniano presso la Cattedrale di Alba avvenuta nel 1455. Per approfondire, si veda: Liber Mortuorum, fondo del Capitolo della Cattedrale di Alba
+              (ASCap n. 1, parte prima f. 10v)</note>
           </person>
 
           <person xml:id="PietroRenaco">
@@ -1037,32 +1044,58 @@
           <place xml:id="chiesaSanLorenzo">
             <placeName>chiesa di San Lorenzo di Alba</placeName>
             <settlement type="edificio">chiesa</settlement>
+            <note>Per la chiesa Cattedrale di Alba, si veda: <ref
+              target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
+              "></ref>; per approfondimento, si veda: <ref target="#GIORDANO_1929">Giordano 1929, p. 102</ref>;
+            <ref target="#MICHELETTO_2013">Micheletto et alia 2013</ref></note>
           </place>
 
           <place xml:id="chiesaSanSilvestro">
             <placeName>chiesa di San Silvestro di Alba</placeName>
             <settlement type="edificio">chiesa</settlement>
+            <note>La chiesa di San Silvestro, attualmente non più esistente, sorgeva nello spazio sul
+              fianco nord della Cattedrale di San Lorenzo, i due edifici erano inizialmente separati
+              e furono uniti probabilmente poco dopo la morte di San Teobaldo. La chiesa è citata
+              in alcuni documenti del <emph>Rigestum Comunis Albae</emph> a partire dal 1192 dove se ne
+              descrive il coro come abbastanza ampio per ospitare un’assemblea di popolo.
+              Sempre il Rigestum cita la cappella di San Silvestro <emph>"in ecclesia Sancti Laurentii"</emph> nel
+              1438, epoca in cui probabilmente i due edifici erano stati definitivamente uniti.
+              Proprio l'unione delle due chiese compare nel Rotulo tra le <emph>"opere sublimi"</emph>
+              realizzate a favore della città dopo la morte di Teobaldo. Per approfondire, si veda: <ref target="#VICO_1966">Vico 1966</ref>;
+            <ref target="#MICHELETTO_2013">Micheletto et alia 2013</ref></note>
           </place>
 
           <place xml:id="chiesaSantaMariadelPonte">
             <placeName type="edificio">chiesa di Santa Maria del Ponte di Alba</placeName>
-            <note>una delle quattro antiche parrocchie albesi unita a quella di San Lorenzo nel XVII secolo. Presso
-              l’archivio vescovile si conserva un disegno del conte Rangone di Montelupo il “Tipo regolare della piazza
-              detta dellle armi […]” (Archivio storicodiocesano di Alba, Archivio storico del Vescovo cartella n. 1595)
-              con raffigurazione della pianta e di un frammento di muro. Il disegno è datato 7 febbraio 1788.
-              Bibliografia: <ref target="#COMBA_2010"></ref>
-              <ref target="#ACCIGLIARO_BOFFA_MOLINO_2011"></ref>
-              <ref target="#VERNAZZA_1788"></ref>
-              <ref target="#LEVI_MOMIGLIANO_2004"></ref>
+            <note>La chiesa di Santa Maria del Ponte, localizzata tra la <emph>"porta Tanagri"</emph> e il luogo dove
+              sorgeva la chiesa di San Francesco, era anche detta <emph>"de Bethleem"</emph> poiché
+              dipendente dalla chiesa di Betlemme. Essa compare in un atto datato 1196 e si
+              ipotizza che fosse gestita da una comunità di fratres e che ospitasse anche un
+              ospedale. E’ attestata successivamente come chiesa con cura d’anime, a partire
+              dal 1386. La chiesa viene descritta come inagibile nel 1652, quando con ordinato
+              della Città vengono trasportati in Cattedrale tutti i beni mobili ivi presenti. Poco
+              dopo, nel 1655 i canonici della Cattedrale consentono di collocare sul campanile del
+              Duomo le campane rimosse da Santa Maria del Ponte. La cura d’anime che le
+              competeva fu accorpata a quella del Duomo, come testimoniano i registri
+              dell’anagrafe sacramentale presenti in Cattedrale. Presso l’archivio vescovile si
+              conserva un disegno del conte Rangone di Montelupo con raffigurazione della
+              pianta dell’edificio e di un frammento di muro, rilevati così come furono ritrovati
+              durante gli scavi effettuati per lo spianamento della piazza d’armi nel 1788.
+              Per approfondire: <ref target="#COMBA_2010">Comba 2010, pp. 352-357</ref>
+              <ref target="#VERNAZZA_1788">Vernazza 1788</ref>
+              <ref target="#VICO_1966">Vico 1966, p. 189</ref>
             </note>
           </place>
 
           <place xml:id="campanileSanLorenzo">
-            <placeName>antico campanile della chiesa di San Lorenzo di Alba</placeName>
-            <note>Antico campanile della chiesa di San Lorenzo. Bibliografia: <ref
+            <placeName>campanile della chiesa di San Lorenzo di Alba</placeName>
+            <note>Si tratta del campanile tuttora esistente, una struttura di proporzioni notevoli al cui
+              interno è stata mantenuta la struttura muraria del campanile preesistente, utilizzata
+              come sostegno per la scala che sale verso la cella campanaria nell’intercapedine tra i
+              due muri. Per approfondire, si veda: <ref
                 target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
             "></ref>
-              <ref target="#AAVV_2013"></ref></note>
+              <ref target="#MICHELETTO_2013">Micheletto et alia 2013, p. 68</ref>; <ref target="#GIORDANO_1929">Giordano 1929, p.100</ref>; <ref target="#VICO_1966">Vico 1966</ref></note>
           </place>
 
           <place xml:id="chiostroSanLorenzo">
@@ -1075,10 +1108,16 @@
 
           <place xml:id="voltechiesaSanTebaudo">
             <placeName type="edificio">volte della chiesa di San Tebaudo</placeName>
-            <note>volte della antica chiesa di San Tebaudo. Bibliografia: <ref
+            <note>Si tratta di una struttura che sorgeva sul lato nord della Cattedrale di San Lorenzo
+              costruita probabilmente su due piani con un porticato al piano terreno utilizzato
+              probabilmente per attività commerciali, sovrastato da un ampio locale che veniva
+              abitualmente utilizzato per le riunioni del consiglio della città e per la redazione di
+              atti notarili: compare infatti citato in numerosi atti del <emph>Rigestum comunis Albae</emph>
+              come <emph>"super voltas Sancti Laurentii"</emph>. Per approfondire si veda: <ref
                 target=" https://www.beweb.chiesacattolica.it/cattedrali/cattedrale/502/ 
             "></ref>
-              <ref target="#AAVV_2013"></ref></note>
+              <ref target="#MICHELETTO_2013">Micheletto et alia 2013, pp. 68-70</ref>; <ref target="#GIORDANO_1929">Giordano 1929, p. 105</ref>;
+            <ref target="#VICO_1966">Vico 1966, pp. 61-65</ref>; <ref target="#BONARDI_2002">Bonardi 2002</ref></note>
           </place>
 
           <place xml:id="Sospello">
@@ -1112,13 +1151,14 @@
 
           <org xml:id="OspedaleSanTebaudo">
             <settlement type="edificio">ospedale di San Tebaudo</settlement>
-            <note>Citato per la prima volta in un atto di vendita del 1202, si trovava probabilmente nelle campagne
-              fuori della porta San Martino. Fu gestito inizialmente, e sino al 1264, dai Cistercensi dell’abbazia di
-              Casanova, per poi essere affidato alle monache domenicane albesi di Santa Caterina, confluendo nel XIII
-              sec. nell’Ospedale di San Lazzaro. Bibliografia: <ref target="#MELLINO_1988"></ref>
-              <ref target="#AUDENINO_COMBA_2007"></ref>
-              <ref target="#GATTO_MONTICONE_2005"></ref>
-              <ref target="#MILANO_1903"></ref>
+            <note>l’ospedale si trovava non molto fuori le mura di Alba,
+              oltre la porta di San Martino nelle campagne a sud della città. I documenti più
+              antichi che ne riportano l’esistenza risalgono al 1192. Esso fu gestito dall’Abbazia di
+              Casanova almeno dal 1245 al 1264, fu successivamente restituito alla responsabilità
+              del vescovo di Alba, per venire affidato ad inizio Trecento alle monache del
+              monastero di Santa Caterina. Nel 1439 i tre ospedali di Santa Maria della Consorzia,
+              di San Teobaldo e di San Lazzaro furono uniti. Per approfondire, si veda: <ref target="#GIORDANO_1929">Giordano 1929, p. 99</ref>;
+              <ref target="#VICO_1966">Vico 1966, p. 27 nota 1</ref>; <ref target="#FRESIA_2002">Fresia 2002</ref>; <ref target="#AUDENINO_COMBA_2007">Audenino-Comba 2017, pp. 347-348</ref>; <ref target="#MELLINO_1988">Mellino 1988, p. 20</ref>.
             </note>
           </org>
         </listOrg>
@@ -34454,10 +34494,23 @@
       <div type="biblCompleta">
         <listBibl>
 
-          <bibl xml:id="AIMASSO_BRUSA_2015"><emph>Il Rotulo di San Teobaldo. Nuovi studi paleografici e
+          <bibl xml:id="ACCIGLIARO_BOFFA_MOLINO_2011">W. Accigliaro, G. Boffa, B. Molino, <emph>Repertorio storico delle
+            parrocchie e delle parrocchiali nella Diocesi di Alba</emph>, Alba, 2001.</bibl>
+
+
+          <bibl xml:id="AIMASSO_BRUSA_2015">E. Aimasso, G. Brusa, <emph>Il Rotulo di San Teobaldo. Nuovi studi paleografici e
               codicologici</emph>in <emph>Alba Pompeia, n.s., a.XXXVI, fasc. I (2015)</emph>.</bibl>
 
+
+          <bibl xml:id="ASCap">Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo</bibl>
+          
           <bibl xml:id="ASJ"><emph>Acta Sanctorum junii, tomus I</emph>, Venezia, 1741.</bibl>
+          
+          <bibl xml:id="AUDENINO_COMBA_2007">R. Audenino, R. Comba, <emph>Le pergamene dei monasteri albesi della Beata Margherita di Savoia e di Santa Caterina (XI-XIV secolo)</emph>,
+          Cuneo-Alba, 2007</bibl>
+          
+          <bibl xml:id="BONARDI_2002">C. Bonardi, <emph>"Sopra le volte" del Duomo di Alba: un problema di archeologia urbana</emph>,
+            in <emph>De Venustate et Firmitate. Scritti per Mario Dalla Costa</emph>, Torino, 2002, pp. 150-173</bibl>
 
           <bibl xml:id="BUCCOLO_1989">M. Buccolo <emph>Un antico antifonario sul verso del Rotulo di San
               Teobaldo,</emph>, in <emph>Alba Pompeia, n.s., a. X, fasc. I</emph>, (1989).</bibl>
@@ -34466,6 +34519,16 @@
             in <emph>Alba e l’Albese nei secoli XII-XVI. Momenti di vita comunale di arte e cultura (“Bollettino della
               società per gli studi storici archeologici ed artistici della provincia di Cuneo), 115.</emph>, Cuneo,
             1996.</bibl>
+          
+          
+          <bibl xml:id="COMBA_2010">R. Comba, <emph>Fra religiosità delle opere e predicazione dell'ortodossia:
+            dinamiche socio religiose ad Alba tra XII e XIV secolo</emph>, in <emph>Alba Medievale: dall'Alto Medioevo
+              alla dominazione Angioina. VI - XIV secolo</emph>, Alba, 2010.</bibl>
+
+
+          <bibl xml:id="FRESIA_2002">R. Fresia, <emph>Comune Civitatis Albe: affermazione, espansione territoriale e declino di una libera città medievale (12.-13. secolo)</emph>,
+          Alba, 2002.</bibl>
+
 
           <bibl xml:id="GASTALDI_1993">M. Gastaldi, <emph>“San Teobaldo d’Alba nell’agiografia e nell’erudizione”</emph>
             in <emph>Alba Pompeia,n.s., a. XIV, fasc. II (1993)</emph> pp. 63-73.</bibl>
@@ -34474,24 +34537,21 @@
 
           <bibl xml:id="GIORDANO_1929_B">L. Giordano, <emph>Storia di San Teobaldo Roggeri</emph>, in <emph>Albori di
               vita francescana in Piemonte</emph>, Alba, 1929.</bibl>
+          
+          <bibl xml:id="LEVI_MOMIGLIANO_2004">L. Levi Momigliano, <emph>Giuseppe Vernazza e la storia dell'arte in
+            Piemonte</emph>, Alba, 2004.</bibl>
 
           <bibl xml:id="MELLINO_1988">G. Mellino, <emph>L'Ospedale di San Lazzaro e l'opera sanitario-assistenziale in
               Alba</emph>, Alba, 1988.</bibl>
-
-          <bibl xml:id="COMBA_2010">R. Comba, <emph>Fra religiosità delle opere e predicazione dell'ortodossia:
-              dinamiche socio religiose ad Alba tra XII e XIV secolo</emph>, in <emph>Alba Medievale: dall'Alto Medioevo
-              alla dominazione Angioina. VI - XIV secolo</emph>, Alba, 2010.</bibl>
-
-          <bibl xml:id="ACCIGLIARO_BOFFA_MOLINO_2011">W. Accigliaro, G. Boffa, B. Molino, <emph>Repertorio storico delle
-              parrocchie e delle parrocchiali nella Diocesi di Alba</emph>, Alba, 2001.</bibl>
+          
+          <bibl xml:id="MICHELETTO_2013">E. Micheletto (a cura di) <emph>La cattedrale di Alba, archeologia di un cantiere</emph>, Borgo San
+            Lorenzo, 2013.</bibl>
 
           <bibl xml:id="VERNAZZA_1788">G. Vernazza, <emph>Santa Maria del Ponte in Alba</emph>, Torino, 1788.</bibl>
+          
+          <bibl xml:id="VICO_1966"> G. Vico, <emph>La piazza del Duomo di Alba: Platea fori, Platea Sancti Laurentii</emph>, Venaria, 1966.</bibl>
 
-          <bibl xml:id="LEVI_MOMIGLIANO_2004">L. Levi Momigliano, <emph>Giuseppe Vernazza e la storia dell'arte in
-              Piemonte</emph>, Alba, 2004.</bibl>
 
-          <bibl xml:id="AAVV_2013">AAVV, <emph>La cattedrale di Alba, archeologia di un cantiere</emph>, Borgo San
-            Lorenzo, 2013.</bibl>
 
         </listBibl>
       </div>
