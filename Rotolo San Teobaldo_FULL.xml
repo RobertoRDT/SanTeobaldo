@@ -360,9 +360,8 @@
             </persName>
             <sex>M</sex>
             <occupation>arcidiacono della Chiesa di San Lorenzo di Alba</occupation>
-            <note>Arciprete della Cattedrale, è citato nel <emph>Liber mortuorum</emph>. Per approfondire, si veda: Liber
-              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte seconda
-              f.5v)</note>
+            <note>Arciprete della Cattedrale, è citato nel <emph>Liber mortuorum</emph>. Per approfondire, si veda:
+              <ref target="#ASCap"><emph>Liber Mortuorum</emph>, parte seconda f.5v</ref></note>
           </person>
 
           <person xml:id="GiacomelloPorta">
@@ -380,7 +379,8 @@
             <sex>M</sex>
             <occupation>arciprete della Chiesa di San Lorenzo</occupation>
             <note>Secondo il Giordano si tratta del primo biografo di San Teobaldo. Il nome viene
-              citato nel <emph>Liber mortuorum</emph> ovvero Obituario della Cattedrale di Alba. Per approfondire si veda: <ref target="#ASCap">ASCap n. 1, parte prima folio 12 verso</ref>; <ref target="#GIORDANO_1929">Giordano 1929, p. 10</ref></note>
+              citato nel <emph>Liber mortuorum</emph> ovvero Obituario della Cattedrale di Alba. Per approfondire si veda: 
+              <ref target="#ASCap"><emph>Liber Mortuorum</emph>, parte prima f. 12v</ref>; <ref target="#GIORDANO_1929">Giordano 1929, p. 10</ref></note>
           </person>
 
           <person xml:id="GiacomoBaduino">
@@ -464,10 +464,10 @@
             <occupation>arciprete della Chiesa di San Lorenzo di Alba</occupation>
             <note>L’arciprete Giacomo detto Giob compare in numerosi atti nel Minutario dei notai
               Anzario e Allaria, nelle pergamene del Capitolo si conserva il suo testamento e nel
-              <emph>Liber mortuorum</emph> è registrato il suo decesso. Per approfondire, si veda: Liber
-              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte prima f.
-              19r e parte seconda f. 42r); Minutario degli atti di Manuel Alaria e Pietrino Anzario,
-              fondo del Capitolo della Cattedrale di Alba (ASCap n. 7); <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
+              <emph>Liber mortuorum</emph> è registrato il suo decesso. Per approfondire, si veda: 
+              <ref target="#ASCap"><emph>Liber Mortuorum</emph>, parte prima f. 19r e parte seconda f. 42r</ref>; 
+              <ref target="#ASCap"><emph>Minutario degli atti di Manuel Alaria e Pietrino Anzario</emph></ref>;
+              <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
           </person>
 
           <person xml:id="GiovanniCavalero">
@@ -565,9 +565,9 @@
             <occupation>arciprete della chiesa di San Lorenzo di Alba</occupation>
             <note>Guglielmo Gassa è il successore dell’arciprete Giacomo detto Giob. Il suo nome
               compare nel <emph>Liber mortuoruma</emph>, dove si trova la data della sua morte avvenuta nel
-              1368, oltre che nel Minutario dei notai Anzario e Allaria. Per approfondire, si veda: Liber
-              Mortuorum, fondo del Capitolo della Cattedrale di Alba (ASCap n. 1, parte seconda
-              f.48v); al f.36; <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
+              1368, oltre che nel Minutario dei notai Anzario e Allaria. Per approfondire, si veda:
+              <ref target="#ASCap"><emph>Liber Moruorum</emph>, parte seconda f. 36</ref>;
+              <ref target="#GIORDANO_1929">Giordano 1929, p. 111</ref></note>
           </person>
 
           <person xml:id="GuglielmoVitrola">
@@ -738,8 +738,8 @@
             <occupation>massaro della chiesa di San Lorenzo di Alba e sottoscrittore della pergamena del 1456 (fol.
               18)</occupation>
             <note>Viene citato nel <emph>Liber Mortuorum</emph> per la sua partecipazione alla traslazione delle
-              reliquie di San Frontiniano presso la Cattedrale di Alba avvenuta nel 1455. Per approfondire, si veda: Liber Mortuorum, fondo del Capitolo della Cattedrale di Alba
-              (ASCap n. 1, parte prima f. 10v)</note>
+              reliquie di San Frontiniano presso la Cattedrale di Alba avvenuta nel 1455. Per approfondire, si veda: 
+              <ref target="#ASCap"><emph>Liber Mortuorum</emph>, parte prima f. 10v</ref></note>
           </person>
 
           <person xml:id="PietroRenaco">
@@ -34502,7 +34502,7 @@
               codicologici</emph>in <emph>Alba Pompeia, n.s., a.XXXVI, fasc. I (2015)</emph>.</bibl>
 
 
-          <bibl xml:id="ASCap">Archivio Diocesano di Alba, fondo del Capitolo della Cattedrale di San Lorenzo</bibl>
+          <bibl xml:id="ASCap">Fondo del Capitolo della Cattedrale di San Lorenzo<ref target="https://www.beweb.chiesacattolica.it/beniarchivistici/fondo/50200001200800100002/Fondo+del+Capitolo+della+Cattedrale+di+San+Lorenzo"/></bibl>
           
           <bibl xml:id="ASJ"><emph>Acta Sanctorum junii, tomus I</emph>, Venezia, 1741.</bibl>
           
